@@ -62,7 +62,7 @@ try {
     }
     $branch = (& git -C $RepoPath branch --show-current).Trim()
     if ($branch -ne 'main') { throw "当前本地分支是 $branch，请先切换到 main。" }
-    RunGit @('pull','--ff-only','origin','main')
+    RunGit -Arg @('pull','--ff-only','origin','main')
 
     $relativePath = '视觉设计/封面海报/第一季封面_历史参考版_原图.png'
     $target = Join-Path $RepoPath ($relativePath.Replace('/',[IO.Path]::DirectorySeparatorChar))
@@ -79,17 +79,19 @@ try {
     $uploadedSha256 = (Get-FileHash -LiteralPath $target -Algorithm SHA256).Hash
     if ($originalSha256 -ne $uploadedSha256) { throw 'SHA256校验失败：封面字节不一致。' }
 
-    RunGit @('add','--',$relativePath)
+    RunGit -Arg @('add','--',$relativePath)
     & git -C $RepoPath diff --cached --quiet -- $relativePath
     if ($LASTEXITCODE -eq 1) {
-        RunGit @('commit','-m','视觉资产：归档第一季历史封面原始高清PNG')
-        RunGit @('push','origin','main')
+        RunGit -Arg @('commit','-m','视觉资产：归档第一季历史封面原始高清PNG')
+        RunGit -Arg @('push','origin','main')
     } elseif ($LASTEXITCODE -ne 0) {
         throw 'Git暂存区检查失败。'
     }
     $sha = (& git -C $RepoPath rev-parse HEAD).Trim()
-    & git -C $RepoPath ls-tree -r --name-only HEAD -- $relativePath | Out-Null
-    if ($LASTEXITCODE -ne 0) { throw '提交后读取文件树失败。' }
+    $tracked = @(& git -C $RepoPath ls-tree -r --name-only HEAD -- $relativePath)
+    if ($LASTEXITCODE -ne 0 -or $tracked.Count -eq 0) { throw '提交后未在HEAD中找到封面文件。' }
+    & git -C $RepoPath ls-remote --exit-code origin "refs/heads/main" | Out-Null
+    if ($LASTEXITCODE -ne 0) { throw '无法验证GitHub远端main分支。' }
     Write-Host '封面推送成功或远端已存在相同文件。' -ForegroundColor Green
     Write-Host "Commit: $sha"
     Write-Host "File: $relativePath"
