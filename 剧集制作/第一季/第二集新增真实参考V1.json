@@ -8,5 +8,15 @@
     "bytes": 3386363,
     "sha256": "be2d57f7afffdae9c4d69fdd822c831f76b2eeda816ee744236c503c5a2853de",
     "upscaled": false
+  },
+  {
+    "id": "GATE-HALF",
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1.png",
+    "purpose": "闭门右半外圈亮；其余刻饰暗，不作为全开门状态",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3031251,
+    "sha256": "b57b2d3230adb14f2b8c580df4d794e2959f0375e2885c791deadaa3d4ec2fbe",
+    "upscaled": false
   }
 ]
