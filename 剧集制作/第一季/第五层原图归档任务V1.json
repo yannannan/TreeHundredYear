@@ -1,0 +1,36 @@
+[
+  {
+    "key": "ironGuard",
+    "folder": "人物资产/异兽",
+    "name": "CREATURE03_铁卫双臂全身V1",
+    "prompt": "One photoreal ancient STARSHIP IRON GUARD asset based on the mechanical guard in supplied scene. Full-body front 3/4 portrait 9:16, highest native detail, neutral dark metal studio backdrop. EXACTLY TWO ARMS and TWO heavy articulated support legs. No human flesh/face. Bulky old dark iron/aged bronze frame, central round amber-gold recessed sensor/core like source, small head unit, overhead yoke attachment for old hanging rail. ANATOMICAL RIGHT forearm has ONE deployable long flat blade running parallel out beyond its claw grip; left forearm is a broad metal guard/clamp used to cover an access pillar. Each arm has single upper-arm and forearm segments, NOT two stacked pairs of arms. No gun, no shoulder cannon, no wings, no additional sword. Visible joints/limit stops and old bolted armor, not shiny robot toy or stone statue. Blade idle angled toward floor, left arm lowered to guard pose, no attacking person. Feet and blade tip fully inside frame with margins, cold grey side light and dim amber core, worn material film photography, no lettering, grid, labels, hologram, watermark, or UI. This is I guard identity/limiter geometry reference, not battle victory.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-2f06efa0-b07f-494c-bd90-eae1be3170c2.png",
+    "path": "人物资产/异兽/CREATURE03_铁卫双臂全身V1.png",
+    "qa": "可辨两臂双足、右侧刃具/左护臂、胸部琥珀感应核、轨架和脚下。可作身份/材质基准；完整刃臂伸缩/护柱动作、反侧/背面和接触帧仍缺；不视为战斗首帧。",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L05_残舰灵墟_独立建立镜头V2.png"
+    ]
+  },
+  {
+    "key": "dualColumn",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L05_双接触柱与回弹盖板近端V1",
+    "prompt": "New photoreal cinematic close-action environment based on supplied vertical ancient starship in xianxia tower. Portrait 9:16 highest native detail, eye-level 35mm. Foreground solid old ship bridge landing with TWO DISTINCT waist-high contact pedestals, LEFT and RIGHT, each has one palm-sized shallow bronze contact plate and its own standing spot. Between and slightly behind them a taller central recognition pillar: recessed circular three-curved-vane motif subtly matching old bronze talisman style, with one small burned fuse-like single-source groove beside it and a narrow physical output slot for a small authorization token. No text, no digits or screens. RIGHT pedestal standing floor has ONE clearly partly loose hinged cover plate, edge raised a few centimeters, visible spring/link under hinge, not a bottomless hole; actors can press it down later. Beyond pedestals overhead hanging rail with a clearly bounded mechanical travel stop, short corroded hanging connector/chain and a loose rail section visible, but no robot or people. Back-left a safe thick railing root with charred wood scrap available for two charcoal marks later. Narrow service bridge panels behind the pillar can be visibly cut by blade, foreground safe landing remains intact. Immense tilted starship belly and Chinese sealing gates in layered background, cold blue-grey skylight, small warm practical lamps. Clear paths from safe rail to left/right plates, arm/foot contact points sharp; no completed authorization, no floating magical words, no modern keyboard, no arrows/logos/watermark.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-d3f3e002-9a04-4dea-949b-211ffece72e2.png",
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_双接触柱与回弹盖板近端V1.png",
+    "qa": "可用作残舰尺度/中柱三曲纹/前景左右接触基座/实体出印槽的空间基准。右后另有小圆构件，执行时锁为非接触的停用检修盖；松盖板铰链/回弹弹簧及烧焦木屑未清晰出现，不能当对应动作首帧，须补近景。图中场景光偏暖，实际提示词仍按冷蓝灰天光+局部暖灯，不全景金色魔法。",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L05_残舰灵墟_独立建立镜头V2.png"
+    ]
+  },
+  {
+    "key": "authToken",
+    "folder": "道具资产/第一季",
+    "name": "PROP06_双源实体授权印V1",
+    "prompt": "One high-detail photoreal cinema PROP reference, 3:2 landscape, highest native resolution. Exactly ONE small palm-sized solid ancient bronze AUTHORIZATION SEAL resting on plain dark cloth. Rounded square outer edge, flat thick medal body with a shallow central fingertip recess and a precise geometric sign made of TWO interlocking incomplete circular arcs, two short parallel contact notches on opposite edges. No chains, necklaces, ring jewelry, family crest, letters, numbers or written labels. Underside only a slight beveled lip visible at three-quarter angle so it can fit a matching mechanical access slot later. Aged dark bronze surface, small gold highlights, sealed solid object, NO magical infinite power beam. Not two separate seals, no duplicate views/collage. Neutral film side lighting, true material pitting and engraved edges sharply focused, empty background, no humans/hands/text/watermark. Story prop: one physical token delivered only after TWO autonomous lifeforms give separate consent; it proves shared access, not marriage or destiny.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-a6567b58-7a4c-474d-a9c0-27c9ff29129c.png",
+    "path": "道具资产/第一季/PROP06_双源实体授权印V1.png",
+    "qa": "一枚实体圆角方印、双残环/边口和深浅材质清楚，可作15集领取和持印、后续物理槽接入形状参考；无源能补给/伴侣绑定功能，手持和插槽首尾状态仍须补。",
+    "inputs": []
+  }
+]
