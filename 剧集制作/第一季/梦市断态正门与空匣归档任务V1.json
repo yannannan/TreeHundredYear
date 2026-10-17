@@ -1,0 +1,39 @@
+[
+  {
+    "key": "keyBrokenV4",
+    "folder": "道具资产/第一季",
+    "name": "PROP07_梦市弯匙折断连续态V4",
+    "inputs": [
+      "道具资产/第一季/PROP07_梦市通行钥匙弯曲V2.png"
+    ],
+    "prompt": "Precise state edit of supplied ALREADY BENT bronze key. Preserve its exact oval loop handle with teardrop notch, three end teeth, aged surface, cloth/angle/lighting, and most importantly PRESERVE the existing permanent SIDEWAYS BEND in the shaft. Cut a single rough stress break a little below the bend so there are exactly TWO pieces separated by only a very narrow visible gap. Upper piece keeps handle AND the original curved bent shoulder; lower piece keeps tooth end and remaining shaft. Keep both pieces in their original bent alignment; do NOT straighten, rotate, stretch or make a new straight key. The contour of the two laid pieces together must trace exactly the same bent silhouette as supplied reference. No third chip or duplicate handle. Landscape 3:2 high native photoreal sharpness, no text/hands/tools/watermark. Irreversible broken key, no longer usable as a key.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-f98dfe85-2ee8-419d-a740-d40c5cb3d58f.png",
+    "path": "道具资产/第一季/PROP07_梦市弯匙折断连续态V4.png",
+    "qa": "从弯态V2派生，同原椭圆缺柄/三阶齿，正好两段，断面在原中段弯折附近，残弯轮廓保留且无第三段，可作当前21断态身份参考。折断受力及两段落位/被M拾起仍需动作帧，不能将静物图当过程。V3只历史断口/身份，不再优先。"
+  },
+  {
+    "key": "publicGate",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L06_独行正门与三阶锁闭合V1",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L06_轮回梦市_独立建立镜头V2.png",
+      "道具资产/第一季/PROP07_梦市单人通行钥匙完好V1.png"
+    ],
+    "prompt": "Photoreal cinema close-action set of the TRUE single-person exit gate in same ancient lantern canal market as first supplied scene, portrait9:16 high native detail,35mm eye-level. Solid dry stone landing, ONE closed dark wooden single-person exit door in a tall bronze-ribbed arch. A practical bronze mortise lock on right of door at adult waist height; narrow insertion slot and stepped keyway visibly matches the three asymmetric teeth of the key in image2 (reference only, NO key inserted or loose duplicate in this image). Door hinges at left, one heavy ring pull above lock. A small horizontal strip of FIVE unlit round mechanical interval lamps above arch for later short access-window timing, no clock digits. Door threshold is a clear flat stone line safe to stand before, no pit/knife/trap or pursuing monster. Cool high-air draft only from a small grille over door; warm market lamps/water reflections behind camera can be seen at left edge, this is DISTINCT from private under-bridge service gate: NO new copper strap/main memory-lamp rack/water cart/counterweight here. Restrained warm/cool film texture. No people, labels/writing/ornamental fake runes or watermark. Closed state before19 testing, matching open state will reveal real upward stone steps beyond.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-98c39070-97ff-481d-b7b4-b8a2ce3ab1c4.png",
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_独行正门与三阶锁闭合V1.png",
+    "qa": "独行正门与桥腹私锁严格区分；闭合实门/左铰/右叶锁、上五只未亮计时灯/实体阈线清楚，无危险坑或私铜带。开门真实上行阶与风、匙在移动门叶锁内的连续位置仍需开态及动态补验。"
+  },
+  {
+    "key": "emptyJunction",
+    "folder": "道具资产/第一季",
+    "name": "PROP08_空接线铜匣与断铜带V1",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L06_桥腹私锁闭门与铜带联锁V2.png"
+    ],
+    "prompt": "Photoreal cinema PROP closeup derived from the small copper junction cabinet mounted low on the LEFT lantern frame in supplied set. Landscape3:2 highest native detail. Exactly ONE small hand-carryable rectangular EMPTY COPPER JUNCTION BOX resting on plain dark cloth, front lid swung open so interior visibly empty except TWO fixed simple terminal screw posts and one short inert wire stub, no crystal/battery/circuit board or magical power. A few old mounting holes on back/side, warm worn copper with a dull bronze latch, not the old energy crystal box with two levers. Next to it exactly ONE short narrow snippet of thin recently cut copper binding STRAP with a rivet hole and rough sheared end, same bright copper as new gate strap. Box size roughly two adult palms wide, original mechanical spare to be carried by hero after freeing gate, no duplicate views or extra boxes. Sharp real sheet-metal edges but no gore, neutral film side light, no hands/labels/numbers/text/watermark.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-692e145c-b211-4b7b-a605-b969aab5356e.png",
+    "path": "道具资产/第一季/PROP08_空接线铜匣与断铜带V1.png",
+    "qa": "新接线匣内只有两固定端子和一段惰线头，无晶核电池；独立一片新断铜带，有安装侧耳、开盖可辨，可作21携带与后续再利用母形。并非第三层留存的双杆星髓匣；从灯架脱落/合盖手持姿态另补。"
+  }
+]
