@@ -48,5 +48,15 @@
     "bytes": 3146082,
     "sha256": "5f698349476456a7003917da7777d978dfeca7ed2b97676e2392b8aa034e4102",
     "upscaled": false
+  },
+  {
+    "id": "RESCUE-HANDS",
+    "path": "场景资产/第一季/塔外/KEY-RESCUE_空鞘双手握点近景V1.png",
+    "purpose": "只锁空鞘与两只手握持接触/袖口材质，不决定全身左右手姿态或承重是否安全",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 2160875,
+    "sha256": "a7edc5d31d32823be2451407c19a570472e259482ec0f531e62b32dc5e419ae9",
+    "upscaled": false
   }
 ]
