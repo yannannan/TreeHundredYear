@@ -8,5 +8,15 @@
     "bytes": 3037984,
     "sha256": "0986895fe4e55d282f6999b5d32bf82287ec2c769663290dd7d5a0acbd8daeb4",
     "upscaled": false
+  },
+  {
+    "id": "L02-FORK",
+    "path": "场景资产/第一季/九层星渊塔/SC-L02_分岔实墙近端母图V1.png",
+    "purpose": "左右近巷/实墙/孔口/风口/木匾与地槽空景基线，非窄门机构或人物首帧",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3485028,
+    "sha256": "936f2d29b3bb871f2c9bd5676762e7cd548102e237ad4125739733e53d17f303",
+    "upscaled": false
   }
 ]
