@@ -1,0 +1,137 @@
+[
+  {
+    "id": "SC-OUT01",
+    "path": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3190960,
+    "sha256": "E154395D92CB97A4E0D0DB94E3E8498FFB65EFD9ED9B6611DB38304532C9EDB1",
+    "matches": true,
+    "purpose": "锁街口木车/摊位/铺门几何和左上晨光，空景不规定演员动作"
+  },
+  {
+    "id": "SC-OUT02",
+    "path": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3000763,
+    "sha256": "4A422000DD683CB05C89194FA87D8E1AAC7A4D0943638989B70F40CB6E9045EB",
+    "matches": true,
+    "purpose": "锁木匠铺门窗/工作台/主钟及道具位置；主钟外形优先此图"
+  },
+  {
+    "id": "SC-OUT03",
+    "path": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1.png",
+    "width": 940,
+    "height": 1672,
+    "bytes": 3337338,
+    "sha256": "31DDF09972FB06497FF2D92C0A503FD0DDF050D81CAAE5941532AD49B3E2D845",
+    "matches": true,
+    "purpose": "锁山路裂口、破轴/木轮及上坡方向；远塔只作局部尺度"
+  },
+  {
+    "id": "SC-OUT04",
+    "path": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3339695,
+    "sha256": "8E15AAF628F3A1FC10B59B6EC6094BEDB01EC05480E47E10AD2DA484D64A9AB8",
+    "matches": true,
+    "purpose": "锁断阶石桩/岩缝/脚沿方位；绳端按当前人物状态调整"
+  },
+  {
+    "id": "CAST01",
+    "path": "人物资产/配角/CAST01_街口摊主全身与面容V1.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2139145,
+    "sha256": "390022784328D15781DD003204845CEF65D808C49DE146FE28063732612008DC",
+    "matches": true,
+    "purpose": "固定人物C摊主面容/棕衣/体态，不出现在非街口段"
+  },
+  {
+    "id": "CAST02",
+    "path": "人物资产/配角/CAST02_持碗老人全身与面容V1.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2240559,
+    "sha256": "D13FEB730A8951F070514168302BC10CE5425E4E564E494B3CFE2AFE9813D9A0",
+    "matches": true,
+    "purpose": "固定人物D老人面容/须发/褐灰衣与持碗，不额外造第二碗"
+  },
+  {
+    "id": "PROP01",
+    "path": "道具资产/第一季/PROP01_鞋楦旧钟布结纸条V1.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2755117,
+    "sha256": "F18004EC8DC86F28A12DE74B5A9778E9D64C12F48935B64E88280386771C81ED",
+    "matches": true,
+    "purpose": "补鞋楦/纸/银布结质感，纸空白供准确合成；钟壳/摆位以SC-OUT02优先"
+  },
+  {
+    "id": "PROP02",
+    "path": "道具资产/第一季/PROP02_修物短刃探路绳V1.png",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 3027937,
+    "sha256": "57318CEE22D1AF9D1AB2C27698EF7EA90153C8EE73E14959957564F91A99B25F",
+    "matches": true,
+    "purpose": "锁修物短刃/刀套/绳与沙囊外形；角色右手握刀柄"
+  },
+  {
+    "id": "PROP03",
+    "path": "道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 3228288,
+    "sha256": "4489EBB294038C278019A4A6045C6CA1313E61B1E39949B341856C0DF9FF6033",
+    "matches": true,
+    "purpose": "锁旧铁剑与完整鞘、暗铜古符和隔布；覆盖旧角色图附带装饰剑"
+  },
+  {
+    "id": "SW-FULL",
+    "path": "人物资产/苏晚/SW-F01_独立正面全身V1.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2378259,
+    "sha256": "3d2d1115f00ed5b4eaa025950de7dc39e8944cd6e11d09a5d784083cdad08bbb",
+    "purpose": "苏晚B衣装/赤足/体型，姿势依当前段，不复制中性站姿"
+  },
+  {
+    "id": "SW-HEAD",
+    "path": "人物资产/苏晚/SW-F01_独立正面头肩V1.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2735584,
+    "sha256": "e70bf1a5a165cd7c2d2879b2a3a10621668c6cfc12072408726874274f89175c",
+    "purpose": "苏晚B面容/头发/额饰"
+  },
+  {
+    "id": "ZC-FULL",
+    "path": "人物资产/周辰/ZC-F01_独立正面全身V1.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2390445,
+    "sha256": "549d6245ea9f592bcf1dd80fd0edd7fc0feb69bcef19da350f33224af512d776",
+    "purpose": "周辰A黑金衣装/体型，背剑外形以专用道具图为准"
+  },
+  {
+    "id": "ZC-HEAD",
+    "path": "人物资产/周辰/ZC-F01_独立正面头肩V1.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2855472,
+    "sha256": "23a85ede35929a48b932a28ef9092dc03f55fdc93773b191f3e3b5af1d84f342",
+    "purpose": "周辰A面容/发冠"
+  },
+  {
+    "id": "TOWER",
+    "path": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3457963,
+    "sha256": "9a7afe06454873d7d92094a16d3ce67f7513397a63ba9d2eb354e66e0db31a04",
+    "purpose": "远景塔体外形/材质来源，局部云遮挡，不整体贴海报"
+  }
+]
