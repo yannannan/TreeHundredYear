@@ -1,0 +1,46 @@
+[
+  {
+    "key": "marketMaster",
+    "folder": "人物资产/配角",
+    "name": "CAST06_执市人全身身份基准V1",
+    "inputs": [],
+    "prompt": "One photoreal cinematic fictional Chinese male market magistrate, about 48 years old, full-body 9:16 portrait with cap to shoe margins, highest native detail. Lean angular face distinctly unlike the young hero or round-bellied food vendor, neatly combed dark hair tied low with a dull bronze hair clasp, a narrow greying goatee, dark calm watchful eyes, ordinary human not monster. Worn deep petrol-green long layered silk-cotton robe, faded charcoal outer vest, closed dark cloth boots. One small bronze toggle fastener attached to a short cord at his LEFT waist, visibly practical to release later. Empty hands lowered naturally. Restrained market authority rather than emperor, no crown, no armour, no sword, no modern suit, no evil grin. Neutral grey bronze studio backdrop, warm side light/cool fill, natural skin and fabric weave, no text/labels/grid/logo/watermark. New character M: market keeper who mediates irreversible memory transactions, later reveals fear of abandonment. Do not portray him as the food vendor or main male lead.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-8b048486-8949-4f22-9ea1-57cd7b2ea22f.png",
+    "path": "人物资产/配角/CAST06_执市人全身身份基准V1.png",
+    "qa": "全身完整，深青袍/灰褂、灰窄须、小高髻与两只空手可用。实际符扣在人物右前腰（画面左侧），不同于输入左腰；源剧本只写腰间，新执行统一右前腰，不镜像硬改。人物实际为小高束髻，不称低髻。面孔与迎客摊主/沈砚可区分；其他角度/用扣和恐惧表演仍缺。"
+  },
+  {
+    "key": "tradeBooth",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L06_交易茶铺与记忆灯近端V1",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L06_轮回梦市_独立建立镜头V2.png"
+    ],
+    "prompt": "Photoreal cinematic close-action set inside same ancient warm canal dream-market as supplied image. Portrait 9:16 highest native detail, 35mm eye-level. A small solid dry wood-floor TEA TRANSACTION SHOP with a waist-high dark wooden counter, a modest brass-framed single transaction lamp hanging above one palm contact dish, one simple empty clay tea cup near customer side, one small sealed brown medicine jar and one roll of clean off-white bandage on real delivery tray. Behind counter a narrow GLASS KEY CASE containing exactly ONE small aged bronze key, with a visible three-step asymmetrical tooth profile. A sturdy sliding wooden lattice partition on right can close a private transaction bay, not magic invisible wall. Through left shop doorway the real canal, lantern boat and a chipped bridge pillar can be seen. A few very distant warm memory-lamps in the ceiling rafters, no human faces or floating portraits inside them. True wood/brass/paper materials, local amber lantern light and cool grey-blue night reflected off water, visually warm believable working shop not evil occult altar. No people, no written labels, no numbers, no extra keys, no modern monitor, no collage, no arrows or watermark. Physical contact dish/lamp/key case/medicine are sharp and separately usable.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-e9a9bcab-7e78-4a04-85a7-7131352bac92.png",
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_交易茶铺与记忆灯近端V1.png",
+    "qa": "实体柜台/灯掌盘/空茶杯/单药罐布卷/私隔扇/外水道构图可用。玻柜内原生成钥匙为花形柄，和正式PROP07椭圆柄不符，不能按此锁钥匙身份，后续用单独真钥匙参考替换并做修正版。原图保留作构图版本，非完整连续性通过。"
+  },
+  {
+    "key": "memoryKey",
+    "folder": "道具资产/第一季",
+    "name": "PROP07_梦市单人通行钥匙完好V1",
+    "inputs": [],
+    "prompt": "One photoreal cinematic ancient BRONZE KEY prop photographed on dark plain cloth, landscape 3:2 highest native detail. Exactly ONE solid palm-length key, simple oval loop handle, straight rectangular narrow shaft, asymmetrical THREE stepped teeth at its end, plainly cut metal edges and old patina. One small shallow teardrop notch on oval handle identifies this key later when bent and broken. Practical working access key, not ornate jewelry, not a gold glowing wand, not a futuristic card. Entire object visible from slight top three-quarter angle, sharp focus along whole shaft and all three teeth, soft neutral side lighting. No duplicate views, no other keys, no labels/writing/numbers/logo/watermark. Story: a real single-person exit key bought with specifically selected memories, intact state before being bent in episode20.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-e1ee894c-2ca5-4f29-8f91-0f07a6522734.png",
+    "path": "道具资产/第一季/PROP07_梦市单人通行钥匙完好V1.png",
+    "qa": "一枚完整实匙，椭圆柄一小泪缺、三阶齿、材质清晰，图中稍弧的椭圆不构成损伤。可作正式PROP07完好形，玻柜原图另一花柄不能混用。弯/断阶段尚须独立编辑，插锁/持物动作另验。"
+  },
+  {
+    "key": "bridgeLock",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L06_桥腹私锁侧铰与灯架近端V1",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L06_轮回梦市_独立建立镜头V2.png"
+    ],
+    "prompt": "Photoreal cinematic action set under the stone bridge of the same ancient canal lantern-market. Portrait 9:16 highest native detail, 35mm eye-level, solid damp stone maintenance landing with two fresh water-cart wheel tracks. At RIGHT an old reachable narrow service gate with an ORIGINAL INDEPENDENT SIDE HINGE and a hand-operated gate lever beside it. A visibly NEW bright copper strap binds this old gate hinge to the large dark oxidized MAIN LANTERN STORAGE FRAME on LEFT; the strap is thin layered copper sheet fixed by newer bolts/nail holes, not a giant uncuttable iron beam. Show the mechanical connection clearly and physically, no arrows. Many small closed paper-and-bronze memory-lamps hang on the stable main frame. One latch/bronze toggle and ONE heavy stone counterweight hanging from a pulley can block the service exit later; a visible empty catch-well below is offset to the side of the solid landing, not a hole under all actors. A small empty copper junction box bolted onto frame, removable. Intact short wooden rail at foreground edge, working water-cart/wood bucket nearby. Through old service gate cracks a real stone stair and upward draft can be inferred, original route not supernatural reward. Warm paper lamps/cool damp stone, practical paths and weapon distance readable, no people/text/UI/grid/watermark. New strap and old frame must be visually distinct; cutting only strap should free the gate without collapsing lamp frame.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-ea2ed6df-7918-4b44-9ca9-8e5026d76102.png",
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_桥腹私锁侧铰与灯架近端V1.png",
+    "qa": "旧侧铰/新亮铜带/旧主灯架/单主重砣/实湿石地/水车可辨；原图门呈半开，不能作20集被私锁的闭门首帧。新铜带横连部位的因果仍需闭门近端明确，空井/接线匣未清楚呈现，不能把全部机构动作视为齐备。保留为美术与关系候选。"
+  }
+]
