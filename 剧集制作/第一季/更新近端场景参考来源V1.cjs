@@ -1,0 +1,3 @@
+const fs=require('fs'),path=require('path'),crypto=require('crypto'),sharp=require('C:/Users/Administrator/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');
+const root=path.resolve(__dirname,'../..');
+(async()=>{const p='场景资产/第一季/九层星渊塔/SC-L01_梁链真锚动作母图V2.png',b=fs.readFileSync(path.join(root,p)),m=await sharp(b).metadata();const item={id:'L01-ACTION',path:p,purpose:'近端完整梁/检修绳、断栏/旧链、独立真锚/窄沿空间基线，非人物姿态/重力轨迹',width:m.width,height:m.height,bytes:b.length,sha256:crypto.createHash('sha256').update(b).digest('hex'),upscaled:false};fs.writeFileSync(path.join(__dirname,'当前制作新增场景参考V1.json'),JSON.stringify([item],null,2));console.log(JSON.stringify(item));})();
