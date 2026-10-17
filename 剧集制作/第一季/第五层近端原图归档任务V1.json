@@ -1,0 +1,38 @@
+[
+  {
+    "key": "l5Floor",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L05_右掌位松盖板与铰链近景V1",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L05_双接触柱与回弹盖板近端V1.png"
+    ],
+    "prompt": "Create one photoreal cinema action-detail image matching the supplied ancient starship contact-station material. Portrait 9:16, highest native detail. Low waist-to-floor view of ONLY the RIGHT bronze contact pedestal and the standing floor immediately beside it. The round palm plate is at top of the pedestal. At its foot is one rectangular steel service cover: firmly hinged along its far edge, its near edge raised 4cm by ONE clearly visible short spring and bent linkage underneath. Show solid supporting floor below this small shallow service recess, NO abyss or missing bridge. The cover can be pressed level by a foot, will spring up unless held down. The hinge attachment, spring, raised edge and safe adjacent standing spot are all visible, sharp and mechanically plausible. A small narrow non-glowing brass strip near the hinge can receive a weak spell later. The other left contact station is barely a distant edge and not duplicated. Same weathered dark bronze, cold blue-grey daylight with small warm lamps, enormous ship structure blurred far away. No person, foot, hand, knife, text, callout arrows, grid or watermark. This image must clearly prove the spring/hinge/loose cover mechanism, not merely an ornamental platform.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-6ecdcb21-06f0-46ed-9ffc-c594e0b9aee5.png",
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_右掌位松盖板与铰链近景V1.png",
+    "qa": "近景清楚显示矩形浅检修盖/铰链/一条弹簧/实体承底和旁边实脚位，可补15集回弹原因。背景掌位是同一基座上下盖件，不新增第三掌位；暂无B脚踩/符压/弹回的动态首尾帧。此图色调偏暖按局部灯处理。"
+  },
+  {
+    "key": "l5Pods",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L05_相位观测窗十二舱总览V1",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L05_残舰灵墟_独立建立镜头V2.png"
+    ],
+    "prompt": "Photoreal epic cinematic ancient starship observation station in same world/material as supplied image, portrait 9:16 highest native detail. Foreground physical bronze observation ring on a solid maintenance ledge, hand-cranked rim and two small pressure indicator needle gauges on left/right rim, tiny removable copper test disk resting safely on foreground sill. Through the ring we see exactly TWELVE separate sealed single-occupant life-support capsules, arranged as a perfectly countable regular matrix TWO COLUMNS by SIX ROWS. No other capsules hidden outside this matrix. Capsules have frosted opaque windows, NOT clearly visible naked or injured people. Each capsule has exactly ONE small state lamp: TOP TWO ROWS (4 lamps) amber, remaining FOUR ROWS (8 lamps) cool blue. Capsule geometry same for all twelve, one tiny warm interior reading lamp can be distinguished in upper-left capsule besides its amber state lamp. Layered spatial light indicates distant phase separation; no walk-through door or connecting footbridge from observation ring to capsules. Foreground sill includes one thin folded blank bronze record booklet and a small physical token socket, not a modern computer. Vast vertical ship belly and ancient sealing architecture beyond, cold blue grey with restrained warm practical lights. We need exact 2x6 readable count with four amber/eight blue, no human character, no extra tiny pods or decorative lamps masquerading as capsules, no text/numbers/holographic UI/labels/arrows/watermark.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-e4a6612a-ab66-4a73-a6b1-90c7d53c5b37.png",
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_相位观测窗十二舱总览V1.png",
+    "qa": "已人工逐排核实两列六排=12独立舱；前两排4个琥珀状态灯、后四排8蓝状态灯。实体环/左右针表/台缘普通铜片与薄册可用。下两排有环框局部遮边但仍可数。舱内窗为不透明模糊，不包含K面容/手背辨认/正确坐姿或接触相位动态；针表数字不作剧情读数。不是12人已经出舱的图。"
+  },
+  {
+    "key": "l5Habitat",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L05_维护循环廊水藻粮柜近端V1",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L05_残舰灵墟_独立建立镜头V2.png"
+    ],
+    "prompt": "One detailed photoreal film environment inside an ancient interstellar ship maintenance loop, visually tied to supplied derelict starship: portrait 9:16 highest native detail, 35mm eye-level. A solid narrow habitable maintenance alcove, visibly no abyss under floor. Left foreground a covered potable-water tap draining from a copper condenser/distillation pipe and one lidded simple metal drinking cup on a shelf. Directly behind is a real shallow contained green algae bed with return water channel and readable inlet/outlet pipe path, modest green reflections not magical glow. Right wall one closed dry sealed food store with several wrapped blank ration bricks visible in a small glass view port; separately a small parts cabinet with one empty fine-pin socket, a few identical spare pins secured in a tray, a thin blank maintenance booklet in a clip. Physical shutoff valves and replaceable seals show system needs human maintenance, no perpetual unlimited supply. A small old analogue needle gauge at midrange, no readable words/digits. Far background the route continues to a control window and a closing ribbed ship hatch, all reachable on solid floor. Cool ship grey with small warm work lamps, lived-in aged bronze/iron not glossy futuristic hotel, cinematic enormous outership glimpsed through a small side slit. No people, no extra humanoids, no furniture of modern apartment, no labels/logo/watermark.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-c46cd991-8996-41e5-be95-1c84915dac32.png",
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_维护循环廊水藻粮柜近端V1.png",
+    "qa": "真实水槽/藻床/回流管/水嘴与杯、右侧封粮柜/零件盒/薄册/实地维护廊可辨，可作17集与终局维护生活伏笔。图中水嘴流动仅素材状态，成片离开前应关阀；水质尚未实测，不把一眼看绿藻当饮水安全证据。细销空槽/杯盖开合/人物喝水和双门关合状态待补。"
+  }
+]
