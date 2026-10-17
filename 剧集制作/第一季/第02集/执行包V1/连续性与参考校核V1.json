@@ -43,6 +43,11 @@
           "sha256": "28f57c964e994a64cdcbc4b7f54bd60a5738ddf1d77074602453b9ab1510e68f"
         },
         {
+          "file": "KEY-RESCUE_空鞘双手握点近景V1.png",
+          "source": "场景资产/第一季/塔外/KEY-RESCUE_空鞘双手握点近景V1.png",
+          "sha256": "a7edc5d31d32823be2451407c19a570472e259482ec0f531e62b32dc5e419ae9"
+        },
+        {
           "file": "KEY-RESCUE_双人递鞘构图V1.png",
           "source": "场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1.png",
           "sha256": "afe90666d3536c8b9d01232770175d9aed205afe13c234914fa10be22e72ae05"
@@ -284,7 +289,7 @@
         ]
       ],
       "prompt": "剧集制作/第一季/第02集/执行包V1/第05段_石落声迟/视频提示词.md",
-      "missing": "窄开状态图、可见落点及剑尖挑石接触参考待补。",
+      "missing": "窄开精确光态及可见落点及剑尖挑石接触参考待补。",
       "refs": [
         {
           "file": "ZC-F01_独立正面全身V1.png",
@@ -322,9 +327,14 @@
           "sha256": "4489ebb294038c278019a4a6045c6ca1313e61b1e39949b341856c0df9ff6033"
         },
         {
-          "file": "SC-OUT05_星纹门闭合主机位V1.png",
-          "source": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1.png",
-          "sha256": "be2d57f7afffdae9c4d69fdd822c831f76b2eeda816ee744236c503c5a2853de"
+          "file": "SC-OUT05_星纹门半亮状态V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1.png",
+          "sha256": "b57b2d3230adb14f2b8c580df4d794e2959f0375e2885c791deadaa3d4ec2fbe"
+        },
+        {
+          "file": "SC-OUT05_星纹门窄开构图V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1.png",
+          "sha256": "71b534beb0f5c81a8a0fac9b514de80f02b67e3b2dc1483f23727fc774a43702"
         }
       ]
     },
@@ -345,7 +355,7 @@
         ]
       ],
       "prompt": "剧集制作/第一季/第02集/执行包V1/第06段_两个人的门/视频提示词.md",
-      "missing": "门前测试同框、完整开门高清状态待补。",
+      "missing": "门前测试同框、双人同框完整开门关键帧待补；空景全开图已补。",
       "refs": [
         {
           "file": "ZC-F01_独立正面全身V1.png",
@@ -383,9 +393,14 @@
           "sha256": "4489ebb294038c278019a4a6045c6ca1313e61b1e39949b341856c0df9ff6033"
         },
         {
-          "file": "SC-OUT05_星纹门闭合主机位V1.png",
-          "source": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1.png",
-          "sha256": "be2d57f7afffdae9c4d69fdd822c831f76b2eeda816ee744236c503c5a2853de"
+          "file": "SC-OUT05_星纹门窄开构图V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1.png",
+          "sha256": "71b534beb0f5c81a8a0fac9b514de80f02b67e3b2dc1483f23727fc774a43702"
+        },
+        {
+          "file": "SC-OUT05_星纹门全开状态V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1.png",
+          "sha256": "5f698349476456a7003917da7777d978dfeca7ed2b97676e2392b8aa034e4102"
         }
       ]
     },
@@ -468,9 +483,9 @@
           "sha256": "4489ebb294038c278019a4a6045c6ca1313e61b1e39949b341856c0df9ff6033"
         },
         {
-          "file": "SC-OUT05_星纹门闭合主机位V1.png",
-          "source": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1.png",
-          "sha256": "be2d57f7afffdae9c4d69fdd822c831f76b2eeda816ee744236c503c5a2853de"
+          "file": "SC-OUT05_星纹门全开状态V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1.png",
+          "sha256": "5f698349476456a7003917da7777d978dfeca7ed2b97676e2392b8aa034e4102"
         }
       ]
     },
