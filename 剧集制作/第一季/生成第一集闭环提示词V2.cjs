@@ -4,6 +4,7 @@ const common=fs.readFileSync(path.join(dir,'全剧通用提示词.md'),'utf8').m
 const catalog=JSON.parse(fs.readFileSync(path.join(dir,'第一集真实参考来源V2.json'),'utf8').replace(/^\uFEFF/,''));
 const get=id=>{const x=catalog.find(x=>x.id===id);if(!x||!fs.existsSync(path.join(root,x.path)))throw Error('Missing actual reference '+id);return x;};
 const ep=path.join(dir,'第01集','执行包V2');fs.mkdirSync(ep,{recursive:true});
+const priorFile=path.join(ep,'连续性与参考校核V2.json');const prior=fs.existsSync(priorFile)?JSON.parse(fs.readFileSync(priorFile,'utf8')).segments:[];
 let index='# 第一集｜10段×15秒完整闭环执行包V2\n\n当前执行入口；8段V1为历史候选，不与V2混剪。为避免15秒塞过多动作，首集调整为150秒，街口45/铺内30/山路30/断阶45，剧情事件和台词未删。每段均有真实角色、场景及对应道具参考就近副本，完整输入为本段唯一代码块。当前未生成视频、未做口型/动态/字幕验收；源图约1.57MP，不称原生4K。\n\n| 段 | 集内时码 | 任务 | 文件 |\n| --- | --- | --- | --- |\n';
 const ledger=[];
 for(const d of data){const num=String(d.n).padStart(2,'0'),seg=path.join(ep,'第'+num+'段_'+d.name);fs.mkdirSync(seg,{recursive:true});
@@ -14,9 +15,10 @@ else if(d.n<=7)refs.push(get('PROP03'));
 else refs.push(get('PROP02'));
 if(d.n===7)refs.push(get('TOWER'));
 const keyId={1:'KEY-STREET',4:'KEY-SHOP',6:'KEY-MOUNTAIN',10:'KEY-CLIFF'}[d.n];const key=catalog.find(r=>r.id===keyId);if(key)refs.unshift(key);
+for(const r of prior.find(x=>x.n===d.n)?.refs||[]){if(refs.some(n=>path.basename(n.path)===r.file))continue;const p=path.join(seg,r.file);if(path.basename(r.file)!==r.file)throw Error('invalid prior reference');if(fs.existsSync(p)&&crypto.createHash('sha256').update(fs.readFileSync(p)).digest('hex')===r.sha256.toLowerCase())fs.unlinkSync(p);}
 for(const r of refs){const dest=path.join(seg,path.basename(r.path));fs.copyFileSync(path.join(root,r.path),dest);if(crypto.createHash('sha256').update(fs.readFileSync(dest)).digest('hex')!==r.sha256.toLowerCase())throw Error('Copy hash mismatch '+dest);}
 const lead=d.role==='周辰'?'人物A=周辰，成年约28岁外观、C04脸，黑长发半束与古金冠，黑金分层华服和黑靴；人物B苏晚本段不在场。旧铁剑与完整剑鞘、腰侧古符在本集都存在，未丢符、未断鞘、未断剑。':'人物B=苏晚，成年约25岁外观、C03脸，黑长发半束、银花发饰/额饰/耳坠，银白冰蓝实色内层华服与纱袖，赤足；人物A周辰本段不在场。右腰为修物短刃套，绳/布结状态按首尾锁。';
-const cast=d.n<=3?'人物C=街口摊主，成年约45、棕粗布衣、简单发髻，站木车右前安全/危险位置按时间轴；人物D=持碗老人，成年约70、灰白短须、褐灰长袍，在左后方，只持一碗。出镜总数严格3人：B/C/D，不新增A、沈砚、小满或路人。':'出镜严格仅'+(d.role==='周辰'?'A周辰':'B苏晚')+'一人；无C/D，无另一主角；提到沈砚或小满不代表画面需要生成他们。';
+const cast=d.n<=3?'人物C=街口摊主，成年约45、棕粗布衣、简单发髻，站木车右前安全/危险位置按时间轴；人物D=持碗老人，成年约70、灰白短须、褐灰长袍，在左后方；第01段0秒双手空，碎片逆回后才托住一只完整碗，第02/03段持同一只碗，不再添第二只。出镜总数严格3人：B/C/D，不新增A、沈砚、小满或路人。':'出镜严格仅'+(d.role==='周辰'?'A周辰':'B苏晚')+'一人；无C/D，无另一主角；提到沈砚或小满不代表画面需要生成他们。';
 const dialog=d.lines.length?d.lines.map(l=>`${l[0]}=${l[1]}，${l[2]}—${l[3]}秒说：“${l[4]}”\n表演/视线：${l[5]}。该时段只有${l[0]}动嘴，其他人只作听者反应；不交换台词、不加句、不叠声。`).join('\n\n'):'0—15秒无对白、无旁白，所有人物只按动作自然呼吸，不自动补台词或空口型。';
 const subs=d.lines.length?d.lines.map(l=>`${l[2]}—${l[3]}秒，简体中文字幕：${l[4]}`).join('\n'):'0—15秒无对白/旁白字幕。';
 const refText=refs.map((r,i)=>`${i+1}. ${path.basename(r.path)}：${r.purpose}。`).join('\n');

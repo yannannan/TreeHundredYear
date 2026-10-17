@@ -12,6 +12,11 @@
       "lines": [],
       "refs": [
         {
+          "id": "KEY-STREET",
+          "file": "KEY-STREET_首集街口人物场景起始帧V2.png",
+          "sha256": "AE266E0F404334C4446490F3695A27C566C80750D80694A0AD0B46BEE4834575"
+        },
+        {
           "id": "SW-FULL",
           "file": "SW-F01_独立正面全身V1.png",
           "sha256": "3d2d1115f00ed5b4eaa025950de7dc39e8944cd6e11d09a5d784083cdad08bbb"
@@ -158,6 +163,11 @@
       "lines": [],
       "refs": [
         {
+          "id": "KEY-SHOP",
+          "file": "KEY-SHOP_首集木匠铺人物起始帧V2.png",
+          "sha256": "A8AB47C06FBECAAAF477BA9142E89DCF2A66419308A27E58DE0EDF24A0FFDB6B"
+        },
+        {
           "id": "SW-FULL",
           "file": "SW-F01_独立正面全身V1.png",
           "sha256": "3d2d1115f00ed5b4eaa025950de7dc39e8944cd6e11d09a5d784083cdad08bbb"
@@ -251,6 +261,11 @@
         ]
       ],
       "refs": [
+        {
+          "id": "KEY-MOUNTAIN",
+          "file": "KEY-MOUNTAIN_首集山路周辰起始帧V1.png",
+          "sha256": "3DF603C8998C2D5CCF98238F73CEB3E4E297B359CA197857EECDAA3B36C662E9"
+        },
         {
           "id": "ZC-FULL",
           "file": "ZC-F01_独立正面全身V1.png",
@@ -388,6 +403,11 @@
       "end": "她右手短刃卡住岩缝、左手握第二石支点、脚尖抵沿，身体仍悬险；绳松紧不稳，石桩裂开但未整个飞走；周辰未现身。",
       "lines": [],
       "refs": [
+        {
+          "id": "KEY-CLIFF",
+          "file": "KEY-CLIFF_首集断阶自救尾帧V1.png",
+          "sha256": "28F57C964E994A64CDCBC4B7F54BD60A5738DDF1D77074602453B9AB1510E68F"
+        },
         {
           "id": "SW-FULL",
           "file": "SW-F01_独立正面全身V1.png",
