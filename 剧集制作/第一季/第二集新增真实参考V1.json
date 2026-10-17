@@ -18,5 +18,15 @@
     "bytes": 3031251,
     "sha256": "b57b2d3230adb14f2b8c580df4d794e2959f0375e2885c791deadaa3d4ec2fbe",
     "upscaled": false
+  },
+  {
+    "id": "RESCUE-GRIP",
+    "path": "场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1.png",
+    "purpose": "只锁双人服装、断桩后构图和支点关系；不作为精确首帧或左右手接触尾帧控制图，见随图限制",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3136691,
+    "sha256": "afe90666d3536c8b9d01232770175d9aed205afe13c234914fa10be22e72ae05",
+    "upscaled": false
   }
 ]
