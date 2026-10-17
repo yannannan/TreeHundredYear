@@ -28,5 +28,25 @@
     "bytes": 3136691,
     "sha256": "afe90666d3536c8b9d01232770175d9aed205afe13c234914fa10be22e72ae05",
     "upscaled": false
+  },
+  {
+    "id": "GATE-NARROW",
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1.png",
+    "purpose": "仅锁侧滑窄缝/门槛几何，发光刻饰未符合唯一外轨规则，不能当精确灯光状态首尾帧",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3127875,
+    "sha256": "71b534beb0f5c81a8a0fac9b514de80f02b67e3b2dc1483f23727fc774a43702",
+    "upscaled": false
+  },
+  {
+    "id": "GATE-OPEN",
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1.png",
+    "purpose": "双门侧滑全开与连续实地门槛/近端落地平台，空景参考而非人物首帧",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3146082,
+    "sha256": "5f698349476456a7003917da7777d978dfeca7ed2b97676e2392b8aa034e4102",
+    "upscaled": false
   }
 ]
