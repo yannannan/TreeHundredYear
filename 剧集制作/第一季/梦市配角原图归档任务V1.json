@@ -1,0 +1,42 @@
+[
+  {
+    "key": "guardN",
+    "folder": "人物资产/配角",
+    "name": "CAST07_护市人甲身份基准V1",
+    "inputs": [],
+    "prompt": "Photoreal cinematic full-body reference of one fictional adult Chinese male market guard N, about 32 years old, stocky broad shoulders, square weathered clean-shaven face, short black hair tied in a small topknot. Dull grey short padded vest with simple small iron shoulder guards over dark cotton long sleeves, grey trousers and closed black cloth boots. Exactly ONE practical iron hook on a flexible rope: he holds hook haft securely in his right hand with hook pointing down away from body, slack rope loosely coiled in left hand. No sword, gun, mask or imperial armour. Neutral charcoal studio background, soft film side light, all feet and hook inside portrait 9:16 frame with margin, high native detail of rope fibres/iron/cotton and natural anatomy. Ordinary hired guard, serious not monster, no blood/injury, no attack on someone, no text/grid/labels/logo/watermark.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-39f5096f-af22-470e-9d32-96ea42fedc79.png",
+    "path": "人物资产/配角/CAST07_护市人甲身份基准V1.png",
+    "qa": "N灰短甲/方脸强壮/两肩铁片，右手近钩绳、左手绳圈，一条铁钩索/完整鞋足，身份基准可用；投钩/卸肘动作另补。"
+  },
+  {
+    "key": "guardO",
+    "folder": "人物资产/配角",
+    "name": "CAST08_护市人乙身份基准V1",
+    "inputs": [],
+    "prompt": "Photoreal cinema full-body reference of one fictional adult Chinese male market guard O, around 38, tall lean build, long narrow face, small black chin beard, dark hair in low practical bun. Faded brown sleeveless work coat over charcoal long-sleeved cotton shirt, dark brown trousers with reinforced knees, closed brown cloth boots. Exactly ONE iron hook attached to one stout flexible rope: hook lowered safely in left hand, rope slack coils held by right hand. Distinct from broad grey-armour guard: no metal shoulder plates, no same face, no mask. Neutral charcoal studio background, natural standing posture, portrait 9:16 with complete feet and hook margins, high native photoreal material/skin, realistic rope and hands. Hired market guard with ordinary worried eyes, not a demon or main hero, no blood, attack, lettering/grid/logo/watermark.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-fda42a03-86a8-4024-8e41-9d6358b7bb7a.png",
+    "path": "人物资产/配角/CAST08_护市人乙身份基准V1.png",
+    "qa": "O棕背心/长脸小须/无肩甲，左手近钩绳右手圈，与N可辨；实际高小髻不依输入低髻，按图锁造型。手中同一钩索，下落拉救命绳另有场景绳不凭空两兵器。"
+  },
+  {
+    "key": "maskedQ",
+    "folder": "人物资产/配角",
+    "name": "CAST09_缺面具客身份基准V1",
+    "inputs": [],
+    "prompt": "Photoreal cinema full-body costume reference of one fictional ordinary Chinese adult male market customer, about 30 years old, modest slim build in worn brown cotton robe/trousers and closed cloth shoes. Simple rough brown wooden face mask covers upper half face with ONE conspicuous triangular chip missing from its outer upper RIGHT edge; mouth/chin normal human visible, hair tied plain low. He holds exactly ONE roll of plain off-white clean bandage in his left hand, right hand empty and uninjured, both hands visible naturally. No weapons, monster teeth, horns, theatrical opera paint or magical glow. Neutral grey studio background, soft warm side lighting, portrait 9:16 complete head/feet with margins, natural woven cloth and wood grain, highest native photoreal detail. This is a continuing living passerby who later gets a small scratch while breaking a bowl, not an NPC reset or a major villain. No writing/grid/labels/watermark.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-43119f2d-81c0-496a-9192-26858e3b1c05.png",
+    "path": "人物资产/配角/CAST09_缺面具客身份基准V1.png",
+    "qa": "Q半脸木面具/棕衣/左布卷/右空手未伤，右上缘可见崩翘木片作持续识别；不是规范三角全缺口但与后镜保持同形即可。手后续新擦痕/摔碗与熟人招手动态尚未制作。"
+  },
+  {
+    "key": "porterP",
+    "folder": "人物资产/配角",
+    "name": "CAST10_搬水人身份基准V1",
+    "inputs": [],
+    "prompt": "Photoreal cinema full-body reference of one fictional Chinese adult male water porter, around 38, ordinary round sun-weathered face, very short stubble, dark hair under a plain tied grey headcloth. Strong work-worn build in rolled-sleeve faded russet cotton jacket, dark coarse trousers and closed woven cloth shoes, plain cloth waist sash. Standing with BOTH hands on handles of ONE small two-wheel wooden water cart holding exactly TWO lidded wooden buckets, sturdy real wheel axles and handles, all feet/wheels inside 9:16 portrait frame. No weapons, armour, luxurious robe, daughter/child, or main hero face. Neutral grey bronze studio-like background, natural warm film side light/cool fill, high native detail in wet wood/cotton/skin. Ordinary worker who knows an original service stair used for maintenance, guarded and tired expression, not magician. No words/labels/collage/logo/watermark.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-c632d13e-0098-4dfe-8e41-08475bc2356b.png",
+    "path": "人物资产/配角/CAST10_搬水人身份基准V1.png",
+    "qa": "P头巾/棕衣/完整鞋足、双手木水车把手、恰两只盖桶和两轮清楚。实际外貌更接近45岁普通工人，源剧本没定年龄，新执行用成年约45不按请求38硬称。通窄门/推车/交压闸杆机位仍缺。"
+  }
+]
