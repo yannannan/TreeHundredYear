@@ -1,0 +1,88 @@
+{
+  "canvas": [
+    3200,
+    3512
+  ],
+  "nativeSingleImageGeneration": false,
+  "upscaled": false,
+  "tiles": [
+    {
+      "label": "正面头肩",
+      "source": "苏晚/SW-F01_独立正面头肩V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "左45°头肩",
+      "source": "苏晚/SW-F01_独立左45度头肩V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "侧向头肩",
+      "source": "苏晚/SW-F01_独立左侧头肩V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "正面全身",
+      "source": "苏晚/SW-F01_独立正面全身V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "左侧全身",
+      "source": "苏晚/SW-F01_独立左侧全身V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "半身 · 表演",
+      "source": "苏晚/SW-F01_独立半身表演V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    }
+  ]
+}
