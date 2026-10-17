@@ -19,6 +19,7 @@ for(let i=0;i<data.length;i++){
  const seg=path.join(out,`第${num}段_${d.name}`);fs.mkdirSync(seg,{recursive:true});
  const refs=['ZC-FULL','ZC-HEAD','SW-FULL','SW-HEAD','PROP02','PROP03'].map(id=>catalog.find(r=>r.id===id));
  refs.push({path:'场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1.png',purpose:'仅锁第一层巨构材质与规模，不是侧向重力机位'}, {path:'场景资产/第一季/九层星渊塔/SC-L01-LAYOUT01_行动布局4K_V1.png',purpose:'仅作路径与因果示意，图中文字与箭头不可印入视频'});
+ refs.push(...JSON.parse(fs.readFileSync(path.join(dir,'当前制作新增场景参考V1.json'),'utf8')).filter(r=>r.id==='L01-ACTION'));
  const copied=refs.map(r=>{const b=fs.readFileSync(path.join(root,r.path)),file=path.basename(r.path),sha256=crypto.createHash('sha256').update(b).digest('hex');fs.writeFileSync(path.join(seg,file),b);return {...r,file,sha256};});
  const talk=d.lines.length?d.lines.map(l=>`${l[2]}—${l[3]}秒，${l[0]}=${l[1]}：“${l[4]}”；${l[5]}；该时段仅此人动嘴，其他人不跟读。`).join('\n'):'0—15秒无对白/旁白，只有自然呼吸，不补句或空口型。';
  const subs=d.lines.length?d.lines.map(l=>`${l[2]}—${l[3]}秒：${l[4]}`).join('\n'):'无对白/旁白字幕。';

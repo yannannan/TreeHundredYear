@@ -17,23 +17,29 @@
       "episode": "03",
       "segments": 8,
       "seconds": 120,
-      "referenceCopies": 64
+      "referenceCopies": 72
     },
     {
       "episode": "04",
       "segments": 8,
       "seconds": 120,
-      "referenceCopies": 64
+      "referenceCopies": 72
     },
     {
       "episode": "05",
       "segments": 8,
       "seconds": 120,
+      "referenceCopies": 70
+    },
+    {
+      "episode": "06",
+      "segments": 8,
+      "seconds": 120,
       "referenceCopies": 64
     }
   ],
-  "completedTextSegments": 42,
-  "referenceCopies": 308,
+  "completedTextSegments": 50,
+  "referenceCopies": 394,
   "errors": [],
   "warnings": [
     "各段专用接触/状态/光态图缺项仍按清单补齐，复制件不算新生成原图；没有实际H3音视频及动态验收。"
