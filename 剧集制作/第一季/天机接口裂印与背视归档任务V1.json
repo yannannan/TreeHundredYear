@@ -1,0 +1,40 @@
+[
+  {
+    "key": "l7Interface",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L07_四口救援槽与定置绳接口近端V2",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L07_双路调度与移桥悬臂近端V1.png"
+    ],
+    "prompt": "Photoreal cinema functional close-action view of same ancient observatory beam machinery in supplied image, portrait9:16 highest native detail,50mm medium depth. Keep same bronze/black iron/star-white palette. Foreground right ONE rectangular guide trough receives the END of ONE horizontal transfer beam, with exactly FOUR separate round rescue coupler sockets arranged TWO by TWO on the back plate of the trough, each with a small amber state lamp. Four circles plainly countable, no life capsules or extra fifth socket. Foreground left original machine post has ONE stout fixed maintenance safety rope tied to a clearly bolted structural ring, and an EMPTY broad waist harness hanging from that rope ready for actor, not a decorative necklace. Behind beam guide, one rusted OUTER CLIP with a visible already cracked rust shell and levering gap accessible from lower maintenance foot-rib; original winch/rail carries weight, rope only carries person. Solid kneeling pad/post with broad lap strap next to console edge. Show safe solid standing/work surface and real foot-rib, no hole below all actors. Beam end is just before receiving trough, NOT already docked. Immense fractured star only distant blurred sliver, prioritise four sockets/outer clip/real rope and harness attachments. No people, words/numbers/arrows/labels, no additional crane arms, no watermark.",
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_四口救援槽与定置绳接口近端V2.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-9f2530c1-5669-4d5b-a302-6fb374725e36.png",
+    "qa": "恰四圆救援接口2×2可数，独立固定绳/原结构环/空宽腰套/跪坐垫和实地清楚，可补23近端；末端锈壳夹口可辨但不是整套外扣运动首帧。仍需实际穿腰套/绳受力和梁到四口的接触时序。"
+  },
+  {
+    "key": "sealWider",
+    "folder": "道具资产/第一季",
+    "name": "PROP06_授权印裂纹扩大连续态V3",
+    "inputs": [
+      "道具资产/第一季/PROP06_双源实体授权印裂损V2.png"
+    ],
+    "prompt": "Precise state edit of supplied single bronze authorization token. Preserve EXACT rounded-square solid body, two interlocking incomplete circular reliefs, opposite contact grooves, patina, cloth/angle/lighting and the ORIGINAL fine crack entering upper-right edge. Extend THAT SAME crack only a little farther along existing path toward the lower central relief, and widen its central seam slightly, making damage visibly worse but body still ONE connected piece. Do NOT introduce a new unrelated crack from left, do NOT split into two pieces, no missing corner or restored surface. Token remains usable but fragile. Highest native3:2 photoreal prop, whole token sharp, no cloth wrapping yet, no hands or tools/text/labels/watermark. After episode24 extraction, later wrap in old cloth to avoid further impact.",
+    "path": "道具资产/第一季/PROP06_授权印裂纹扩大连续态V3.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-7d039286-13e9-4dd6-a2c9-024e60f79488.png",
+    "qa": "同原方印/双残环/右上原裂延到中部，裂宽扩大而整体仍一件，无分体/新完整印。可锁24退印后脆弱阶段；软布包护/槽内退出与扩大动态仍需补。"
+  },
+  {
+    "key": "zcD22Back",
+    "folder": "人物资产/周辰",
+    "name": "ZC-D22_双后袍缺口与铜匣背视V1",
+    "inputs": [
+      "人物资产/周辰/ZC-D22_精确焦边全身V2.png",
+      "人物资产/周辰/ZC-D13_裸剑布束背视近景V1.png",
+      "道具资产/第一季/PROP08_空接线铜匣与断铜带V1.png"
+    ],
+    "prompt": "Photoreal full-body BACK continuity photo of same adult male hero. Image1 face/crown/hair/black-gold robe and boots identity/costume; Image2 ONLY soft-cloth wrapped COMPLETE bare sword on original diagonal back strap (visible small bare metal tip, NO rigid scabbard); image3 exact small copper junction box identity, CLOSED lid in this photo. Portrait9:16 highest native detail, grey studio, head/boots margins. Back view with hair naturally lifted just enough to see strap and lower robe. Keep upper shoulder/left-sleeve prior wear small, do NOT copy additional large torn back patches from image2. Exactly TWO small old missing REAR outer-hem spots: ANATOMICAL RIGHT rear outer corner small triangular notch, LEFT rear outer edge a narrow short strip missing; central rear panels intact, no shredded entire hem or bare leg. Front-left tiny char edge need not be visible from back. One CLOSED hand-sized copper box with side ears fixed at LEFT REAR WAIST using one short plain maintenance rope tied to original broad waist sash, not hanging from crown/necklace. No energy crystal, extra box/sword, labels or watermark. This photo locks rear hem and carried empty-box position, not a battle action.",
+    "path": "人物资产/周辰/ZC-D22_双后袍缺口与铜匣背视V1.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-0e2a51bf-301b-4321-ac05-4002f92d92b6.png",
+    "qa": "C04背发冠/黑金衣/软布包裸剑露小刃保持，完整靴足/背视可用。铜匣实际落画面右=背视人物右后腰，和新执行左后腰不符；指定两后袍小缺口也不够明确。候选只锁背型/包裸剑，不作携匣位置或缺口精准证明，继续修匣侧。"
+  }
+]
