@@ -7,7 +7,7 @@ for(const d of data){const x=ledger.segments.find(x=>x.n===d.n);if(!x){errors.pu
 for(const key of ['生成什么视频剧情','首帧精确状态','尾帧精确状态','对白：人物','字幕：同一段','固定15秒','A周辰、B苏晚、C摊主、D老人'])if(!s.includes(key))errors.push(d.n+'缺'+key);
 if(!s.includes('【视频画面人物出场介绍卡：必须呈现在成片中】'))errors.push(d.n+'缺画内人物介绍规范');
 if(d.n===1)for(const name of ['姓名与身份“苏晚｜修行者”','角色称谓“街口摊主”','角色称谓“持碗老人”']){if(!s.includes(name))errors.push('首段缺'+name);}
-if(d.n===6&&!s.includes('姓名与身份“周辰｜长生剑修”'))errors.push('周辰首次出场缺姓名卡');
+if(d.n===6&&!s.includes('三行介绍依次为“周辰｜长生剑修”'))errors.push('周辰首次出场缺姓名卡');
 if(d.n!==1&&d.n!==6&&!s.includes('本段不新增出场介绍卡'))errors.push(d.n+'未明确避免重复介绍');
 let end=0;for(const line of d.t){const m=line.match(/^(\d+)—(\d+)秒/);if(!m||+m[1]!==end||+m[2]<=end){errors.push(d.n+'时间轴不连续');break;}end=+m[2];}if(end!==15)errors.push(d.n+'时间轴未到15秒');
 let speechEnd=0;for(const l of d.lines){if(l[2]<speechEnd||l[3]>15||l[2]>=l[3])errors.push(d.n+'台词时间不合法');speechEnd=l[3];const expected={周辰:'A',苏晚:'B',摊主:'C',老人:'D'}[l[1]];if(l[0]!==expected)errors.push(d.n+'台词身份错绑');const cps=l[4].replace(/[，。？！、\s]/g,'').length/(l[3]-l[2]);if(cps>6)warnings.push(d.n+'对白需录音检查语速 '+cps.toFixed(2)+'字/秒');}
