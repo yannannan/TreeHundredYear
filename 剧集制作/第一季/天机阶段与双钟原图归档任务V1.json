@@ -1,0 +1,51 @@
+[
+  {
+    "key": "zcD22Fix",
+    "folder": "人物资产/周辰",
+    "name": "ZC-D22_精确焦边全身V2",
+    "inputs": [
+      "人物资产/周辰/ZC-D22_双袍缺口与焦边全身V1.png",
+      "人物资产/周辰/ZC-D13_弃鞘后战损全身V1.png"
+    ],
+    "prompt": "Precise wardrobe repair edit. Image1 is target adult hero; Image2 is original clean LOWER HEM reference. Keep Image1 face/crown/hair/upper robe and existing shoulder/left-forearm damage, boots, sword back strap, camera/background unchanged. REPAIR the excessive shredded lower front skirt and large dangling rips of Image1 so front hem is continuous/intact like Image2. Add ONLY ONE small 5cm-wide blackened char edge at the lowest ANATOMICAL LEFT FRONT outer hem, no large hole, no torn central panels. The two existing story notches are small REAR outer-hem notches and do not need to be visible in this FRONT view. No front ragged triangles, no new tears on both sides, no bare legs through robe, no extra injuries. Soft-cloth-wrapped sword stays complete without rigid scabbard. Highest native9:16 photoreal full-body margins. Do not make a new character or change gold embroidery/costume design; only lower front hem repair plus ONE tiny left-front char.",
+    "path": "人物资产/周辰/ZC-D22_精确焦边全身V2.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-1e4a1113-8a27-469f-a727-01c54259eb0c.png",
+    "qa": "前下摆过多撕片已恢复，原黑金衣/肩袖旧损/脸冠保持，仅人物左前低边有小焦破，可作22段02后正面阶段参考。后侧两小缺口不在正视图可判范围，不能宣称背面已齐；剑硬鞘未新生，剑刃状态仍PROP03和包布背图优先。"
+  },
+  {
+    "key": "swD22",
+    "folder": "人物资产/苏晚",
+    "name": "SW-D22_左踝包扎战损全身V1",
+    "inputs": [
+      "人物资产/苏晚/SW-D21_右掌窄包与后腰药布全身V1.png"
+    ],
+    "prompt": "Identity-preserving film continuity edit of SAME ADULT25 woman in supplied reference. Keep exact face/jewels/hair/crown, silverwhite iceblue dress/opaque inner bodice and skirt/sheer sleeves, prior RIGHT palm cotton wrap fingers free, existing small RIGHT shoulder gauze tear and waist utility knife. Change ONLY her ANATOMICAL LEFT ANKLE (on image RIGHT in frontal view) to have one narrow simple off-white cotton support wrap around ankle joint, heel and toes fully uncovered; RIGHT ankle remains completely bare/unwrapped. No shoe, boot, cast, stocking or new leg wounds. Left foot is lightly rested without full weight, body supported mostly by right leg, neutral practical stance, no glamour pose. Old right-lower-back medicine cloth may be hidden behind waist naturally, do not add big cloth ball on front. Short rope at waist was moved to hero’s box: REMOVE only the dangling coiled maintenance rope from her waist, knife stays. Full-body9:16 highest native photoreal image with both soles/head in margins, same grey backdrop/film lighting/skin/fabric, no extra costume rips/blood/text/grid/watermark.",
+    "path": "人物资产/苏晚/SW-D22_左踝包扎战损全身V1.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-3b896e57-7210-4cd7-88c4-826a1b7e2736.png",
+    "qa": "包带在人物解剖左踝（画面右），右脚仍裸踝、双足未穿鞋；右掌窄包/原衣饰保持，腰侧原短绳圈已移除。前视中无法证明右后腰药布。图只锁伤后衣/包，不证明左脚已能承重，行动段必须右脚/扶手/跪座卸载伤脚。"
+  },
+  {
+    "key": "l7Transfer",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L07_双路调度与移桥悬臂近端V1",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_独立建立镜头V2.png"
+    ],
+    "prompt": "Photoreal cinema action set in SAME fractured-star ancient observatory world, portrait9:16 high native detail,35mm eye level. Foreground SOLID service platform with old brass dispatch console and exactly ONE large sliding transverse bridge BEAM on old mechanical carriage. LEFT near-route is a real intact flat stone shortcut starting from platform, with ONE retractable segment supported by this carriage. RIGHT far route is a visibly more difficult narrow stone ring walkway curving around the enormous cracked white star; both are reachable real routes, not holograms. Beneath carriage is a reachable suspended maintenance arm with one rust-seized OUTER CLIP, already cracked rust shell and a levering gap. A clearly anchored fixed waist-safety rope hangs from old support beam to maintenance arm; separate low kneeling work pad/solid post with existing broad lap restraint beside console so injured actor can sit with one leg extended. Carriage has old motor/winch and guide tracks providing lift, magic is only small guiding force. At rear-right ONE rescue docking SLOT receives the same transverse beam; exactly FOUR distinct rescue coupler sockets with small amber pilot lamps, not life pods. No people or floating human bodies. Solid dry foot positions, real rail/rope attachment points and beam swing clearance visible. Cool grey fractured star and immense rail rings beyond, restrained warm lamps, clear near-shortcut vs far-ring vs rescue-slot geometry. No text/numbers/arrows/UI/collage/watermark. This is before transfer, shortcut intact, beam not already docked in rescue slot.",
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_双路调度与移桥悬臂近端V1.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-794cba8d-3089-4637-8840-27ce0fbc7fe2.png",
+    "qa": "巨裂星/实台/原绞机/上导梁与下检修悬臂层次可用，近/远路可见。四救援插口、已锈卡外扣和独立维护安全绳/宽腰套未清楚呈现，不能当第23全部动作首帧，继续补接口近端。上导梁/下检修臂不当两把新武器或凭空多桥。"
+  },
+  {
+    "key": "l7Clock",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L07_双钟空席与三环固化槽近端V1",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_独立建立镜头V2.png"
+    ],
+    "prompt": "Photoreal cinema near environment at original maintenance terrace in same ancient stellar observatory, portrait9:16 high native detail,35mm eye-level. Solid sheltered stone work terrace: LEFT exactly TWO identical small brass-framed glass sand clocks in adjacent sealed observation windows, equal fine sand reservoirs, tiny potted green bud in INNER clock window, outer window plain comparison channel. They are instruments, no human enters glass windows. MIDDLE exactly TWO EMPTY full-scale role stations: one fixed anchor-like stool/frame, other a simple maintenance work seat with adjustable ruler arm. On each station one small plain WOODEN CYLINDER dummy stands for EMPTY LOAD, not humanoid robot/statue/actual person. No crown, sex designation or frozen man. RIGHT a reachable narrow control panel with ONE rounded-square bronze token slot and THREE distinct hand-turn bronze rings arranged vertically, and a separate physical locking-pin channel below rings. Blank sealed curve plate with shutter above, no readable long-cycle numbers. Cool grey star daylight, warm small lamps, far background a real stone stair through closed original doorway toward next bridge domain. Keep separate sand clock vs role stations vs token slot/three-ring latch mechanically clear, no people/living experiments, modern screens, text/labels/arrows/numbers/watermark.",
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_双钟空席与三环固化槽近端V1.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-9dc357cd-3d4e-4fa8-b448-9528f583d59d.png",
+    "qa": "恰两沙钟/右内钟小盆栽、两个空载席各一木柱模型、右侧三实体环与槽/锁销区清楚；无真人/性别标签/封冰。真实细砂流量/叶展开/三环转与退出保持路由未动态制作；背后亮拱仅环境不代表已经提前进入八层。"
+  }
+]
