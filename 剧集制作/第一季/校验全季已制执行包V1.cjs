@@ -9,6 +9,7 @@ for(let n=1;n<=32;n++){
  for(const [i,d] of ledger.segments.entries()){
   const p=path.join(root,d.prompt||d.promptFile),s=fs.readFileSync(p,'utf8'),blocks=[...s.matchAll(/```text\s*([\s\S]*?)```/g)];
   if(blocks.length!==1||!blocks[0][1].includes(common))errors.push(id+'-'+d.n+'单一完整母版失败');
+  if(/\bundefined\b|\bNaN\b|\[object Object\]/.test(blocks[0]?.[1]||''))errors.push(id+'-'+d.n+'存在未展开字段');
   const changedScene=d.sceneId&&previousScene&&n===previousEpisode&&d.sceneId!==previousScene;
   if(d.start!==last&&last!==null&&!(n===2&&i===2)&&!d.sceneCut&&!changedScene)errors.push(id+'-'+d.n+'首尾文本不连续');last=d.end;previousScene=d.sceneId||null;previousEpisode=n;
   let end=0;const timeline=blocks[0]?.[1].match(/【0—15秒[^】]*】\s*([\s\S]*?)\n\n【/);if(!timeline)errors.push(id+'-'+d.n+'无独立时间轴');else {const steps=[...timeline[1].matchAll(/^(\d+)—(\d+)秒/gm)];for(const t of steps){if(+t[1]!==end||+t[2]<=end)errors.push(id+'-'+d.n+'时间轴断档');end=+t[2];}if(end!==15)errors.push(id+'-'+d.n+'时间轴未到15秒');}
