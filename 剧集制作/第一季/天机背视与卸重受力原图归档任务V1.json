@@ -1,0 +1,39 @@
+[
+  {
+    "key": "zcBackFix",
+    "folder": "人物资产/周辰",
+    "name": "ZC-D22_左后腰铜匣与后摆背视V2",
+    "inputs": [
+      "人物资产/周辰/ZC-D22_双后袍缺口与铜匣背视V1.png"
+    ],
+    "prompt": "Precise identity-preserving BACK-view costume edit of supplied adult hero photo, NOT mirror flip. Keep face-back hair/crown, gold embroidery, sword diagonal orientation/soft wrap/bare tip, shoulder/sleeve wear, boots, camera and grey background exactly. Move the ONE CLOSED copper box from RIGHT SIDE OF IMAGE to LEFT SIDE OF IMAGE at rear waist. Since the man FACES AWAY, LEFT SIDE OF IMAGE is his ANATOMICAL LEFT waist. Remove old box and its cord entirely from image right; do not duplicate. Tie box side ears to original waist sash with one short plain maintenance cord. Make two small restrained rear hem identification notches: 3cm triangular missing corner on IMAGE RIGHT outer rear hem, and 2cm narrow short missing strip on IMAGE LEFT outer rear edge. Inner/central rear robe stays intact, no large shredded skirt or new injuries. Both hem notches readable but small. Highest native9:16 full-body photoreal margins, no writing/arrows/grid/watermark, no change to sword or person.",
+    "path": "人物资产/周辰/ZC-D22_左后腰铜匣与后摆背视V2.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-56b4598c-5b13-4e7e-80f8-034d52b9f3d1.png",
+    "qa": "铜匣已移到背视画面左=人物左后腰，右侧原匣移除、不是镜像全人，软布包裸剑/原发冠/衣金纹保持。两指定后摆缺口仍细小不可逐一强证，图用于背型/包剑和当前携匣左侧，不能把名字当细缺口已验。"
+  },
+  {
+    "key": "emptyLever",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L07_空薄板剑脊支点受力参考V2",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L07_轨道分闸与薄压板近端V1.png",
+      "道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png"
+    ],
+    "prompt": "Photoreal film PROP BLOCKING detail, landscape3:2 highest native detail. No person or body part anywhere. Use shallow metal service recess from image1 on SOLID stone walkway. Use ONLY complete old iron sword from image2 as an inert rigid prop, no sheath or talisman. Demonstrate a simple physical lever arrangement: sword handle extends toward lower LEFT foreground for a future actor to hold; flat thick sword SPINE rests on one visible solid stone lip as FULCRUM; farther blade portion runs UNDER edge of ONE thin metal inspection cover and holds its edge lifted about two finger-widths. The recess has solid shallow bottom. Contact between steel spine/stone lip and blade underside/metal plate is sharply readable, all objects resting still, no floating load or giant stone. Empty clear open space under raised cover with NO foot/person or wound. Normal worn metal and cool film light, no arrows/measurements/text/grid/watermark. This reference is solely static mechanical geometry, not an action or injury image.",
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_空薄板剑脊支点受力参考V2.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-23ec02c7-4795-49e2-b7c7-ae5bb0b17ee1.png",
+    "qa": "空机械图清楚显示旧完整铁剑/实石唇支点/薄盖抬/浅实体底，没有人体受压；可锁接触几何。实际开口比“两指”更大，只取支点/接触关系，动作中仍按两指小抬，不能当B左踝已经抽出的帧。"
+  },
+  {
+    "key": "swSeated",
+    "folder": "人物资产/苏晚",
+    "name": "SW-D22_左脚卸重坐姿全身V2",
+    "inputs": [
+      "人物资产/苏晚/SW-D22_左踝包扎战损全身V1.png"
+    ],
+    "prompt": "Photoreal film costume continuity pose of the SAME ADULT25 woman from supplied full-body reference, exact same face/hair/jewels/silverwhite iceblue dress with opaque inner bodice and skirt/sheer sleeves, RIGHT palm cotton wrap and LEFT ankle cotton wrap unchanged. She sits naturally on a simple low dry stone bench in neutral grey studio, LEFT leg extended gently with heel resting on one LOW padded footrest, LEFT ankle not bearing body weight, RIGHT bare foot planted on solid floor. Hands rest relaxed on lap with right fingers free. Keep both feet/ankles, entire head and gown inside portrait9:16 with margins, natural practical seated posture, same film lighting, high native skin/fabric detail. No new costume tears, blood or medical procedure, no extra bandages on right ankle, no shoe, no weapon held in hands, no waist rope coil (moved previously), no writing/arrows/grid/watermark. A neutral resting pose reference to guide later movement continuity, no dramatic danger.",
+    "path": "人物资产/苏晚/SW-D22_左脚卸重坐姿全身V2.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-8fc7b6ae-bf59-4122-8de1-297a7cd17290.png",
+    "qa": "同B原脸衣/右掌窄包/左踝包正确、右足裸落实地，左踝在小凳垫面不承全身重。图腿有交叠，不能照搬到22急性包扎/23跪座；只用坐休/伤后衣饰和左脚卸重参考。全身未穿鞋，无新伤，右后腰药布仍不在正面可验范围。"
+  }
+]
