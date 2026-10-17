@@ -1,0 +1,6 @@
+const fs=require('fs'),path=require('path');const dir=__dirname;
+const data=JSON.parse(fs.readFileSync(path.join(dir,'全塔制作数据V2.json'),'utf8').replace(/^\uFEFF/,''));
+let text='# 九层与隐藏层｜当前独立环境和行动因果图清单V2\n\n2026-10-17。每域有独立建立源图及4K行动因果示意。图像风格、数量和接触点仍按检查记录分开验收，图齐不代表全域镜头包已齐。写实源图实际约941×1672（第八层旧V2为940宽），非2K/4K母版；4K图为3840×2160矢量渲染。\n\n| 域 | 独立建立源图 | 4K行动因果示意 | 完整提示词与检查 |\n| --- | --- | --- | --- |\n| 第一层 03—05 | [V1](SC-L01_逆重天阶建立镜头V1.png) | [布局](SC-L01-LAYOUT01_行动布局4K_V1.png) | [15秒建立](SC-L01_逆重天阶_场景与15秒建立提示词V2.md) · [源图检查](SC-L01_提示词与检查.md) |\n';
+for(const d of data){const stem='SC-L'+d.id+'_'+d.name;const f=[5,4,3,2].map(v=>stem+'_独立建立镜头V'+v+'.png').find(p=>fs.existsSync(path.join(dir,p)));if(!f)throw Error(stem+' missing');text+='| '+d.name+' '+d.eps+' | [当前源图]('+f+') | [PNG](SC-L'+d.id+'-LAYOUT02_行动布局V2_4K.png) · [SVG](SC-L'+d.id+'-LAYOUT02_行动布局V2.svg) | [完整15秒建立]('+stem+'_场景与15秒建立提示词V2.md) · [图像提示词/检查]('+f.replace('.png','_生成提示词与检查.md')+') |\n';}
+text+='\n## 尚未完成的实际制作\n\n各域入口/出口反打、接触近景、连续动作与演员尺度、各集战损/配角/道具、逐段完整提示词和音视频。10份建立提示词是可复用环境镜头文本，不冒充整季全部段。布局是因果与功能拓扑，不是带真实距离/承重数值的工程平面图。数量通过的远景仍需近景拍可操作结构。\n\n## 当前数量特别检查\n\n第八层采用V4：左右各6舱、4急8缓灯色已可数；父亲另走下方载板。第九层精确环数见当前图检查，未通过版本全部保留但不用来计九环完成。十层采用V3：可住维护屋、冰锚与A暖归途已同场建立。\n';
+fs.writeFileSync(path.join(dir,'九层与隐藏层当前资产交付清单V2.md'),text);console.log('index updated');

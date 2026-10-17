@@ -32,7 +32,7 @@ async function main(){
  let master='# 九层星渊塔｜全塔场景制作执行总册V2\n\n2026-10-17。承接32集V3，不重写已闭环剧情。此为场景制作作品，唯一交接仍在文档/项目总控与交接.md。新增各域4K布局为拓扑示意；建立图须另行生成、检查，不能由本脚本凭空算完成。\n\n第一层沿用[独立建立图](SC-L01_逆重天阶建立镜头V1.png)及[4K行动布局](SC-L01-LAYOUT01_行动布局4K_V1.png)。外壳九重、内部真实相位小世界、隐藏层在加密塔芯，不能把沙海塞进建筑普通房间。\n\n';
  for(const d of data){
  const stem=`SC-L${d.id}_${d.name}`,map=`SC-L${d.id}-LAYOUT02_行动布局V2`,doc=stem+'_场景与15秒建立提示词V2.md';
- const asset=[4,3,2].map(v=>stem+'_独立建立镜头V'+v+'.png').find(p=>fs.existsSync(path.join(dir,p)))||stem+'_独立建立镜头V2.png';
+ const asset=[5,4,3,2].map(v=>stem+'_独立建立镜头V'+v+'.png').find(p=>fs.existsSync(path.join(dir,p)))||stem+'_独立建立镜头V2.png';
  const raw=svg(d);fs.writeFileSync(path.join(dir,map+'.svg'),raw);await sharp(Buffer.from(raw)).png().toFile(path.join(dir,map+'_4K.png'));await sharp(Buffer.from(raw)).resize(1600).jpeg({quality:90}).toFile(path.join(dir,map+'_预览.jpg'));
  const prompt=common+'\n\n【本段唯一任务与范围】\n第一季第'+d.eps+'集的'+d.name+'空间建立候选镜头，15秒，9:16原生构图。是独立场景镜头设计，不把它擅自插进每集固定位置，不自动增加集时长；正式进入某集时替换相应建立镜头预算。全段无人类角色、无台词、无旁白、无字幕；本段只建立可行动空间，不演通关。\n\n【场景与光线】\n'+d.material+'\n'+d.spectacle+'\n入口到阶段终点依照布局，不能通过镜头运动增删路线。\n\n【本镜头动作与摄影机】\n'+d.timeline.join('\n')+'\n单次连续运镜，无凭空跳机位；慢速24/35mm电影摄影，近景实体纹理、中景行动对象和远景巨构都可辨，允许中景深而非强行全部浅景深。环境运动遵守本域规则；不加入剧本外事件或人。\n\n【声音】\n'+d.sound+'\n全段声音仅取本层环境基底与上述可见机关的合理音效，不生成文中需要人物的呼吸/台词。0—4秒近物质感，4—10秒加入空间低鸣，10—15秒保留具体线索音。音乐为低密度原创氛围，无人声，无商业歌曲。\n\n【语言与字幕】\n无对白、无旁白，因此0—15秒明确无字幕；画面无标牌文字、Logo或乱码。后续有对白镜头必须在自身提示词写简中原句与时码，不把本段无字幕规则套到整部剧。\n\n【空间、数量及连续性约束】\n'+d.danger+'\n'+d.continuity+'\n本段不表现后续战损、角色或通关事实，后续状态只作为禁提前剧透的边界。\n\n【首尾接镜】\n起点、移动和终点严格按时间分镜；尾帧保留可接角色入场的实体落脚区，不能结束成全白闪光。\n\n【参考】\n本文件同目录的'+stem+'_独立建立镜头V2.png为美术参考；'+map+'_4K.png为行动拓扑参考。真实环境图检查记录需与本段一起阅读；未通过数量/路线验收的环境图只能作材质参考，禁止直接驱动对应动作。\n\n【负面约束补充】\n不要卡通、游戏CG、塑料材质、过曝、随机镜头抖动、无原因重力变化、地图线路变形、额外出口、额外守卫、额外生命舱、混入其他层景观。';
  const text=`# ${d.name}｜场景详设与15秒建立提示词V2\n\n覆盖第${d.eps}集；来源为32集V3。不是全层所有逐段提示词已完成。\n\n## 震撼构图与物理空间\n\n${d.spectacle}\n\n${d.material}\n\n## 行动布局\n\n[4K布局PNG](${map}_4K.png) · [可编辑SVG](${map}.svg)\n\n`+d.nodes.map(n=>'- '+n[0]+'：'+n[1]).join('\n')+'\n\n'+d.routes.map(r=>'- '+r[0]+' → '+r[1]+'：'+r[2]).join('\n')+`\n\n## 危险、代价与连续性\n\n${d.danger}\n\n${d.continuity}\n\n## 必需接触近景、反打与表演空间\n\n${d.detail}\n\n${d.camera}\n\n${d.shots.map((x,i)=>(i+1)+'. '+x).join('\n')}\n\n## 声音设计\n\n${d.sound}\n\n## 可独立复制的15秒场景建立提示词\n\n以下已完整嵌入全剧通用正文，无“同上”。本段无角色无台词，因此明确无字幕；有对白段仍须自己的简中字幕原句与时码。此为待本地试生成的文本，未声称音视频已生成。\n\n\`\`\`text\n${prompt}\n\`\`\`\n\n## 制作验收\n\n先看路线/数量，再看奇观：本层建立图与布局不一致时按剧本修图，不能改写因果。4K图是原生矢量渲染示意，非真人电影画面或真实尺寸测绘。支持15秒档位、音画及字幕能力须本地MinMaxH3实测。\n`;
@@ -44,3 +44,4 @@ async function main(){
  console.log(JSON.stringify({domains:data.length,layouts:data.length,prompts:data.length,canvas:[3840,2160]}));
 }
 main().catch(e=>{console.error(e);process.exit(1)});
+

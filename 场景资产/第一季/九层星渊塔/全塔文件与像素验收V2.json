@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-17",
+  "promptCount": 10,
+  "newLayoutCount": 9,
+  "layoutCanvas": [
+    3840,
+    2160
+  ],
+  "scope": "文字、文件存在、像素、SVG对象数量检查；不替代写实图目视验数、演员走位或视频动态验证",
+  "errors": [],
+  "layouts": [
+    {
+      "file": "SC-L02-LAYOUT02_行动布局V2_4K.png",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 557334,
+      "sha256": "165b6e2f463bc68c9c10f19220a27f18c6318006578b418e8ad2c705187d61db"
+    },
+    {
+      "file": "SC-L03-LAYOUT02_行动布局V2_4K.png",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 642581,
+      "sha256": "090a42865f951d59e6489397b077cd590d3e592943a2f66d430fa6426180a2f4"
+    },
+    {
+      "file": "SC-L04-LAYOUT02_行动布局V2_4K.png",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 609597,
+      "sha256": "f0143a91e15aad21c5d0cd3ed575e1cfc0ada93e9704971c6e5396f72914c409"
+    },
+    {
+      "file": "SC-L05-LAYOUT02_行动布局V2_4K.png",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 624757,
+      "sha256": "3b268d4ab446131adf27601c7058bf13d8f74e5109f3372144ef05163a6beda7"
+    },
+    {
+      "file": "SC-L06-LAYOUT02_行动布局V2_4K.png",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 563401,
+      "sha256": "038882d04802ce9036dc7d04141cbb9cb5518196a3415ddcde6ee36146f2ab70"
+    },
+    {
+      "file": "SC-L07-LAYOUT02_行动布局V2_4K.png",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 599554,
+      "sha256": "ac8bc68623f8628a4373d664b45c50f5977a102505bdcf139d4bf3c204cabbad"
+    },
+    {
+      "file": "SC-L08-LAYOUT02_行动布局V2_4K.png",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 596843,
+      "sha256": "00f3884ccf4a47ea2b1575382aa8afeff88493f569e7dd75e18bb810b443454e"
+    },
+    {
+      "file": "SC-L09-LAYOUT02_行动布局V2_4K.png",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 667533,
+      "sha256": "ba9ae3f21debac898f8de08c999db346e2d7c93490a8827e9dcf2c6e463739cc"
+    },
+    {
+      "file": "SC-L10-LAYOUT02_行动布局V2_4K.png",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 616471,
+      "sha256": "bafa0a15be8339716ca8df79202f4dc4c5a353b8f7c17d1913f5972a2c580f9a"
+    }
+  ]
+}
