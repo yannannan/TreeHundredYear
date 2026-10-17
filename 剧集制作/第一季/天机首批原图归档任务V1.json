@@ -1,0 +1,41 @@
+[
+  {
+    "key": "l7Branch",
+    "folder": "场景资产/第一季/九层星渊塔",
+    "name": "SC-L07_轨道分闸与薄压板近端V1",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_独立建立镜头V2.png"
+    ],
+    "prompt": "Photoreal cinema near-action environment in supplied immense fractured-star observatory world, vertical9:16 highest native detail,35mm eye-level. SOLID narrow stone service walkway with safe waist-high rail and a recessed solid shelter alcove on LEFT. On RIGHT one original bronze RESCUE BRANCH lever, a visibly connected metal conduit running away intact, and a small framed optical route window at chest height. At foot of lever is a small shallow service recess with ONE loose THIN metal inspection cover plate, slightly displaced at one edge, visible solid support below, no abyss under actors; it can pin an ankle later but is not a multi-ton stone slab. A sturdy stone lip beside plate permits a real iron sword to lever its edge. Above and behind, one actual rail segment is broken and laterally offset relative to the old faint straight blue prediction line; loose small stone debris can strike this offset rail and deflect. Cold blue-white fractured star/colossal ring tracks in deep background, warm small oil lamps at actual positions. Clear lever-to-conduit and plate-to-shelter geography, climbable steps not endless void. No people/feet/injury, no text/numerals/arrows/labels/watermark, no magic safety forcefield. Route window empty dark, not a modern monitor. We need physical causality of old route vs offset track and lever/cover plate, not decorative giant machinery alone.",
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_轨道分闸与薄压板近端V1.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-5f8ed00a-67a7-4cf3-ace6-82202ebc08cc.png",
+    "qa": "巨裂星/原杆与导管/查询空窗、近实道/薄盖检修口/左凹处几何可用，远桥断口与细蓝线可辨。压板承底部分暗，不能当精确卡脚首帧；图不直接证明旧轨半尺偏移或改向过程，需近接触/实测对照。"
+  },
+  {
+    "key": "zcD22",
+    "folder": "人物资产/周辰",
+    "name": "ZC-D22_双袍缺口与焦边全身V1",
+    "inputs": [
+      "人物资产/周辰/ZC-D13_弃鞘后战损全身V1.png",
+      "人物资产/周辰/ZC-F01_独立正面头肩V1.png",
+      "人物资产/周辰/ZC-D13_裸剑布束背视近景V1.png"
+    ],
+    "prompt": "Identity-preserving costume continuity photo. Image1 body costume is authoritative, Image2 exact SAME adult male FACE/hair/crown, Image3 only soft-cloth sword-back wrapping detail. Retain handsome adult28 Chinese hero, black-gold layered robe/boots, natural photoreal skin/cloth not game render. Single full-body front three-quarter portrait9:16, highest native detail, neutral grey studio, head/boots all inside margins. Keep existing small right-shoulder outer tear and left-sleeve tear/forearm wrap exactly, no extra torn shoulders. Add ONLY specific later cloth state: one small missing triangular corner at ANATOMICAL RIGHT rear outer hem (door clipped), one narrow strip missing along LEFT rear outer hem (bridge marker taken), and a palm-sized small charred edge on LEFT FRONT lower outer hem (stone grazed). Inner robe remains intact, not ragged shredded skirt. Right hand back has tiny faint old healed heat mark, left wrist faint old permission mark, no fresh blood/open wound. Same real old iron sword remains COMPLETE, only loosely soft-cloth wrapped on original back strap, NO rigid scabbard. Empty relaxed hands. No extra weapon, new belt ornaments, modern pouch, different face, grid, writing or watermark. This is after22 cloth-singe state; do not invent recovery or shattered sword.",
+    "path": "人物资产/周辰/ZC-D22_双袍缺口与焦边全身V1.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-6bb2bfad-ba4e-4bdf-9524-f9fa988b8c68.png",
+    "qa": "原C04脸/黑金衣肩袖旧伤与完整剑柄保持，生成下摆破边超出仅两后缺口+一前焦边的要求；暂只作方向/身份候选，过多正面撕破不能复制当前剧情。继续针对前摆完整度修版，不将提示词意图当成视觉验收。"
+  },
+  {
+    "key": "swD21",
+    "folder": "人物资产/苏晚",
+    "name": "SW-D21_右掌窄包与后腰药布全身V1",
+    "inputs": [
+      "人物资产/苏晚/SW-D13_精确战损全身V2.png",
+      "人物资产/苏晚/SW-F01_独立正面头肩V1.png"
+    ],
+    "prompt": "Identity-preserving film costume continuity reference. Image1 is SAME adult25 woman full costume, Image2 SAME original FACE/hair/silver flower crown/forehead jewel/earrings highest priority. Preserve silverwhite iceblue layered gown with opaque inner bodice/skirt and sheer sleeves, bare feet, existing narrow RIGHT shoulder gauze damage only. Single natural full-body front three-quarter9:16 photo, neutral grey background, head and both soles with margins, highest native detail/real skin/fabric. Update ONLY episode21 carried state: a narrow simple off-white cotton bandage around ANATOMICAL RIGHT PALM, fingers free; a small folded medicine cloth secured discreetly by existing waist sash at RIGHT LOWER BACK/waist side, no exposed wound or blood. Keep existing utility knife/sheath and short maintenance rope at right waist; no new weapons. BOTH ankles are healthy and UNWRAPPED at this stage, no shoes. Do not increase rips or add scratches over hands/face/legs, do not change gown design/jewels/body/identity or pose into glamour. Hands relaxed slightly away from sides so right palm wrap readable; keep graceful ordinary adult stance, no seduction framing, no text/grid/watermark. Prior old damage small, inner gown remains intact.",
+    "path": "人物资产/苏晚/SW-D21_右掌窄包与后腰药布全身V1.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-5ad08411-0c06-42ba-b9a3-544643e46f1d.png",
+    "qa": "C03脸冠/银蓝原衣饰/右掌窄包且手指空、两踝未包、裸足保持；原腰侧刀短绳可辨。后腰药布被身体遮挡，不拿前腰白卷当后腰位置证明，前白卷仅余药布/不新增伤；图用于正面衣装/右掌阶段，背部小伤需侧后接触补。尚非全角度完整资产。"
+  }
+]
