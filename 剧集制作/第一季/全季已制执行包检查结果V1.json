@@ -47,13 +47,13 @@
       "episode": "08",
       "segments": 8,
       "seconds": 120,
-      "referenceCopies": 70
+      "referenceCopies": 71
     },
     {
       "episode": "09",
       "segments": 8,
       "seconds": 120,
-      "referenceCopies": 88
+      "referenceCopies": 98
     },
     {
       "episode": "10",
@@ -65,11 +65,23 @@
       "episode": "11",
       "segments": 8,
       "seconds": 120,
-      "referenceCopies": 77
+      "referenceCopies": 81
+    },
+    {
+      "episode": "12",
+      "segments": 9,
+      "seconds": 135,
+      "referenceCopies": 99
+    },
+    {
+      "episode": "13",
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 98
     }
   ],
-  "completedTextSegments": 91,
-  "referenceCopies": 810,
+  "completedTextSegments": 110,
+  "referenceCopies": 1022,
   "errors": [],
   "warnings": [
     "各段专用接触/状态/光态图缺项仍按清单补齐，复制件不算新生成原图；没有实际H3音视频及动态验收。"

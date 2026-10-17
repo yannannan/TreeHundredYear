@@ -82,6 +82,18 @@
           "source": "道具资产/第一季/PROP04_星髓晶匣双杆基准V1.png",
           "purpose": "晶匣双杆/四刻度指针/下沿刻片口的形状基准，开关状态按本段",
           "sha256": "dc6e3e9a75f78d941bf8afcf09dde0db30e7c57a9cd125e382417ade0d28f060"
+        },
+        {
+          "file": "SC-L03_舰肋弯板取材近端V1.png",
+          "source": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png",
+          "purpose": "厚肋/薄板/钉/井底近端基准，原图未搭低拱",
+          "sha256": "ed735c70f928657fd046ebebe5b0234d5d38ea67e2be648f0bfd695b142596c1"
+        },
+        {
+          "file": "CREATURE01_吞灵沙鳐翼骨与腹孔V1.png",
+          "source": "人物资产/异兽/CREATURE01_吞灵沙鳐翼骨与腹孔V1.png",
+          "purpose": "单体沙鳐翼骨/有机腹孔/材质，翼尖尾末近画缘，完整角度与接触仍待补",
+          "sha256": "9a89d463d3a0b31ba897bc7845acbd41c587c00bfedd596061cc9d4b2cb00a23"
         }
       ]
     },
@@ -171,6 +183,18 @@
           "source": "道具资产/第一季/PROP04_星髓晶匣双杆基准V1.png",
           "purpose": "晶匣双杆/四刻度指针/下沿刻片口的形状基准，开关状态按本段",
           "sha256": "dc6e3e9a75f78d941bf8afcf09dde0db30e7c57a9cd125e382417ade0d28f060"
+        },
+        {
+          "file": "SC-L03_舰肋弯板取材近端V1.png",
+          "source": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png",
+          "purpose": "厚肋/薄板/钉/井底近端基准，原图未搭低拱",
+          "sha256": "ed735c70f928657fd046ebebe5b0234d5d38ea67e2be648f0bfd695b142596c1"
+        },
+        {
+          "file": "CREATURE01_吞灵沙鳐翼骨与腹孔V1.png",
+          "source": "人物资产/异兽/CREATURE01_吞灵沙鳐翼骨与腹孔V1.png",
+          "purpose": "单体沙鳐翼骨/有机腹孔/材质，翼尖尾末近画缘，完整角度与接触仍待补",
+          "sha256": "9a89d463d3a0b31ba897bc7845acbd41c587c00bfedd596061cc9d4b2cb00a23"
         }
       ]
     },
@@ -276,6 +300,12 @@
           "source": "道具资产/第一季/PROP04_星髓晶匣双杆基准V1.png",
           "purpose": "晶匣双杆/四刻度指针/下沿刻片口的形状基准，开关状态按本段",
           "sha256": "dc6e3e9a75f78d941bf8afcf09dde0db30e7c57a9cd125e382417ade0d28f060"
+        },
+        {
+          "file": "SC-L03_舰肋弯板取材近端V1.png",
+          "source": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png",
+          "purpose": "厚肋/薄板/钉/井底近端基准，原图未搭低拱",
+          "sha256": "ed735c70f928657fd046ebebe5b0234d5d38ea67e2be648f0bfd695b142596c1"
         }
       ]
     },
@@ -373,6 +403,12 @@
           "source": "道具资产/第一季/PROP04_星髓晶匣双杆基准V1.png",
           "purpose": "晶匣双杆/四刻度指针/下沿刻片口的形状基准，开关状态按本段",
           "sha256": "dc6e3e9a75f78d941bf8afcf09dde0db30e7c57a9cd125e382417ade0d28f060"
+        },
+        {
+          "file": "SC-L03_舰肋弯板取材近端V1.png",
+          "source": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png",
+          "purpose": "厚肋/薄板/钉/井底近端基准，原图未搭低拱",
+          "sha256": "ed735c70f928657fd046ebebe5b0234d5d38ea67e2be648f0bfd695b142596c1"
         }
       ]
     },
@@ -462,6 +498,12 @@
           "source": "道具资产/第一季/PROP04_星髓晶匣双杆基准V1.png",
           "purpose": "晶匣双杆/四刻度指针/下沿刻片口的形状基准，开关状态按本段",
           "sha256": "dc6e3e9a75f78d941bf8afcf09dde0db30e7c57a9cd125e382417ade0d28f060"
+        },
+        {
+          "file": "SC-L03_舰肋弯板取材近端V1.png",
+          "source": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png",
+          "purpose": "厚肋/薄板/钉/井底近端基准，原图未搭低拱",
+          "sha256": "ed735c70f928657fd046ebebe5b0234d5d38ea67e2be648f0bfd695b142596c1"
         }
       ]
     },
@@ -559,6 +601,12 @@
           "source": "道具资产/第一季/PROP04_星髓晶匣双杆基准V1.png",
           "purpose": "晶匣双杆/四刻度指针/下沿刻片口的形状基准，开关状态按本段",
           "sha256": "dc6e3e9a75f78d941bf8afcf09dde0db30e7c57a9cd125e382417ade0d28f060"
+        },
+        {
+          "file": "SC-L03_舰肋弯板取材近端V1.png",
+          "source": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png",
+          "purpose": "厚肋/薄板/钉/井底近端基准，原图未搭低拱",
+          "sha256": "ed735c70f928657fd046ebebe5b0234d5d38ea67e2be648f0bfd695b142596c1"
         }
       ]
     },
@@ -664,6 +712,12 @@
           "source": "道具资产/第一季/PROP04_星髓晶匣双杆基准V1.png",
           "purpose": "晶匣双杆/四刻度指针/下沿刻片口的形状基准，开关状态按本段",
           "sha256": "dc6e3e9a75f78d941bf8afcf09dde0db30e7c57a9cd125e382417ade0d28f060"
+        },
+        {
+          "file": "SC-L03_舰肋弯板取材近端V1.png",
+          "source": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png",
+          "purpose": "厚肋/薄板/钉/井底近端基准，原图未搭低拱",
+          "sha256": "ed735c70f928657fd046ebebe5b0234d5d38ea67e2be648f0bfd695b142596c1"
         }
       ]
     },
@@ -753,6 +807,12 @@
           "source": "道具资产/第一季/PROP04_星髓晶匣双杆基准V1.png",
           "purpose": "晶匣双杆/四刻度指针/下沿刻片口的形状基准，开关状态按本段",
           "sha256": "dc6e3e9a75f78d941bf8afcf09dde0db30e7c57a9cd125e382417ade0d28f060"
+        },
+        {
+          "file": "SC-L03_舰肋弯板取材近端V1.png",
+          "source": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png",
+          "purpose": "厚肋/薄板/钉/井底近端基准，原图未搭低拱",
+          "sha256": "ed735c70f928657fd046ebebe5b0234d5d38ea67e2be648f0bfd695b142596c1"
         }
       ]
     }
