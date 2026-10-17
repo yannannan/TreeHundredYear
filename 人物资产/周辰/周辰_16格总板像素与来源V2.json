@@ -1,0 +1,219 @@
+{
+  "canvas": [
+    4256,
+    6800
+  ],
+  "nativeSingleImageGeneration": false,
+  "upscaled": false,
+  "mirrored": false,
+  "tiles": [
+    {
+      "label": "01 正面全身",
+      "source": "周辰/ZC-F01_独立正面全身V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "02 左前45°全身",
+      "source": "周辰/ZC-F01_独立左45度全身修正V2.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "03 左侧全身",
+      "source": "周辰/ZC-F01_独立左侧全身V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "04 左后45°全身",
+      "source": "周辰/ZC-F01_独立左后45度全身修正V2.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "05 背面全身",
+      "source": "周辰/ZC-F01_独立背面全身V2.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "06 右后45°全身",
+      "source": "周辰/ZC-F01_独立右后45度全身V2.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "07 右侧全身",
+      "source": "周辰/ZC-F01_独立右侧全身V2.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "08 右前45°全身",
+      "source": "周辰/ZC-F01_独立右45度全身V2.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "09 正面头肩",
+      "source": "周辰/ZC-F01_独立正面头肩V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "10 左45°头肩",
+      "source": "周辰/ZC-F01_独立左45度头肩V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "11 侧向头肩",
+      "source": "周辰/ZC-F01_独立左侧头肩V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "12 半身表演",
+      "source": "周辰/ZC-F01_独立半身表演V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "13 正面服装",
+      "source": "周辰/ZC-COST01_独立正面衣饰细节V1.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "14 背面服装",
+      "source": "周辰/ZC-F01_独立背面服装V2.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "15 坚定表情",
+      "source": "周辰/ZC-F01_独立坚定表情V2.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    },
+    {
+      "label": "16 含笑表情",
+      "source": "周辰/ZC-F01_独立含笑表情V2.png",
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "tileSize": [
+        1024,
+        1536
+      ],
+      "scale": 1
+    }
+  ]
+}
