@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-18",
+  "scope": "原图/真实记录/全季采用范围/副本/片尾时码及登记手位和行程的静态检查；不是动态车制动/人体/镜面/嘴型与美术实测",
+  "rawOriginals": 6,
+  "adoptedStatic": 4,
+  "archivedCandidates": 2,
+  "images": [
+    {
+      "id": "MODERN-LAND",
+      "width": 941,
+      "height": 1671
+    },
+    {
+      "id": "MODERN-SAFE",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "CORE-HALF",
+      "width": 940,
+      "height": 1672
+    },
+    {
+      "id": "MODERN-LAND-R2",
+      "width": 941,
+      "height": 1671
+    },
+    {
+      "id": "MODERN-SAFE-R2",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "MODERN-WINDOW",
+      "width": 941,
+      "height": 1672
+    }
+  ],
+  "targetSegments": 1,
+  "copiedReferencePlacements": 4,
+  "speech": {
+    "speaker": "B",
+    "start": 11.1,
+    "end": 13.8
+  },
+  "specifiedBlackCard": {
+    "start": 14,
+    "end": 15
+  },
+  "formalCharacterCostumeImagesUntouched": true,
+  "errors": [],
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false
+}
