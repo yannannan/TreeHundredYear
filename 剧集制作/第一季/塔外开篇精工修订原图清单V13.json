@@ -38,5 +38,45 @@
     "bytes": 2715827,
     "sha256": "d24a0c2334379b7f151c698a3e7a35568e1c8dedbd875b773eed070280159fcf",
     "upscaled": false
+  },
+  {
+    "id": "OUT-STREET-REFINED-R2",
+    "path": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_精工克制R2.png",
+    "purpose": "采用：原碎碗/茶水、右木车轮轴/垫木、摊位与左木铺空间保持；铺石和车板完整、全面凹蚀/苔污减少。仅空景，不代表碎碗已复原或木车倒行完成。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2830073,
+    "sha256": "4183d6cd80d610375bc001a34389e223a0f0440a0d79ab9df2de29e552f55bc0",
+    "upscaled": false
+  },
+  {
+    "id": "OUT-STREET-PEOPLE-REFINED-R2",
+    "path": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2_精工克制R2.png",
+    "purpose": "采用：恰三人原脸衣/站位、苏晚赤足、摊主扶车与老人持碗状态保持；碎碗茶水留原区域，铺石/车板更完整，无新增人或换装。只人物起始参考，未验证逆回或重组动态。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2811613,
+    "sha256": "0cc31926f1205ed5d4dbc6daaf3c50bcd71a10bc0771cd5dd9930066e74f9651",
+    "upscaled": false
+  },
+  {
+    "id": "OUT-SHOP-REFINED-R2",
+    "path": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_精工克制R2.png",
+    "purpose": "采用：原座钟位置/钟针摆锤、两鞋楦/铜钱/折布/荷包/工具/盘绳/木屑保持，桌梁腿大面刮损减少，铺子仍为普通木作业场。只环境与道具静态，未证明钟摆停时/时间回流或铜钱运动。",
+    "width": 941,
+    "height": 1671,
+    "bytes": 2632360,
+    "sha256": "c415d2f61ad1cbc609f0d774be16b620c540516ddd40c7f7bda70f40624f15bc",
+    "upscaled": false
+  },
+  {
+    "id": "OUT-SHOP-PEOPLE-REFINED-R2",
+    "path": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2_精工克制R2.png",
+    "purpose": "采用：苏晚原脸衣/发饰/合手与门槛赤足状态保持，钟仍在本图原前景机位；木屑/鞋楦/钱/布/荷包/工具与盘绳保持。仅木作表面减轻刮损，不视为人物资产重设或钟摆动态验收。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2507963,
+    "sha256": "8a4dcb9ec4ba475381ded5c06479bf1a55dcf7c54966a400202ee7665319aecd",
+    "upscaled": false
   }
 ]

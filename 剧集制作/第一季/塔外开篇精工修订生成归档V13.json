@@ -53,5 +53,57 @@
     "prompt": "精确材质修订：必须显著减轻完整人造石板、木作和金属表面的破旧感。把完好石材大面皱褶锡纸状深凹凸、满地无关苔污改成完整平整细磨灰石，只有适度天然细纹和原接缝；木质结构为保养良好的刨平旧木，去掉全面刮烂腐朽纹；金属是低饱和石墨灰/暗铜的平整细腻表面。只改完整表面的材质，不修复下文指定的剧情断裂、缺口、碎片或动作接触。\nUse case: precise-object-edit / identity-preserve where people exist. Image 1 is the EXACT edit target. One highest-native-quality live-action cinematic still with ORIGINAL canvas ratio, camera, perspective, lens, composition, geography and architecture LOCKED. Maintain independent TreeHundredYear world design, original immense scenery, original light direction and restrained grey/wood/dark bronze palette, no gaudy palace or rainbow neon, no new decor. Preserve all existing people identities, ages, faces, hair, costumes, fingers and foot contact WITHOUT redesign. Natural cliffs, pines, clouds and plot-local damage stay. No added person, object, weapon, support, route, legible text, caption, watermark or logo. No story advancement. Preserve the EXACT FULL OPEN original double doors and aperture width with source left/right compass half-reliefs, ORIGINAL cool blue deep hall, floor path, interior hanging lanterns and distant low platform/architecture visible. Keep lit thin ring segments as source, same facade/eaves/steps/foreground. Do not close or narrow gap, add new interior room or people, change hall perspective or make a solid white light portal. Only refine complete stone/metal/paving surface distress and excessive gold glare. Image 2 is supporting material-finish reference ONLY: match its grey slate/dark bronze/plain complete forecourt finish. Image 1 alone controls door aperture, illuminated arcs and interior visibility; never copy Image 2's closed/unlit state.",
     "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-348b24a0-30b7-4989-bc03-8d67445ad552.png",
     "qa": "采用：原全开宽度、两侧半星盘、冷蓝大厅地面/悬灯/远端平台保持，未变成白光传送门；广场与门楼表面更完整。只全开静态，不证明合门倒计时或人物入塔动态。"
+  },
+  {
+    "key": "OUT-STREET-REFINED-R2",
+    "name": "塔外街口木车空景精工克制R2",
+    "date": "2026-10-19",
+    "origin": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_古旧提质R1.png",
+    "path": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_精工克制R2.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_古旧提质R1.png"
+    ],
+    "prompt": "精确材质修订：必须显著减轻完整人造石板、木作和金属表面的破旧感。把完好石材大面皱褶锡纸状深凹凸、满地无关苔污改成完整平整细磨灰石，只有适度天然细纹和原接缝；木质结构为保养良好的刨平旧木，去掉全面刮烂腐朽纹；金属是低饱和石墨灰/暗铜的平整细腻表面。只改完整表面的材质，不修复下文指定的剧情断裂、缺口、碎片或动作接触。\nUse case: precise-object-edit / identity-preserve where people exist. Image 1 is the EXACT edit target. One highest-native-quality live-action cinematic still with ORIGINAL canvas ratio, camera, perspective, lens, composition, geography and architecture LOCKED. Maintain independent TreeHundredYear world design, original immense scenery, original light direction and restrained grey/wood/dark bronze palette, no gaudy palace or rainbow neon, no new decor. Preserve all existing people identities, ages, faces, hair, costumes, fingers and foot contact WITHOUT redesign. Natural cliffs, pines, clouds and plot-local damage stay. No added person, object, weapon, support, route, legible text, caption, watermark or logo. No story advancement. Preserve original EMPTY street camera, right wooden cart/wheel/axle, original large chock by near wheel, frame/stall cloth/ropes/basket/crockery positions, left wood shop opening and rising lane. Foreground BROKEN PORCELAIN BOWL PIECES and spilled brown TEA/PUDDLE must remain in same positions/count/shapes: this is active story evidence, not rubbish to clean. Keep blue awning hue and wet light. Refine only intact street flagstones, stall timber and cart sound planks: maintained planed wood, far less blanket gouging/dirt, subtle wet stone grain, no asphalt, no new gold/metal cart, no repaired/reassembled bowl.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-1d2ea8c2-aef8-4edf-8539-7b1fde6d5170.png",
+    "qa": "采用：原碎碗/茶水、右木车轮轴/垫木、摊位与左木铺空间保持；铺石和车板完整、全面凹蚀/苔污减少。仅空景，不代表碎碗已复原或木车倒行完成。"
+  },
+  {
+    "key": "OUT-STREET-PEOPLE-REFINED-R2",
+    "name": "塔外街口三人起始精工克制R2",
+    "date": "2026-10-19",
+    "origin": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2_古旧提质R1.png",
+    "path": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2_精工克制R2.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2_古旧提质R1.png"
+    ],
+    "prompt": "精确材质修订：必须显著减轻完整人造石板、木作和金属表面的破旧感。把完好石材大面皱褶锡纸状深凹凸、满地无关苔污改成完整平整细磨灰石，只有适度天然细纹和原接缝；木质结构为保养良好的刨平旧木，去掉全面刮烂腐朽纹；金属是低饱和石墨灰/暗铜的平整细腻表面。只改完整表面的材质，不修复下文指定的剧情断裂、缺口、碎片或动作接触。\nUse case: precise-object-edit / identity-preserve where people exist. Image 1 is the EXACT edit target. One highest-native-quality live-action cinematic still with ORIGINAL canvas ratio, camera, perspective, lens, composition, geography and architecture LOCKED. Maintain independent TreeHundredYear world design, original immense scenery, original light direction and restrained grey/wood/dark bronze palette, no gaudy palace or rainbow neon, no new decor. Preserve all existing people identities, ages, faces, hair, costumes, fingers and foot contact WITHOUT redesign. Natural cliffs, pines, clouds and plot-local damage stay. No added person, object, weapon, support, route, legible text, caption, watermark or logo. No story advancement. EXACT THREE original people: adult Su Wan (apparent25) in same silver-white/ice-blue costume, hair jewels and BARE FEET at left-center looking toward right cart; same older grey-bearded man left-rear holding existing bowl pieces, same middle-aged brown-clothed stallholder at right with hand on cart. Lock faces/poses/eyes/hands/all clothes and foot positions, no new bags or weapons. Same foreground BROKEN bowl fragments and brown tea, same cart/wheel/chock and alley/blue awning. Refine ONLY sound lane/wood stall/cart surfaces to match maintained traditional village, not costumes or story objects; do not reassemble bowl, move people, change character expression or add crowd.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-094506dd-e7a6-4355-9c01-801d6464b47d.png",
+    "qa": "采用：恰三人原脸衣/站位、苏晚赤足、摊主扶车与老人持碗状态保持；碎碗茶水留原区域，铺石/车板更完整，无新增人或换装。只人物起始参考，未验证逆回或重组动态。"
+  },
+  {
+    "key": "OUT-SHOP-REFINED-R2",
+    "name": "塔外木匠铺空景精工克制R2",
+    "date": "2026-10-19",
+    "origin": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_古旧提质R1.png",
+    "path": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_精工克制R2.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_古旧提质R1.png"
+    ],
+    "prompt": "精确材质修订：必须显著减轻完整人造石板、木作和金属表面的破旧感。把完好石材大面皱褶锡纸状深凹凸、满地无关苔污改成完整平整细磨灰石，只有适度天然细纹和原接缝；木质结构为保养良好的刨平旧木，去掉全面刮烂腐朽纹；金属是低饱和石墨灰/暗铜的平整细腻表面。只改完整表面的材质，不修复下文指定的剧情断裂、缺口、碎片或动作接触。\nUse case: precise-object-edit / identity-preserve where people exist. Image 1 is the EXACT edit target. One highest-native-quality live-action cinematic still with ORIGINAL canvas ratio, camera, perspective, lens, composition, geography and architecture LOCKED. Maintain independent TreeHundredYear world design, original immense scenery, original light direction and restrained grey/wood/dark bronze palette, no gaudy palace or rainbow neon, no new decor. Preserve all existing people identities, ages, faces, hair, costumes, fingers and foot contact WITHOUT redesign. Natural cliffs, pines, clouds and plot-local damage stay. No added person, object, weapon, support, route, legible text, caption, watermark or logo. No story advancement. Preserve exact EMPTY workshop composition: original clock position/size on bench, dial hands/pendulum physical state, coins, two wooden shoe lasts, folded cloth, pouch, hand tools, chisel rack, wall shelves, chest and basket, front vise with coiled rope, chair, barrels and boxes. Wood SHAVINGS remain active carpentry work, not debris to remove; keep same distribution without adding piles. Refine overly scarred bench top/legs and structural beams to maintained planed dark timber with light honest use marks, not glossy luxury furniture. Original warm window/door daylight direction, plaster wall intact subtly textured. No added person, new tools, clock numerals or a science-fiction console.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-caaf6fb7-6f7f-45b5-98ba-96670d0cdb0a.png",
+    "qa": "采用：原座钟位置/钟针摆锤、两鞋楦/铜钱/折布/荷包/工具/盘绳/木屑保持，桌梁腿大面刮损减少，铺子仍为普通木作业场。只环境与道具静态，未证明钟摆停时/时间回流或铜钱运动。"
+  },
+  {
+    "key": "OUT-SHOP-PEOPLE-REFINED-R2",
+    "name": "塔外木匠铺苏晚起始精工克制R2",
+    "date": "2026-10-19",
+    "origin": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2_古旧提质R1.png",
+    "path": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2_精工克制R2.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2_古旧提质R1.png"
+    ],
+    "prompt": "精确材质修订：必须显著减轻完整人造石板、木作和金属表面的破旧感。把完好石材大面皱褶锡纸状深凹凸、满地无关苔污改成完整平整细磨灰石，只有适度天然细纹和原接缝；木质结构为保养良好的刨平旧木，去掉全面刮烂腐朽纹；金属是低饱和石墨灰/暗铜的平整细腻表面。只改完整表面的材质，不修复下文指定的剧情断裂、缺口、碎片或动作接触。\nUse case: precise-object-edit / identity-preserve where people exist. Image 1 is the EXACT edit target. One highest-native-quality live-action cinematic still with ORIGINAL canvas ratio, camera, perspective, lens, composition, geography and architecture LOCKED. Maintain independent TreeHundredYear world design, original immense scenery, original light direction and restrained grey/wood/dark bronze palette, no gaudy palace or rainbow neon, no new decor. Preserve all existing people identities, ages, faces, hair, costumes, fingers and foot contact WITHOUT redesign. Natural cliffs, pines, clouds and plot-local damage stay. No added person, object, weapon, support, route, legible text, caption, watermark or logo. No story advancement. Preserve EXACT one adult Su Wan apparent25 in right doorway, same face/eyes/hair jewels/opaque-lined silver-white ice-blue costume, clasped hands and both BARE FEET on same threshold. Do not edit her face or clothes. Preserve source CLOCK at its original source-image foreground position/size (not another reference position), source coins/shoe lasts/cloth/pouch/chisels/coiled rope/wood shavings/work benches/rack/window and doorway. Only refine building/bench sound wood and plaster surfaces to maintained warm traditional workshop, reduce blanket gouged/peeling texture, keep legitimate work shavings and specific marks. No new person/extra clock/tool, no hair/clothes redesign or erotic pose.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-94ee3b35-ef7d-4e4e-85c7-29611d86f5d7.png",
+    "qa": "采用：苏晚原脸衣/发饰/合手与门槛赤足状态保持，钟仍在本图原前景机位；木屑/鞋楦/钱/布/荷包/工具与盘绳保持。仅木作表面减轻刮损，不视为人物资产重设或钟摆动态验收。"
   }
 ]
