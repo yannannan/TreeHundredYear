@@ -5,7 +5,7 @@
 - 原图输入：场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1.png
 - 工具输出：C:\Users\Administrator\.codex\generated_images\01a13342-be9b-76d3-98f3-ecb9288dd49f\exec-c091f128-72a6-43bf-bc52-a0ccfe6b5f47.png
 - 像素：941×1672；SHA256：9c2d2d0ce840967e8e05a27cb1eb969eec030b05db2c0412bfd631cb06068250
-- 状态：已生成，待逐图视检；未自动替换正式段落。
+- 状态：已逐图视检，古旧低饱和提质方向通过；参考采用状态以当前映射/执行目录为准。
 
 ## 实际提交提示词
 
@@ -14,3 +14,7 @@ Use case: precise-object-edit. This is a restrained material and cinematography 
 
 Shot-specific invariants: Retain the huge gravity ring, deep chasm, narrow usable stone steps, upside-down waterfalls, chain and distant bridges; keep localized broken step edges.
 ```
+
+## 本轮视检
+
+已视检古旧低饱和方向、主体构图与材质/光影；原动作/握点/局部故障限制继续有效，未作动态验收。

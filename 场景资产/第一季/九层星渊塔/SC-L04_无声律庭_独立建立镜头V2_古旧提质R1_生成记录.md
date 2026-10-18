@@ -5,7 +5,7 @@
 - 原图输入：场景资产/第一季/九层星渊塔/SC-L04_无声律庭_独立建立镜头V2.png
 - 工具输出：C:\Users\Administrator\.codex\generated_images\01a13342-be9b-76d3-98f3-ecb9288dd49f\exec-cf7b8127-2d70-415d-af7b-a69381f693b4.png
 - 像素：941×1672；SHA256：0c07ea7a22365b3a7033fb29a8f6daf291058f4c6a39690c179b0121b5ee87cf
-- 状态：已生成，待逐图视检；未自动替换正式段落。
+- 状态：已逐图视检，古旧低饱和提质方向通过；参考采用状态以当前映射/执行目录为准。
 
 ## 实际提交提示词
 
@@ -14,3 +14,7 @@ Use case: precise-object-edit. This is a restrained material and cinematography 
 
 Shot-specific invariants: Keep the vast silent tribunal stone seats around the black pit, same single guard statue, chains and narrow stone route. Sober bone-grey, black and dim gold, no extra guards or symbols.
 ```
+
+## 本轮视检
+
+已视检古旧低饱和方向、主体构图与材质/光影；原动作/握点/局部故障限制继续有效，未作动态验收。

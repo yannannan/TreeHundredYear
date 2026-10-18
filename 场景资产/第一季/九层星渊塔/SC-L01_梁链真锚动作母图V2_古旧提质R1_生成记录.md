@@ -5,7 +5,7 @@
 - 原图输入：场景资产/第一季/九层星渊塔/SC-L01_梁链真锚动作母图V2.png
 - 工具输出：C:\Users\Administrator\.codex\generated_images\01a13342-be9b-76d3-98f3-ecb9288dd49f\exec-f759ee65-3e9b-43b0-af91-0f485c02304b.png
 - 像素：941×1672；SHA256：79b0718cf1a6a1fe9d7dc7ee6e3af19c5f7e7c4e12bcbee4408254ef0b95976e
-- 状态：已生成，待逐图视检；未自动替换正式段落。
+- 状态：已逐图视检，古旧低饱和提质方向通过；参考采用状态以当前映射/执行目录为准。
 
 ## 实际提交提示词
 
@@ -14,3 +14,7 @@ Use case: precise-object-edit. This is a restrained material and cinematography 
 
 Shot-specific invariants: Exactly preserve the chain, both real anchor points, safe landing edges, gap and beam shape; improve its aged-metal legibility without repairing the actual missing bridge.
 ```
+
+## 本轮视检
+
+已视检古旧低饱和方向、主体构图与材质/光影；原动作/握点/局部故障限制继续有效，未作动态验收。

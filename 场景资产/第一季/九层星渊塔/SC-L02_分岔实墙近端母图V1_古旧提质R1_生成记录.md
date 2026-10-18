@@ -5,7 +5,7 @@
 - 原图输入：场景资产/第一季/九层星渊塔/SC-L02_分岔实墙近端母图V1.png
 - 工具输出：C:\Users\Administrator\.codex\generated_images\01a13342-be9b-76d3-98f3-ecb9288dd49f\exec-31f307fb-a11d-4c8d-af58-598964fa90ec.png
 - 像素：941×1672；SHA256：7198c41fccf354a46c8918405b0063266f826bfc1efdafe7bd3e39f1ae02ad43
-- 状态：已生成，待逐图视检；未自动替换正式段落。
+- 状态：已逐图视检，古旧低饱和提质方向通过；参考采用状态以当前映射/执行目录为准。
 
 ## 实际提交提示词
 
@@ -14,3 +14,7 @@ Use case: precise-object-edit. This is a restrained material and cinematography 
 
 Shot-specific invariants: Keep the two physical lanes separated by the same solid mirror wall, the horizontal crossbar, real knife groove, fixed lamp base and convergence direction; reflections do not become extra real corridors.
 ```
+
+## 本轮视检
+
+已视检古旧低饱和方向、主体构图与材质/光影；原动作/握点/局部故障限制继续有效，未作动态验收。
