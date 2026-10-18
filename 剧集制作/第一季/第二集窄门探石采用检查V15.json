@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-19",
+  "newStaticOriginals": 4,
+  "copiedPlacements": 5,
+  "updatedSegments": [
+    "02-05",
+    "02-06"
+  ],
+  "formalCharacterCostumeMastersEdited": 0,
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "placements": [
+    {
+      "segment": "02-05",
+      "id": "EP02-NARROW-THREEQUARTER-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-05_双物一掌窄开四分之三外轨V1.png",
+      "file": "KEY02-05_双物一掌窄开四分之三外轨V1.png"
+    },
+    {
+      "segment": "02-05",
+      "id": "EP02-STONE-TIP-V3",
+      "source": "场景资产/第一季/早期接触/KEY02-05_右手旧剑尖托石门外接触V3.png",
+      "file": "KEY02-05_右手旧剑尖托石门外接触V3.png"
+    },
+    {
+      "segment": "02-05",
+      "id": "EP02-STONE-LANDED-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-05_单石已落门内剑尖留门外V1.png",
+      "file": "KEY02-05_单石已落门内剑尖留门外V1.png"
+    },
+    {
+      "segment": "02-05",
+      "id": "EP02-NARROW-REACTION-V2",
+      "source": "场景资产/第一季/早期接触/KEY02-05_窄门落石后苏晚收手双人尾态V2.png",
+      "file": "KEY02-05_窄门落石后苏晚收手双人尾态V2.png"
+    },
+    {
+      "segment": "02-06",
+      "id": "EP02-NARROW-REACTION-V2",
+      "source": "场景资产/第一季/早期接触/KEY02-05_窄门落石后苏晚收手双人尾态V2.png",
+      "file": "KEY02-05_窄门落石后苏晚收手双人尾态V2.png"
+    }
+  ]
+}

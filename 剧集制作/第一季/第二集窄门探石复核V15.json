@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-19",
+  "baseline": "4e6cf73",
+  "checkedSegments": 313,
+  "rawAdopted": 4,
+  "archivedCandidates": 3,
+  "actualGeneratedOutputs": 7,
+  "staticCopiedPlacements": 5,
+  "targetSegments": [
+    "02-05",
+    "02-06"
+  ],
+  "dialogueFirstLastTimeAndOtherFieldsExceptReferencesAndPendingUnchanged": true,
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "errors": []
+}
