@@ -1,6 +1,6 @@
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const dir=__dirname,root=path.resolve(dir,'../..'),hash=b=>crypto.createHash('sha256').update(b).digest('hex'),read=name=>JSON.parse(fs.readFileSync(path.join(dir,name),'utf8'));
-const batches=[['精工克制场景修订原图清单V2.json','精工克制场景修订生成归档V2.json'],['沙海精工连续场景修订原图清单V3.json','沙海精工连续场景修订生成归档V3.json'],['塔体与各层主景精工修订原图清单V4.json','塔体与各层主景精工修订生成归档V4.json']];
+const batches=[['精工克制场景修订原图清单V2.json','精工克制场景修订生成归档V2.json'],['沙海精工连续场景修订原图清单V3.json','沙海精工连续场景修订生成归档V3.json'],['塔体与各层主景精工修订原图清单V4.json','塔体与各层主景精工修订生成归档V4.json'],['机关近景精工修订原图清单V5.json','机关近景精工修订生成归档V5.json']];
 const previous=fs.existsSync(path.join(dir,'精工克制场景采用映射V2.json'))?read('精工克制场景采用映射V2.json'):[];
 const origins={
  'SC-L03-REFINED-R2':'场景资产/第一季/九层星渊塔/SC-L03_星蚀沙海_独立建立镜头V2_古旧提质R1.png',
