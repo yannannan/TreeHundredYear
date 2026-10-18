@@ -21,3 +21,4 @@ module.exports=make('32','第三十二','这次轮到你找我','承31真实第1
 ]);
 // 旁白不能落入默认“该时段只有此人开口”的规则；同一A仍是独立内心音轨。
 module.exports.segments[9].lines[0][5]='A内心音轨，0.8—5.4秒嘴完全不动；6.3秒起才转有声真口型，不让B代读';
+module.exports.segments[9].lines[0][6]='inner';

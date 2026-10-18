@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-18",
+  "scope": "28—32完整执行文本/源图副本/登记的终章关键物位；不是视频与美术品质实测",
+  "episodes": [
+    {
+      "episode": 28,
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 162
+    },
+    {
+      "episode": 29,
+      "segments": 11,
+      "seconds": 165,
+      "referenceCopies": 158
+    },
+    {
+      "episode": 30,
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 168
+    },
+    {
+      "episode": 31,
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 168
+    },
+    {
+      "episode": 32,
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 175
+    }
+  ],
+  "segments": 59,
+  "referenceCopies": 831,
+  "errors": [],
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "characterCostumeImagesEdited": false,
+  "completionClaim": "只证明静态交付文件一致与明确关键规则；专用参考及实际动态仍需继续制作验收"
+}
