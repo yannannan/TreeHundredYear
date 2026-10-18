@@ -1,0 +1,42 @@
+[
+  {
+    "id": "OUT-GATE-CLOSED-REFINED-R2",
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1_精工克制R2.png",
+    "purpose": "采用：门楼/广场石板大面完整、全面凹蚀与苔污减少；门全闭、整幅星盘纹无主动亮弧、中缝/檐层/灯位保持。仅闭态环境，不证明机关开合或认证。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2950838,
+    "sha256": "07960aac6f2e3d896cb9d2ca8848fb14821906b89aa85a57d5e13039e01a4bb3",
+    "upscaled": false
+  },
+  {
+    "id": "OUT-GATE-HALFLIT-REFINED-R3",
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1_精工克制R3.png",
+    "purpose": "采用：R3将过亮下半弧熄灭，仅保留原右上短亮弧；门保持全闭，暗铜星纹/门楼与平整灰石材质保持。R2亮弧越界候选不采用；只半亮静态，不代表门已开或双源认证完成。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2667148,
+    "sha256": "ecda4daf459555f7a00777e8af36a002b2a93aa9ce228545bd3952ea29053e4f",
+    "upscaled": false
+  },
+  {
+    "id": "OUT-GATE-NARROW-REFINED-R2",
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1_精工克制R2.png",
+    "purpose": "采用：原中央窄缝宽度、分开的两半星盘纹与冷色缝后纵深保持；原部分亮纹未扩为全亮，门楼和广场石面更完整。仅窄开静态，不代替全开通行或夹距动态验证。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2780260,
+    "sha256": "97da18c1cdbad5bd41320676f5e92ad54f1274ee3123fc19806cf190e81d0a76",
+    "upscaled": false
+  },
+  {
+    "id": "OUT-GATE-OPEN-REFINED-R2",
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1_精工克制R2.png",
+    "purpose": "采用：原全开宽度、两侧半星盘、冷蓝大厅地面/悬灯/远端平台保持，未变成白光传送门；广场与门楼表面更完整。只全开静态，不证明合门倒计时或人物入塔动态。",
+    "width": 941,
+    "height": 1671,
+    "bytes": 2715827,
+    "sha256": "d24a0c2334379b7f151c698a3e7a35568e1c8dedbd875b773eed070280159fcf",
+    "upscaled": false
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "OUT-GATE-HALFLIT-REFINED-R2-CANDIDATE",
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1_精工克制R2_候选.png",
+    "purpose": "候选：材质改善、门保持关闭，但右侧亮弧延伸到下半圈，超过原右上短弧，不采用到半亮阶段。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2810201,
+    "sha256": "7b67028e97ad30f78192beefe7809ec8f8596c8d2fb83d2bc6715b991500e1dd",
+    "upscaled": false
+  }
+]
