@@ -18,5 +18,15 @@
     "bytes": 2422272,
     "sha256": "09c9781044abf7b900a550e738e88eb554ec06d0726f37fa4742e1473dc03972",
     "upscaled": false
+  },
+  {
+    "id": "EP02-NARROW-REACTION-CANDIDATE-V1",
+    "path": "场景资产/第一季/早期接触/KEY02-05_窄门落石后苏晚收手双人尾态候选V1.png",
+    "purpose": "候选拒用：落点/收手/右持剑已呈现，但背鞘仍突出剑柄，形成一把已抽出同时背上还有剑的矛盾；不能作为05尾/06首。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2620836,
+    "sha256": "810805aeaa896504ba6b5f82761bd1c7b387b59a7a51cac1c3af4f5040e98963",
+    "upscaled": false
   }
 ]

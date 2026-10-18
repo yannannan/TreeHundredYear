@@ -32,5 +32,37 @@
     "prompt": "Use case: precise-object-edit. Edit this exact cinematic still. Change ONLY one erroneous luminous diagonal spoke near the UPPER RIGHT (the short glowing diagonal running down-right toward the woman's forearm and meeting the circular arc in a V). Extinguish that entire straight diagonal spoke to the same dark nonluminous engraved bronze as all other spokes. Retain the gently curved fine outer-ring light behind it; do not extinguish the curved outer track. No straight glowing stroke may remain. All inner rings/spokes/glyphs must stay dark. Keep absolutely everything else: exact frame/crop, original right-hand sword grip and oval bronze guard, blade tip in contact at near edge of single small pebble outside narrow slot; A left palm token/B right palm silver cloth one-palm-separated, B left lowered, same clothes/feet/hands/door gap/continuous blue floor/lighting. This is a localized light correction, not a new scene. No text/logo/watermark, no added objects, highest native detail, vertical9:16.",
     "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-51b3b952-0549-4226-a86e-7f0fef78bab3.png",
     "qa": "采用有限剑尖近石接触目标：A右手旧直铁剑、小椭圆铜格、左掌古符，B右掌布结相隔约一掌、左手空垂，剑尖在门外单颗小石近缘接触，原窄缝与裸足/靴位可辨。V2新增斜亮辐条已熄，仅保留裁切可见外轨。只作接触前/起始局部，不证明已完成挑起、抛送、完整圆轨角度或后续落点。"
+  },
+  {
+    "key": "EP02-STONE-LANDED-V1",
+    "name": "门内单石落点与外侧剑尖",
+    "path": "场景资产/第一季/早期接触/KEY02-05_单石已落门内剑尖留门外V1.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-51b3b952-0549-4226-a86e-7f0fef78bab3.png",
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-369553ba-2117-4623-9b29-63a6237b67f0.png"
+    ],
+    "targets": [
+      "02-05"
+    ],
+    "phase": "02-05第8秒起可见落地后静态，三秒无落石声需后续音视频",
+    "prompt": "Use case: precise-object-edit. One vertical9:16 cinematic live-action action reference. Image1 is the exact low contact shot before A flicks a pebble. Image2 supplies full narrow-door upper-platform geometry and sole outer 270-degree light state. Create the same view AFTER the one small pale grey pebble has been gently sent through the central 12cm slit and landed. The SINGLE pebble must now visibly rest on the BLUE INTERIOR FLOOR about 20cm beyond the threshold, entirely behind the door plane, centred inside the visible slit. It must not be in front of the door, on the threshold lip, airborne, or perched in the gap. Remove the former exterior pebble completely. Keep the same size and rough pale-grey texture. Make the small near-interior landing patch clearly readable through the slot, use a slightly lower and closer camera if necessary but no change to door size/opening. No invented additional stones.\nA still stands OUTSIDE frame LEFT same black gold clothes and boots; his right fist holds same plain old iron sword with small oval bronze guard. Blade is now pulled back/down on exterior LEFT, its tip well away from the centre gap and not touching the landed stone. No arm/weapon crosses doorway in this after-landing state. His LEFT palm holds same small bronze boss token near centre-left; B on RIGHT remains outside, silverblue dress and barefeet, anatomical RIGHT palm holds same small tied silver cloth knot one palm width from token, left empty hand lowered. Both small objects remain separate/not touching; no extra sword or token. Preserve original skin/garment details, B right waist short knife sheath. No left-ankle injury. Back empty scabbard cropped above is not a new hilt.\nDoor leaves still narrowly separated, not full open or rotated; continuous solid floor to inside and outside, no shaft/step/stair between. Door illumination remains single fine outer circle270degrees with upper-left quarter dark, cropped section fine, no glowing straight spoke/inner glyph/border. Interior dim cool blue, exterior controlled warm dawn, premium detailed maintained grey stone/graphite/dark bronze, low saturation, no ruins/rubbish/blanket corrosion. Camera emphasizes pebble behind the plane and safe sword outside. No figures inside. No text, captions, symbols denoting sound or arrows, no logo/watermark. This is ONLY a silent static landing target, cannot depict audio or three seconds of silence; do not illustrate acoustic waves.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-bd543c32-7f33-4c15-b10a-1aeedd74e4db.png",
+    "qa": "采用有限落点局部：单颗浅灰小石已在门槛后的冷蓝内地面可见，门外原石位置为空，A右剑退回外侧左下、左符/B右布结保持，B左手空垂且两人未跨门。只静态落点和物位，不证明20厘米实测距离、飞行路线、三秒无声或第11秒声效；不把裁切门轨当完整角度图。"
+  },
+  {
+    "key": "EP02-NARROW-REACTION-V2",
+    "name": "窄门落石后空鞘收手尾态修正",
+    "path": "场景资产/第一季/早期接触/KEY02-05_窄门落石后苏晚收手双人尾态V2.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-5406e8ef-f906-4fc9-abd7-bfaf2f5aebed.png"
+    ],
+    "targets": [
+      "02-05",
+      "02-06"
+    ],
+    "phase": "02-05末尾/02-06首态：石已落内、剑在右手、B左手已收回",
+    "prompt": "Use case: precise-object-edit. Edit EXACT supplied portrait9:16 movie still with ONE localized correction. A man has his ONLY sword already drawn in anatomical RIGHT hand at screenleft lower thigh. Therefore his back scabbard must be EMPTY. At UPPER LEFT behind his shoulder remove the protruding sword grip AND square bronze pommel entirely (currently rising from shoulder to head level). Replace ONLY that protrusion with the visibly EMPTY scabbard throat: a short worn dark-brown sheath rim with hollow dark oval opening, cut off immediately above shoulder. NO handle, NO grip wrapping, NO pommel, NO second sword. Keep scabbard main body strapped behind shoulder and do not remove actual sword in right hand. Do not confuse hollow sheath mouth with weapon hilt. Absolutely everything else unchanged: exact faces/hair/costumes/feet, A right iron sword and left bronze token, B right silvercloth knot onepalm away and left hand withdrawn near own chest, single pebble inside blue floor, 12cm narrow slit and continuous threshold, sole fine 270degree outer ring with upperleft quarter dark/inner decoration dark, light/composition/geometry. No captions/logo/watermark. Only fix empty sheath and retain highest native detail.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-1644e884-9173-4355-b795-80d5f6b79b8c.png",
+    "qa": "采用有限05末/06首目标：A右手抽出旧直剑朝外侧下垂、左符/B右布结相隔约一掌，B左手收在自身胸侧，单石已在门内，二人未跨门；修正背鞘为可见空口无第二剑柄，唯一外轨可见270度/左上暗。只锁尾/首物位与收手静态，不证明抽收剑动作、精确角度测绘、声画延迟或开门动态。"
   }
 ]
