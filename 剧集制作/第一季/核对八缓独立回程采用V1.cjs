@@ -11,7 +11,7 @@ const root=path.resolve(__dirname,'../..'),read=p=>JSON.parse(fs.readFileSync(pa
  let placements=0;const destinations=[];
  for(const {id,data}of ledgers)for(const s of data.segments){const key=id+'-'+String(s.n).padStart(2,'0'),prompt=fs.readFileSync(path.join(root,s.prompt||s.promptFile),'utf8');
   for(const r of rejected)if(s.refs.some(x=>x.source===r.path))errors.push(key+'误用候选 '+r.id);
-  for(const r of m.entries){const found=s.refs.filter(x=>x.source===r.path);if(found.length!==Number(r.targets.includes(key)))errors.push(key+'采用范围错误 '+r.id);if(found.length){const b=fs.readFileSync(path.join(root,path.dirname(s.prompt),found[0].file));if(hash(b)!==r.sha256||found[0].sha256!==r.sha256||!prompt.includes(found[0].file))errors.push(key+'未完整就近复制 '+r.id);placements++;destinations.push({segment:key,id:r.id});}}
+  for(const r of m.entries.map(require('./解析当前场景参考V1.cjs'))){const found=s.refs.filter(x=>x.source===r.path);if(found.length!==Number(r.targets.includes(key)))errors.push(key+'采用范围错误 '+r.id);if(found.length){const b=fs.readFileSync(path.join(root,path.dirname(s.prompt),found[0].file));if(hash(b)!==r.sha256||found[0].sha256!==r.sha256||!prompt.includes(found[0].file))errors.push(key+'未完整就近复制 '+r.id);placements++;destinations.push({segment:key,id:r.id});}}
  }
  if(placements!==11)errors.push('专用图应11份就近副本');
  const p32=ledgers.find(x=>x.id==='32').data;

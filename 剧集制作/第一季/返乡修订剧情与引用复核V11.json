@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-19",
+  "baseline": "7f20fd8",
+  "checkedSegments": 313,
+  "newRefinedImages": 11,
+  "newCopiedPlacements": 12,
+  "updatedSegments": [
+    "31-03",
+    "32-01",
+    "32-04",
+    "32-05",
+    "32-06",
+    "32-07"
+  ],
+  "keptUneditedImagesThisBatch": 1,
+  "keptUneditedPlacementsThisBatch": 1,
+  "dialogueFirstLastAndOtherNonReferenceLedgerFieldsUnchanged": true,
+  "actualVideoGenerated": false,
+  "errors": []
+}

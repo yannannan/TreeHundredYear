@@ -1,93 +1,112 @@
 [
   {
-    "key": "RETURN-URGENT-REFINED-R2",
-    "name": "三急序列首人过门",
-    "origin": "场景资产/第一季/关键接触/KEY32-01_三急危者无新增袋包回程V2.png",
+    "id": "RETURN-URGENT-REFINED-R2",
     "path": "场景资产/第一季/关键接触/KEY32-01_三急危者无新增袋包回程V2_精工克制R2.png",
-    "inputs": [
-      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/关键接触/KEY32-01_三急危者无新增袋包回程V2.png"
-    ],
-    "prompt": "Use case: identity-preserve / precise-object-edit. Edit Image1, this exact existing TreeHundredYear production still. Preserve same full canvas/camera/perspective, all people identities/faces/hair/age, clothing/patches/shoes/hand and foot poses, object positions, exact action state and contact geometry. Do NOT redesign/beautify any person or their costumes, add scars/bandages/extra limbs/straps/bags/weapons/people. Change ONLY sound architecture/mechanical set broad surface finish: complete precisely fitted graphite/slate stone panels, restrained satin dark bronze/brushed alloy, fine intact wood joinery with subtle grain; remove blanket rusty orange/gold chipped paint/pitting/craquelure and unrelated grime/debris. Keep actual work contact wear, functional gaps/door opening, weathered NATURAL outside rocks/plants/wood, cloth lived-in frays and all plot-required localized defects. Maintained ancient engineered craft, low saturation with natural daylight and small warm practical lights, not shiny gold palace or modern showroom, no animation/CG plastic. Independent project design, no other-show asset imitation. Highest native cinematic photographic detail, no artificial upscale, no added text/watermark/logo. Asset:32-01 sequence FIRST urgent adult U beginning to cross original main gate. EXACTLY U at left/front, V blue-cloth woman middle/inside, W brown-cloth man right/inside, original three different faces/rough clothes unchanged, no new bag straps/resources/4th person. U one front foot over same low threshold and original same hand supports left gate edge, V/W remain inside waiting, not all three already returned. Same central MAIN gate leads to original safe sunlit mountain steps/pine/stone-chain rails and far traditional towers as input, original interior water unit/bench/cup shelf remains. Refine broad doorway/floor/wall metal and stone surfaces without moving people/threshold or converting mountain origin into indoor tile; preserve old civilian ragged clothing as story. G/K off-frame, not added here. No gate duplicated, no portal flash or count3 receipt completed. One moment first person's step only.",
-    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-6a7858d6-dfe3-4a5a-af96-fa6aa71caf5b.png",
-    "qa": "采用：三名急危者身份、先后与单人跨门状态保留，无新增袋包；门框、墙面和地板已减轻锈蚀斑驳，室外山阶松树与远塔保留。仅静态视检，不证明动作、承重或过门安全。",
-    "date": "2026-10-19"
+    "purpose": "采用：三名急危者身份、先后与单人跨门状态保留，无新增袋包；门框、墙面和地板已减轻锈蚀斑驳，室外山阶松树与远塔保留。仅静态视检，不证明动作、承重或过门安全。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2740451,
+    "sha256": "f304ecf84f5d1a73365b2bca41b7c6173ff6710197272c056d67dae65e3c274a",
+    "upscaled": false
   },
   {
-    "key": "REPAIR-KNIFESPINE-REFINED-R2",
-    "name": "厚钝刀背朝下垫片接触",
-    "origin": "场景资产/第一季/关键接触/KEY32-04_厚钝刀背朝下垫片接触V4.png",
+    "id": "REPAIR-KNIFESPINE-REFINED-R2",
     "path": "场景资产/第一季/关键接触/KEY32-04_厚钝刀背朝下垫片接触V4_精工克制R2.png",
-    "inputs": [
-      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/关键接触/KEY32-04_厚钝刀背朝下垫片接触V4.png"
-    ],
-    "prompt": "Use case: identity-preserve / precise-object-edit. Edit Image1, this exact existing TreeHundredYear production still. Preserve same full canvas/camera/perspective, all people identities/faces/hair/age, clothing/patches/shoes/hand and foot poses, object positions, exact action state and contact geometry. Do NOT redesign/beautify any person or their costumes, add scars/bandages/extra limbs/straps/bags/weapons/people. Change ONLY sound architecture/mechanical set broad surface finish: complete precisely fitted graphite/slate stone panels, restrained satin dark bronze/brushed alloy, fine intact wood joinery with subtle grain; remove blanket rusty orange/gold chipped paint/pitting/craquelure and unrelated grime/debris. Keep actual work contact wear, functional gaps/door opening, weathered NATURAL outside rocks/plants/wood, cloth lived-in frays and all plot-required localized defects. Maintained ancient engineered craft, low saturation with natural daylight and small warm practical lights, not shiny gold palace or modern showroom, no animation/CG plastic. Independent project design, no other-show asset imitation. Highest native cinematic photographic detail, no artificial upscale, no added text/watermark/logo. Asset:31-03 /32-04 precise repair knife BACK pressing same small SHIM/PAD against existing original support/valve body. Crop remains hands/mechanism only, B RIGHT old narrow palm wrap holds same wooden-hilt repair knife, B LEFT bare hand steadies same valve upper part, original silver/ice-blue jeweled sleeve unchanged. Blade orientation EXACTLY as source: thick blunt SPINE/BACK downward contacting original shim at same support, cutting edge upward away from fingers, original blade intact and retrievable. Keep original little bracket/flat shim/pivot/bolts/open seams and exact tool/hand distances, don't reverse blade, replace pad/hand with metal block, add second tool, weld working slot or heal functional problem. Refine broad valve housing/base/workbench dark bronze/graphite finish, preserve actual wear at work contact/shim, plain wood handle not shiny new dagger. No new scabbard/talisman, no third hand/face, no sparks/magic strength. Static local contact only, not proof of correct safe load/complete pad insertion or valve success.",
-    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-bf2c9589-3c86-4b74-9467-0f80a9c076c2.png",
-    "qa": "采用：右掌包扎、左手扶阀及原刀具/垫片/支点布局保留；刀背向下接触、刃口朝上静态关系可辨。大面腐蚀减轻，维护擦痕保留。静态参考不证明承重、机械安全或动态可行性。",
-    "date": "2026-10-19"
+    "purpose": "采用：右掌包扎、左手扶阀及原刀具/垫片/支点布局保留；刀背向下接触、刃口朝上静态关系可辨。大面腐蚀减轻，维护擦痕保留。静态参考不证明承重、机械安全或动态可行性。",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 2510424,
+    "sha256": "d3cf015e9e23ae3c9d5dc2c0aeef20d01da86153f8ce83c2c25367c24f94d03c",
+    "upscaled": false
   },
   {
-    "key": "RETURN05-REFINED-R2",
-    "name": "05号第4年村道末步",
-    "origin": "场景资产/第一季/关键接触/KEY32-05_缓慢舱05号独立回程V2.png",
+    "id": "RETURN05-REFINED-R2",
     "path": "场景资产/第一季/关键接触/KEY32-05_缓慢舱05号独立回程V2_精工克制R2.png",
-    "inputs": [
-      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/关键接触/KEY32-05_缓慢舱05号独立回程V2.png"
-    ],
-    "prompt": "Use case: identity-preserve / precise-object-edit. Edit Image1, this exact existing TreeHundredYear production still. Preserve same full canvas/camera/perspective, all people identities/faces/hair/age, clothing/patches/shoes/hand and foot poses, object positions, exact action state and contact geometry. Do NOT redesign/beautify any person or their costumes, add scars/bandages/extra limbs/straps/bags/weapons/people. Change ONLY sound architecture/mechanical set broad surface finish: complete precisely fitted graphite/slate stone panels, restrained satin dark bronze/brushed alloy, fine intact wood joinery with subtle grain; remove blanket rusty orange/gold chipped paint/pitting/craquelure and unrelated grime/debris. Keep actual work contact wear, functional gaps/door opening, weathered NATURAL outside rocks/plants/wood, cloth lived-in frays and all plot-required localized defects. Maintained ancient engineered craft, low saturation with natural daylight and small warm practical lights, not shiny gold palace or modern showroom, no animation/CG plastic. Independent project design, no other-show asset imitation. Highest native cinematic photographic detail, no artificial upscale, no added text/watermark/logo. Preserve camera ON EACH ORIGINAL DESTINATION side looking BACK at same warm transfer-house doorway: this one person is walking OUT toward camera, FRONT foot already on that person's real destination ground, REAR foot still inside beyond same low threshold. Hands remain same actual original frame supports, exactly one person here, no Su Wan/other seven passengers. Same face/rough civilian outfit/closed cloth shoes and bare hands, no invented pack or decorative weapon. Keep actual doorway size, rivets, hinges, inside bench/pipe/lamps, original floor and threshold heights. Refine ONLY door/frame broad finish and sound inside floor/walls; exterior nature is ordinary inhabited original world, NOT blue pod/sky bridge/sci-fi floor. Do not add permanent transfer house to local village: this near-frame doorway is temporary phase connection only. Static last step reference only, not full exit-from-pod/bridge walking/routing/receipt proof. Asset:05, year4, same36-year-appearance adult man, broad face/straight brows/black low bun, plain grey-brown crossed linen top/dark trousers/cloth shoes. Outside SAME modest VILLAGE packed-earth lane, low stone WELL/wood fence and original shrubs, no new villagers. Keep complete actual well and fence material, no deletion of pail/scene props already present, natural worn earth isn't polished bronze.",
-    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-3faab0e7-2816-4368-b1a8-a2aad069c078.png",
-    "qa": "采用：05号一前脚落村道、后脚仍在门内，村道石井木篱与本人衣貌保持；门框与室内材质减轻腐蚀。仅返乡静态末步参考，非动作完成证明。",
-    "date": "2026-10-19"
+    "purpose": "采用：05号一前脚落村道、后脚仍在门内，村道石井木篱与本人衣貌保持；门框与室内材质减轻腐蚀。仅返乡静态末步参考，非动作完成证明。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2597711,
+    "sha256": "4eb02bf494509a9918a192ace523ed4909510aadc6246f3869dc4261da441c61",
+    "upscaled": false
   },
   {
-    "key": "RETURN06-REFINED-R2",
-    "name": "06号第9年石街末步",
-    "origin": "场景资产/第一季/关键接触/KEY32-05_缓慢舱06号独立回程V2.png",
+    "id": "RETURN06-REFINED-R2",
     "path": "场景资产/第一季/关键接触/KEY32-05_缓慢舱06号独立回程V2_精工克制R2.png",
-    "inputs": [
-      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/关键接触/KEY32-05_缓慢舱06号独立回程V2.png"
-    ],
-    "prompt": "Use case: identity-preserve / precise-object-edit. Edit Image1, this exact existing TreeHundredYear production still. Preserve same full canvas/camera/perspective, all people identities/faces/hair/age, clothing/patches/shoes/hand and foot poses, object positions, exact action state and contact geometry. Do NOT redesign/beautify any person or their costumes, add scars/bandages/extra limbs/straps/bags/weapons/people. Change ONLY sound architecture/mechanical set broad surface finish: complete precisely fitted graphite/slate stone panels, restrained satin dark bronze/brushed alloy, fine intact wood joinery with subtle grain; remove blanket rusty orange/gold chipped paint/pitting/craquelure and unrelated grime/debris. Keep actual work contact wear, functional gaps/door opening, weathered NATURAL outside rocks/plants/wood, cloth lived-in frays and all plot-required localized defects. Maintained ancient engineered craft, low saturation with natural daylight and small warm practical lights, not shiny gold palace or modern showroom, no animation/CG plastic. Independent project design, no other-show asset imitation. Highest native cinematic photographic detail, no artificial upscale, no added text/watermark/logo. Preserve camera ON EACH ORIGINAL DESTINATION side looking BACK at same warm transfer-house doorway: this one person is walking OUT toward camera, FRONT foot already on that person's real destination ground, REAR foot still inside beyond same low threshold. Hands remain same actual original frame supports, exactly one person here, no Su Wan/other seven passengers. Same face/rough civilian outfit/closed cloth shoes and bare hands, no invented pack or decorative weapon. Keep actual doorway size, rivets, hinges, inside bench/pipe/lamps, original floor and threshold heights. Refine ONLY door/frame broad finish and sound inside floor/walls; exterior nature is ordinary inhabited original world, NOT blue pod/sky bridge/sci-fi floor. Do not add permanent transfer house to local village: this near-frame doorway is temporary phase connection only. Static last step reference only, not full exit-from-pod/bridge walking/routing/receipt proof. Asset:06, year9, same46-year-appearance adult woman/round-long face/small grey in plain low bun, tea-brown simple crossed long robe/brown cloth shoes. Outside SAME small-town STONE STREET beneath old stone ARCH and planted wall edge, not village well or river. Preserve ordinary natural masonry, keep enough precise real ground to read step, don't add jewels, crown, purse or make her young heroine.",
-    "date": "2026-10-19",
-    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-e8af4a2a-7232-44bb-a6bf-5faafcf35665.png",
-    "qa": "采用：06号衣貌、扶门与前脚石街后脚门内状态保留，未增加袋包；门框与室内材质减轻腐蚀，石街自然风化保留。仅静态返乡末步参考。"
+    "purpose": "采用：06号衣貌、扶门与前脚石街后脚门内状态保留，未增加袋包；门框与室内材质减轻腐蚀，石街自然风化保留。仅静态返乡末步参考。",
+    "width": 940,
+    "height": 1672,
+    "bytes": 2665877,
+    "sha256": "eded346a39c2efa57507955670a76839474770f9cb07fd7a6ab5c2fc6f5a1598",
+    "upscaled": false
   },
   {
-    "key": "RETURN07-REFINED-R2",
-    "name": "07号第13年渡口末步",
-    "origin": "场景资产/第一季/关键接触/KEY32-05_缓慢舱07号独立回程V2.png",
+    "id": "RETURN07-REFINED-R2",
     "path": "场景资产/第一季/关键接触/KEY32-05_缓慢舱07号独立回程V2_精工克制R2.png",
-    "inputs": [
-      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/关键接触/KEY32-05_缓慢舱07号独立回程V2.png"
-    ],
-    "prompt": "Use case: identity-preserve / precise-object-edit. Edit Image1, this exact existing TreeHundredYear production still. Preserve same full canvas/camera/perspective, all people identities/faces/hair/age, clothing/patches/shoes/hand and foot poses, object positions, exact action state and contact geometry. Do NOT redesign/beautify any person or their costumes, add scars/bandages/extra limbs/straps/bags/weapons/people. Change ONLY sound architecture/mechanical set broad surface finish: complete precisely fitted graphite/slate stone panels, restrained satin dark bronze/brushed alloy, fine intact wood joinery with subtle grain; remove blanket rusty orange/gold chipped paint/pitting/craquelure and unrelated grime/debris. Keep actual work contact wear, functional gaps/door opening, weathered NATURAL outside rocks/plants/wood, cloth lived-in frays and all plot-required localized defects. Maintained ancient engineered craft, low saturation with natural daylight and small warm practical lights, not shiny gold palace or modern showroom, no animation/CG plastic. Independent project design, no other-show asset imitation. Highest native cinematic photographic detail, no artificial upscale, no added text/watermark/logo. Preserve camera ON EACH ORIGINAL DESTINATION side looking BACK at same warm transfer-house doorway: this one person is walking OUT toward camera, FRONT foot already on that person's real destination ground, REAR foot still inside beyond same low threshold. Hands remain same actual original frame supports, exactly one person here, no Su Wan/other seven passengers. Same face/rough civilian outfit/closed cloth shoes and bare hands, no invented pack or decorative weapon. Keep actual doorway size, rivets, hinges, inside bench/pipe/lamps, original floor and threshold heights. Refine ONLY door/frame broad finish and sound inside floor/walls; exterior nature is ordinary inhabited original world, NOT blue pod/sky bridge/sci-fi floor. Do not add permanent transfer house to local village: this near-frame doorway is temporary phase connection only. Static last step reference only, not full exit-from-pod/bridge walking/routing/receipt proof. Asset:07, year13, same58-year-appearance thin grey-bearded man/plain grey hair low bun, pale stone-grey coarse crossed shirt/dark brown trouser and cloth shoes. Outside SAME old FERRY LANDING wooden planks meeting stone bank/rope mooring posts and distant still water/buildings, no boat passengers added. Preserve real woodplank direction/gaps and posts/chain, safe foot surface not slick new sci-fi deck; unchanged elderly face is not Shen Yan/U.",
-    "date": "2026-10-19",
-    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-1aca2d44-1d25-40ed-867e-81b6925ed6cd.png",
-    "qa": "采用：07号灰发短须及扶门、前脚木栈后脚门内保留，渡口系缆柱/木板/水面位置保持；设备大面较整洁，室外湿木和石材风化保留。仅静态末步参考。"
+    "purpose": "采用：07号灰发短须及扶门、前脚木栈后脚门内保留，渡口系缆柱/木板/水面位置保持；设备大面较整洁，室外湿木和石材风化保留。仅静态末步参考。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2552759,
+    "sha256": "d9ebbda2f85670f85b87e83acd390414b9641a46f490dd1f26752190df438881",
+    "upscaled": false
   },
   {
-    "key": "RETURN08-REFINED-R2",
-    "name": "08号第18年河阶末步",
-    "origin": "场景资产/第一季/关键接触/KEY32-05_缓慢舱08号独立回程V3.png",
+    "id": "RETURN08-REFINED-R2",
     "path": "场景资产/第一季/关键接触/KEY32-05_缓慢舱08号独立回程V3_精工克制R2.png",
-    "inputs": [
-      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/关键接触/KEY32-05_缓慢舱08号独立回程V3.png"
-    ],
-    "prompt": "Use case: identity-preserve / precise-object-edit. Edit Image1, this exact existing TreeHundredYear production still. Preserve same full canvas/camera/perspective, all people identities/faces/hair/age, clothing/patches/shoes/hand and foot poses, object positions, exact action state and contact geometry. Do NOT redesign/beautify any person or their costumes, add scars/bandages/extra limbs/straps/bags/weapons/people. Change ONLY sound architecture/mechanical set broad surface finish: complete precisely fitted graphite/slate stone panels, restrained satin dark bronze/brushed alloy, fine intact wood joinery with subtle grain; remove blanket rusty orange/gold chipped paint/pitting/craquelure and unrelated grime/debris. Keep actual work contact wear, functional gaps/door opening, weathered NATURAL outside rocks/plants/wood, cloth lived-in frays and all plot-required localized defects. Maintained ancient engineered craft, low saturation with natural daylight and small warm practical lights, not shiny gold palace or modern showroom, no animation/CG plastic. Independent project design, no other-show asset imitation. Highest native cinematic photographic detail, no artificial upscale, no added text/watermark/logo. Preserve camera ON EACH ORIGINAL DESTINATION side looking BACK at same warm transfer-house doorway: this one person is walking OUT toward camera, FRONT foot already on that person's real destination ground, REAR foot still inside beyond same low threshold. Hands remain same actual original frame supports, exactly one person here, no Su Wan/other seven passengers. Same face/rough civilian outfit/closed cloth shoes and bare hands, no invented pack or decorative weapon. Keep actual doorway size, rivets, hinges, inside bench/pipe/lamps, original floor and threshold heights. Refine ONLY door/frame broad finish and sound inside floor/walls; exterior nature is ordinary inhabited original world, NOT blue pod/sky bridge/sci-fi floor. Do not add permanent transfer house to local village: this near-frame doorway is temporary phase connection only. Static last step reference only, not full exit-from-pod/bridge walking/routing/receipt proof. Asset:08, year18, same26-year-appearance plain adult woman/oval face/ordinary braided bun, DARK TEAL top/GREY skirt/cloth shoes, NO silver hair flowers/forehead jewel or backpack/shoulder straps. Outside SAME riverside blue-brick STEP/low stone railing/WILLOW leaves/water, not generic other return lane. Keep natural step heights/plant locations, not repair ground under shoe into floating support, no hero costume.",
-    "date": "2026-10-19",
-    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-479a6c4c-6a6f-4e5f-a5ce-e93e6dfbc771.png",
-    "qa": "采用：08号深青衣貌、原扶门姿态、前脚河阶及柳岸背景保留，无肩袋或额外人物；门框大面减轻腐蚀，室外台阶自然风化保留。后脚受裙摆遮挡，不据此证明动态双脚接触。"
+    "purpose": "采用：08号深青衣貌、原扶门姿态、前脚河阶及柳岸背景保留，无肩袋或额外人物；门框大面减轻腐蚀，室外台阶自然风化保留。后脚受裙摆遮挡，不据此证明动态双脚接触。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2892868,
+    "sha256": "263d60ed17a3f6eb41b027312664e64202511dfb03300acb58be69334e1255e7",
+    "upscaled": false
   },
   {
-    "key": "RETURN09-REFINED-R2",
-    "name": "09号第22年田埂末步",
-    "origin": "场景资产/第一季/关键接触/KEY32-06_缓慢舱09号独立回程V2.png",
+    "id": "RETURN09-REFINED-R2",
     "path": "场景资产/第一季/关键接触/KEY32-06_缓慢舱09号独立回程V2_精工克制R2.png",
-    "inputs": [
-      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/关键接触/KEY32-06_缓慢舱09号独立回程V2.png"
-    ],
-    "prompt": "Use case: identity-preserve / precise-object-edit. Edit Image1, this exact existing TreeHundredYear production still. Preserve same full canvas/camera/perspective, all people identities/faces/hair/age, clothing/patches/shoes/hand and foot poses, object positions, exact action state and contact geometry. Do NOT redesign/beautify any person or their costumes, add scars/bandages/extra limbs/straps/bags/weapons/people. Change ONLY sound architecture/mechanical set broad surface finish: complete precisely fitted graphite/slate stone panels, restrained satin dark bronze/brushed alloy, fine intact wood joinery with subtle grain; remove blanket rusty orange/gold chipped paint/pitting/craquelure and unrelated grime/debris. Keep actual work contact wear, functional gaps/door opening, weathered NATURAL outside rocks/plants/wood, cloth lived-in frays and all plot-required localized defects. Maintained ancient engineered craft, low saturation with natural daylight and small warm practical lights, not shiny gold palace or modern showroom, no animation/CG plastic. Independent project design, no other-show asset imitation. Highest native cinematic photographic detail, no artificial upscale, no added text/watermark/logo. Preserve camera ON EACH ORIGINAL DESTINATION side looking BACK at same warm transfer-house doorway: this one person is walking OUT toward camera, FRONT foot already on that person's real destination ground, REAR foot still inside beyond same low threshold. Hands remain same actual original frame supports, exactly one person here, no Su Wan/other seven passengers. Same face/rough civilian outfit/closed cloth shoes and bare hands, no invented pack or decorative weapon. Keep actual doorway size, rivets, hinges, inside bench/pipe/lamps, original floor and threshold heights. Refine ONLY door/frame broad finish and sound inside floor/walls; exterior nature is ordinary inhabited original world, NOT blue pod/sky bridge/sci-fi floor. Do not add permanent transfer house to local village: this near-frame doorway is temporary phase connection only. Static last step reference only, not full exit-from-pod/bridge walking/routing/receipt proof. Asset:09, year22, same24-year-appearance round-faced clean-shaven man/black small low bun, GREY-GREEN plain crossed shirt/light brown waist tie/dark trousers/cloth shoes. Outside SAME green FIELD path/low BAMBOO fence and complete stone paving, no village well/dock inserted. Keep crops/natural weeds at edge but no excessive rubble pile or new people, do not turn young man into Zhou Chen/W.",
-    "date": "2026-10-19",
-    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-dd1d557d-11df-4c78-bf95-61bf74d86ea6.png",
-    "qa": "采用：09号青年衣貌、前脚田埂石路/后脚门内及竹篱农田保留，无新增行李；门框和室内大面减轻锈斑。仅静态末步参考，不证明步态。"
+    "purpose": "采用：09号青年衣貌、前脚田埂石路/后脚门内及竹篱农田保留，无新增行李；门框和室内大面减轻锈斑。仅静态末步参考，不证明步态。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2592211,
+    "sha256": "b6e379c048706cc995d9deb81e723dccc053599b4450e1f86a4cea61ff29337c",
+    "upscaled": false
+  },
+  {
+    "id": "RETURN10-REFINED-R2",
+    "path": "场景资产/第一季/关键接触/KEY32-06_缓慢舱10号独立回程V2_精工克制R2.png",
+    "purpose": "采用：10号灰褐衣貌、扶门及石巷末步姿态保留，原罐篮与近景木门保留，无新增行李；设备大面减轻斑驳。仍须动态验后脚过槛顺序。",
+    "width": 940,
+    "height": 1672,
+    "bytes": 2485689,
+    "sha256": "c3c35d931c6104c5a9034bcaa03c6ea4d75978e5fdb57b7c3ebfed847b07f7a3",
+    "upscaled": false
+  },
+  {
+    "id": "RETURN11-REFINED-R2",
+    "path": "场景资产/第一季/关键接触/KEY32-06_缓慢舱11号独立回程V2_精工克制R2.png",
+    "purpose": "采用：11号窄脸短须、铁灰衣、前脚原村巷后脚门内及低墙树木保持，无额外人物/行李；门框及室内表面减轻全面斑驳。仅静态末步参考。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2583366,
+    "sha256": "7fcd0e07ceeb2fa718058d808a04a9f03a5ae624e4496984cbcf244976fc05f4",
+    "upscaled": false
+  },
+  {
+    "id": "POD12-PAUSE-REFINED-R2",
+    "path": "场景资产/第一季/关键接触/KEY32-06_末舱12号半开安全暂停V1_精工克制R2.png",
+    "purpose": "采用：12号老妇双鞋仍在舱底盘内，双手前收、门缝半开、12号标牌与原悬臂/管线/蓝光保留；壳体大面减轻锈斑，无救援者或第13舱。只表安全暂停的静态状态，不证明悬挂承重或开门动态。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2264204,
+    "sha256": "40e22b2a2a494b954d52ac25959ce804a42b08e36b64c40f348474902af7ad81",
+    "upscaled": false
+  },
+  {
+    "id": "RETURN12-REFINED-R2",
+    "path": "场景资产/第一季/关键接触/KEY32-07_缓慢舱12号独立回程V2_精工克制R2.png",
+    "purpose": "采用：12号灰发老妇衣貌、扶门自持、前脚院落低阶后脚门内及榆树院墙保留，无拐杖/帮手/袋包；门框与内景表面减轻全面斑驳。只对应第37年返乡末步，不能提前用于半开暂停状态。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2778802,
+    "sha256": "2df05024a7a6b1c98327dbf93d0f82d82fd341c9e7c9f193c6e239de7b9f4e79",
+    "upscaled": false
   }
 ]

@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "commonVersion": "V1.9",
   "textSegments": 313,
   "establishingDomains": 10,
-  "refinedExistingOriginals": 62,
+  "refinedExistingOriginals": 73,
   "newContactOriginals": 5,
-  "newSceneOriginals": 67,
-  "reviewedUnchangedOriginals": 4,
-  "reviewedFilmReferences": 71,
-  "newReferencePlacements": 680,
+  "newSceneOriginals": 78,
+  "reviewedUnchangedOriginals": 5,
+  "reviewedFilmReferences": 83,
+  "newReferencePlacements": 693,
   "currentSceneOriginals": 111,
   "currentFilmReferences": 105,
   "technicalLayouts": 6,
-  "pendingArtReviewOrRevision": 34,
+  "pendingArtReviewOrRevision": 22,
   "technicalEvidence": [
     {
       "source": "场景资产/第一季/九层星渊塔/SC-L01-LAYOUT01_行动布局4K_V1.png",
@@ -114,9 +114,9 @@
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-01_三急危者无新增袋包回程V2.png",
+      "source": "场景资产/第一季/关键接触/KEY32-01_三急危者无新增袋包回程V2_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-01"
       ]
@@ -124,88 +124,88 @@
     {
       "source": "场景资产/第一季/关键接触/KEY32-02_父女原山阶各自落脚V1.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "原图视检合规，未重绘/非新生成",
       "targets": [
         "32-02"
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-04_厚钝刀背朝下垫片接触V4.png",
+      "source": "场景资产/第一季/关键接触/KEY32-04_厚钝刀背朝下垫片接触V4_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "31-03",
         "32-04"
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-05_缓慢舱05号独立回程V2.png",
+      "source": "场景资产/第一季/关键接触/KEY32-05_缓慢舱05号独立回程V2_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-05"
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-05_缓慢舱06号独立回程V2.png",
+      "source": "场景资产/第一季/关键接触/KEY32-05_缓慢舱06号独立回程V2_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-05"
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-05_缓慢舱07号独立回程V2.png",
+      "source": "场景资产/第一季/关键接触/KEY32-05_缓慢舱07号独立回程V2_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-05"
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-05_缓慢舱08号独立回程V3.png",
+      "source": "场景资产/第一季/关键接触/KEY32-05_缓慢舱08号独立回程V3_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-05"
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-06_缓慢舱09号独立回程V2.png",
+      "source": "场景资产/第一季/关键接触/KEY32-06_缓慢舱09号独立回程V2_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-06"
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-06_缓慢舱10号独立回程V2.png",
+      "source": "场景资产/第一季/关键接触/KEY32-06_缓慢舱10号独立回程V2_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-06"
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-06_缓慢舱11号独立回程V2.png",
+      "source": "场景资产/第一季/关键接触/KEY32-06_缓慢舱11号独立回程V2_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-06"
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-06_末舱12号半开安全暂停V1.png",
+      "source": "场景资产/第一季/关键接触/KEY32-06_末舱12号半开安全暂停V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-06"
       ]
     },
     {
-      "source": "场景资产/第一季/关键接触/KEY32-07_缓慢舱12号独立回程V2.png",
+      "source": "场景资产/第一季/关键接触/KEY32-07_缓慢舱12号独立回程V2_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-07"
       ]
