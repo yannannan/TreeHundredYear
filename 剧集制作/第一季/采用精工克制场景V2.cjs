@@ -1,6 +1,6 @@
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const dir=__dirname,root=path.resolve(dir,'../..'),hash=b=>crypto.createHash('sha256').update(b).digest('hex'),read=name=>JSON.parse(fs.readFileSync(path.join(dir,name),'utf8'));
-const batches=[['精工克制场景修订原图清单V2.json','精工克制场景修订生成归档V2.json'],['沙海精工连续场景修订原图清单V3.json','沙海精工连续场景修订生成归档V3.json']];
+const batches=[['精工克制场景修订原图清单V2.json','精工克制场景修订生成归档V2.json'],['沙海精工连续场景修订原图清单V3.json','沙海精工连续场景修订生成归档V3.json'],['塔体与各层主景精工修订原图清单V4.json','塔体与各层主景精工修订生成归档V4.json']];
 const previous=fs.existsSync(path.join(dir,'精工克制场景采用映射V2.json'))?read('精工克制场景采用映射V2.json'):[];
 const origins={
  'SC-L03-REFINED-R2':'场景资产/第一季/九层星渊塔/SC-L03_星蚀沙海_独立建立镜头V2_古旧提质R1.png',
@@ -18,9 +18,9 @@ for(const {id,file:ledgerFile,data:l} of ledgers){
   for(const r of s.refs){const m=maps.find(m=>m.origin===r.source||m.origin===r.path);if(!m)continue;const oldFile=r.file,newFile=path.basename(m.path),old=path.resolve(folder,oldFile),dest=path.resolve(folder,newFile);
    if(!old.startsWith(folder+path.sep)||!dest.startsWith(folder+path.sep))throw Error('副本越界');
    const oldBytes=fs.readFileSync(old);if(hash(oldBytes)!==r.sha256||r.sha256!==m.originalSha256)throw Error('旧副本已变 '+old);
-   const base=canonical.find(x=>x.path===m.origin)||{path:m.origin,purpose:(r.purpose||'场景').replace(/；(?:2026-10-18古旧基底轻度提质|已按古旧低饱和方向轻度提质)[\s\S]*$/,'')},effective=resolve(base);
+   const canonicalEntry=canonical.find(x=>x.path===m.origin),base=canonicalEntry||{path:m.origin,purpose:(r.purpose||'场景').replace(/；(?:2026-10-18古旧基底轻度提质|已按古旧低饱和方向轻度提质)[\s\S]*$/,'')};let effective=resolve(base);
    if(r.purpose&&body.includes(r.purpose))body=body.replaceAll(r.purpose,effective.purpose);
-   else {const lines=body.split('\n'),indices=lines.map((line,i)=>line.startsWith(oldFile+'：')?i:-1).filter(i=>i>=0);if(indices.length!==1)throw Error('无法唯一定位参考用途行 '+promptFile);lines[indices[0]]=oldFile+'：'+effective.purpose;body=lines.join('\n');}
+   else {const lines=body.split('\n'),indices=lines.map((line,i)=>{const at=line.indexOf(oldFile+'：');return at>=0&&/^[ \t]*(?:\d+[.)、]\s*|[-*]\s*)?$/.test(line.slice(0,at))?i:-1;}).filter(i=>i>=0);if(indices.length!==1)throw Error('无法唯一定位参考用途行 '+promptFile);const i=indices[0],at=lines[i].indexOf(oldFile+'：'),actualPurpose=lines[i].slice(at+oldFile.length+1).replace(/\r$/,'');effective=resolve({path:m.origin,purpose:canonicalEntry?.purpose||actualPurpose});lines[i]=lines[i].slice(0,at)+oldFile+'：'+effective.purpose;body=lines.join('\n');}
    body=body.replaceAll(oldFile,newFile);
    r.previousSource=m.origin;r.source=m.path;if(r.path)r.path=m.path;r.file=newFile;r.sha256=m.sha256;r.purpose=effective.purpose;if(r.width)r.width=m.width;if(r.height)r.height=m.height;
    pending.push({old,dest,source:path.join(root,m.path),originalSha:m.originalSha256});placements.push({target:id+'-'+String(s.n).padStart(2,'0'),source:m.path,file:newFile});changed=true;

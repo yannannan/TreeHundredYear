@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-18",
+  "updatedReturnRefs": 3,
+  "updatedSceneDocuments": 2,
+  "returnBridgeTargets": [
+    "32-05",
+    "32-06",
+    "32-07"
+  ],
+  "rule": "保留第32集回看第八层的真实路由；原初四急八缓源图只取几何材质，不恢复已返人物/灯态",
+  "actualVideoGenerated": false
+}

@@ -21,7 +21,8 @@ const root=path.resolve(__dirname,'../..'),read=p=>JSON.parse(fs.readFileSync(pa
  if(!text(6).includes('双脚均在舱内底板')||!text(6).includes('开舱指令分配支路'))errors.push('末舱安全或检修位置不清');
  if(!text(7).includes('第37年是下一适宜相位窗口')||!text(7).includes('离线无载自检'))errors.push('窗口/检修顺序未明确');
  if(p32.seconds!==180||p32.segments.length!==12||p32.segments[6].lines[0][2]!==8.4)errors.push('集长/十三人对白时序变动');
- const contextPaths=['SC-L08_众生悬桥_独立建立镜头V4_古旧提质R1.png','SC-L08_中转屋独立储备内景方向修订V2.png','SC-L08_中转屋主门回程原点接点V1.png'];let contextCopies=0;for(const n of[5,6,7])for(const name of contextPaths){if(!p32.segments[n-1].refs.some(r=>r.file===name))errors.push(n+'缺空间来源 '+name);else contextCopies++;}
+ const bridge=require('./解析当前场景参考V1.cjs')({path:'场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4_古旧提质R1.png'});
+ const contextPaths=[path.basename(bridge.path),'SC-L08_中转屋独立储备内景方向修订V2.png','SC-L08_中转屋主门回程原点接点V1.png'];let contextCopies=0;for(const n of[5,6,7])for(const name of contextPaths){if(!p32.segments[n-1].refs.some(r=>r.file===name))errors.push(n+'缺空间来源 '+name);else contextCopies++;}
  const result={date:'2026-10-18',scope:'实际PNG原字节/尺寸/SHA/生成记录、全季排除候选与限定段副本、登记物理顺序静态检查；不证明表演或机械工程实测',rawOriginals:raw.length,adoptedStatic:m.entries.length,archivedCandidates:rejected.length,targetSegments:3,specificCopies:placements,contextCopies,placements:destinations,errors,actualVideoGenerated:false,actualAudioGenerated:false,formalCharacterCostumeImagesEdited:false};
  fs.writeFileSync(path.join(__dirname,'八缓独立回程采用检查V1.json'),JSON.stringify(result,null,2));console.log(JSON.stringify(result));if(errors.length)process.exit(1);
 })();
