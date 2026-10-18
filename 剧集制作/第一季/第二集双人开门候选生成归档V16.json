@@ -1,0 +1,36 @@
+[
+  {
+    "key": "EP02-B-RETREAT-CANDIDATE-V1",
+    "name": "周辰回线苏晚独退",
+    "path": "场景资产/第一季/早期接触/KEY02-06_周辰回线苏晚持物独退候选V1.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-25b98975-d7ab-483a-a010-8597e40ba459.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/早期接触/KEY02-05_窄门落石后苏晚收手双人尾态V2.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/周辰/ZC-F01_独立正面头肩V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/苏晚/SW-F01_独立正面头肩V1.png"
+    ],
+    "targets": [
+      "02-06"
+    ],
+    "phase": "02-06第4—8秒A回线、B独退且门未全开",
+    "prompt": "Use case: identity-preserve. One portrait9:16 live-action reference, not a storyboard collage. Image1 is the current fixed frontal camera, door narrowly open/right-half-only sole outer-track light and sword fully sheathed. Image2 original actor positions before retreat, ONLY posture/upper-landing foot-location reference, NOT its sword drawn or its 270degree light. Image3 locks sword/scabbard/token; images4/5 original adult faces.\nCreate the OTHER independent retreat test at SAME camera and ground geometry. A blackgold man screenLEFT has now returned his body and boots forward to original near-door fine fissure line, not close to camera and not crossing threshold. His ONLY sword remains fully inside intact back scabbard with single hilt, right hand empty relaxed. B silverblue barefoot woman screenRIGHT alone has taken a small half-step BACK away from door TOWARD camera. Her nearer bare foot must be visibly lower/closer in frame than A front boot and her other foot in stagger, so fore-aft withdrawal is legible, not simply a sideways pose; let existing skirt fall naturally without changing clothing design. A stays at line, never grabs/pulls/pushes B. Both attentively glance at door slit.\nA anatomical LEFT palm holds same small antique bronze3curve token; B anatomical RIGHT palm holds same compact silvercloth knot. They remain one palm apart, never touch or combine. B extends her right forearm slightly back toward its original central height/position while her body retreats, so the action tests body presence, not throwing objects. B left arm is empty at her own side. Same original compact short knife in plain brown leather sheath on her right waist; no drawn knife, rope, sandbag, new cuts/ankle injury. No duplicated token on A waist.\nTwo door leaves remain slid narrowly apart about6cm, not fully shut or wide open; continuous grey/blue floor and original shallow threshold, no new steps before door. ONE fine outer circular track RIGHT semicircle warm amber, LEFT semicircle and all inner circles/spokes/glyphs unlit, no glowing band/border. Same one pale pebble still lies beyond threshold on blue interiorfloor, no stone outside and no extra persons in interior. High detail realistic body/skin/fabric, fixed35mm head-to-feet, maintained finely cut graphite/grey stone/dark bronze, low saturation warm dawn/cool slit, no blanket corrosion, no glitter palace. No text/subtitle/watermark/logo. Static fore-aft target only, not proof of exact stride or complete trial.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-27c5692c-15e7-4c0c-82eb-2ba52aa0b8ec.png",
+    "qa": "候选拒用：B退后姿态可见，但A仍沿用独退图原靴位，未呈现A先回线再测试B的区别，不能作第4—8秒目标。"
+  },
+  {
+    "key": "EP02-B-RETREAT-CANDIDATE-V2",
+    "name": "苏晚独退周辰回线脚位纠正",
+    "path": "场景资产/第一季/早期接触/KEY02-06_周辰回线苏晚持物独退候选V2.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-27c5692c-15e7-4c0c-82eb-2ba52aa0b8ec.png"
+    ],
+    "targets": [
+      "02-06"
+    ],
+    "phase": "02-06第4—8秒A回线、B独退且门未全开",
+    "prompt": "Use case: precise-object-edit. Localized staging correction to exact supplied vertical9:16 cinema still. Preserve B woman screenRIGHT EXACTLY (near bare foot, gown, head, extended right cloth hand, left empty arm). Preserve camera, door, crack pattern, amber right-half single outer track, blue narrow slit and small stone already inside. Change ONLY A man's body/boot placement: he has RETURNED FORWARD toward door while B alone is behind. Put BOTH A black boots onto the nearer-to-door original flat floor crack row about one boot-length FARTHER FROM CAMERA than present, visibly HIGHER in image than B nearest bare foot. The man should have no boot extending down to B foreground row. Adjust A body in coherent perspective to the farther position (slightly smaller scale, not stretched legs), one foot slightly staggered but BOTH farther than B. A head-to-toe remains natural adult proportion, original face/clothing/hair/crown unchanged. A anatomicalLEFT arm can extend a little to keep original same small token near centre and ONE PALM air from B right cloth; no hand touch. A right arm EMPTY relaxed. His ONLY iron sword remains FULLY IN BACK SCABBARD with one hilt; no blade in hand. No new crack/drawn mark/painted line, no stairs, no extra token at waist, no rope. Do not move B feet or bring A toward viewer. This needs a clear fore-aft difference, not a sideways step. Light/material remains finely maintained low saturation stone/bronze. No text/watermark/logo. Limited static after-return pose, not motion proof.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-2808da32-ab4e-443b-aa7a-771b7b6044a5.png",
+    "qa": "候选拒用：A回线方向已区分，但缩小并移远幅度明显过大，形成数步距离感，不能作为小半步连续镜头的目标。"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "key": "EP02-A-RETREAT-V1",
+    "name": "周辰归剑后独退苏晚留位",
+    "path": "场景资产/第一季/早期接触/KEY02-06_周辰归剑独退苏晚留位V1.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/早期接触/KEY02-05_窄门落石后苏晚收手双人尾态V2.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/早期接触/KEY02-04_双物一掌未触右半外圈亮V2.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/周辰/ZC-F01_独立正面头肩V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/苏晚/SW-F01_独立正面头肩V1.png"
+    ],
+    "targets": [
+      "02-06"
+    ],
+    "phase": "02-06第0—4秒收剑后A独退、B留位局部目标",
+    "prompt": "Use case: identity-preserve. Single high detail vertical9:16 premium cinematic live-action still, not collage/diagram. Image1 is edit target for exact near-door platform, two adult protagonists and small single pebble already inside. Image2 ONLY supplies the sword fully sheathed and thin right semicircle light, NOT a closed door. Image3 exact old iron sword/scabbard/token shapes; images4/5 face identity. SAME low-saturation grey/graphite/darkbronze finely maintained tower doorway, warm dawn outside cool blue inside; original faces, long hair, crowns and elaborate blackgold man A and silverblue barefoot woman B unchanged. Not ruins/moss/rainbow palace. No fashion redesign.\nCreate the first retreat test AFTER A has completely put his ONLY old sword back in intact scabbard on back, no exposed blade/right hand empty. A screenLEFT has deliberately moved his body/booted feet ONE small half step BACK AWAY FROM DOOR toward camera, NOT sideways. His back foot is visibly closer to camera than previous crack line, staggered stance makes fore-aft movement readable. B screenRIGHT has NOT moved her body or bare feet from original near-door fissure; both still OUTSIDE on same flat upper landing directly before threshold, no stairs between. Both look attentively at shrinking slit, not smiling/posing or touching.\nA anatomical LEFT hand still holds exactly one small darkbronze 3curve boss token; B anatomical RIGHT hand still holds exactly one small tied silver cloth knot. Keep their held props near their prior central height and approximately one palm apart by A extending left forearm a little while body retreats, NOT joining hands or touching objects. B left arm empty relaxed by her own torso. No duplicate token at A waist, no knife drawn, B same small plain brown leather knife sheath right waist. No rope/sandbag/extra people. Minor old hand traces stay, no new wounds, no B left-ankle injury.\nDoor two original leaves slide slightly inward from former12cm slit to a narrower slit about6cm, still showing empty interior blue floor. NO full closure and no full opening, hands entirely outside safe of edges. Sole fine OUTERMOST circle track contracts to right semicircle warm amber; remaining left semicircle and all inner circles/spokes/glyphs stay dark. Do not draw luminous straight spokes, border lights or wide golden bands. The small pale pebble remains inside behind threshold, visible only if gap allows, never reappear outside. Frame head to feet, clear unpainted original ground crack reference and fore-aft stagger, door/panel dimensions consistent. Human anatomy, five fingers, natural cloth weight. No text/subtitle/watermark/logo. Static test pose only, not a proof of a continuous retreat or measured centimetres.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-25b98975-d7ab-483a-a010-8597e40ba459.png",
+    "qa": "采用有限A独退目标：A已归剑、右手空垂、左符/B右布结未接触，A靴位前后错开、B原平台站位，门缝较首态收窄且只右半细外轨亮；单石留内未重置。图只锁归剑后物位及前后错位，不能测定精确半步、B双足完整遮挡情况、退步速度或门响应动态。"
+  },
+  {
+    "key": "EP02-B-RETREAT-V3",
+    "name": "苏晚独退周辰回线距离收敛",
+    "path": "场景资产/第一季/早期接触/KEY02-06_周辰回线苏晚持物独退V3.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-2808da32-ab4e-443b-aa7a-771b7b6044a5.png"
+    ],
+    "targets": [
+      "02-06"
+    ],
+    "phase": "02-06第4—8秒A回线、B独退且门未全开",
+    "prompt": "Use case: precise-object-edit. Revise ONLY A man at screenLEFT in this exact9:16 live-action image. He was put much too far away/small. Bring him PARTWAY TOWARD CAMERA by only about one-third of that distance, so his boots remain a SMALL half step FARTHER FROM CAMERA than B bare toes, not several metres. On the image height: A front boot sole about87% of height (currently81%); A head/crown about26% height; his natural head-to-boot span about61% image height, roughly same apparent full-body height as the slightly shorter woman, NOT the tiny distant man currently shown. Keep anatomical proportions natural, no stretched legs. Keep A fully grounded outside threshold in same left lane, his front boot still about7% image height above B closest bare toes. This is a modest near-neighbour stagger, not a long separation. Keep B woman, ALL her feet/body/head/cloth hand exactly unchanged. Keep entire door/slit/right-only thin outer-ring light/pebble inside/background unchanged. A original face, ornate blackgold clothing/hair/crown and SINGLE fully sheathed old sword unchanged; A right hand EMPTY relaxed, A left palm holds same small bronze token near B right-held silvercloth knot one palm apart. No duplicate token at waist, no new objects/text/logo/watermark or extra people. Maintain original low-saturation refined stone/bronze dawn realism. Limited static forward-return pose, not measured distance proof.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-49b60cd4-458f-43e9-8801-961d02ff044c.png",
+    "qa": "采用有限B独退目标：A归剑后在较靠门的靴位、B单裸足较近镜头，A左符/B右布结近而未触、A右空手，门仍窄开并只右半细外轨亮；较候选缩小了过大纵深差。B另一足被裙遮，图只锁前后错位/持物，不能据此测定精确小半步、完整双足受力或连续回线动作。"
+  }
+]
