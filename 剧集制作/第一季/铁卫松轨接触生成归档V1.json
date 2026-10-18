@@ -1,0 +1,50 @@
+[
+  {
+    "key": "IRON14-RAIL-WEDGE",
+    "name": "14-05右短刃楔松轨卡点V1",
+    "path": "场景资产/第一季/铁卫接触/KEY14-05_苏晚右短刃楔已松轨卡点V1.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/苏晚/SW-D13_精确战损全身V2.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP02_修物短刃探路绳V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/九层星渊塔/SC-L05_双接触柱与回弹盖板近端V1_精工克制R2.png"
+    ],
+    "prompt": "Use case: compositing / identity-preserve. New 9:16 highest-native-detail cinematic LIVE-ACTION CLOSE CONTACT INSERT for TreeHundredYear episode14 segment05 first0—5seconds. Image1 supplies ONLY Su Wan's original silver/ice-blue sheer jeweled sleeve/forearm and dress detail; pose not copied, no redesign. Image2 ONLY same ONE small plain wooden-handled repair knife shape, NOT bag/full coil. Image3 same fifth-layer graphite/dark-bronze ancient rail/carriage craft and actual broken service rail in same environment, not entire architecture composition. Frame tightly crops ONE anatomical RIGHT HAND/forearm and same SMALL repair blade slipping into a visibly ALREADY LOOSE retaining-tab jam point of the original fallen rail section. Blade edge/tip touches small loosened notched latch/gap, NOT a sound thick rail web, not cutting a full steel chain. The loose rail is already tilted down at its original hinge/hanging-carriage support; visible pivot/bearing takes weight, while a short fallen end uses its own gravity to swing away. Make the partial tab gap, knife tip seating, pivot support, original gravity tilt and graphite metal edges legible. Her right hand comes from lower-right, back-of-right-hand toward lens, four fingers grip handle naturally, thumb opposing, no extra digits, fingertips clear of gap/cutting edge. Old RIGHT PALM scratch only underside if visible; both wrist/back of hand has NO new cut, NO medical white wrap (right palm wrap is later18), no ankle bandage/left-foot injury (22 later). Exactly one hand in this close crop, no other person, no face, no duplicate knife. Original ornate cuff unchanged. Knife remains intact and retrievable, not snapped or left forever; don't wedge huge mass upon her arm, create giant lever, sparks/explosion or magic beam. Refined complete broad graphite/bronze plates, only actual damaged tab/rail edge locally worn; cool slate facility with limited warm side lamps/soft background. Right blade-arm robot and A stay off-frame, not a new guardian. Physical small latch contact, not proof of safe weight transfer or full motion. No text, labels, watermarks or logos.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-1a9b5295-7ff6-4ad1-b80c-f56501154337.png",
+    "qa": "候选不采用：接触构图可供定位，但轨道、链架与背景金属出现大面积斑驳掉漆/金边擦痕，仍显破旧，不符合最新精工克制场景要求。仅留档，不进入执行包。"
+  },
+  {
+    "key": "IRON14-DAMAGED-HOOK",
+    "name": "14-05完整旧剑挑受损挂连接V1",
+    "path": "场景资产/第一季/铁卫接触/KEY14-05_完整旧剑尖挑松受损挂连接V1.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/九层星渊塔/SC-L05_双接触柱与回弹盖板近端V1_精工克制R2.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/异兽/CREATURE03_铁卫双臂全身V1.png"
+    ],
+    "prompt": "Use case: compositing / precise-object contact. New9:16 highest-native-detail LIVE-ACTION cinematic close INSERT for episode14 segment05 around5—10seconds. Image1 supplies ONLY the same old STRAIGHT IRON SWORD blade shape/profile, still COMPLETE with ONE existing tiny dull/chipped point along edge, NOT later broken blade; no scabbard, cloth talisman, hilt duplicate (hard scabbard was abandoned13). Image2 same fifth-layer original broken/loose hanging rail and dark-bronze carriage materials and spatial support; image3 only original matching rail-hanger/shackle mechanical language, NOT robot body or extra arms in this close-up. NO humans/hands/faces appear: crop to sword's final third entering FROM LOWER RIGHT and a SMALL ALREADY DAMAGED LOOSE open hanging connector at same original rail-carriage end. The pointed sword TIP physically catches under an ALREADY BENT retaining lip/pin of this ONE worn connector and levers it just free; show bent pin emerging from notch and daylight air gap in the now-open connector, not slicing through a sound thick chain link. Same few original intact chain links above, rail end tilts down behind under its original support/pivot; main top rail support stays and remaining broad safe bridge EDGE RIB visible as blurred lower-left route, not all paths collapsed. ONE original connected mechanism, no newly added secondary latch/rope, no severed blade/chain halves, no spectacular sparks or magical disintegration. It is a physical release of failed connection, not a man lifting robot/ship with sword. Keep actual old chipped surface localized at connector; complete precise graphite metal/dark-bronze unbroken surfaces/limited warm lamps and cool haze. Tool hand belongs to A RIGHT hand beyond lower-right crop, not a third character. Knife/B earlier wedge state is outside this insert, do not generate knife or hand here. No robot destruction or implicit memory restoration, no talisman, no text/watermark/logo. One localized contact state; entire release/recoil/retreat still needs dynamic validation.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-12133cee-feab-46aa-9739-c5c94c6efa1f.png",
+    "qa": "候选不采用：接触构图可供定位，但轨道、链架与背景金属出现大面积斑驳掉漆/金边擦痕，仍显破旧，不符合最新精工克制场景要求。仅留档，不进入执行包。"
+  },
+  {
+    "key": "IRON14-RAIL-WEDGE-R2",
+    "name": "14-05右短刃楔松轨卡点精工克制V2",
+    "path": "场景资产/第一季/铁卫接触/KEY14-05_苏晚右短刃楔已松轨卡点_精工克制V2.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-1a9b5295-7ff6-4ad1-b80c-f56501154337.png"
+    ],
+    "prompt": "Use case: precise image edit / material cleanup. Edit this provided TreeHundredYear cinematic contact insert. Preserve EXACT frame/camera/object positions, the same ONE right hand and silver/ice-blue transparent jeweled cuff, same small repair knife wedged in the already loose small rail retaining tab, visible pivot and same chain. Do not change hand anatomy, costume, knife, latch gap or tilt. Critical change: ALL broad graphite rail plates, bronze carriage faces, chain faces and architectural metal must become refined continuous surfaces with subtle fine brushed graphite, satin dark bronze, precise joining, smooth complete edges. REMOVE the pervasive orange-gold chipped edging, pitting, rust speckles, mottling, grime and oxidized patina across ALL foreground and background metal. Do not make parts new-looking shiny gold: low saturation charcoal/graphite/slate with restrained dark bronze fittings, limited warm practical lamps and cool ambient depth. Preserve age through design and tiny local contact wear only at the actual jam/damaged pin, not blanket decay. Sword/knife remains same old functional steel, small existing chip stays, no replacement weapon. No repair of the story's already damaged connection, no added structure, rope, station, people, text or magic. Same 9:16 composition, highest native detail, believable live-action photography, independent project design; do not borrow another show's assets. Static contact detail only, no montage or captions.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-49c5fc87-8bdd-4261-b294-1b0f95ba75df.png",
+    "qa": "采用有限静态近景：单右手与原银蓝透袖、木柄短修刀在既松卡点接触，原铰座/链架承托与倾斜轨段可见；大片斑驳已去，石墨板面与暗铜接缝完整，只有卡点局部破口/接触磨痕。只供14-05约0—5秒局部插入，不能证明整轨重力转向、铁卫退限位、刀取回或安全承力；不作为全身首帧，不新增白包/手背伤。"
+  },
+  {
+    "key": "IRON14-DAMAGED-HOOK-R2",
+    "name": "14-05完整旧剑挑受损挂连接精工克制V2",
+    "path": "场景资产/第一季/铁卫接触/KEY14-05_完整旧剑尖挑松受损挂连接_精工克制V2.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-12133cee-feab-46aa-9739-c5c94c6efa1f.png"
+    ],
+    "prompt": "Use case: precise image edit / material cleanup. Edit this provided TreeHundredYear cinematic contact insert. Preserve EXACT frame/camera/object positions, the same ONE intact straight old sword tip, one small chipped edge, the same small bent loose connector pin being pried, open gap, chain links, track carriage and bridge rib. No humans, no second sword. Keep localized pin/connector damage and release state. Critical change: ALL broad graphite rail plates, bronze carriage faces, chain faces and architectural metal must become refined continuous surfaces with subtle fine brushed graphite, satin dark bronze, precise joining, smooth complete edges. REMOVE the pervasive orange-gold chipped edging, pitting, rust speckles, mottling, grime and oxidized patina across ALL foreground and background metal. Do not make parts new-looking shiny gold: low saturation charcoal/graphite/slate with restrained dark bronze fittings, limited warm practical lamps and cool ambient depth. Preserve age through design and tiny local contact wear only at the actual jam/damaged pin, not blanket decay. Sword/knife remains same old functional steel, small existing chip stays, no replacement weapon. No repair of the story's already damaged connection, no added structure, rope, station, people, text or magic. Same 9:16 composition, highest native detail, believable live-action photography, independent project design; do not borrow another show's assets. Static contact detail only, no montage or captions.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-3ad37d62-c25e-4d35-9065-96a6d5c2618f.png",
+    "qa": "采用有限静态近景：同旧直铁剑末段/既有小缺口从右下挑原受损连接销，销偏离槽口的局部间隙可见，原短链/轨车仍在；轨板与周围暗铜大面积锈斑已去。只供14-05约5—10秒松钩插入，不代表完整旧剑全貌认证、切断健全粗链、整轨承力/撤退已验；不增加硬鞘/古符，不提前第28集断剑。"
+  }
+]
