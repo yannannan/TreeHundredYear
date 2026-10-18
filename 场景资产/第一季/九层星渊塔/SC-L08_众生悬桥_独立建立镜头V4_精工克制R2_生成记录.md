@@ -1,0 +1,16 @@
+# 第八层众生悬桥主景精工克制R2｜生成与使用记录
+
+- 日期：2026-10-18；工具：image_gen；原始PNG等字节归档，未放大。
+- 原图：C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-cf970697-bd48-43ae-8f0a-a6bed4af3e1d.png
+- 参考输入：D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4_古旧提质R1.png
+- 像素：941×1672；字节：3016393；SHA256：8729dd6aa58a6c8cafa253c34670ae9052d7fa4dd6acb3d7ca12eb0c23c8be8d
+
+## 实际提交的提示词
+
+```text
+Use case: precise-object-edit. Image1 is the exact TreeHundredYear project environment to edit. Create ONE highly detailed 9:16 vertical LIVE-ACTION cinematic environment frame at highest native image quality, not a collage. Preserve exact scene identity, camera, architecture silhouettes, routes, object count, intended mechanical functions, and story-required gaps/damage. Primary change is refined ancient civilization craftsmanship with mostly complete structures and beautiful controlled materials: broad solid low-reflection graphite alloy, finely dressed grey stone, restrained dark-bronze joints/engraving. Ancient does not mean all-over orange corrosion, ragged foil, pitted holes, peeling, cracked-everywhere surfaces or scrapyard. Dramatically reduce nonfunctional clutter, moss and stray rubble, make intact surfaces and geometric joints legible. Limit patina/wear to seams and isolated edges; leave plot-essential local break/shift/contact untouched. Physical cinematic lighting, layered atmospheric depth, realistic lens and microtexture, low saturation, darks retain detail, small existing amber lamps and necessary cold energy only. Do NOT add gold embellishments, ornate palaces, colored crystals, extra floating structures, neon rainbow, washed-out white marble, modern offices or redesign as another project's style. No new human/creature, no readable text/captions/logos/watermarks. Do not use any other work's assets/compositions. Lock exact camera looking along ONE narrow actual bridge toward same small far refuge/midway house. Preserve EXACT TWELVE single-person suspended capsules arranged SIX per side, FOUR near amber emergency capsules (two each side) and EIGHT far cold-blue slower capsules (four each side), identical original transparency/contents/silhouettes, suspension arms, cables and spacing. Do not change any capsule, occupant count, colors, order, housing shape or glow. No thirteenth pod for separate Shen Yan. Keep the TWO original near synchronization pedestals, original right receiving-side platform and original mechanical rail/cable relationships, near stairs and bridge-width. Main edits ONLY bridge/steps/support structure/handrail materials: mostly complete precision-cut dark grey slate with fine old star lines, muted bronze edge/seam, no crack-everywhere ruined pavement, scattered debris or moss blanket. Natural cliff vegetation/rocks remain outside built route. Keep minor necessary seam/receiving gap and original abyss; do not create safe alternate bridge or widen bridge. Do not activate/rescue/empty capsule or add people/creatures. Same restrained grey daylight/mist, existing four amber/eight blue lights and small warm house lamp. Preserve narrative functional geometry exactly.
+```
+
+## 人工视检与用途边界
+
+采用有限第八层环境静态：人工逐一视检原12单人舱（每侧6，前4暖急/后8冷缓）保持，双同步台、窄桥、右接板和远屋位置未换；原舱内轮廓不新增角色/第13舱。路面/阶/支撑更完整精工，必要机械缝隙仍在。舱数为人工视检非程序识图，不证明舱内角色身份/动态开舱、接板承力/储能或救援完成。

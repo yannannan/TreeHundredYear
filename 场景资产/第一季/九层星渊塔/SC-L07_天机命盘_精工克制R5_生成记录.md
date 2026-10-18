@@ -1,0 +1,16 @@
+# 第七层天机命盘主景精工克制R5｜生成与使用记录
+
+- 日期：2026-10-18；工具：image_gen；原始PNG等字节归档，未放大。
+- 原图：C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-19209717-2c4e-4421-85d8-4705c4e776bf.png
+- 参考输入：D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/九层星渊塔/SC-L07_天机命盘_古旧基底适度提质V4.png
+- 像素：941×1672；字节：2973211；SHA256：fe3114b6259ddf623a39b921444f71fda52d0970959c193ebe2a24f7e40244fb
+
+## 实际提交的提示词
+
+```text
+Use case: precise-object-edit. Image1 is the exact TreeHundredYear project environment to edit. Create ONE highly detailed 9:16 vertical LIVE-ACTION cinematic environment frame at highest native image quality, not a collage. Preserve exact scene identity, camera, architecture silhouettes, routes, object count, intended mechanical functions, and story-required gaps/damage. Primary change is refined ancient civilization craftsmanship with mostly complete structures and beautiful controlled materials: broad solid low-reflection graphite alloy, finely dressed grey stone, restrained dark-bronze joints/engraving. Ancient does not mean all-over orange corrosion, ragged foil, pitted holes, peeling, cracked-everywhere surfaces or scrapyard. Dramatically reduce nonfunctional clutter, moss and stray rubble, make intact surfaces and geometric joints legible. Limit patina/wear to seams and isolated edges; leave plot-essential local break/shift/contact untouched. Physical cinematic lighting, layered atmospheric depth, realistic lens and microtexture, low saturation, darks retain detail, small existing amber lamps and necessary cold energy only. Do NOT add gold embellishments, ornate palaces, colored crystals, extra floating structures, neon rainbow, washed-out white marble, modern offices or redesign as another project's style. No new human/creature, no readable text/captions/logos/watermarks. Do not use any other work's assets/compositions. Preserve same HUGE pale grey fractured celestial body pierced by dark inclined orbital rails, existing thin cold prediction line, sparse gravitational rock field, original near narrow platform and TWO seats/clock mechanisms, actual short retractable bridge from left wall, branching far routes and small far gate. CRUCIAL: the giant celestial rock is fractured as story hazard, keep its entire natural fracture pattern, floating stone fragments and real potential falling-rock danger; do not turn rock into perfect polished planet or cover it with palace. Refine only engineered near platform/rail columns/clock-and-seat fixtures and man-made bridges: mostly intact graphite alloy and finely dressed dark grey stone, dark muted bronze seams, remove excessive moss/rubble/random holes and blanket surface breakage. Keep narrow route widths and actual original retractable bridge endpoints, don't add shortcut or connect wrong levels. Two near seats remain two with clocks, not a throne hall. Restrained grey, dark alloy, fine cold line and small existing amber lamps; no bright gold overload, colored crystals or white marble palace. This remains current V4 original ancient facility direction, not prior over-decorated discarded palace candidate.
+```
+
+## 人工视检与用途边界
+
+采用有限第七层环境静态：沿用当前V4场景的裂星/实体碎石、黑轨冷预测线、短可收桥、双席钟具与远门路线，近台路面/机构改完整精工；保留自然裂星破碎危险，没翻新华丽仙宫或补捷径。只环境与当前布局参考，不证明移桥两次卡位/四舱路由、预测对错或坠石轨迹。

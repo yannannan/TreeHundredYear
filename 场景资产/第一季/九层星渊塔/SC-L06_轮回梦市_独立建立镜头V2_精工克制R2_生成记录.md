@@ -1,0 +1,16 @@
+# 第六层轮回梦市主景精工克制R2｜生成与使用记录
+
+- 日期：2026-10-18；工具：image_gen；原始PNG等字节归档，未放大。
+- 原图：C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-ad3d4854-0655-4ccd-ab5f-9fb932a06b26.png
+- 参考输入：D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/九层星渊塔/SC-L06_轮回梦市_独立建立镜头V2_古旧提质R1.png
+- 像素：941×1671；字节：3001832；SHA256：a176ab4304079522a3bf69f7f04a1badc9aa7a83578c8d500c20302c7f3644c9
+
+## 实际提交的提示词
+
+```text
+Use case: precise-object-edit. Image1 is the exact TreeHundredYear project environment to edit. Create ONE highly detailed 9:16 vertical LIVE-ACTION cinematic environment frame at highest native image quality, not a collage. Preserve exact scene identity, camera, architecture silhouettes, routes, object count, intended mechanical functions, and story-required gaps/damage. Primary change is refined ancient civilization craftsmanship with mostly complete structures and beautiful controlled materials: broad solid low-reflection graphite alloy, finely dressed grey stone, restrained dark-bronze joints/engraving. Ancient does not mean all-over orange corrosion, ragged foil, pitted holes, peeling, cracked-everywhere surfaces or scrapyard. Dramatically reduce nonfunctional clutter, moss and stray rubble, make intact surfaces and geometric joints legible. Limit patina/wear to seams and isolated edges; leave plot-essential local break/shift/contact untouched. Physical cinematic lighting, layered atmospheric depth, realistic lens and microtexture, low saturation, darks retain detail, small existing amber lamps and necessary cold energy only. Do NOT add gold embellishments, ornate palaces, colored crystals, extra floating structures, neon rainbow, washed-out white marble, modern offices or redesign as another project's style. No new human/creature, no readable text/captions/logos/watermarks. Do not use any other work's assets/compositions. Preserve same inviting inhabited water-market scene: left foreground timber stall/steamer baskets and memory trinkets, paper lamps and muted red fabric, bridge/waterwheel/canal/boats at original locations, staircase descending to original lower route/right covered doorway, layered upper shops and original far main gateway. Keep existing tiny distant market figures/silhouettes exactly as background, do NOT add, remove or enlarge crowds or introduce lead actors. Do NOT turn warm wood/fabric/food into graphite metal: keep rich real dark timber grain, sound red-painted beams with subtle age, paper lamp translucent amber, natural woven stalls/cloth. Main corrections are solid neatly fitted grey stone stairs/bridge piers and sound joinery, less damp moss/slime, broken pitted stone, peeling paint and random foreground junk. Preserve plot contrast between the OLD darker main load-bearing lamp frame and relatively NEW warmer copper private reinforcement/band wherever visible; do not make both same-finish new metal or delete mechanical locks. Memory objects remain original, no new posters/readable signage. Keep original water reflections, steam, damp local water-wheel traces but not everything filthy. Same warm amber vs cool mist, muted brick-red only, no rainbow lanterns/new luxury palace. Inviting living market, not derelict evil scrapyard.
+```
+
+## 人工视检与用途边界
+
+采用有限第六层环境静态：原饼摊蒸汽/记忆物件、木作灯纸、灰石街阶、水车桥/船/水道与远门保持，近阶桥墩更完整、苔污减少；木布食物仍真实材质，不统一金属化，原暖市人烟只远景背景。未声称精细人物身份/私闸承重/新旧铜带接触或水车动态已验。
