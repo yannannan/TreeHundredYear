@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-18",
+  "episodes": [
+    {
+      "episode": "25",
+      "segments": 11,
+      "seconds": 165,
+      "refs": 148
+    },
+    {
+      "episode": "26",
+      "segments": 11,
+      "seconds": 165,
+      "refs": 153
+    },
+    {
+      "episode": "27",
+      "segments": 12,
+      "seconds": 180,
+      "refs": 180
+    }
+  ],
+  "checkedDirectories": 34,
+  "checkedReferenceCopies": 481,
+  "errors": [],
+  "characterCostumeImagesEdited": false,
+  "actualVideoGenerated": false
+}
