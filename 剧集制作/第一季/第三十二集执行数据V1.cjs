@@ -24,3 +24,4 @@ module.exports.segments[9].lines[0][5]='A内心音轨，0.8—5.4秒嘴完全不
 module.exports.segments[9].lines[0][6]='inner';
 module.exports=require('./八缓回程执行细化V1.cjs')(module.exports);
 module.exports=require('./维护生活执行细化V1.cjs')(module.exports);
+module.exports=require('./现代落点执行细化V1.cjs')(module.exports);

@@ -8,7 +8,7 @@ module.exports=ep=>{
   for(const item of items){
    if(item.status!=='adopted-static'||!item.qa||!item.remaining)throw Error('未经静态视检采用的图：'+item.id);
    const file=path.join(root,item.path),bytes=fs.readFileSync(file);if(crypto.createHash('sha256').update(bytes).digest('hex')!==item.sha256)throw Error('接触原图变更未复核：'+item.path);
-   const purpose=item.purpose+(key==='28-08'?' 仅作本段首帧完整受压剑，0—4秒明确折断后不得照此把剑恢复。':'')+(key==='32-12'?' 仅核心A反切桌面的既有道具位置，不把双槽或道具带到现代B旁。':'');
+   const purpose=item.purpose+(key==='28-08'?' 仅作本段首帧完整受压剑，0—4秒明确折断后不得照此把剑恢复。':'')+(key==='32-12'&&item.id==='CONTACT-SLOTS'?' 仅核心A反切桌面的既有道具位置，不把双槽或道具带到现代B旁。':'')+(key==='32-12'&&item.id==='CONTACT-BROKENBAND'?' 只取原断点和各自半带材质：B右手尾端在现代，A结端从左外袖移左掌仍核心；不把这张双人断点同框当现代重逢。':'');
    if(!d.refs.some(r=>typeof r==='object'&&r.path===item.path))d.refs=[...d.refs,{path:item.path,purpose:purpose.replace(/[。；]+$/g,'')}];
    let remaining=item.remaining;
    if(item.id==='CONTACT-SLOTS'&&key!=='31-08')remaining='只延续已经留置的左小冰/右碎印位置、碎片朝向和与本段机位的空间对应，入槽与崩碎已经发生，不在本段重演；当前实际动作仍按时轴验';
