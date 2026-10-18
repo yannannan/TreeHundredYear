@@ -1,14 +1,104 @@
 {
   "date": "2026-10-19",
-  "adoptedNewSceneOriginals": 81,
-  "copyPlacements": 732,
-  "newReplacementsThisRun": 49,
-  "updatedSegmentPrompts": 41,
+  "adoptedNewSceneOriginals": 94,
+  "copyPlacements": 757,
+  "newReplacementsThisRun": 25,
+  "updatedSegmentPrompts": 17,
   "placements": [
+    {
+      "target": "01-01",
+      "source": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2_精工克制R2.png",
+      "file": "KEY-STREET_首集街口人物场景起始帧V2_精工克制R2.png"
+    },
+    {
+      "target": "01-01",
+      "source": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_精工克制R2.png",
+      "file": "SC-OUT01_街口木车主机位V1_精工克制R2.png"
+    },
+    {
+      "target": "01-02",
+      "source": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_精工克制R2.png",
+      "file": "SC-OUT01_街口木车主机位V1_精工克制R2.png"
+    },
+    {
+      "target": "01-03",
+      "source": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_精工克制R2.png",
+      "file": "SC-OUT01_街口木车主机位V1_精工克制R2.png"
+    },
+    {
+      "target": "01-04",
+      "source": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2_精工克制R2.png",
+      "file": "KEY-SHOP_首集木匠铺人物起始帧V2_精工克制R2.png"
+    },
+    {
+      "target": "01-04",
+      "source": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_精工克制R2.png",
+      "file": "SC-OUT02_木匠铺主机位V1_精工克制R2.png"
+    },
+    {
+      "target": "01-05",
+      "source": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_精工克制R2.png",
+      "file": "SC-OUT02_木匠铺主机位V1_精工克制R2.png"
+    },
+    {
+      "target": "01-06",
+      "source": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_精工克制R3.png",
+      "file": "KEY-MOUNTAIN_首集山路周辰起始帧V1_精工克制R3.png"
+    },
+    {
+      "target": "01-06",
+      "source": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_精工克制R2.png",
+      "file": "SC-OUT03_山路裂口主机位V1_精工克制R2.png"
+    },
+    {
+      "target": "01-07",
+      "source": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_精工克制R2.png",
+      "file": "SC-OUT03_山路裂口主机位V1_精工克制R2.png"
+    },
     {
       "target": "01-07",
       "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png",
       "file": "SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png"
+    },
+    {
+      "target": "01-08",
+      "source": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_精工克制R2.png",
+      "file": "SC-OUT04_断阶石桩窄沿V1_精工克制R2.png"
+    },
+    {
+      "target": "01-09",
+      "source": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_精工克制R2.png",
+      "file": "SC-OUT04_断阶石桩窄沿V1_精工克制R2.png"
+    },
+    {
+      "target": "01-10",
+      "source": "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1_精工克制R2.png",
+      "file": "KEY-CLIFF_首集断阶自救尾帧V1_精工克制R2.png"
+    },
+    {
+      "target": "01-10",
+      "source": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_精工克制R2.png",
+      "file": "SC-OUT04_断阶石桩窄沿V1_精工克制R2.png"
+    },
+    {
+      "target": "02-01",
+      "source": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_精工克制R2.png",
+      "file": "SC-OUT04_断阶石桩窄沿V1_精工克制R2.png"
+    },
+    {
+      "target": "02-01",
+      "source": "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1_精工克制R2.png",
+      "file": "KEY-CLIFF_首集断阶自救尾帧V1_精工克制R2.png"
+    },
+    {
+      "target": "02-01",
+      "source": "场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1_精工克制R2.png",
+      "file": "KEY-RESCUE_双人递鞘构图V1_精工克制R2.png"
+    },
+    {
+      "target": "02-02",
+      "source": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_精工克制R2.png",
+      "file": "SC-OUT04_断阶石桩窄沿V1_精工克制R2.png"
     },
     {
       "target": "02-03",
@@ -16,9 +106,19 @@
       "file": "SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png"
     },
     {
+      "target": "02-03",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1_精工克制R2.png",
+      "file": "SC-OUT05_星纹门闭合主机位V1_精工克制R2.png"
+    },
+    {
       "target": "02-04",
       "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png",
       "file": "SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png"
+    },
+    {
+      "target": "02-04",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1_精工克制R3.png",
+      "file": "SC-OUT05_星纹门半亮状态V1_精工克制R3.png"
     },
     {
       "target": "02-05",
@@ -26,14 +126,39 @@
       "file": "SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png"
     },
     {
+      "target": "02-05",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1_精工克制R3.png",
+      "file": "SC-OUT05_星纹门半亮状态V1_精工克制R3.png"
+    },
+    {
+      "target": "02-05",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1_精工克制R2.png",
+      "file": "SC-OUT05_星纹门窄开构图V1_精工克制R2.png"
+    },
+    {
       "target": "02-06",
       "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png",
       "file": "SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png"
     },
     {
+      "target": "02-06",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1_精工克制R2.png",
+      "file": "SC-OUT05_星纹门窄开构图V1_精工克制R2.png"
+    },
+    {
+      "target": "02-06",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1_精工克制R2.png",
+      "file": "SC-OUT05_星纹门全开状态V1_精工克制R2.png"
+    },
+    {
       "target": "02-07",
       "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png",
       "file": "SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png"
+    },
+    {
+      "target": "02-07",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1_精工克制R2.png",
+      "file": "SC-OUT05_星纹门全开状态V1_精工克制R2.png"
     },
     {
       "target": "02-08",

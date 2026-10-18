@@ -3,16 +3,18 @@
   "commonVersion": "V1.9",
   "textSegments": 313,
   "establishingDomains": 10,
-  "refinedExistingOriginals": 81,
+  "refinedExistingOriginals": 94,
   "newContactOriginals": 5,
-  "newSceneOriginals": 86,
+  "newSceneOriginals": 99,
   "reviewedUnchangedOriginals": 6,
-  "reviewedFilmReferences": 92,
-  "newReferencePlacements": 743,
+  "reviewedFilmReferences": 105,
+  "newReferencePlacements": 768,
   "currentSceneOriginals": 111,
   "currentFilmReferences": 105,
   "technicalLayouts": 6,
-  "pendingArtReviewOrRevision": 13,
+  "currentFilmReferenceArtReviewCompleted": true,
+  "additionalShotReferencesComplete": false,
+  "pendingArtReviewOrRevision": 0,
   "technicalEvidence": [
     {
       "source": "场景资产/第一季/九层星渊塔/SC-L01-LAYOUT01_行动布局4K_V1.png",
@@ -1502,18 +1504,18 @@
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "01-10",
         "02-01"
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_精工克制R3.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "01-06"
       ]
@@ -1527,33 +1529,33 @@
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "02-01"
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "01-04"
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "01-01"
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "01-01",
         "01-02",
@@ -1561,27 +1563,27 @@
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "01-04",
         "01-05"
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "01-06",
         "01-07"
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "01-08",
         "01-09",
@@ -1591,35 +1593,35 @@
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1_精工克制R3.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "02-04",
         "02-05"
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "02-03"
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "02-06",
         "02-07"
       ]
     },
     {
-      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1_古旧提质R1.png",
+      "source": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "02-05",
         "02-06"
