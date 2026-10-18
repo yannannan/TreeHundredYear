@@ -46,6 +46,32 @@
       "height": 1672
     }
   ],
+  "currentAdoptedSources": [
+    {
+      "id": "FINISH-CHAIN-R2",
+      "path": "场景资产/第一季/战斗关键帧/KEY28-09_绕柱链右腕无包同半截刃V2_精工克制R2.png",
+      "width": 941,
+      "height": 1671
+    },
+    {
+      "id": "FINISH-RELEASE",
+      "path": "场景资产/第一季/战斗关键帧/KEY28-11_同链卸出断刃右持空隙V1_精工克制R2.png",
+      "width": 941,
+      "height": 1671
+    },
+    {
+      "id": "FINISH-DUCK-R3",
+      "path": "场景资产/第一季/战斗关键帧/KEY28-11_伏低避扫前右足无包后左踝包V3_精工克制R2.png",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FINISH-KNEEL-R2",
+      "path": "场景资产/第一季/战斗关键帧/KEY28-11_原宽巨刃单卫跪座九环V2_精工克制R2.png",
+      "width": 941,
+      "height": 1672
+    }
+  ],
   "targetSegments": 4,
   "copiedReferencePlacements": 6,
   "episodeSeconds": 180,

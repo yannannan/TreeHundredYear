@@ -56,6 +56,38 @@
       "height": 1672
     }
   ],
+  "currentAdoptedSources": [
+    {
+      "id": "FIGHT-REFLECT-R2",
+      "path": "场景资产/第一季/战斗关键帧/KEY28-02_镜胸折返右腿承重左手无包V2_精工克制R2.png",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-WEDGE-WIDE-R2",
+      "path": "场景资产/第一季/战斗关键帧/KEY28-06_楔剑石肩承重周辰双足显位V2_精工克制R2.png",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-BROKEN-R2",
+      "path": "场景资产/第一季/战斗关键帧/KEY28-08_断后双足尖段卫足旁单封破V2_精工克制R2.png",
+      "width": 941,
+      "height": 1671
+    },
+    {
+      "id": "FIGHT-SECOND-JAM-R2",
+      "path": "场景资产/第一季/战斗关键帧/KEY28-10_独立第二封侧背卡刃V2_精工克制R3.png",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-SECOND-BREAK-R2",
+      "path": "场景资产/第一季/战斗关键帧/KEY28-11_第二封薄线贯通断口特写V2_精工克制R2.png",
+      "width": 941,
+      "height": 1672
+    }
+  ],
   "targetSegments": 7,
   "copiedReferencePlacements": 8,
   "episodeSeconds": 180,
