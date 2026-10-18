@@ -1,0 +1,464 @@
+[
+  {
+    "key": "SCENE-R1-02",
+    "name": "SC-L01_梁链真锚动作母图V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L01_梁链真锚动作母图V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L01_梁链真锚动作母图V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L01_梁链真锚动作母图V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Exactly preserve the chain, both real anchor points, safe landing edges, gap and beam shape; improve its aged-metal legibility without repairing the actual missing bridge.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-04",
+    "name": "SC-L01_逆重天阶建立镜头V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Retain the huge gravity ring, deep chasm, narrow usable stone steps, upside-down waterfalls, chain and distant bridges; keep localized broken step edges.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-07",
+    "name": "SC-L02_分岔实墙近端母图V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L02_分岔实墙近端母图V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L02_分岔实墙近端母图V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L02_分岔实墙近端母图V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep the two physical lanes separated by the same solid mirror wall, the horizontal crossbar, real knife groove, fixed lamp base and convergence direction; reflections do not become extra real corridors.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-08",
+    "name": "SC-L02_双影浮城_独立建立镜头V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L02_双影浮城_独立建立镜头V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L02_双影浮城_独立建立镜头V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L02_双影浮城_独立建立镜头V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep the real central walkway, mirror symmetry/reflected inverted city, knife groove, lamp bases, railings, single exit and a sober silver-black/cold-blue palette.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-11",
+    "name": "SC-L03_星蚀沙海_独立建立镜头V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L03_星蚀沙海_独立建立镜头V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L03_星蚀沙海_独立建立镜头V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L03_星蚀沙海_独立建立镜头V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep the eclipsed orange sun, lead-silver energy-absorbing dark sand, half-buried starship ribs, distant single giant fin, wind and original copper-orange eclipse lighting. Diminish orange saturation only slightly, retain sandstorm and wreck condition; not ordinary gold desert.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-12",
+    "name": "SC-L03_舰肋弯板取材近端V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep close bent rib/loose metal plate used for shelter, actual shelter dimensions, original wrecked hull and giant distant fin; do not magically straighten the useful curved plate or rebuild the wreck.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-13",
+    "name": "SC-L03_避难舱水气与舱窗V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L03_避难舱水气与舱窗V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L03_避难舱水气与舱窗V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L03_避难舱水气与舱窗V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep the shelter water/air valves, pressure gauge, window, closed door, bench, existing piping, limited warm lamp; clear materials slightly and retain practical working condition, not luxury lounge.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-16",
+    "name": "SC-L04_无声律庭_独立建立镜头V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L04_无声律庭_独立建立镜头V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L04_无声律庭_独立建立镜头V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L04_无声律庭_独立建立镜头V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep the vast silent tribunal stone seats around the black pit, same single guard statue, chains and narrow stone route. Sober bone-grey, black and dim gold, no extra guards or symbols.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-17",
+    "name": "SC-L04_释约石席与窄廊近端V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L04_释约石席与窄廊近端V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L04_释约石席与窄廊近端V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L04_释约石席与窄廊近端V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep original stone seat, slender corridor, near waist-high chain and solid pillar, actual clear escape path. No repairing the functional gap or adding new barriers.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-20",
+    "name": "SC-L05_双接触柱与回弹盖板近端V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L05_双接触柱与回弹盖板近端V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L05_双接触柱与回弹盖板近端V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_双接触柱与回弹盖板近端V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep exactly the existing two physical contact stations, cap plate hinge positions and round floor feature; no extra stations or extra bridges.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-21",
+    "name": "SC-L05_右掌位松盖板与铰链近景V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L05_右掌位松盖板与铰链近景V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L05_右掌位松盖板与铰链近景V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_右掌位松盖板与铰链近景V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve this close-up plate, its loosened lid, hinge and RIGHT-hand pad contact surface. Only materials/light change; no person or hand added, no hiding actual hinge defect.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-22",
+    "name": "SC-L05_残舰灵墟_独立建立镜头V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L05_残舰灵墟_独立建立镜头V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L05_残舰灵墟_独立建立镜头V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_残舰灵墟_独立建立镜头V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep the existing ruined starship volume, stable walkable platforms, existing rings and limited maintenance greenhouse. The ship remains a derelict, but heavy grime is slightly reduced and craftsmanship reads better.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-23",
+    "name": "SC-L05_相位观测窗十二舱总览V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L05_相位观测窗十二舱总览V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L05_相位观测窗十二舱总览V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_相位观测窗十二舱总览V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep exactly twelve suspended pods, in two columns of six, with the original FOUR amber and EIGHT blue classification if visible. Preserve the round observation window, existing controls and narrow walkways. Do not add or remove pods.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-24",
+    "name": "SC-L05_维护循环廊水藻粮柜近端V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L05_维护循环廊水藻粮柜近端V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L05_维护循环廊水藻粮柜近端V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_维护循环廊水藻粮柜近端V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep existing algae growth trays, water purification pipes, small food cabinet, clocks and doorway; viable maintenance provisioning must remain real and finite, no opulent garden or magically endless food.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-28",
+    "name": "SC-L06_交易茶铺与记忆灯近端V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L06_交易茶铺与记忆灯近端V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L06_交易茶铺与记忆灯近端V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_交易茶铺与记忆灯近端V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve reference V2 empty plate, cup, coiled spare cloth and cabinet keyhole; keep warm tea-shop memory-lantern light, avoid adding food, people or a newly separated side-room doorway. Existing market colors become slightly more restrained, not more saturated.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-30",
+    "name": "SC-L06_桥腹私锁闭门与铜带联锁V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L06_桥腹私锁闭门与铜带联锁V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L06_桥腹私锁闭门与铜带联锁V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_桥腹私锁闭门与铜带联锁V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep this side gate fully CLOSED, right hinge, solid copper interlock strip linking gate and mechanism, original lantern post and narrow approach. No opening gap or magical disconnection.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-31",
+    "name": "SC-L06_独行正门与三阶锁闭合V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L06_独行正门与三阶锁闭合V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L06_独行正门与三阶锁闭合V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_独行正门与三阶锁闭合V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep this main gate fully CLOSED and the three indicator lights all OFF. Keep exact three-step lock and keyhole shape, carved wood and antique stone lintel; no new door designs.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-32",
+    "name": "SC-L06_独行正门开启与真实上行阶V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L06_独行正门开启与真实上行阶V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L06_独行正门开启与真实上行阶V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_独行正门开启与真实上行阶V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep this SAME main gate OPEN and three lamps ON in their original positions, actual stairs beyond. Preserve frame and threshold geometry for matching the closed shot.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-33",
+    "name": "SC-L06_轮回梦市_独立建立镜头V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L06_轮回梦市_独立建立镜头V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L06_轮回梦市_独立建立镜头V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_轮回梦市_独立建立镜头V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep multilayer market bridges, warm practical lanterns, wood storefronts, food-stall human-scale paths. Slightly reduce overly orange saturation and glossy wet stone glare, keep dim red accents as local objects, not festival rainbow.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-36",
+    "name": "SC-L07_双路调度与移桥悬臂近端V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L07_双路调度与移桥悬臂近端V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L07_双路调度与移桥悬臂近端V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_双路调度与移桥悬臂近端V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep double-route dispatch bridge, pivot beam, counterweight, exact transfer mechanism and safety walkway. Do not make the movable bridge permanently connected or repair its problem.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-37",
+    "name": "SC-L07_双钟空席与三环固化槽近端V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L07_双钟空席与三环固化槽近端V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L07_双钟空席与三环固化槽近端V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_双钟空席与三环固化槽近端V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep exactly TWO observation hourglasses, two EMPTY wooden-cylinder test seats, the small actual plant and THREE mechanical rings at the save slot. No people, no visible numeric text or glowing timetable.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-38",
+    "name": "SC-L07_四口救援槽与定置绳接口近端V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L07_四口救援槽与定置绳接口近端V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L07_四口救援槽与定置绳接口近端V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_四口救援槽与定置绳接口近端V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep exactly FOUR coupling sockets in a two-by-two arrangement, original fixed safety rope/ring and broad waist harness, kneeling pad and claw gap. Do not add new couplers or substitute necklace for harness.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-42",
+    "name": "SC-L07_空薄板剑脊支点受力参考V2全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L07_空薄板剑脊支点受力参考V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L07_空薄板剑脊支点受力参考V2.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_空薄板剑脊支点受力参考V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Empty close-up only: preserve the old complete sword spine lying across its actual stone fulcrum beneath the lifted thin cover plate, floor and support. No people/feet, no severing sword or enlarging lid opening.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-43",
+    "name": "SC-L07_轨道分闸与薄压板近端V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L07_轨道分闸与薄压板近端V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L07_轨道分闸与薄压板近端V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_轨道分闸与薄压板近端V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep the same original branch lever, conduit, thin inspection cover, solid floor under it, safe wall alcove, dislocated rail and actual walkway. No people, no fixing damaged rail.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-48",
+    "name": "SC-L08_众生悬桥_独立建立镜头V4全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: CRITICAL preserve exactly TWELVE individual one-person pods, SIX on each side of the one real bridge; nearest TWO PAIRS amber (FOUR), remaining FOUR PAIRS blue (EIGHT). Preserve distant mid-transfer hut and TWO foreground control posts and real finite energy lines. No opened pods, extra pods, people or extra bridge railings obscuring count.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-54",
+    "name": "SC-L09_终焉授印_独立建立镜头V5全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L09_终焉授印_独立建立镜头V5.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L09_终焉授印_独立建立镜头V5.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L09_终焉授印_独立建立镜头V5_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: CRITICAL preserve the reference exact NINE complete circular rings with the same spacing/positions above, one single armed guard at center, stone stairs, existing accessible route and closed boundary. Do not add rings, guardians, weapons or floating text.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-58",
+    "name": "SC-L10_隐藏时空枢纽_独立建立镜头V3全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L10_隐藏时空枢纽_独立建立镜头V3.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L10_隐藏时空枢纽_独立建立镜头V3.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-L10_隐藏时空枢纽_独立建立镜头V3_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep the ice anchor, clearly distinct warm real exit, actual maintenance shelter with finite food/water/algae and feasible walkways. Retain blue-grey dimensional core space without adding white-jade palace or excessive energy ribbons. No people or premature frozen male.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-62",
+    "name": "SC-TOWER01_星渊塔外观主视觉V1全场景轻度提质",
+    "origin": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1.png"
+    ],
+    "path": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep original recognizable nine-tier pagoda tower silhouette and all eaves, same existing blue-gold orbital rings, cloud sea and surrounding mountain paths. Do not add tiers or extra rings. Only restrain overly bright blue glow and clarify ancient dark stone/copper materials and scale.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-63",
+    "name": "KEY-CLIFF_首集断阶自救尾帧V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve the exact adult Su Wan identity/C03 silver-blue dress, barefoot left/right foot placement, right hand on knife handle in rock crack, other hand contact and stone ledge; improve surroundings only, not body, face or rescue action.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-64",
+    "name": "KEY-MOUNTAIN_首集山路周辰起始帧V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve exact adult Zhou Chen C04 face/costume/crown/boots, same hand holding and inspecting small ancient talisman and back-carried old sword/scabbard. Refine path/stone/wood/grain and light only.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-65",
+    "name": "KEY-RESCUE_双人递鞘构图V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve the two original adult character identities and exact safe hand grips on the intact EMPTY wooden sword scabbard bridging upper ledge and lower ledge. Keep male prone on stable stair and female on right-side ledge, no pulling her magically into air. Only minor environment/material lighting refinement.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-66",
+    "name": "KEY-RESCUE_空鞘双手握点近景V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/KEY-RESCUE_空鞘双手握点近景V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/KEY-RESCUE_空鞘双手握点近景V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/KEY-RESCUE_空鞘双手握点近景V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve exact two hands, grip directions, sleeves, contact points and the complete empty wooden scabbard; no sword blade, extra fingers, face or body added. A subtle background surface/material improvement only.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-69",
+    "name": "KEY-SHOP_首集木匠铺人物起始帧V2全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2.png",
+    "inputs": [
+      "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2.png"
+    ],
+    "path": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve exact adult Su Wan in same doorway/C03 costume and face; keep original carpenter workbench, wooden child shoe last, tools and window light. No extra face, modern shoes or new props.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-71",
+    "name": "KEY-STREET_首集街口人物场景起始帧V2全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2.png",
+    "inputs": [
+      "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2.png"
+    ],
+    "path": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve exact three people: adult Su Wan/C03, adult male vendor to her right, elderly man in back left, same full costumes and expressions; same wooden cart, broken ceramic bowl and spilled tea. Do not merge bodies, add people or move cart/bowl.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-72",
+    "name": "SC-OUT01_街口木车主机位V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve empty ancient street, original wooden cart position, broken ceramic bowl and spilled tea; slightly clearer maintained wood and stone while keeping ordinary lived-in surroundings.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-73",
+    "name": "SC-OUT02_木匠铺主机位V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve actual working carpenter shop, same shoe last, tools, rope, cloth, workbench and original daylight. No new luxury furnishings, no people, no removing wood-shaving work debris.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-74",
+    "name": "SC-OUT03_山路裂口主机位V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve the exact mountainous stone path, fissure/ledge, wooden debris, collapsed probe rope and sandbag where visible, same morning sun. No fully restoring the broken route.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-75",
+    "name": "SC-OUT04_断阶石桩窄沿V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Preserve real upper stair, stone post, fragile ledge and rock crack opposite, hanging probe rope and exact gap/human-scale holding surfaces. No bridge repair or new railing added.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-76",
+    "name": "SC-OUT05_星纹门全开状态V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep full-open version of SAME star-pattern doorway: original two door leaves open, visible interior blue-grey depth, existing single outer star-disk light track, steps and threshold. No new geometry or brighter colored light.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-77",
+    "name": "SC-OUT05_星纹门半亮状态V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep SAME doorway fully shut with ONLY the original half outer star-disk ring lit; inner carved rings stay dark. Improve stone and bronze subtly without changing light state.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-78",
+    "name": "SC-OUT05_星纹门窄开构图V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep SAME doorway opening a narrow real gap with original outer ring state, identical threshold and steps; do not change it into wide-open door or show unreachable new corridor.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  },
+  {
+    "key": "SCENE-R1-79",
+    "name": "SC-OUT05_星纹门闭合主机位V1全场景轻度提质",
+    "origin": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1.png",
+    "inputs": [
+      "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1.png"
+    ],
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1_古旧提质R1.png",
+    "prompt": "Use case: precise-object-edit. This is a restrained material and cinematography refinement of the supplied existing shot for our established ancient xianxia/science-fiction drama. Keep the original ancient, weighty, mysterious architecture, composition, camera perspective, silhouettes, routes, exact physical affordances, time of day and direction of light. Maintain the reference's muted original palette, dark slate stone, restrained antique bronze, sparse practical warm lamps and necessary cool energy light. Improve only roughly one small aesthetic step: slightly reduce pervasive dirty crust, excessive chipped texture noise and distracting all-over rust; bring out believable stone grain, aged metal patina, engraved edge craftsmanship and useful construction details. Preserve localized story damage, cracks, missing sections, mechanical malfunctions, weather and scale. Refine balanced film exposure, black detail, real atmospheric depth and restrained highlight rolloff. No new palace, no bright white-jade renovation, no extra gilding, no newly added ornate eaves or decorative architecture, no rainbow or purple-pink light, no saturated cyan everywhere. Do not turn night into day or all layers into the same environment. Preserve all people if present exactly as they appear, with unchanged face, costume, body proportions, anatomical hand/foot positions and current prop contacts; do not add people. Maintain native composition and original aspect ratio, no text, watermark, diagram or collage. Photorealistic cinematic material response, no plastic or game-render polish.\n\nShot-specific invariants: Keep SAME doorway fully CLOSED with its original star-disk illumination OFF; carved rings remain dark. Retain exact architecture/steps/threshold; only refined restrained stone/metal/light.",
+    "qa": "待输出后视检；本轮为保持古旧基底的材质/布光轻度修订，禁止仅据提示词宣称几何与数量已通过。"
+  }
+]

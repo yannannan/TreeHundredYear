@@ -1,0 +1,731 @@
+[
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L01-LAYOUT01_行动布局4K_V1.png",
+    "file": "SC-L01-LAYOUT01_行动布局4K_V1.png",
+    "id": "01",
+    "used": true,
+    "kind": "diagram",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L01_梁链真锚动作母图V2.png",
+    "file": "SC-L01_梁链真锚动作母图V2.png",
+    "id": "02",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L01_梁链缺口动作母图V1.png",
+    "file": "SC-L01_梁链缺口动作母图V1.png",
+    "id": "03",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1.png",
+    "file": "SC-L01_逆重天阶建立镜头V1.png",
+    "id": "04",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L02-LAYOUT02_行动布局V2_4K.png",
+    "file": "SC-L02-LAYOUT02_行动布局V2_4K.png",
+    "id": "05",
+    "used": true,
+    "kind": "diagram",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L02-LAYOUT02_行动布局V2_预览.jpg",
+    "file": "SC-L02-LAYOUT02_行动布局V2_预览.jpg",
+    "id": "06",
+    "used": false,
+    "kind": "diagram",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L02_分岔实墙近端母图V1.png",
+    "file": "SC-L02_分岔实墙近端母图V1.png",
+    "id": "07",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L02_双影浮城_独立建立镜头V2.png",
+    "file": "SC-L02_双影浮城_独立建立镜头V2.png",
+    "id": "08",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L03-LAYOUT02_行动布局V2_4K.png",
+    "file": "SC-L03-LAYOUT02_行动布局V2_4K.png",
+    "id": "09",
+    "used": true,
+    "kind": "diagram",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L03-LAYOUT02_行动布局V2_预览.jpg",
+    "file": "SC-L03-LAYOUT02_行动布局V2_预览.jpg",
+    "id": "10",
+    "used": false,
+    "kind": "diagram",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L03_星蚀沙海_独立建立镜头V2.png",
+    "file": "SC-L03_星蚀沙海_独立建立镜头V2.png",
+    "id": "11",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1.png",
+    "file": "SC-L03_舰肋弯板取材近端V1.png",
+    "id": "12",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L03_避难舱水气与舱窗V1.png",
+    "file": "SC-L03_避难舱水气与舱窗V1.png",
+    "id": "13",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L04-LAYOUT02_行动布局V2_4K.png",
+    "file": "SC-L04-LAYOUT02_行动布局V2_4K.png",
+    "id": "14",
+    "used": true,
+    "kind": "diagram",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L04-LAYOUT02_行动布局V2_预览.jpg",
+    "file": "SC-L04-LAYOUT02_行动布局V2_预览.jpg",
+    "id": "15",
+    "used": false,
+    "kind": "diagram",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L04_无声律庭_独立建立镜头V2.png",
+    "file": "SC-L04_无声律庭_独立建立镜头V2.png",
+    "id": "16",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L04_释约石席与窄廊近端V1.png",
+    "file": "SC-L04_释约石席与窄廊近端V1.png",
+    "id": "17",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L05-LAYOUT02_行动布局V2_4K.png",
+    "file": "SC-L05-LAYOUT02_行动布局V2_4K.png",
+    "id": "18",
+    "used": false,
+    "kind": "diagram",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L05-LAYOUT02_行动布局V2_预览.jpg",
+    "file": "SC-L05-LAYOUT02_行动布局V2_预览.jpg",
+    "id": "19",
+    "used": false,
+    "kind": "diagram",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_双接触柱与回弹盖板近端V1.png",
+    "file": "SC-L05_双接触柱与回弹盖板近端V1.png",
+    "id": "20",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_右掌位松盖板与铰链近景V1.png",
+    "file": "SC-L05_右掌位松盖板与铰链近景V1.png",
+    "id": "21",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_残舰灵墟_独立建立镜头V2.png",
+    "file": "SC-L05_残舰灵墟_独立建立镜头V2.png",
+    "id": "22",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_相位观测窗十二舱总览V1.png",
+    "file": "SC-L05_相位观测窗十二舱总览V1.png",
+    "id": "23",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L05_维护循环廊水藻粮柜近端V1.png",
+    "file": "SC-L05_维护循环廊水藻粮柜近端V1.png",
+    "id": "24",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L06-LAYOUT02_行动布局V2_4K.png",
+    "file": "SC-L06-LAYOUT02_行动布局V2_4K.png",
+    "id": "25",
+    "used": true,
+    "kind": "diagram",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L06-LAYOUT02_行动布局V2_预览.jpg",
+    "file": "SC-L06-LAYOUT02_行动布局V2_预览.jpg",
+    "id": "26",
+    "used": false,
+    "kind": "diagram",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_交易茶铺与记忆灯近端V1.png",
+    "file": "SC-L06_交易茶铺与记忆灯近端V1.png",
+    "id": "27",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_交易茶铺与记忆灯近端V2.png",
+    "file": "SC-L06_交易茶铺与记忆灯近端V2.png",
+    "id": "28",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_桥腹私锁侧铰与灯架近端V1.png",
+    "file": "SC-L06_桥腹私锁侧铰与灯架近端V1.png",
+    "id": "29",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_桥腹私锁闭门与铜带联锁V2.png",
+    "file": "SC-L06_桥腹私锁闭门与铜带联锁V2.png",
+    "id": "30",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_独行正门与三阶锁闭合V1.png",
+    "file": "SC-L06_独行正门与三阶锁闭合V1.png",
+    "id": "31",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_独行正门开启与真实上行阶V2.png",
+    "file": "SC-L06_独行正门开启与真实上行阶V2.png",
+    "id": "32",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_轮回梦市_独立建立镜头V2.png",
+    "file": "SC-L06_轮回梦市_独立建立镜头V2.png",
+    "id": "33",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L07-LAYOUT02_行动布局V2_4K.png",
+    "file": "SC-L07-LAYOUT02_行动布局V2_4K.png",
+    "id": "34",
+    "used": true,
+    "kind": "diagram",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L07-LAYOUT02_行动布局V2_预览.jpg",
+    "file": "SC-L07-LAYOUT02_行动布局V2_预览.jpg",
+    "id": "35",
+    "used": false,
+    "kind": "diagram",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_双路调度与移桥悬臂近端V1.png",
+    "file": "SC-L07_双路调度与移桥悬臂近端V1.png",
+    "id": "36",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_双钟空席与三环固化槽近端V1.png",
+    "file": "SC-L07_双钟空席与三环固化槽近端V1.png",
+    "id": "37",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_四口救援槽与定置绳接口近端V2.png",
+    "file": "SC-L07_四口救援槽与定置绳接口近端V2.png",
+    "id": "38",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_仙宫星枢美术修订V3.png",
+    "file": "SC-L07_天机命盘_仙宫星枢美术修订V3.png",
+    "id": "39",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_古旧基底适度提质V4.png",
+    "file": "SC-L07_天机命盘_古旧基底适度提质V4.png",
+    "id": "40",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_独立建立镜头V2.png",
+    "file": "SC-L07_天机命盘_独立建立镜头V2.png",
+    "id": "41",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_空薄板剑脊支点受力参考V2.png",
+    "file": "SC-L07_空薄板剑脊支点受力参考V2.png",
+    "id": "42",
+    "used": true,
+    "kind": "current",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L07_轨道分闸与薄压板近端V1.png",
+    "file": "SC-L07_轨道分闸与薄压板近端V1.png",
+    "id": "43",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L08-LAYOUT02_行动布局V2_4K.png",
+    "file": "SC-L08-LAYOUT02_行动布局V2_4K.png",
+    "id": "44",
+    "used": false,
+    "kind": "diagram",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L08-LAYOUT02_行动布局V2_预览.jpg",
+    "file": "SC-L08-LAYOUT02_行动布局V2_预览.jpg",
+    "id": "45",
+    "used": false,
+    "kind": "diagram",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V2.png",
+    "file": "SC-L08_众生悬桥_独立建立镜头V2.png",
+    "id": "46",
+    "used": false,
+    "kind": "historical",
+    "width": 940,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V3.png",
+    "file": "SC-L08_众生悬桥_独立建立镜头V3.png",
+    "id": "47",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4.png",
+    "file": "SC-L08_众生悬桥_独立建立镜头V4.png",
+    "id": "48",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L09-LAYOUT02_行动布局V2_4K.png",
+    "file": "SC-L09-LAYOUT02_行动布局V2_4K.png",
+    "id": "49",
+    "used": false,
+    "kind": "diagram",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L09-LAYOUT02_行动布局V2_预览.jpg",
+    "file": "SC-L09-LAYOUT02_行动布局V2_预览.jpg",
+    "id": "50",
+    "used": false,
+    "kind": "diagram",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L09_终焉授印_独立建立镜头V2.png",
+    "file": "SC-L09_终焉授印_独立建立镜头V2.png",
+    "id": "51",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L09_终焉授印_独立建立镜头V3.png",
+    "file": "SC-L09_终焉授印_独立建立镜头V3.png",
+    "id": "52",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L09_终焉授印_独立建立镜头V4.png",
+    "file": "SC-L09_终焉授印_独立建立镜头V4.png",
+    "id": "53",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L09_终焉授印_独立建立镜头V5.png",
+    "file": "SC-L09_终焉授印_独立建立镜头V5.png",
+    "id": "54",
+    "used": false,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L10-LAYOUT02_行动布局V2_4K.png",
+    "file": "SC-L10-LAYOUT02_行动布局V2_4K.png",
+    "id": "55",
+    "used": false,
+    "kind": "diagram",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L10-LAYOUT02_行动布局V2_预览.jpg",
+    "file": "SC-L10-LAYOUT02_行动布局V2_预览.jpg",
+    "id": "56",
+    "used": false,
+    "kind": "diagram",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L10_隐藏时空枢纽_独立建立镜头V2.png",
+    "file": "SC-L10_隐藏时空枢纽_独立建立镜头V2.png",
+    "id": "57",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-L10_隐藏时空枢纽_独立建立镜头V3.png",
+    "file": "SC-L10_隐藏时空枢纽_独立建立镜头V3.png",
+    "id": "58",
+    "used": false,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-OV01_九层场景美术总览V1.png",
+    "file": "SC-OV01_九层场景美术总览V1.png",
+    "id": "59",
+    "used": false,
+    "kind": "overview",
+    "width": 1145,
+    "height": 1374
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-OV02_九域建立图检查预览.jpg",
+    "file": "SC-OV02_九域建立图检查预览.jpg",
+    "id": "60",
+    "used": false,
+    "kind": "overview",
+    "width": 1440,
+    "height": 2559
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-OV03_当前九域独立场景浏览总览.jpg",
+    "file": "SC-OV03_当前九域独立场景浏览总览.jpg",
+    "id": "61",
+    "used": false,
+    "kind": "overview",
+    "width": 1440,
+    "height": 2700
+  },
+  {
+    "path": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1.png",
+    "file": "SC-TOWER01_星渊塔外观主视觉V1.png",
+    "id": "62",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1.png",
+    "file": "KEY-CLIFF_首集断阶自救尾帧V1.png",
+    "id": "63",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1.png",
+    "file": "KEY-MOUNTAIN_首集山路周辰起始帧V1.png",
+    "id": "64",
+    "used": true,
+    "kind": "current",
+    "width": 940,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1.png",
+    "file": "KEY-RESCUE_双人递鞘构图V1.png",
+    "id": "65",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/KEY-RESCUE_空鞘双手握点近景V1.png",
+    "file": "KEY-RESCUE_空鞘双手握点近景V1.png",
+    "id": "66",
+    "used": true,
+    "kind": "current",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "path": "场景资产/第一季/塔外/KEY-RESCUE_递鞘候选未通过V0.png",
+    "file": "KEY-RESCUE_递鞘候选未通过V0.png",
+    "id": "67",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V1.png",
+    "file": "KEY-SHOP_首集木匠铺人物起始帧V1.png",
+    "id": "68",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2.png",
+    "file": "KEY-SHOP_首集木匠铺人物起始帧V2.png",
+    "id": "69",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V1.png",
+    "file": "KEY-STREET_首集街口人物场景起始帧V1.png",
+    "id": "70",
+    "used": false,
+    "kind": "historical",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2.png",
+    "file": "KEY-STREET_首集街口人物场景起始帧V2.png",
+    "id": "71",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1.png",
+    "file": "SC-OUT01_街口木车主机位V1.png",
+    "id": "72",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1.png",
+    "file": "SC-OUT02_木匠铺主机位V1.png",
+    "id": "73",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1.png",
+    "file": "SC-OUT03_山路裂口主机位V1.png",
+    "id": "74",
+    "used": true,
+    "kind": "current",
+    "width": 940,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1.png",
+    "file": "SC-OUT04_断阶石桩窄沿V1.png",
+    "id": "75",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1.png",
+    "file": "SC-OUT05_星纹门全开状态V1.png",
+    "id": "76",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1.png",
+    "file": "SC-OUT05_星纹门半亮状态V1.png",
+    "id": "77",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1.png",
+    "file": "SC-OUT05_星纹门窄开构图V1.png",
+    "id": "78",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1.png",
+    "file": "SC-OUT05_星纹门闭合主机位V1.png",
+    "id": "79",
+    "used": true,
+    "kind": "current",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "path": "场景资产/第一季/塔外/第一集同框关键状态预览V2.jpg",
+    "file": "第一集同框关键状态预览V2.jpg",
+    "id": "80",
+    "used": false,
+    "kind": "overview",
+    "width": 1600,
+    "height": 762
+  },
+  {
+    "path": "场景资产/第一季/塔外/第一集基础参考检查预览V1.jpg",
+    "file": "第一集基础参考检查预览V1.jpg",
+    "id": "81",
+    "used": false,
+    "kind": "overview",
+    "width": 1440,
+    "height": 2400
+  }
+]
