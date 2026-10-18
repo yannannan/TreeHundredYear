@@ -1,0 +1,67 @@
+[
+  {
+    "key": "BR-SYNC",
+    "path": "场景资产/第一季/九层星渊塔/SC-L08_双同步位与伤脚托近端V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4_古旧提质R1.png"
+    ],
+    "prompt": "Photorealistic cinematic ancient stellar facility, retain the input's sober blue-grey stone, dark mildly aged bronze and sparse warm practical lamps. Restrained light, readable black details, physical scale and refined but modest workmanship. Keep ancient age without excessive grime or shattered decoration. No white jade palace renovation, extra gilding, multicolor energy, illustration, game screenshot, text, watermark or logos. No people, no body parts. One coherent camera view, highly legible useful construction details. Derive an empty CLOSE establishing view of the two original control pedestals at the near end of this bridge, facing along the bridge, portrait9:16. Preserve two separate original bronze pedestals, inward-facing palm control surfaces, real finite storage mechanical gauge and mechanical load regulator next to them. Show their original working stance area; a small integral stone footrest on the RIGHT operator's inner-left side supports that operator's left ankle without crossing the walking lane. A low shielded grounding inspection recess sits below the left side of the shared control platform, accessible from the same safe floor. Show two separate conduits from one storage unit, one feeding the physical bridge and one feeding the pods, no extra energy source. The same bridge proceeds toward the distant small transfer hut, EXACTLY12 pods remain6per side nearest4amber and remaining8blue if all are in frame; framing may prioritize the controls and show only a subset of distant pods, never add pods. Clear relationship of pads, feet floor and mechanical controls; no holographic screens.",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a13342-be9b-76d3-98f3-ecb9288dd49f\\exec-ef9aba8a-d2bd-46ae-b18e-9b8ed16d288f.png",
+    "name": "BR-SYNC悬桥场景道具参考",
+    "qa": "原双台/十二舱六对四黄八蓝清楚，整体古旧低饱和一致；本次仍偏全景，脚托、掌位和两支路刻度未清楚给出，作为历史/空间候选，另补近端V2，不冒称精准操作面已齐。"
+  },
+  {
+    "key": "BR-GROUND",
+    "path": "道具资产/第一季/PROP08_八层接地铜匣安装态V2.png",
+    "inputs": [
+      "道具资产/第一季/PROP08_空接线铜匣与断铜带V1.png",
+      "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4_古旧提质R1.png"
+    ],
+    "prompt": "Photorealistic cinematic ancient stellar facility, retain the input's sober blue-grey stone, dark mildly aged bronze and sparse warm practical lamps. Restrained light, readable black details, physical scale and refined but modest workmanship. Keep ancient age without excessive grime or shattered decoration. No white jade palace renovation, extra gilding, multicolor energy, illustration, game screenshot, text, watermark or logos. No people, no body parts. One coherent camera view, highly legible useful construction details. Landscape3:2 extreme close physical installation reference. Preserve the FIRST reference's same palm-sized EMPTY copper junction box with two fixed screw terminals, one inert wire stub and one short copper strip with circular hole, no energy crystal and no powered battery. It is beside the existing grounding tab and old screw hole of the bridge control platform. Show the small original copper strip bridging ONLY the bent grounding tab to the nearby original grounded shell lug, fixed with one plain little metal garment clasp. The EMPTY junction box is set around this contact as a protective cover, its door temporarily open so the simple contact geometry remains visible. Its same short carrying rope is coiled around the external mounting lug as passive retention, no new long rope. Slight patina but no orange all-over corrosion, no sparks, no power generation, no hands, no extra terminals, no added battery or unexplained hardware.",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a13342-be9b-76d3-98f3-ecb9288dd49f\\exec-721eee55-3930-4c81-adf2-b6f68ab137b2.png",
+    "name": "BR-GROUND悬桥场景道具参考",
+    "qa": "同空匣/两端子/惰线与一条接外壳铜带可见，无晶石能源；固定件外观偏螺栓，尚不能证明普通衣扣/原接地舌具体握点，仅作容器和外壳连接材质参考。真实小扣接触/闭盖过程仍缺。"
+  },
+  {
+    "key": "BR-DOCK",
+    "path": "场景资产/第一季/九层星渊塔/SC-L08_四急舱接驳与接缝近端V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4_古旧提质R1.png"
+    ],
+    "prompt": "Photorealistic cinematic ancient stellar facility, retain the input's sober blue-grey stone, dark mildly aged bronze and sparse warm practical lamps. Restrained light, readable black details, physical scale and refined but modest workmanship. Keep ancient age without excessive grime or shattered decoration. No white jade palace renovation, extra gilding, multicolor energy, illustration, game screenshot, text, watermark or logos. No people, no body parts. One coherent camera view, highly legible useful construction details. Portrait9:16 local close view beside the far transfer hut of the SAME bridge. Four originally amber urgent one-person pods have reached the short docking arms beside the hut, arranged two by two on the two sides of the existing bridge. Show EXACTLY FOUR amber pods, all doors CLOSED, clear individual standing capacity, no visible people through frosted lower glass. The remaining eight blue pods are outside this local camera field farther down the bridge, do not depict new pods. A short real transfer board links docking walkway to the open hut threshold; a shallow narrow board seam and original fixed hand rope are clearly accessible from safe railing height, not a giant open chasm. Preserve ancient grey stone/bronze topology and a real solid floor, cloud abyss stays outside the guardrails. No floating magic walkway, no added alternate rescue path.",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a13342-be9b-76d3-98f3-ecb9288dd49f\\exec-4770d494-9a99-4d31-98f5-625555d64a4a.png",
+    "name": "BR-DOCK悬桥场景道具参考",
+    "qa": "局部恰四个暖色急舱/门闭、实踏板与浅接缝/屋入口可辨；八蓝在局部画外，不能据此称全十二舱位置可数。实际开门及人物过缝需动态，图不作为开门首帧。"
+  },
+  {
+    "key": "BR-HUT",
+    "path": "场景资产/第一季/九层星渊塔/SC-L08_中转屋独立储备与门锁内景V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4_古旧提质R1.png"
+    ],
+    "prompt": "Photorealistic cinematic ancient stellar facility, retain the input's sober blue-grey stone, dark mildly aged bronze and sparse warm practical lamps. Restrained light, readable black details, physical scale and refined but modest workmanship. Keep ancient age without excessive grime or shattered decoration. No white jade palace renovation, extra gilding, multicolor energy, illustration, game screenshot, text, watermark or logos. No people, no body parts. One coherent camera view, highly legible useful construction details. Landscape3:2 inside the same small transfer hut on the far rock pillar, looking toward its main bridge doorway. A credible modest refuge for FIVE people to sit, plain bench along right wall, finite small water tank/air piping, narrow first aid shelf, the independent amber reserve housing and hefty mechanical isolation latch clearly grouped on the inner wall. Beyond the open central doorway is the real narrow bridge. A separate guarded low side threshold to the LEFT of the main door leads to the registered below-level father's transfer board, not another escape route out of the tower. Clear solid floor, no human, no fresh luxury decor, no floor hole in the walking lane, no magical limitless water. Existing grey stone and dark copper, shelter warm practical light distinct from amber urgent pod lights outside. This is a local layout reference, not all exterior pods in frame.",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a13342-be9b-76d3-98f3-ecb9288dd49f\\exec-253fc24b-6560-4824-b62d-41ebddeecd01.png",
+    "name": "BR-HUT悬桥场景道具参考",
+    "qa": "屋内凳/有限水气/独立储备/侧门清楚，但主门外远端又出现一座小屋，朝向与原桥两端关系有歧义；历史候选不作当前朝向主图，另补V2。"
+  },
+  {
+    "key": "BR-LIFT",
+    "path": "场景资产/第一季/九层星渊塔/SC-L08_沈砚支路升板与屋侧接点V1.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4_古旧提质R1.png"
+    ],
+    "prompt": "Photorealistic cinematic ancient stellar facility, retain the input's sober blue-grey stone, dark mildly aged bronze and sparse warm practical lamps. Restrained light, readable black details, physical scale and refined but modest workmanship. Keep ancient age without excessive grime or shattered decoration. No white jade palace renovation, extra gilding, multicolor energy, illustration, game screenshot, text, watermark or logos. No people, no body parts. One coherent camera view, highly legible useful construction details. Portrait9:16 medium-close exterior of the far transfer hut's small LEFT-side docking threshold. Show the real short guarded lift board of the separately registered shelter branch arriving BELOW this side threshold by only a small climbable step, retaining solid floor beneath a person's feet. The main bridge from the reference remains a distinct approach behind/to the side, not replaced with this lift. Robust rail at adult hand height, a secure inner-door grabbing edge, sufficient platform for a walking stick and injured adult to stand, clear place where rescuers INSIDE the hut can offer a twisted coat by hand over the small step. No rope or coat actually present yet, no people. Establish that no one must hang over a bottomless gap to climb in; abyss remains outside guardrails. No new elevator palace, no duplicated hut or new exit, no violent damage.",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a13342-be9b-76d3-98f3-ecb9288dd49f\\exec-5bf0e80b-4e89-403f-b9aa-43460391aa2c.png",
+    "name": "BR-LIFT悬桥场景道具参考",
+    "qa": "实升板/栏杆/屋侧口小台阶清楚，脚下可托不需要人徒手吊在深渊；背景部分蓝舱只作局部空间，沈砚具体出舱/攀入接触仍未生成。"
+  },
+  {
+    "key": "BR-BOOK",
+    "path": "道具资产/第一季/PROP09_十二舱薄册与循环夹页V1.png",
+    "inputs": [],
+    "prompt": "Photorealistic cinema prop flat lay, landscape3:2, an ORIGINAL slim flexible dark bronze embossed register opened on muted grey cloth, alongside one folded thin plain cycle-tracing insert. Used in an ancient stellar rescue facility, fine mild patina, sober low-saturation bronze and slate. The register has EXACTLY twelve individually separated entry cells in TWO columns of SIX; each cell has one small embossed numeric ID, left column01 to06 top to bottom, right07 to12. Only cells01/02/03/04 have small amber status inlays, other EIGHT blue; precise counts readable. In cell01 put only the short simplified Chinese name 小满. A physically SEPARATE little tab below the twelve cells depicts a single separate shelter branch with only the name 沈砚, never a thirteenth capsule entry. The insert shows a hand charcoal traced long cycle curve WITHOUT numerical time labels, dates,300-year information or future role assignment. Thin worn cloth hinge with functional corner fastening, no thick magic spellbook, no gemstones, no energy crystals, no decorative sword, no new character or costume. Large clear numbers and only two specified names, no other writing, no English, no gibberish, no watermark. No digital UI.",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a13342-be9b-76d3-98f3-ecb9288dd49f\\exec-938536ac-311b-4051-83c0-ee1b87223e9a.png",
+    "name": "BR-BOOK悬桥场景道具参考",
+    "qa": "可数十二条目两列各六，01—04黄其余八蓝，01小满与另挂沈砚支路，未写300年数值；夹页曲线偏星轨示意，仅取材质/无标值曲线，不当实际抄写线形或阶段人已获救证明。"
+  }
+]
