@@ -26,5 +26,55 @@
     "date": "2026-10-19",
     "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-22fc38de-139f-42b9-8cab-868cb822aa19.png",
     "qa": "采用有限攀回尾态：两人分开站在原安全石阶，A背完整带剑鞘/腰符，B右腰为原短刃小皮套，探路绳未回腰；原脸衣、手部微血痕保持。B部分脚位被裙遮，图只锁站位/兵器物位，不证明全脚掌受力或完整攀回动态。"
+  },
+  {
+    "key": "EP02-A-HAND-OPEN-V1",
+    "name": "第二集周辰右手虎口背侧细擦伤前态",
+    "path": "场景资产/第一季/早期接触/KEY02-02_周辰右手虎口背侧擦伤未合V1.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-22fc38de-139f-42b9-8cab-868cb822aa19.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/周辰/ZC-F01_独立正面头肩V1.png"
+    ],
+    "prompt": "Image1 sets same male RIGHT hand and retained abrasion after the climb, Image2 only A's black-gold costume. Generate ONE 9:16 85mm LIVE-ACTION MACRO of exactly one adult MALE RIGHT HAND, BACK/DORSAL side toward lens, relaxed slightly bent fingers with thumb-index web clearly visible. Same black-gold brocade cuff at wrist, warm upper-left dawn, grey safe landing blurred behind. Preserve the SMALL SHALLOW red friction scrape across thumb-index web/back near index knuckle seen in Image1: one short thin red superficial abrasion and tiny blood smear, mild non-graphic, no gaping/deep wound. This is BEFORE gradual local closing. All FIVE normal digits clearly readable, correct anatomy/right-hand laterality, no extra hand/person/weapon/jewelry/bandage. No glow, particles, magic, captions, watermark or text. Highest native detailed skin/pores, no plastic retouch. The tiny existing blood remains, not a new injury on palm or opposite hand.",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-efcfbde5-a6b3-4e00-bf38-517a3fa32678.png",
+    "qa": "采用：单成年男性右手虎口背侧小擦口、五指与黑金袖口可辨，伤势轻微不血腥、无发光；只02-02手部微伤前态，不作全身伤情或动态再生证明。"
+  },
+  {
+    "key": "EP02-A-HAND-CLOSED-V1",
+    "name": "第二集周辰右手虎口背侧收口留血后态",
+    "path": "场景资产/第一季/早期接触/KEY02-02_周辰右手虎口背侧收口留血V1.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-efcfbde5-a6b3-4e00-bf38-517a3fa32678.png"
+    ],
+    "prompt": "Precise micro-edit of Image1. Preserve the EXACT same male RIGHT HAND back-side pose, all five fingers/knuckles/thumb, black-gold cuff, camera, depth of field and dawn background. Change ONLY the tiny existing superficial abrasion edges at thumb-index web: bring the small split skin edges together into a closed thin faint pink seam, leave the SAME tiny red blood smear/specks on and immediately beside it so blood does NOT disappear. This is the later partially regenerated state of SAME injury, not new wound. No bandage, scar elsewhere, magical light, particles, spotless retouch, fingers moved or extra hand. No captions/watermark. Highest native 9:16 live-action macro, believable skin pores. Both images are static before/after references, not an animation.",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-af859564-7e04-4f10-ad6c-42402ac55c11.png",
+    "qa": "采用有限右手收口目标：同一虎口背侧擦伤缩为细线，原血迹未消、黑金袖/手势基本保持；差异幅度小，只作前后细态目标，不证明持续再生运动或疼痛表演。"
+  },
+  {
+    "key": "EP02-B-HAND-OPEN-V1",
+    "name": "第二集苏晚左指腹细擦伤前态",
+    "path": "场景资产/第一季/早期接触/KEY02-02_苏晚左指腹擦伤未合V1.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-22fc38de-139f-42b9-8cab-868cb822aa19.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/苏晚/SW-F01_独立正面头肩V1.png"
+    ],
+    "prompt": "Use case: identity-preserve / compositing. A single highest-native-quality 9:16 vertical LIVE-ACTION cinematic still for TreeHundredYear episode 02, not a storyboard grid or illustration. Exact adult identities and wardrobe from references: A Zhou Chen apparent28 C04 face, long black half-up hair/gold crown/black-gold layered robes/black boots; B Su Wan apparent25 C03 face, black half-up hair/silver floral jewels/opaque-lined silver-white ice-blue gown with gauze sleeves/BARE FEET, no ankle injury. Keep both faces/hair/outfits with realistic skin and fabric, no redesign of formal assets. No extra person, modern item, magic glow, interface, captions, writing, logos or watermark. Maintained low-saturation fine grey stone/dark bronze/wood, immense natural mountain scale, not a dilapidated ruin, not a gaudy palace or other drama imitation. Morning light from upper-left. No face/full body in crop. 85mm macro of EXACT ONE adult female LEFT hand, palm side angled toward lens with fingers gently spread and thumb base/wrist visible, original silver-white ice-blue jeweled gauze cuff at wrist, warm dawn edge and softly blurred safe stone behind. Show one very SMALL shallow friction scrape on LEFT INDEX FINGER PAD, fine short red line plus tiny smear of blood from rock/scabbard contact. Other fingers uninjured, five anatomically normal digits, no ring/bracelet/bandage/knife, no torn tissue or gore. This is BEFORE small scrape closes, no supernatural glow/particles. No other hands or people; hand remains anatomically LEFT and natural.",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-73643f4c-9bbc-4795-95d6-f22a2c989f5f.png",
+    "qa": "采用：单成年女性左手食指指腹小擦口、五指与原银蓝纱袖可辨，无新踝伤/绷带/发光；只手部微伤前态，不证明身体年龄或再生动态。"
+  },
+  {
+    "key": "EP02-B-HAND-CLOSED-V1",
+    "name": "第二集苏晚左指腹收口留血后态",
+    "path": "场景资产/第一季/早期接触/KEY02-02_苏晚左指腹收口留血V1.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-73643f4c-9bbc-4795-95d6-f22a2c989f5f.png"
+    ],
+    "prompt": "Precise micro-edit of Image1. Lock the EXACT same adult FEMALE LEFT HAND palm-side pose and index-finger angle, five digits, silver-white ice-blue jeweled gauze cuff, morning light, background and framing. Change ONLY small scrape on LEFT INDEX FINGER PAD: skin edges close into a faint thin pink seam while SAME tiny red blood smear/specks remain in same location. Do not erase all blood or move injury to nail/back/palm/other finger. No fresh large cut, scar elsewhere, magical glow/particles/bandage, new hand, text or watermark. Same highest-native-quality 9:16 live-action macro. This is static later state of SAME superficial injury, not a healed spotless retouch.",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-dacfd7c5-c557-4aa7-8ed3-458e3e71a383.png",
+    "qa": "采用有限左食指收口目标：同机位左指腹细伤收为线状且血点保留，五指/银蓝袖保持，无发光；只是微伤前后目标，不证明连续再生、无痛或全部伤口消失。"
   }
 ]

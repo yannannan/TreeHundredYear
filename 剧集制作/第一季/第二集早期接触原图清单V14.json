@@ -18,5 +18,45 @@
     "bytes": 2816969,
     "sha256": "54c30e6a15aa4bff944b094b5ca26d1a076c153271de39b83d28a6a175432299",
     "upscaled": false
+  },
+  {
+    "id": "EP02-A-HAND-OPEN-V1",
+    "path": "场景资产/第一季/早期接触/KEY02-02_周辰右手虎口背侧擦伤未合V1.png",
+    "purpose": "采用：单成年男性右手虎口背侧小擦口、五指与黑金袖口可辨，伤势轻微不血腥、无发光；只02-02手部微伤前态，不作全身伤情或动态再生证明。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2086054,
+    "sha256": "52a660ca4bdba44ca249012caff9d0ec923e9748767b24b81dfb43b57de9f9ea",
+    "upscaled": false
+  },
+  {
+    "id": "EP02-A-HAND-CLOSED-V1",
+    "path": "场景资产/第一季/早期接触/KEY02-02_周辰右手虎口背侧收口留血V1.png",
+    "purpose": "采用有限右手收口目标：同一虎口背侧擦伤缩为细线，原血迹未消、黑金袖/手势基本保持；差异幅度小，只作前后细态目标，不证明持续再生运动或疼痛表演。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2035529,
+    "sha256": "b79afa6d54a3c964f3cda7364bacdac14f736873b852945c08c0b04ea5878829",
+    "upscaled": false
+  },
+  {
+    "id": "EP02-B-HAND-OPEN-V1",
+    "path": "场景资产/第一季/早期接触/KEY02-02_苏晚左指腹擦伤未合V1.png",
+    "purpose": "采用：单成年女性左手食指指腹小擦口、五指与原银蓝纱袖可辨，无新踝伤/绷带/发光；只手部微伤前态，不证明身体年龄或再生动态。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2079272,
+    "sha256": "c6e28ac84b92bbeeab84ff7de9dd36c23d3320ff0f32b39d762d5ccb5e887c3a",
+    "upscaled": false
+  },
+  {
+    "id": "EP02-B-HAND-CLOSED-V1",
+    "path": "场景资产/第一季/早期接触/KEY02-02_苏晚左指腹收口留血V1.png",
+    "purpose": "采用有限左食指收口目标：同机位左指腹细伤收为线状且血点保留，五指/银蓝袖保持，无发光；只是微伤前后目标，不证明连续再生、无痛或全部伤口消失。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2030426,
+    "sha256": "b32a5a3c77801b63cf08e1942f4b85410cf672bdd984e84227b44a63d87ddd19",
+    "upscaled": false
   }
 ]
