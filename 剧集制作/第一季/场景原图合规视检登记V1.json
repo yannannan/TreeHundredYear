@@ -66,5 +66,22 @@
     "imageEdited": false,
     "generatedThisBatch": false,
     "upscaled": false
+  },
+  {
+    "id": "REVIEW-RETURN-FAMILY",
+    "path": "场景资产/第一季/关键接触/KEY32-02_父女原山阶各自落脚V1.png",
+    "review": "原图有限视检通过：父女原山阶/石栏为天然石材局部风化、路面可行且古建主体完整，低饱和暖日光，无全面锈毁/废墟感，无需改成金属平台或重绘。G原脸粗衣/右扶低栏右好腿半蹲左臂揽K肩，K自抱同单灯/右鞋左无鞋，两人各自实地、无长杖/新包/武器，儿童不承成人重量。只32-02已跨后父女身份/落脚目标，不证明过门过程/左伤腿包遮挡全貌或真实对话表演；PNG保留原字节，正式人物服饰母图不改。",
+    "date": "2026-10-18",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2979556,
+    "sha256": "e7cade252e43a9673aa90af5f882fe67edfe717d27f2e5c36c9afbe9baa76c90",
+    "expectedTargets": [
+      "32-02"
+    ],
+    "status": "reviewed-as-is",
+    "imageEdited": false,
+    "generatedThisBatch": false,
+    "upscaled": false
   }
 ]
