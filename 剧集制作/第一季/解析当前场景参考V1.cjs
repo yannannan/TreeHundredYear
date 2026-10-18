@@ -9,6 +9,6 @@ module.exports=function resolve(r){
  else if(m||legacy.some(m=>m.path===out.path))out.purpose=(r.purpose||r.id||'场景参考')+'；旧尺度场景待按精工克制V2修订，仅取已注明地形/动作与功能，不复制全面锈破';
  if(newer?.id==='L08-WIDE-REFINED-R2'&&(r.purpose||'').includes('空舱保持空'))out.purpose+='；本段最高优先：上述四暖八冷是原始初入层源图的视检描述，本段只取原桥/支臂和材质。按本段年份与累计返乡人数保留已空舱，绝不恢复四急灯态或已返人物；最终十三返后不再有留舱者。';
  const unchanged=read('场景原图合规视检登记V1.json').find(x=>x.path===out.path);
- if(unchanged)out={...out,width:unchanged.width,height:unchanged.height,bytes:unchanged.bytes,sha256:unchanged.sha256,purpose:(out.purpose||r.purpose||r.id||'场景参考').split('；新标准原图视检：')[0]+'；新标准原图视检：'+unchanged.review+'；本次未重绘或生成，原逐段动作/声音/数量/状态限制保留'};
+ if(unchanged)out={...out,width:unchanged.width,height:unchanged.height,bytes:unchanged.bytes,sha256:unchanged.sha256,purpose:(out.purpose||r.purpose||r.id||'场景参考').split('；新标准原图视检：')[0].split('；旧尺度场景待按精工克制V2修订')[0]+'；新标准原图视检：'+unchanged.review+'；本次未重绘或生成，原逐段动作/声音/数量/状态限制保留'};
  return out;
 };

@@ -6,13 +6,13 @@
   "refinedExistingOriginals": 81,
   "newContactOriginals": 5,
   "newSceneOriginals": 86,
-  "reviewedUnchangedOriginals": 5,
-  "reviewedFilmReferences": 91,
-  "newReferencePlacements": 742,
+  "reviewedUnchangedOriginals": 6,
+  "reviewedFilmReferences": 92,
+  "newReferencePlacements": 743,
   "currentSceneOriginals": 111,
   "currentFilmReferences": 105,
   "technicalLayouts": 6,
-  "pendingArtReviewOrRevision": 14,
+  "pendingArtReviewOrRevision": 13,
   "technicalEvidence": [
     {
       "source": "场景资产/第一季/九层星渊塔/SC-L01-LAYOUT01_行动布局4K_V1.png",
@@ -1521,7 +1521,7 @@
     {
       "source": "场景资产/第一季/塔外/KEY-RESCUE_空鞘双手握点近景V1_古旧提质R1.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "原图视检合规，未重绘/非新生成",
       "targets": [
         "02-01"
       ]
