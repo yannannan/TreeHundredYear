@@ -3,6 +3,7 @@ const dir=__dirname,root=path.resolve(dir,'../..');
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8').replace(/^\uFEFF/,''));
 module.exports=function generate(ep){
  ep=require('./采用终章接触状态参考V1.cjs')(ep);
+ ep=require('./采用回程维护状态参考V1.cjs')(ep);
  const out=path.join(dir,`第${ep.id}集/执行包V1`);fs.mkdirSync(out,{recursive:true});
  const common=fs.readFileSync(path.join(dir,'全剧通用提示词.md'),'utf8').match(/```text\s*([\s\S]*?)```/)[1].trim();
  const cat=read(path.join(dir,'第一集真实参考来源V2.json'));

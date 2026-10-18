@@ -24,17 +24,17 @@
       "episode": 31,
       "segments": 12,
       "seconds": 180,
-      "referenceCopies": 175
+      "referenceCopies": 179
     },
     {
       "episode": 32,
       "segments": 12,
       "seconds": 180,
-      "referenceCopies": 192
+      "referenceCopies": 222
     }
   ],
   "segments": 59,
-  "referenceCopies": 859,
+  "referenceCopies": 893,
   "errors": [],
   "actualVideoGenerated": false,
   "actualAudioGenerated": false,
