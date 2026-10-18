@@ -1,0 +1,29 @@
+[
+  {
+    "key": "L06-GATE-CLOSED-REFINED-R4",
+    "name": "六层独行正门闭合精工克制R4",
+    "date": "2026-10-19",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L06_独行正门与三阶锁闭合V1_古旧提质R1.png",
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_独行正门与三阶锁闭合V1_精工克制R4.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-e9b318e1-3322-42d7-b3be-c343baf7059f.png"
+    ],
+    "prompt": "精确修改输入图，保留原构图、镜头、木门外形、五只黑色未点亮圆灯、左铰链、右门环与钥匙孔、三条横铜带、拱形通风口、原有夜市红布与水道。必须显著改变建材表面而不是只除苔：把全部人造墙砖、门槛与前景路面原来像皱褶锡纸/粗砸石的深凹凸面，替换成平整细磨的完整深灰石板，只有轻微自然细纹和真实拼缝，砖块原位置尺寸不变；所有人造暗铜构件改为平整拉丝暗铜，保留接缝铆钉，不保留全面锈坑；木门用保养良好的刨平深胡桃木，保留原木纹但去掉纵向伤痕和腐朽纹。不要改变远处城市建筑和光线，不新增装饰，不变金色宫殿，不加霓虹。电影真人实景摄影质感，9:16高清。门必须完全关闭，五灯必须全部熄灭，无钥匙、人物、文字、水印。只重做表面材质，严禁改变任何机关位置和门状态。",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-d21a6186-0206-4bba-825e-cc7626ae43f2.png",
+    "qa": "采用：R4实见墙砖/铜框平整、木门伤痕明显减轻；闭门、左铰/右锁、五只暗灯和夜市原空间保持。R2/R3提质不足候选不采用。仅静态闭态形制，不证明门锁/计时运动。"
+  },
+  {
+    "key": "L06-GATE-OPEN-REFINED-R2",
+    "name": "六层独行正门开启真阶精工克制R2",
+    "date": "2026-10-19",
+    "origin": "场景资产/第一季/九层星渊塔/SC-L06_独行正门开启与真实上行阶V2_古旧提质R1.png",
+    "path": "场景资产/第一季/九层星渊塔/SC-L06_独行正门开启与真实上行阶V2_精工克制R2.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/九层星渊塔/SC-L06_独行正门开启与真实上行阶V2_古旧提质R1.png",
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-d21a6186-0206-4bba-825e-cc7626ae43f2.png"
+    ],
+    "prompt": "必须显著减轻破败感：把全部完整人造石板/墙砖的皱褶锡纸状深凹凸纹，改成大面平整细磨深灰石材，保留真实接缝；完整金属改为平整拉丝石墨灰/暗铜，去掉全面锈坑，木板保养良好。不要修复下文指定的故障/开口/断裂。\nUse case: precise-object-edit. Asset: TreeHundredYear first-season functional scene reference. Image 1 is the EXACT edit target, not a loose style suggestion. Create one highest-native-quality live-action cinematic still with original canvas aspect ratio, lens perspective, camera position, scale, object count and actual spatial topology LOCKED. Improve ONLY undamaged construction surfaces: broad complete precision-cut graphite-grey slate, satin dark graphite alloy and restrained dark-bronze edging, fitted seams, believable wood grain and physically lit microtexture. Remove blanket orange corrosion, everywhere-pitted/chipped texture, excessive moss and unrelated rubble. Preserve plot-required localized damage, real functional openings, moving clearances, originally raised or lowered parts and all mechanical endpoints. Keep original working light states and natural light direction; restrained warm lamps with cool ambient depth, no gaudy gold palace, no rainbow neon, no sterile white facility. Original gigantic scenic scale and layered distant structures remain, including broken celestial rock and floating debris where present. No added people, creatures, weapons, routes, supports, controls, captions, labels, logo or watermark. No state advancement or magical success effects. This project is independent, not an imitation of another drama. Keep exact original wooden door OPEN outward to the left at source angle, original left hinges, right edge lock escutcheon and the SMALL INSERTED KEY staying IN THE MOVING DOOR LEAF lock, not moved to wall. Preserve exact FIVE round physical timer lamps above the arch ALL AMBER-LIT as source. Preserve actual clearly rising stone staircase through this opening and its side parapet, ascending away up-right with source lamps and open sky depth; it is a real usable upward exit, no trap/pit/blocked stair. Same distant warm market, red cloth, canal and wet lane; improve only complete stone/wood/metal faces, not opening state, stair route, key count or architecture. Surface finish correction is essential: intact stone blocks must have mostly FLAT finely honed faces with subtle natural grain, NO hammered/crumpled-foil texture or repeated deep gouges. Timber planks have well-maintained smooth planed faces with subtle grain, not distressed scarred or rotting wood. Intact metal has clean planar satin faces and precise edges, not pitted gold crust. Preserve actual seams, original silhouette and functional damage only. Image 2 is SUPPORTING MATERIAL FINISH REFERENCE ONLY: use its flat honed stone / maintained timber / dark-bronze finish, never copy its closed door or dark lamps. Image 1 controls the open doorway, five lit lamps, stairway and inserted key exactly.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-617d3a06-6dae-4c02-b496-2608ac87d89b.png",
+    "qa": "采用：五只灯全亮、门叶向左外开、钥匙留在移动门叶锁内及真实上行阶保持；外墙石面更完整、苔蚀减少，夜市/水道/阶路拓扑未改。只作开态与路径参考，不证明开合转轴或钥匙动态。"
+  }
+]
