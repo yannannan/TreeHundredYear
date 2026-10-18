@@ -1,0 +1,48 @@
+[
+  {
+    "key": "EP02-CLIMB-KNEE-V1-CANDIDATE",
+    "name": "第二集攀回左膝上沿中间态",
+    "path": "场景资产/第一季/早期接触/KEY02-02_左膝上沿右掌扶石攀回候选V1.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1_精工克制R2.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/周辰/ZC-F01_独立正面头肩V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/苏晚/SW-F01_独立正面头肩V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png"
+    ],
+    "prompt": "Use case: identity-preserve / compositing. A single highest-native-quality 9:16 vertical LIVE-ACTION cinematic still for TreeHundredYear episode 02, not a storyboard grid or illustration. Exact adult identities and wardrobe from references: A Zhou Chen apparent28 C04 face, long black half-up hair/gold crown/black-gold layered robes/black boots; B Su Wan apparent25 C03 face, black half-up hair/silver floral jewels/opaque-lined silver-white ice-blue gown with gauze sleeves/BARE FEET, no ankle injury. Keep both faces/hair/outfits with realistic skin and fabric, no redesign of formal assets. No extra person, modern item, magic glow, interface, captions, writing, logos or watermark. Maintained low-saturation fine grey stone/dark bronze/wood, immense natural mountain scale, not a dilapidated ruin, not a gaudy palace or other drama imitation. Morning light from upper-left. Image1 sets exact original upper-left safe landing / lower-right natural wall and cliff void and same wardrobe; Images2/3 are A/B identity locks; Image4 locks old sword and EMPTY intact scabbard. Show a LATER INTERMEDIATE SELF-CLIMB, not the old low hanging pose. Side-on medium-wide at ledge height; A remains prone on the high LEFT landing with LEFT elbow/forearm and hips grounded, RIGHT hand grips upper end of one intact EMPTY scabbard and draws steadily toward him. Extracted single iron sword lies flat safely on landing on A's LEFT, away from both hands. B has climbed UP: her LEFT knee has just landed securely on the original upper stone edge, her RIGHT bare foot still presses the original lower wall ledge, LEFT hand still grips LOWER end of same scabbard; her RIGHT palm is flat on upper stone edge and bears self-pushing weight. Her short knife has ALREADY been pulled from seam and SHEATHED in the original small dark leather holder at her RIGHT waist: no knife left in wall or held under her bracing palm. Show four precise body contacts and plausible knee/hip alignment, B helping herself not dangling by one arm, both supported, original abyss still open below, no new bridge/stair/support. Original probe rope stays fallen slack down LEFT broken anchor, not attached to body or new load anchor. No full pull-up completed, no second sword/scabbard/rope, no bandages, no new scratches on face or ankles.",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-c4fac789-b0a2-4398-939a-6acf9be80b2f.png",
+    "qa": "候选：右掌扶石/短刃已归右腰保持，但左膝未明确压在周辰所在同一上层水平面，不能证明膝盖上阶，不采用。"
+  },
+  {
+    "key": "EP02-CLIMB-KNEE-V2-CANDIDATE",
+    "name": "第二集攀回左膝压同一上层平台近景",
+    "path": "场景资产/第一季/早期接触/KEY02-02_左膝上沿右掌扶石攀回候选V2.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-c4fac789-b0a2-4398-939a-6acf9be80b2f.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/周辰/ZC-F01_独立正面头肩V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/苏晚/SW-F01_独立正面头肩V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png"
+    ],
+    "prompt": "新机位修正，Image1是同场景初稿，只取人物身份、服饰、刀已归右腰和断阶环境，不能照搬低位膝盖。Image2/3锁定成年周辰28岁/苏晚25岁原面容，Image4锁完整旧剑和空木鞘。9:16真人电影近中景，摄影机上移靠近周辰所在的同一上层水平平台，清楚展示平台的水平顶面。画面左边周辰仍俯卧：左前臂肘压在该平台顶面，右手握完整空鞘上端，旧铁剑平放左侧安全处。苏晚已主动向上攀：左膝必须清晰跪压在这一个平台顶面、与周辰的左前臂处于同一个水平高度；右掌也压在这个平台顶面；她的髋部已越过边沿，胸在平台之上，绝不能把膝盖画成悬空、抵竖直墙或另一个下层台阶。她左手仍握同一空鞘下端，右腰小皮刀套中短刃已完整归鞘。右腿向下蹬原壁沿，画外部分不补第二人腿，不捏造新台阶或桥。平台外缘和崖下空隙在右下角可见，原探路绳松落在左边背景、未系两人，不承重。不改脸衣发饰，不加绷带/踝伤/武器/人，不发光，不画字/水印。低饱和干净灰石面、左上清晨自然光，最高原生画质。只取真实上膝/右掌/握鞘局部静态，非整个攀回完成。",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-97f453df-87dd-46ba-82c3-23bbda63939b.png",
+    "qa": "候选：更近机位但左膝仍在低一级石面，未形成同平台膝掌接触，不采用。"
+  },
+  {
+    "key": "EP02-RECOVER-STAND-V1-CANDIDATE",
+    "name": "第二集攀回后相对站稳尾态",
+    "path": "场景资产/第一季/早期接触/KEY02-02_稳定石阶双人归刀背剑尾态候选V1.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1_精工克制R2.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/周辰/ZC-F01_独立正面头肩V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/苏晚/SW-F01_独立正面头肩V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP02_修物短刃探路绳V1.png"
+    ],
+    "prompt": "Use case: identity-preserve / compositing. A single highest-native-quality 9:16 vertical LIVE-ACTION cinematic still for TreeHundredYear episode 02, not a storyboard grid or illustration. Exact adult identities and wardrobe from references: A Zhou Chen apparent28 C04 face, long black half-up hair/gold crown/black-gold layered robes/black boots; B Su Wan apparent25 C03 face, black half-up hair/silver floral jewels/opaque-lined silver-white ice-blue gown with gauze sleeves/BARE FEET, no ankle injury. Keep both faces/hair/outfits with realistic skin and fabric, no redesign of formal assets. No extra person, modern item, magic glow, interface, captions, writing, logos or watermark. Maintained low-saturation fine grey stone/dark bronze/wood, immense natural mountain scale, not a dilapidated ruin, not a gaudy palace or other drama imitation. Morning light from upper-left. Image1 locks original cliff setting/wardrobe, Images2/3 exact faces, Image4 iron sword/scabbard/token, Image5 only original short knife/sheath shape, NOT rope or sandbag restoration. Show a LATER TAIL STATE after actual self-climb: BOTH adults stand separately and securely on original HIGH SAFE LEFT landing, each has stepped half a pace back facing the other, A left / B right, four feet planted, no longer reaching across abyss. A's complete old iron sword is now fully inserted in its one intact wooden scabbard and carried on his BACK; no drawn sword on ground or in hand. A's right hand relaxed at waist has a tiny retained reddish abrasion trace only, no bandage. B's short knife is fully sheathed at RIGHT waist, LEFT fingertips show tiny remaining blood trace, no open gash. B's silver fabric knot stays hidden inside clothes, A's bronze token at waist, no objects presented yet. Fallen probe rope remains behind down broken cliff, NEVER restored around either waist. Same dawn and view, discreet tired/wary expressions, no embrace/handclasp/new trust. Camera medium-full enough to see stable foot contact, original dangerous edge in background only, not a new bridge.",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-8f7136e5-3a3d-4de9-9eb4-8e1b946ed87f.png",
+    "qa": "候选：站位/背剑基本保持，但苏晚右腰误生成长木剑鞘而非原短刃皮套，不采用。"
+  }
+]

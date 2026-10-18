@@ -1,0 +1,32 @@
+[
+  {
+    "id": "EP02-CLIMB-KNEE-V1-CANDIDATE",
+    "path": "场景资产/第一季/早期接触/KEY02-02_左膝上沿右掌扶石攀回候选V1.png",
+    "purpose": "候选：右掌扶石/短刃已归右腰保持，但左膝未明确压在周辰所在同一上层水平面，不能证明膝盖上阶，不采用。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3070896,
+    "sha256": "0982a8b194c08f28935c14fe3d9657e22320dac06fa43d1b2d8f20c99bdb2dcd",
+    "upscaled": false
+  },
+  {
+    "id": "EP02-CLIMB-KNEE-V2-CANDIDATE",
+    "path": "场景资产/第一季/早期接触/KEY02-02_左膝上沿右掌扶石攀回候选V2.png",
+    "purpose": "候选：更近机位但左膝仍在低一级石面，未形成同平台膝掌接触，不采用。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2995673,
+    "sha256": "6076de9c50ee192e7e40a02c6cd10ac5a7e2acdfc8536212a6c509cb034116b7",
+    "upscaled": false
+  },
+  {
+    "id": "EP02-RECOVER-STAND-V1-CANDIDATE",
+    "path": "场景资产/第一季/早期接触/KEY02-02_稳定石阶双人归刀背剑尾态候选V1.png",
+    "purpose": "候选：站位/背剑基本保持，但苏晚右腰误生成长木剑鞘而非原短刃皮套，不采用。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3023650,
+    "sha256": "5c5b73d72c2fb4d34a01d4bf49eacb601bf49e6d890922e76cb142bc91cf78dc",
+    "upscaled": false
+  }
+]

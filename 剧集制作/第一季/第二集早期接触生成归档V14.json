@@ -1,0 +1,30 @@
+[
+  {
+    "key": "EP02-CLIMB-KNEE-V3",
+    "name": "第二集左膝右掌同平台承重后脚离沿",
+    "path": "场景资产/第一季/早期接触/KEY02-02_左膝上沿右掌扶石攀回V3.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-97f453df-87dd-46ba-82c3-23bbda63939b.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/周辰/ZC-F01_独立正面头肩V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/苏晚/SW-F01_独立正面头肩V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png"
+    ],
+    "prompt": "Precise pose correction of Image1, 9:16 live-action film still, same adults/faces/costumes/light. KEEP Zhou Chen prone on the left upper landing, old sword safely flat to his left, one EMPTY scabbard held toward woman. REPOSITION ONLY Su Wan to the moment AFTER her rear foot releases the lower cliff: she is now KNEELING WITH HER LEFT KNEE ON THE VERY SAME FLAT HORIZONTAL TOP SURFACE THAT SUPPORTS ZHOU CHEN'S FOREARMS, directly next to his forearms and the scabbard. Put her visible left kneecap on the TOP OF THE LARGE FOREGROUND SLAB, NOT the lower step outside its edge. Her RIGHT PALM presses flat on this SAME top slab. Her hips and torso are ABOVE the landing surface, her head is now distinctly HIGHER than prone man's head; he looks slightly up at her. Her RIGHT LEG is bent behind and still below/outside edge, toes NO LONGER required to stay on far wall; no standing/floating. Her LEFT hand still holds lower end of the SAME intact EMPTY scabbard, his RIGHT hand holds upper end, his LEFT elbow remains grounded. Original short knife is sheathed at her RIGHT waist. NO new ledge or bridge, do not raise/rebuild stone slabs to meet her knee, move her body ONTO EXISTING top slab. No rope on bodies, no extra hand/weapon/person or glowing effect. Images2/3 identity locks, Image4 old sword/scabbard shape. Natural upper-left dawn, fine grey stone, preserved cliff valley. This is a supported partial pull-up, not both feet fully recovered.",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-1ece2c2a-7e88-404e-a27f-0713486d6e81.png",
+    "qa": "采用有限上平台中间态：左膝/右掌与A前臂落同一平台平面，B后脚已离下沿且画外，左手握同一空鞘下端；原脸衣、A左侧抽剑和右腰刀套状态保持。只膝掌/握鞘局部，不证明全绳路、后脚路径或连续五秒攀回受力。"
+  },
+  {
+    "key": "EP02-RECOVER-STAND-V2",
+    "name": "第二集站稳尾态纠正原短刃皮套",
+    "path": "场景资产/第一季/早期接触/KEY02-02_稳定石阶双人归刀背剑尾态V2.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-8f7136e5-3a3d-4de9-9eb4-8e1b946ed87f.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP02_修物短刃探路绳V1.png"
+    ],
+    "prompt": "Image1 is the exact edit target, Image2 is supporting PROP02 short repair knife and plain dark-brown leather sheath ONLY (do NOT copy rope or sandbag). Correct ONLY Su Wan's RIGHT waist prop: completely REMOVE the long ornate wooden scabbard with gold bands at the woman's waist; replace it with the SMALL plain DARK BROWN LEATHER sheath of the short wooden-handled repair KNIFE from Image2, fixed at original RIGHT waist, compact palm-sized, no bronze rings/long sword hilt. Knife is fully sheathed, only its original simple wooden grip visible. She must NOT own a sword or sword scabbard. Preserve all other Image1 details EXACTLY: both adult faces/hair/unchanged black-gold and silver-blue costumes, A left/B right separate standing foot positions, A's sword fully sheathed on his BACK and token at waist, tiny retained right-hand/left-fingertip red traces, original cliff landing/dawn/rope fallen in background not on bodies. No new items or person, no bandage/glow/text/watermark. Highest native 9:16 live-action cinematic still. Do not change framing or bodies.",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-22fc38de-139f-42b9-8cab-868cb822aa19.png",
+    "qa": "采用有限攀回尾态：两人分开站在原安全石阶，A背完整带剑鞘/腰符，B右腰为原短刃小皮套，探路绳未回腰；原脸衣、手部微血痕保持。B部分脚位被裙遮，图只锁站位/兵器物位，不证明全脚掌受力或完整攀回动态。"
+  }
+]
