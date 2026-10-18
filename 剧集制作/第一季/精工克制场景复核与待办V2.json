@@ -4,13 +4,13 @@
   "textSegments": 313,
   "establishingDomains": 10,
   "refinedExistingOriginals": 94,
-  "newContactOriginals": 19,
-  "newSceneOriginals": 113,
+  "newContactOriginals": 23,
+  "newSceneOriginals": 117,
   "reviewedUnchangedOriginals": 6,
-  "reviewedFilmReferences": 119,
-  "newReferencePlacements": 785,
-  "currentSceneOriginals": 125,
-  "currentFilmReferences": 119,
+  "reviewedFilmReferences": 123,
+  "newReferencePlacements": 790,
+  "currentSceneOriginals": 129,
+  "currentFilmReferences": 123,
   "technicalLayouts": 6,
   "currentFilmReferenceArtReviewCompleted": true,
   "additionalShotReferencesComplete": false,
@@ -1787,6 +1787,39 @@
       "status": "已完成精工克制静态视检",
       "targets": [
         "02-05",
+        "02-06"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-06_双人归剑持物门全开未跨门V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-06",
+        "02-07"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-06_右手引旧剑尖入空背鞘局部V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-06"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-06_周辰归剑独退苏晚留位V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-06"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-06_周辰回线苏晚持物独退V3.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
         "02-06"
       ]
     },
