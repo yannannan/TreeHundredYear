@@ -28,5 +28,35 @@
     "bytes": 3023650,
     "sha256": "5c5b73d72c2fb4d34a01d4bf49eacb601bf49e6d890922e76cb142bc91cf78dc",
     "upscaled": false
+  },
+  {
+    "id": "EP02-GATE-FAR-V1-CANDIDATE",
+    "path": "场景资产/第一季/早期接触/KEY02-03_闭门左古符右布结相隔一臂候选V1.png",
+    "purpose": "候选：左右手持物正确，但双物偏近且人物站短阶下方，不符合上层平台/相隔一臂首尾态，不采用。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2963051,
+    "sha256": "a133580f50c70f1052f34a33d88ca98bd1e8baf2e4ba2d5538a0be986c32f632",
+    "upscaled": false
+  },
+  {
+    "id": "EP02-GATE-FAR-V2-CANDIDATE",
+    "path": "场景资产/第一季/早期接触/KEY02-03_闭门左古符右布结相隔一臂候选V2.png",
+    "purpose": "候选：已到门前上层平台且持物左右手正确，但双物距离仍偏近，不用于相隔一臂精确首尾态。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2842123,
+    "sha256": "a4846ee76820c52152a2bd1b8923562af77a96b84315edb540f12ad117163b7e",
+    "upscaled": false
+  },
+  {
+    "id": "EP02-GATE-CLOSE-V1-CANDIDATE",
+    "path": "场景资产/第一季/早期接触/KEY02-04_双物一掌未触右半外圈亮候选V1.png",
+    "purpose": "候选：右半圈范围/持物距离正确，但宽环带内装饰纹和内边也被点亮，不符合唯一外轨，拒绝精确半圈采用。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2686568,
+    "sha256": "16425a6469fbe0084fcd92252c119be9dda0c7e5c484a32af6dcded22ba6e7c7",
+    "upscaled": false
   }
 ]
