@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-18",
+  "scope": "原字节/元数据/记录/限定采用/副本/文字动作规则；不是美术或动态力学光学验收",
+  "rawOriginals": 10,
+  "adoptedStatic": 5,
+  "archivedCandidates": 5,
+  "images": [
+    {
+      "id": "FIGHT-REFLECT",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-REFLECT-R2",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-WEDGE-WIDE",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-WEDGE-WIDE-R2",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-BROKEN",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-BROKEN-R2",
+      "width": 941,
+      "height": 1671
+    },
+    {
+      "id": "FIGHT-SECOND-JAM",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-SECOND-JAM-R2",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-SECOND-BREAK",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "FIGHT-SECOND-BREAK-R2",
+      "width": 941,
+      "height": 1672
+    }
+  ],
+  "targetSegments": 7,
+  "copiedReferencePlacements": 8,
+  "episodeSeconds": 180,
+  "formalCharacterCostumeImagesUntouched": true,
+  "errors": [],
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false
+}

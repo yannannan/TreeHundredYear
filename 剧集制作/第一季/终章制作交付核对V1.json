@@ -6,7 +6,7 @@
       "episode": 28,
       "segments": 12,
       "seconds": 180,
-      "referenceCopies": 166
+      "referenceCopies": 174
     },
     {
       "episode": 29,
@@ -34,7 +34,7 @@
     }
   ],
   "segments": 59,
-  "referenceCopies": 918,
+  "referenceCopies": 926,
   "errors": [],
   "actualVideoGenerated": false,
   "actualAudioGenerated": false,
