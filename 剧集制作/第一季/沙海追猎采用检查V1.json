@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-18",
+  "scope": "原像素/实际源字节/记录/限定采用/副本与登记时序的静态检查；非真人动作或特效验收",
+  "rawOriginals": 9,
+  "adoptedStatic": 7,
+  "archivedCandidates": 2,
+  "images": [
+    {
+      "id": "SAND-BREACH",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "SAND-BLOCK",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "SAND-BLOCK-R2",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "SAND-SHOULDER",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "SAND-ARCH",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "SAND-LURE",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "SAND-CRAWL",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "SAND-CRAWL-R2",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "SAND-COLLAPSE",
+      "width": 941,
+      "height": 1672
+    }
+  ],
+  "targetSegments": 5,
+  "copiedReferencePlacements": 9,
+  "episodes": [
+    {
+      "id": "09",
+      "segments": 8,
+      "seconds": 120,
+      "referenceCopies": 101
+    },
+    {
+      "id": "10",
+      "segments": 9,
+      "seconds": 135,
+      "referenceCopies": 107
+    }
+  ],
+  "formalCharacterCostumeAndCreatureMastersUntouched": true,
+  "errors": [],
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false
+}
