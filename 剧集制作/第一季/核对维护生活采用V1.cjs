@@ -9,7 +9,7 @@ const root=path.resolve(__dirname,'../..'),read=f=>JSON.parse(fs.readFileSync(pa
  let placements=0;
  for(const {id,ledger}of entries)for(const s of ledger.segments){const key=id+'-'+String(s.n).padStart(2,'0'),p=s.prompt||s.promptFile;
   for(const r of candidates)if(s.refs.some(x=>x.source===r.path))errors.push(key+'误用漏伤候选');
-  for(const r of m.entries){const found=s.refs.filter(x=>x.source===r.path);if(found.length!==Number(r.targets.includes(key)))errors.push(key+'采用范围错误 '+r.id);if(found.length){const b=fs.readFileSync(path.join(root,path.dirname(p),found[0].file));if(hash(b)!==r.sha256||found[0].sha256!==r.sha256||!fs.readFileSync(path.join(root,p),'utf8').includes(found[0].file))errors.push(key+'副本/正文错误 '+r.id);placements++;}}
+  for(const r of m.entries.map(require('./解析当前场景参考V1.cjs'))){const found=s.refs.filter(x=>x.source===r.path);if(found.length!==Number(r.targets.includes(key)))errors.push(key+'采用范围错误 '+r.id);if(found.length){const b=fs.readFileSync(path.join(root,path.dirname(p),found[0].file));if(hash(b)!==r.sha256||found[0].sha256!==r.sha256||!fs.readFileSync(path.join(root,p),'utf8').includes(found[0].file))errors.push(key+'副本/正文错误 '+r.id);placements++;}}
  }
  if(placements!==9)errors.push('应9份生活专用副本');
  const p32=entries.find(e=>e.id==='32').ledger,injury='人物资产/苏晚/SW-D22_左踝包扎战损全身V1.png';
