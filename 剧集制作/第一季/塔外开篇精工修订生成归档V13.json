@@ -105,5 +105,45 @@
     "prompt": "精确材质修订：必须显著减轻完整人造石板、木作和金属表面的破旧感。把完好石材大面皱褶锡纸状深凹凸、满地无关苔污改成完整平整细磨灰石，只有适度天然细纹和原接缝；木质结构为保养良好的刨平旧木，去掉全面刮烂腐朽纹；金属是低饱和石墨灰/暗铜的平整细腻表面。只改完整表面的材质，不修复下文指定的剧情断裂、缺口、碎片或动作接触。\nUse case: precise-object-edit / identity-preserve where people exist. Image 1 is the EXACT edit target. One highest-native-quality live-action cinematic still with ORIGINAL canvas ratio, camera, perspective, lens, composition, geography and architecture LOCKED. Maintain independent TreeHundredYear world design, original immense scenery, original light direction and restrained grey/wood/dark bronze palette, no gaudy palace or rainbow neon, no new decor. Preserve all existing people identities, ages, faces, hair, costumes, fingers and foot contact WITHOUT redesign. Natural cliffs, pines, clouds and plot-local damage stay. No added person, object, weapon, support, route, legible text, caption, watermark or logo. No story advancement. Preserve EXACT one adult Su Wan apparent25 in right doorway, same face/eyes/hair jewels/opaque-lined silver-white ice-blue costume, clasped hands and both BARE FEET on same threshold. Do not edit her face or clothes. Preserve source CLOCK at its original source-image foreground position/size (not another reference position), source coins/shoe lasts/cloth/pouch/chisels/coiled rope/wood shavings/work benches/rack/window and doorway. Only refine building/bench sound wood and plaster surfaces to maintained warm traditional workshop, reduce blanket gouged/peeling texture, keep legitimate work shavings and specific marks. No new person/extra clock/tool, no hair/clothes redesign or erotic pose.",
     "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-94ee3b35-ef7d-4e4e-85c7-29611d86f5d7.png",
     "qa": "采用：苏晚原脸衣/发饰/合手与门槛赤足状态保持，钟仍在本图原前景机位；木屑/鞋楦/钱/布/荷包/工具与盘绳保持。仅木作表面减轻刮损，不视为人物资产重设或钟摆动态验收。"
+  },
+  {
+    "key": "OUT-MOUNTAIN-REFINED-R2",
+    "name": "塔外山路裂口空景精工克制R2",
+    "date": "2026-10-19",
+    "origin": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_古旧提质R1.png",
+    "path": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_精工克制R2.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_古旧提质R1.png"
+    ],
+    "prompt": "精确材质修订：必须显著减轻完整人造石板、木作和金属表面的破旧感。把完好石材大面皱褶锡纸状深凹凸、满地无关苔污改成完整平整细磨灰石，只有适度天然细纹和原接缝；木质结构为保养良好的刨平旧木，去掉全面刮烂腐朽纹；金属是低饱和石墨灰/暗铜的平整细腻表面。只改完整表面的材质，不修复下文指定的剧情断裂、缺口、碎片或动作接触。\nUse case: precise-object-edit / identity-preserve where people exist. Image 1 is the EXACT edit target. One highest-native-quality live-action cinematic still with ORIGINAL canvas ratio, camera, perspective, lens, composition, geography and architecture LOCKED. Maintain independent TreeHundredYear world design, original immense scenery, original light direction and restrained grey/wood/dark bronze palette, no gaudy palace or rainbow neon, no new decor. Preserve all existing people identities, ages, faces, hair, costumes, fingers and foot contact WITHOUT redesign. Natural cliffs, pines, clouds and plot-local damage stay. No added person, object, weapon, support, route, legible text, caption, watermark or logo. No story advancement. Preserve mountain path actual route and dangerous RIGHT-side fissure, exactly original broken wooden CART WHEEL plus snapped AXLE AND SPLINTERED TIMBER at right base of fissure, not fixed or removed. Keep original stone lantern posts/chains/pines, distant tower and giant partial ring arcs, cloud valleys, dawn light. Refine only intact BUILT stair treads/post faces with lighter surface erosion, fewer unrelated chips/weeds on walking line, subtle stone grain; DO NOT fill cliff crack, replace natural rock with metal, rebuild broken accident wood or add guardrail across gap.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-328b7b71-84f4-46c0-b84c-23c191b3115b.png",
+    "qa": "采用：完好阶面风化减少，右侧山缝、事故断轮/断轴/碎木及原灯桩链、松树/塔环云谷保持；未补裂口或修复车具。仅环境，不证明山体断裂/落轮动态。"
+  },
+  {
+    "key": "OUT-MOUNTAIN-PEOPLE-REFINED-R3",
+    "name": "塔外山路周辰起始精工克制R3",
+    "date": "2026-10-19",
+    "origin": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_古旧提质R1.png",
+    "path": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_精工克制R3.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-6c3138ec-9f75-4f35-876b-694af8c2ae39.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_古旧提质R1.png"
+    ],
+    "prompt": "精确局部修正，Image1是刚完成台阶材质修订的周辰起始图，Image2是原图。只把Image1画面最右侧整面自然山岩恢复为Image2的天然岩壁形态、错落裂纹和少量草叶，不要有规则砌块/砖墙/平整切割石墙感，保留右下真实山缝。Image1原人物全部像素特征保持：周辰成人28岁相貌、脸、表情、黑金衣/发冠、罗盘在右手/左手空、剑鞘在背、荷包腰饰和脚位不变；已改善的完好人工台阶不回退到全面破旧。原事故断轮/断轴和远处塔环、松云、光线保持。只更换右侧山岩表面质感和自然裂纹，不移动裂口边界、不修车、不加人物、路、道具、文字或水印。9:16真人电影摄影，最高原生画质。",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-824ca1d6-63c5-4ff8-bff8-147be10d4af2.png",
+    "qa": "采用：R3恢复原右侧天然山岩质感/山缝，人工阶面适度完整；周辰原脸衣/发冠/右手罗盘/左手空/背剑鞘及断轮断轴保持。R2砌墙感候选不采用；只起始静态，不证明走阶或探路动作。"
+  },
+  {
+    "key": "OUT-CLIFF-REFINED-R2",
+    "name": "塔外断阶石桩窄沿空景精工克制R2",
+    "date": "2026-10-19",
+    "origin": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_古旧提质R1.png",
+    "path": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_精工克制R2.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_古旧提质R1.png"
+    ],
+    "prompt": "精确材质修订：必须显著减轻完整人造石板、木作和金属表面的破旧感。把完好石材大面皱褶锡纸状深凹凸、满地无关苔污改成完整平整细磨灰石，只有适度天然细纹和原接缝；木质结构为保养良好的刨平旧木，去掉全面刮烂腐朽纹；金属是低饱和石墨灰/暗铜的平整细腻表面。只改完整表面的材质，不修复下文指定的剧情断裂、缺口、碎片或动作接触。\nUse case: precise-object-edit / identity-preserve where people exist. Image 1 is the EXACT edit target. One highest-native-quality live-action cinematic still with ORIGINAL canvas ratio, camera, perspective, lens, composition, geography and architecture LOCKED. Maintain independent TreeHundredYear world design, original immense scenery, original light direction and restrained grey/wood/dark bronze palette, no gaudy palace or rainbow neon, no new decor. Preserve all existing people identities, ages, faces, hair, costumes, fingers and foot contact WITHOUT redesign. Natural cliffs, pines, clouds and plot-local damage stay. No added person, object, weapon, support, route, legible text, caption, watermark or logo. No story advancement. Keep exact geography: large HIGH LEFT stair landing and stone anchor post, original rope coils and rope diagonal route, deep central OPEN VOID, RIGHT natural wall and its separate tiny lower foot ledges. Original left stair end is BROKEN and remains broken with same jagged silhouette; do not add bridge, repair steps across gap, widen right ledges or move anchor/rope. Refine ONLY unbroken built stair tread/post faces by reducing blanket lichen and deep artificial pitting, natural rocks still weathered and moss localized. Same pine/cloud/temple/bridge vista and dawn light. No people, extra rope, supports or safe broad path.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-6ea3e12c-b356-4f2b-a69c-61c8d0686e81.png",
+    "qa": "采用：左高台阶/石桩盘绳、中央深空隙及右低窄沿原地形保留，完好阶面与桩体苔蚀减少；未跨空补路、未加绳或新支点。仅布局空景，绳路/负重/崩桩动态仍未验证。"
   }
 ]

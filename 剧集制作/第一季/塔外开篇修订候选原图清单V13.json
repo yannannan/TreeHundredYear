@@ -8,5 +8,15 @@
     "bytes": 2810201,
     "sha256": "7b67028e97ad30f78192beefe7809ec8f8596c8d2fb83d2bc6715b991500e1dd",
     "upscaled": false
+  },
+  {
+    "id": "OUT-MOUNTAIN-PEOPLE-REFINED-R2-CANDIDATE",
+    "path": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_精工克制R2_候选.png",
+    "purpose": "候选：人物/道具保持，但右侧自然山岩过度规整成砌墙感，与原山路空景不一致；不采用。",
+    "width": 940,
+    "height": 1672,
+    "bytes": 3035877,
+    "sha256": "18295c952c3a6a2f8c8be3877d50ec8fb6d448ddf92210d8b20f4aff5f9097f0",
+    "upscaled": false
   }
 ]

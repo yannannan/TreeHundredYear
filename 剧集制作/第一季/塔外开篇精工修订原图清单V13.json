@@ -78,5 +78,35 @@
     "bytes": 2507963,
     "sha256": "8a4dcb9ec4ba475381ded5c06479bf1a55dcf7c54966a400202ee7665319aecd",
     "upscaled": false
+  },
+  {
+    "id": "OUT-MOUNTAIN-REFINED-R2",
+    "path": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_精工克制R2.png",
+    "purpose": "采用：完好阶面风化减少，右侧山缝、事故断轮/断轴/碎木及原灯桩链、松树/塔环云谷保持；未补裂口或修复车具。仅环境，不证明山体断裂/落轮动态。",
+    "width": 940,
+    "height": 1672,
+    "bytes": 3128677,
+    "sha256": "7e9c3777d77c7828208bdcfeac5e0e72b52803b445e370a59802af7bad98192d",
+    "upscaled": false
+  },
+  {
+    "id": "OUT-MOUNTAIN-PEOPLE-REFINED-R3",
+    "path": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_精工克制R3.png",
+    "purpose": "采用：R3恢复原右侧天然山岩质感/山缝，人工阶面适度完整；周辰原脸衣/发冠/右手罗盘/左手空/背剑鞘及断轮断轴保持。R2砌墙感候选不采用；只起始静态，不证明走阶或探路动作。",
+    "width": 940,
+    "height": 1672,
+    "bytes": 3018941,
+    "sha256": "1495a7134784d1b2d60a802637b08c3df442cd003ffa60611cc0d5fe84f3d831",
+    "upscaled": false
+  },
+  {
+    "id": "OUT-CLIFF-REFINED-R2",
+    "path": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_精工克制R2.png",
+    "purpose": "采用：左高台阶/石桩盘绳、中央深空隙及右低窄沿原地形保留，完好阶面与桩体苔蚀减少；未跨空补路、未加绳或新支点。仅布局空景，绳路/负重/崩桩动态仍未验证。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3172194,
+    "sha256": "e51fbefd7a3b16a03eab5f3c3949bcdcc51556122453b37d921996c87bb02724",
+    "upscaled": false
   }
 ]
