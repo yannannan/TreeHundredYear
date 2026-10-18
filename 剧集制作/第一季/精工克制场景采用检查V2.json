@@ -1,9 +1,9 @@
 {
   "date": "2026-10-18",
-  "adoptedNewSceneOriginals": 56,
-  "copyPlacements": 664,
-  "newReplacementsThisRun": 21,
-  "updatedSegmentPrompts": 14,
+  "adoptedNewSceneOriginals": 62,
+  "copyPlacements": 671,
+  "newReplacementsThisRun": 7,
+  "updatedSegmentPrompts": 2,
   "placements": [
     {
       "target": "01-07",
@@ -3242,6 +3242,21 @@
     },
     {
       "target": "32-08",
+      "source": "场景资产/第一季/生活维护/KEY32-08_百年种叶两杯木样V1_精工克制R2.png",
+      "file": "KEY32-08_百年种叶两杯木样V1_精工克制R2.png"
+    },
+    {
+      "target": "32-08",
+      "source": "场景资产/第一季/生活维护/KEY32-08_二百零六年旧册记录V1_精工克制R2.png",
+      "file": "KEY32-08_二百零六年旧册记录V1_精工克制R2.png"
+    },
+    {
+      "target": "32-08",
+      "source": "场景资产/第一季/生活维护/KEY32-08_二百九十九年停阀失败回收V1_精工克制R2.png",
+      "file": "KEY32-08_二百九十九年停阀失败回收V1_精工克制R2.png"
+    },
+    {
+      "target": "32-08",
       "source": "场景资产/第一季/关键接触/KEY31-12_全封右腕无误包左外袖布尾V2_精工克制R2.png",
       "file": "KEY31-12_全封右腕无误包左外袖布尾V2_精工克制R2.png"
     },
@@ -3254,6 +3269,26 @@
       "target": "32-09",
       "source": "场景资产/第一季/九层星渊塔/SC-L10_维护屋循环与坐式检修近端V1_精工克制R2.png",
       "file": "SC-L10_维护屋循环与坐式检修近端V1_精工克制R2.png"
+    },
+    {
+      "target": "32-09",
+      "source": "场景资产/第一季/生活维护/KEY32-08_二百九十九年停阀失败回收V1_精工克制R2.png",
+      "file": "KEY32-08_二百九十九年停阀失败回收V1_精工克制R2.png"
+    },
+    {
+      "target": "32-09",
+      "source": "场景资产/第一季/生活维护/KEY32-09_二百九十九年原环平磨重做V1_精工克制R2.png",
+      "file": "KEY32-09_二百九十九年原环平磨重做V1_精工克制R2.png"
+    },
+    {
+      "target": "32-09",
+      "source": "场景资产/第一季/生活维护/KEY32-09_同旧阀复装旁路回稳V1_精工克制R2.png",
+      "file": "KEY32-09_同旧阀复装旁路回稳V1_精工克制R2.png"
+    },
+    {
+      "target": "32-09",
+      "source": "场景资产/第一季/生活维护/KEY32-09_二百九十九年回稳后补眠V1_精工克制R2.png",
+      "file": "KEY32-09_二百九十九年回稳后补眠V1_精工克制R2.png"
     },
     {
       "target": "32-09",

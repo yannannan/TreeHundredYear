@@ -3,14 +3,16 @@
   "commonVersion": "V1.9",
   "textSegments": 313,
   "establishingDomains": 10,
-  "refinedExistingOriginals": 56,
+  "refinedExistingOriginals": 62,
   "newContactOriginals": 5,
-  "newSceneOriginals": 61,
-  "newReferencePlacements": 669,
+  "newSceneOriginals": 67,
+  "reviewedUnchangedOriginals": 4,
+  "reviewedFilmReferences": 71,
+  "newReferencePlacements": 680,
   "currentSceneOriginals": 111,
   "currentFilmReferences": 105,
   "technicalLayouts": 6,
-  "pendingArtReviewOrRevision": 44,
+  "pendingArtReviewOrRevision": 34,
   "technicalEvidence": [
     {
       "source": "场景资产/第一季/九层星渊塔/SC-L01-LAYOUT01_行动布局4K_V1.png",
@@ -1451,50 +1453,50 @@
       ]
     },
     {
-      "source": "场景资产/第一季/生活维护/KEY32-08_百年种叶两杯木样V1.png",
+      "source": "场景资产/第一季/生活维护/KEY32-08_百年种叶两杯木样V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-08"
       ]
     },
     {
-      "source": "场景资产/第一季/生活维护/KEY32-08_二百九十九年停阀失败回收V1.png",
+      "source": "场景资产/第一季/生活维护/KEY32-08_二百九十九年停阀失败回收V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-08",
         "32-09"
       ]
     },
     {
-      "source": "场景资产/第一季/生活维护/KEY32-08_二百零六年旧册记录V1.png",
+      "source": "场景资产/第一季/生活维护/KEY32-08_二百零六年旧册记录V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-08"
       ]
     },
     {
-      "source": "场景资产/第一季/生活维护/KEY32-09_二百九十九年回稳后补眠V1.png",
+      "source": "场景资产/第一季/生活维护/KEY32-09_二百九十九年回稳后补眠V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-09"
       ]
     },
     {
-      "source": "场景资产/第一季/生活维护/KEY32-09_二百九十九年原环平磨重做V1.png",
+      "source": "场景资产/第一季/生活维护/KEY32-09_二百九十九年原环平磨重做V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-09"
       ]
     },
     {
-      "source": "场景资产/第一季/生活维护/KEY32-09_同旧阀复装旁路回稳V1.png",
+      "source": "场景资产/第一季/生活维护/KEY32-09_同旧阀复装旁路回稳V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "已完成精工克制静态视检",
       "targets": [
         "32-09"
       ]
@@ -1642,7 +1644,7 @@
     {
       "source": "场景资产/第一季/现代/KEY32-12_避车后右握半带左掌承重V2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "原图视检合规，未重绘/非新生成",
       "targets": [
         "32-12"
       ]
@@ -1650,7 +1652,7 @@
     {
       "source": "场景资产/第一季/现代/KEY32-12_路缘落地无徽右握半带V2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "原图视检合规，未重绘/非新生成",
       "targets": [
         "32-12"
       ]
@@ -1658,7 +1660,7 @@
     {
       "source": "场景资产/第一季/现代/KEY32-12_同车闭窗苏晚局部倒影V1.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "原图视检合规，未重绘/非新生成",
       "targets": [
         "32-12"
       ]
@@ -1666,7 +1668,7 @@
     {
       "source": "场景资产/第一季/现代/SC-MOD01_现代雨夜单车车窗近端V2.png",
       "role": "film-reference",
-      "status": "待按新标准逐图美术视检/必要修订",
+      "status": "原图视检合规，未重绘/非新生成",
       "targets": [
         "32-12"
       ]
