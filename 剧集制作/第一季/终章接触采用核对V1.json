@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-18",
+  "archivedOriginals": 11,
+  "adoptedStaticOriginals": 7,
+  "historicalCandidates": 4,
+  "targetSegments": 20,
+  "copyPlacements": 28,
+  "images": [
+    {
+      "id": "CONTACT-WEDGE3",
+      "width": 1536,
+      "height": 1024,
+      "placements": 3
+    },
+    {
+      "id": "CONTACT-CUT",
+      "width": 941,
+      "height": 1672,
+      "placements": 1
+    },
+    {
+      "id": "CONTACT-SLOTS",
+      "width": 1536,
+      "height": 1024,
+      "placements": 17
+    },
+    {
+      "id": "CONTACT-HOLD",
+      "width": 941,
+      "height": 1672,
+      "placements": 2
+    },
+    {
+      "id": "CONTACT-WAKE2",
+      "width": 1536,
+      "height": 1024,
+      "placements": 2
+    },
+    {
+      "id": "CONTACT-BAND2",
+      "width": 1536,
+      "height": 1024,
+      "placements": 1
+    },
+    {
+      "id": "CONTACT-BROKENBAND",
+      "width": 1536,
+      "height": 1024,
+      "placements": 2
+    }
+  ],
+  "errors": [],
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "characterCostumeMasterImagesEdited": false,
+  "qualityBoundary": "图像内容为人工视检的局部静态目标，文件检查仅核原像素/字节与逐段采用；全季动态/配音和其余必要参考仍未完成"
+}

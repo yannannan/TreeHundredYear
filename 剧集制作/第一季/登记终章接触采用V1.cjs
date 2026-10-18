@@ -1,0 +1,14 @@
+const fs=require('fs'),path=require('path'),root=path.resolve(__dirname,'../..'),read=f=>JSON.parse(fs.readFileSync(path.join(__dirname,f),'utf8'));
+const catalogs=['终章接触首批真实参考V1.json','终章接触第二批真实参考V1.json','终章接触修订真实参考V2.json','窄布两半状态真实参考V3.json'].filter(f=>fs.existsSync(path.join(__dirname,f))).flatMap(read);
+const plans=[
+ {id:'CONTACT-WEDGE3',label:'旧剑横楔纯石肩/单右手',targets:['28-06','28-07','28-08'],purpose:'静态专用：完整旧剑搭两石槽肩，唯一巨刃压中，A仅右手控柄。只作28-06楔好后的局部/28-07持续承重/28-08折断前首态，不恢复28-08尾帧的两截剑；A全身位置与左手空离按文字，图没锁九环总数。',remaining:'完整引刃/楔剑过程、两材质实际承力/压弯及旧崩口断裂、A全身重心/左手与B台距仍须专用机位和动态'},
+ {id:'CONTACT-CUT',label:'右苏短刃触靠矮台第一封',targets:['28-07'],purpose:'静态专用：B同脸衣、原右掌窄包持木柄短刀，右好脚实落矮台/后左伤踝包，刃触靠该矮台第一封边缘。只取触点/实脚位，左右封用近矮台与远侧识别不凭局部镜头换全局；图中额外小泥点不复制，不把此态当落地后肩擦口。',remaining:'封线完整切断、一重环停、B安全落矮台/左肩擦口及伤踝控制，另一封完整状态与整卫尺度仍须动态核验'},
+ {id:'CONTACT-SLOTS',label:'左小冰独立槽/右同印碎态槽',targets:[...Array.from({length:5},(_,i)=>'31-'+String(i+8).padStart(2,'0')),...Array.from({length:12},(_,i)=>'32-'+String(i+1).padStart(2,'0'))],purpose:'静态末态：原小玄冰留左独立样本槽，唯一原圆角方授权印已分数片留右认证槽，两槽实隔开，无完整备用印/无定位片入槽。只作31-08末认证之后及后续核心原台物位；31-08首帧仍原物随身、按实际装入才成此态。图未达到提示五片，不锁五片；续镜以实际碎裂边界固定而非变回整印。',remaining:'原冰片交掌入样本、同一V3裂印入另一槽到崩碎的过程/片数与碎片朝向跨镜、细槽与原操作台近端对应仍须核验'},
+ {id:'CONTACT-HOLD',label:'暂稳后锚旁右苏握左周',targets:['31-11','31-12'],purpose:'静态阶段：31-11末已走近后与31-12首松手前，B原右掌窄包握A左手，B另一手在身侧空着；A坐锚冰至胸脸手未封、原衣原冠、B原伤踝/左肩小药布，原窄布尾在外。不把此近端图当B仍能触远台，站位之外的完整空间用总图。',remaining:'控制环机械暂稳档、B沿实桥走近/抽回右手/走回原台/末环闭合后的冰长及全部口型，均未由静态握手图证明'},
+ {id:'CONTACT-WAKE2',label:'苏醒右周指触左苏颊',targets:['32-10','32-11'],purpose:'静态阶段：32-10后段A真醒且右指触B左颊、32-11初尚未手滑的起点；去掉错误右腕旧包，A仍坐残冰/原脸衣，B原脸衣早伤已多年渐愈。只取触点/表情与积册背景，非初始已醒首帧，不能把内心声做口型或提前给两人站姿拥抱。',remaining:'冰裂到睁眼、A低源压弱抬右手、内心音轨/有声口型切换、触颊后改抓手再抓布与唯一释能因果仍待动态'},
+ {id:'CONTACT-BAND2',label:'左周外袖窄布/右苏握尾将断',targets:['32-11'],purpose:'静态阶段仅32-11手滑改抓布后/断开前：A左腕原黑金袖外松结、B已愈无旧掌包的右手握同布尾、手间有空隙、中段少量纤维仍连；无金属锁链，只残冰固定。不能作已断两半或现代B手中半带首帧。',remaining:'先抓手/手滑/右B改抓同带、一处完全断开/两半固定去向、单次裂隙抛离与A残冰未解需要顺序动态'}
+];
+if(catalogs.some(r=>r.id==='CONTACT-BROKENBAND'))plans.push({id:'CONTACT-BROKENBAND',label:'窄布一处全断/左右各半',targets:['32-11','32-12'],purpose:'静态后态：同带已在中部一处完全断成两半，A左外袖留结端/右B握尾端，断头间空隙无连丝。仅32-11末尚可见两人手的断点后目标；32-12只取各人半带材质/去向，B已现代/A仍核心须分别拍，不把此同框带回现代重逢。',remaining:'一次断裂的完整时序/布长守恒、两半随后各自握持与核心/现代并行剪辑、B穿越落地与反射仍需动态'});
+const entries=plans.map(p=>{const r=catalogs.find(r=>r.id===p.id);if(!r)throw Error('缺原图记录'+p.id);return {...r,...p,status:'adopted-static',qa:r.purpose,actualVideoGenerated:false};});
+const result={date:'2026-10-18',scope:'只采用已人工视检的明确静态瞬间；不替代连续动作/真实配音视频',entries,targets:[...new Set(entries.flatMap(x=>x.targets))].sort(),referenceCopyPlacements:entries.reduce((n,x)=>n+x.targets.length,0)};
+fs.writeFileSync(path.join(__dirname,'终章接触状态采用V1.json'),JSON.stringify(result,null,2));console.log(JSON.stringify({adoptedStaticImages:entries.length,targetSegments:result.targets.length,copyPlacements:result.referenceCopyPlacements}));
