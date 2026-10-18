@@ -1,0 +1,18 @@
+[
+  {
+    "key": "BR-SYNC2",
+    "path": "场景资产/第一季/九层星渊塔/SC-L08_双掌位脚托与两杆近端V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L08_双同步位与伤脚托近端V1.png"
+    ],
+    "prompt": "Edit the referenced ancient bridge controls into a precise EMPTY CONTROL-AREA MEDIUM CLOSE PHOTOGRAPH, landscape3:2. Crucial: reframe and zoom substantially closer to the TWO original bronze pedestals in the FOREGROUND, do not return another full-bridge establishing view. Keep these same two original dark bronze columns and their relative positions, modest ancient patina/slate floor, cinematic grey daylight/sparse warm lamps. On each column INNER SIDE show one flat oval palm contact pad, so two nearby operators can each rest one palm with a free hand. LEFT station has one broad coarse TOTAL LOAD lever; RIGHT station has one distinct smaller DISTRIBUTION lever with a mechanical detent slot that can be pressed by a tool handle. One slow finite-storage dial connects by two separate physical copper conduits toward bridge and pod branches; no new energy battery. On the inner floor beside the RIGHT station clearly show a small fixed padded stone FOOTREST, for that operator's LEFT ankle to rest while right foot stands on solid floor, plus a low sitting edge. Preserve usable retreat floor, no invented trap. In the gap below the left station show a small grounding access recess, empty and not repaired yet. Camera focuses on exact pads/levers/footrest/ground recess, background bridge blurred, no need to count distant pods, no new pods, no humans, no hands, no text, no captions, no diagram, no watermark. Real cinematic material and controlled old dark palette; not white jade, colorful xianxia palace or shiny gold machine."
+  },
+  {
+    "key": "BR-HUT2",
+    "path": "场景资产/第一季/九层星渊塔/SC-L08_中转屋独立储备内景方向修订V2.png",
+    "inputs": [
+      "场景资产/第一季/九层星渊塔/SC-L08_中转屋独立储备与门锁内景V1.png"
+    ],
+    "prompt": "Precise edit of this EMPTY refuge hut interior, landscape3:2. Keep the entire interior layout unchanged: main doorway center, low guarded side-board doorway LEFT, bench and finite water/air tank RIGHT, the independent reserve housing, heavy isolation latch, shelf, original restrained aged dark bronze/grey stone, warm practical lights and realistic detail. Fix ONLY the orientation ambiguity BEYOND the MAIN CENTER DOOR: remove the little hut/building at the far end of that visible bridge, because this camera is already INSIDE the only transfer hut, looking BACK toward the near-end original control platform. Make the exterior view a SHORT CROPPED stretch of the same stone/bronze bridge disappearing into deep grey atmospheric mist; its far end, ALL pods and other buildings are OUT OF FRAME/hidden by natural mist. Do not show or duplicate any hut or pod through the central door. Keep the left side-door lift board and rail visible, no new route out of the tower. Maintain camera framing and clear walkable solid floor. No people, no body parts, no new costumes, no text, no watermark, no multicolor lights or white jade renovation."
+  }
+]
