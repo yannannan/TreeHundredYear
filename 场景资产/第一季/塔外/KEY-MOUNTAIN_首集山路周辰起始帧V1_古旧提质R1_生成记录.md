@@ -5,7 +5,7 @@
 - 原图输入：场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1.png
 - 工具输出：C:\Users\Administrator\.codex\generated_images\01a13342-be9b-76d3-98f3-ecb9288dd49f\exec-a9c256e4-e1d6-47de-842e-e8b65eb40153.png
 - 像素：940×1672；SHA256：d7569bad73eed3844159884cfad3936e88abb2b7dd9f574a0e251017b82a1754
-- 状态：已生成，待逐图视检；未自动替换正式段落。
+- 状态：已逐图视检，古旧低饱和提质方向通过；参考采用状态以当前映射/执行目录为准。
 
 ## 实际提交提示词
 
@@ -14,3 +14,7 @@ Use case: precise-object-edit. This is a restrained material and cinematography 
 
 Shot-specific invariants: Preserve exact adult Zhou Chen C04 face/costume/crown/boots, same hand holding and inspecting small ancient talisman and back-carried old sword/scabbard. Refine path/stone/wood/grain and light only.
 ```
+
+## 本轮视检
+
+已视检古旧低饱和方向、主体构图与材质/光影；原动作/握点/局部故障限制继续有效，未作动态验收。

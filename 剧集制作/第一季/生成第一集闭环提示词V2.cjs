@@ -2,6 +2,7 @@ const fs=require('fs'),path=require('path'),crypto=require('crypto');const dir=_
 const data=JSON.parse(fs.readFileSync(path.join(dir,'第一集15秒执行数据V2.json'),'utf8').replace(/^\uFEFF/,''));
 const common=fs.readFileSync(path.join(dir,'全剧通用提示词.md'),'utf8').match(/```text\s*([\s\S]*?)```/)[1].trim();
 const catalog=JSON.parse(fs.readFileSync(path.join(dir,'第一集真实参考来源V2.json'),'utf8').replace(/^\uFEFF/,''));
+const resolveScene=require('./解析当前场景参考V1.cjs');catalog.forEach((r,i)=>catalog[i]=resolveScene(r));
 const get=id=>{const x=catalog.find(x=>x.id===id);if(!x||!fs.existsSync(path.join(root,x.path)))throw Error('Missing actual reference '+id);return x;};
 const ep=path.join(dir,'第01集','执行包V2');fs.mkdirSync(ep,{recursive:true});
 const priorFile=path.join(ep,'连续性与参考校核V2.json');const prior=fs.existsSync(priorFile)?JSON.parse(fs.readFileSync(priorFile,'utf8')).segments:[];

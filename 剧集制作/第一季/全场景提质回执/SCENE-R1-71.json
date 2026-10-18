@@ -14,6 +14,7 @@
   "bytes": 2985611,
   "sha256": "131f21483c4b3be231e4fca201b87fc5222ac45294c97fc5f9a23afc740ae951",
   "upscaled": false,
-  "status": "generated-awaiting-visual-review",
-  "actualVideoGenerated": false
+  "status": "reviewed",
+  "actualVideoGenerated": false,
+  "review": "已视检古旧低饱和方向、主体构图与材质/光影；原动作/握点/局部故障限制继续有效，未作动态验收"
 }

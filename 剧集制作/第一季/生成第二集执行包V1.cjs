@@ -2,6 +2,7 @@ const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const dir=__dirname,root=path.resolve(dir,'../..'),out=path.join(dir,'第02集/执行包V1');
 const common=fs.readFileSync(path.join(dir,'全剧通用提示词.md'),'utf8').match(/```text\s*([\s\S]*?)```/)[1].trim();
 const catalog=JSON.parse(fs.readFileSync(path.join(dir,'第一集真实参考来源V2.json'),'utf8').replace(/^\uFEFF/,'')).concat(JSON.parse(fs.readFileSync(path.join(dir,'第二集新增真实参考V1.json'),'utf8')));
+const resolveScene=require('./解析当前场景参考V1.cjs');catalog.forEach((r,i)=>catalog[i]=resolveScene(r));
 const prev=JSON.parse(fs.readFileSync(path.join(dir,'第一集15秒执行数据V2.json'),'utf8')).at(-1).end;
 const data=[
 {name:'剑鞘递下',scene:'断阶，清晨，左上柔光；石桩在上层左侧，苏晚在右下岩壁窄沿，周辰从上层左侧山路靠近。',start:prev,end:'周辰俯卧在上层稳定石阶，左臂肘部撑地，右手握住完整剑鞘上端；旧铁剑已抽出平放在他左侧安全处。苏晚双脚踩右下窄沿，右手握短刃柄、刀身卡岩缝，左手握剑鞘下端；探路绳已随断桩松落，不承担重量。',story:'断桩终于坍塌，苏晚依靠既有短刃和岩沿自救；周辰出现，先试阶沿承重，再用剑鞘提供额外握点。只建立救援连接，本段不把她拉上去。',t:['0—4秒：石桩开裂崩落，绳由绷紧变松，苏晚双脚留在窄沿、右手压住刀柄，刀刃磕落细小缺口，不徒手抓刀锋。','4—9秒：周辰从左上靠近，低身检查石沿，抽出铁剑放在左侧，俯卧稳定躯干；镜头保持同侧，不从下方突然瞬移到上方。','9—15秒：周辰右手将完整剑鞘递到苏晚左手可及处；苏晚确认握点后左手由独立岩点转握剑鞘，右手仍握刀柄，重量未全部转移。'],lines:[],camera:'35mm阶沿同侧斜俯中全景，缓推至两人握点；9秒切50mm双手与剑鞘接触近景一次，保留阶沿和岩壁判断高度。',sound:'断石、绳索松脱、衣料摩擦；低沉风声中保留两人用力呼吸，无英雄爆音。',refs:['SC-OUT04','KEY-CLIFF'],missing:'双人递鞘接触近景与救援首尾同框参考未生成。KEY-CLIFF仅作第一集尾态对照，不可冒充本段双人首帧。'},

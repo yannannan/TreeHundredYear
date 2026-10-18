@@ -5,7 +5,7 @@
 - 原图输入：场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1.png
 - 工具输出：C:\Users\Administrator\.codex\generated_images\01a13342-be9b-76d3-98f3-ecb9288dd49f\exec-798ab547-d82c-49f6-ac7c-5824243f7076.png
 - 像素：941×1671；SHA256：1eacfcc585bc59f5f39eafbde74d0b8055cd519089931b81c92a267a4c3f59fa
-- 状态：已生成，待逐图视检；未自动替换正式段落。
+- 状态：已逐图视检，古旧低饱和提质方向通过；参考采用状态以当前映射/执行目录为准。
 
 ## 实际提交提示词
 
@@ -14,3 +14,7 @@ Use case: precise-object-edit. This is a restrained material and cinematography 
 
 Shot-specific invariants: Preserve actual working carpenter shop, same shoe last, tools, rope, cloth, workbench and original daylight. No new luxury furnishings, no people, no removing wood-shaving work debris.
 ```
+
+## 本轮视检
+
+已视检古旧低饱和方向、主体构图与材质/光影；原动作/握点/局部故障限制继续有效，未作动态验收。

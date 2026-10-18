@@ -13,8 +13,11 @@
       "refs": [
         {
           "id": "KEY-STREET",
-          "file": "KEY-STREET_首集街口人物场景起始帧V2.png",
-          "sha256": "AE266E0F404334C4446490F3695A27C566C80750D80694A0AD0B46BEE4834575"
+          "file": "KEY-STREET_首集街口人物场景起始帧V2_古旧提质R1.png",
+          "sha256": "131f21483c4b3be231e4fca201b87fc5222ac45294c97fc5f9a23afc740ae951",
+          "originalSource": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2.png",
+          "source": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2_古旧提质R1.png",
+          "purpose": "KEY-STREET；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "SW-FULL",
@@ -28,8 +31,11 @@
         },
         {
           "id": "SC-OUT01",
-          "file": "SC-OUT01_街口木车主机位V1.png",
-          "sha256": "E154395D92CB97A4E0D0DB94E3E8498FFB65EFD9ED9B6611DB38304532C9EDB1"
+          "file": "SC-OUT01_街口木车主机位V1_古旧提质R1.png",
+          "sha256": "625d5661a08875a11b02b1699f5f794924209c38c32c8de3496133e0dcc4ed67",
+          "originalSource": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_古旧提质R1.png",
+          "purpose": "SC-OUT01；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "CAST01",
@@ -71,8 +77,11 @@
         },
         {
           "id": "SC-OUT01",
-          "file": "SC-OUT01_街口木车主机位V1.png",
-          "sha256": "E154395D92CB97A4E0D0DB94E3E8498FFB65EFD9ED9B6611DB38304532C9EDB1"
+          "file": "SC-OUT01_街口木车主机位V1_古旧提质R1.png",
+          "sha256": "625d5661a08875a11b02b1699f5f794924209c38c32c8de3496133e0dcc4ed67",
+          "originalSource": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_古旧提质R1.png",
+          "purpose": "SC-OUT01；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "CAST01",
@@ -131,8 +140,11 @@
         },
         {
           "id": "SC-OUT01",
-          "file": "SC-OUT01_街口木车主机位V1.png",
-          "sha256": "E154395D92CB97A4E0D0DB94E3E8498FFB65EFD9ED9B6611DB38304532C9EDB1"
+          "file": "SC-OUT01_街口木车主机位V1_古旧提质R1.png",
+          "sha256": "625d5661a08875a11b02b1699f5f794924209c38c32c8de3496133e0dcc4ed67",
+          "originalSource": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_古旧提质R1.png",
+          "purpose": "SC-OUT01；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "CAST01",
@@ -164,8 +176,11 @@
       "refs": [
         {
           "id": "KEY-SHOP",
-          "file": "KEY-SHOP_首集木匠铺人物起始帧V2.png",
-          "sha256": "A8AB47C06FBECAAAF477BA9142E89DCF2A66419308A27E58DE0EDF24A0FFDB6B"
+          "file": "KEY-SHOP_首集木匠铺人物起始帧V2_古旧提质R1.png",
+          "sha256": "f35ab5c0800ca1fedbdce7a8cf16aa46fd61822f8c226226d330c8e82660b747",
+          "originalSource": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2.png",
+          "source": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2_古旧提质R1.png",
+          "purpose": "KEY-SHOP；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "SW-FULL",
@@ -179,8 +194,11 @@
         },
         {
           "id": "SC-OUT02",
-          "file": "SC-OUT02_木匠铺主机位V1.png",
-          "sha256": "4A422000DD683CB05C89194FA87D8E1AAC7A4D0943638989B70F40CB6E9045EB"
+          "file": "SC-OUT02_木匠铺主机位V1_古旧提质R1.png",
+          "sha256": "1eacfcc585bc59f5f39eafbde74d0b8055cd519089931b81c92a267a4c3f59fa",
+          "originalSource": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_古旧提质R1.png",
+          "purpose": "SC-OUT02；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "PROP01",
@@ -226,8 +244,11 @@
         },
         {
           "id": "SC-OUT02",
-          "file": "SC-OUT02_木匠铺主机位V1.png",
-          "sha256": "4A422000DD683CB05C89194FA87D8E1AAC7A4D0943638989B70F40CB6E9045EB"
+          "file": "SC-OUT02_木匠铺主机位V1_古旧提质R1.png",
+          "sha256": "1eacfcc585bc59f5f39eafbde74d0b8055cd519089931b81c92a267a4c3f59fa",
+          "originalSource": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_古旧提质R1.png",
+          "purpose": "SC-OUT02；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "PROP01",
@@ -263,8 +284,11 @@
       "refs": [
         {
           "id": "KEY-MOUNTAIN",
-          "file": "KEY-MOUNTAIN_首集山路周辰起始帧V1.png",
-          "sha256": "3DF603C8998C2D5CCF98238F73CEB3E4E297B359CA197857EECDAA3B36C662E9"
+          "file": "KEY-MOUNTAIN_首集山路周辰起始帧V1_古旧提质R1.png",
+          "sha256": "d7569bad73eed3844159884cfad3936e88abb2b7dd9f574a0e251017b82a1754",
+          "originalSource": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1.png",
+          "source": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_古旧提质R1.png",
+          "purpose": "KEY-MOUNTAIN；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "ZC-FULL",
@@ -278,8 +302,11 @@
         },
         {
           "id": "SC-OUT03",
-          "file": "SC-OUT03_山路裂口主机位V1.png",
-          "sha256": "31DDF09972FB06497FF2D92C0A503FD0DDF050D81CAAE5941532AD49B3E2D845"
+          "file": "SC-OUT03_山路裂口主机位V1_古旧提质R1.png",
+          "sha256": "47ae1059b8d4d5b6fd34f13455fecf1e2773caf7c2b115943b72375d597af2e7",
+          "originalSource": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_古旧提质R1.png",
+          "purpose": "SC-OUT03；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "PROP03",
@@ -311,8 +338,11 @@
         },
         {
           "id": "SC-OUT03",
-          "file": "SC-OUT03_山路裂口主机位V1.png",
-          "sha256": "31DDF09972FB06497FF2D92C0A503FD0DDF050D81CAAE5941532AD49B3E2D845"
+          "file": "SC-OUT03_山路裂口主机位V1_古旧提质R1.png",
+          "sha256": "47ae1059b8d4d5b6fd34f13455fecf1e2773caf7c2b115943b72375d597af2e7",
+          "originalSource": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_古旧提质R1.png",
+          "purpose": "SC-OUT03；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "PROP03",
@@ -321,8 +351,11 @@
         },
         {
           "id": "TOWER",
-          "file": "SC-TOWER01_星渊塔外观主视觉V1.png",
-          "sha256": "9a7afe06454873d7d92094a16d3ce67f7513397a63ba9d2eb354e66e0db31a04"
+          "file": "SC-TOWER01_星渊塔外观主视觉V1_古旧提质R1.png",
+          "sha256": "a1dbdaf12e6d63c2a0921ea0519ae76e7dc53519e0c96290ff84d7522e03b447",
+          "originalSource": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1.png",
+          "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_古旧提质R1.png",
+          "purpose": "TOWER；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         }
       ],
       "promptFile": "剧集制作/第一季/第01集/执行包V2/第07段_云中九重飞檐/视频提示词.md"
@@ -349,8 +382,11 @@
         },
         {
           "id": "SC-OUT04",
-          "file": "SC-OUT04_断阶石桩窄沿V1.png",
-          "sha256": "8E15AAF628F3A1FC10B59B6EC6094BEDB01EC05480E47E10AD2DA484D64A9AB8"
+          "file": "SC-OUT04_断阶石桩窄沿V1_古旧提质R1.png",
+          "sha256": "ed039d3b04a60b4a7069c244ee666719d5a3feede0d3ebef06df2e29265bb48d",
+          "originalSource": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_古旧提质R1.png",
+          "purpose": "SC-OUT04；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "PROP02",
@@ -382,8 +418,11 @@
         },
         {
           "id": "SC-OUT04",
-          "file": "SC-OUT04_断阶石桩窄沿V1.png",
-          "sha256": "8E15AAF628F3A1FC10B59B6EC6094BEDB01EC05480E47E10AD2DA484D64A9AB8"
+          "file": "SC-OUT04_断阶石桩窄沿V1_古旧提质R1.png",
+          "sha256": "ed039d3b04a60b4a7069c244ee666719d5a3feede0d3ebef06df2e29265bb48d",
+          "originalSource": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_古旧提质R1.png",
+          "purpose": "SC-OUT04；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "PROP02",
@@ -405,8 +444,11 @@
       "refs": [
         {
           "id": "KEY-CLIFF",
-          "file": "KEY-CLIFF_首集断阶自救尾帧V1.png",
-          "sha256": "28F57C964E994A64CDCBC4B7F54BD60A5738DDF1D77074602453B9AB1510E68F"
+          "file": "KEY-CLIFF_首集断阶自救尾帧V1_古旧提质R1.png",
+          "sha256": "89cd857678ee386d736a712e9f572e7c6d76b3f8790173f39a907d53310dbd12",
+          "originalSource": "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1.png",
+          "source": "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1_古旧提质R1.png",
+          "purpose": "KEY-CLIFF；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "SW-FULL",
@@ -420,8 +462,11 @@
         },
         {
           "id": "SC-OUT04",
-          "file": "SC-OUT04_断阶石桩窄沿V1.png",
-          "sha256": "8E15AAF628F3A1FC10B59B6EC6094BEDB01EC05480E47E10AD2DA484D64A9AB8"
+          "file": "SC-OUT04_断阶石桩窄沿V1_古旧提质R1.png",
+          "sha256": "ed039d3b04a60b4a7069c244ee666719d5a3feede0d3ebef06df2e29265bb48d",
+          "originalSource": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1.png",
+          "source": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_古旧提质R1.png",
+          "purpose": "SC-OUT04；已按古旧低饱和方向轻度提质，原功能/数量/状态/接触限制保留"
         },
         {
           "id": "PROP02",

@@ -5,7 +5,7 @@
 - 原图输入：场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1.png
 - 工具输出：C:\Users\Administrator\.codex\generated_images\01a13342-be9b-76d3-98f3-ecb9288dd49f\exec-62189028-4519-4799-8e0c-018f197e3a45.png
 - 像素：941×1672；SHA256：fb2d39465732012ceb2e1ad1becc8c1ba599feb1ef4ba7e62e20734a72844839
-- 状态：已生成，待逐图视检；未自动替换正式段落。
+- 状态：已逐图视检，古旧低饱和提质方向通过；参考采用状态以当前映射/执行目录为准。
 
 ## 实际提交提示词
 
@@ -14,3 +14,7 @@ Use case: precise-object-edit. This is a restrained material and cinematography 
 
 Shot-specific invariants: Keep SAME doorway opening a narrow real gap with original outer ring state, identical threshold and steps; do not change it into wide-open door or show unreachable new corridor.
 ```
+
+## 本轮视检
+
+已视检古旧低饱和方向、主体构图与材质/光影；原动作/握点/局部故障限制继续有效，未作动态验收。
