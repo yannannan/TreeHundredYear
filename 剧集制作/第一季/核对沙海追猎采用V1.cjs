@@ -15,7 +15,7 @@ const root=path.resolve(__dirname,'../..'),read=p=>JSON.parse(fs.readFileSync(pa
  for(let n=1;n<=32;n++){const id=String(n).padStart(2,'0'),v=n===1?'V2':'V1';ledgers.push({id,data:read(`第${id}集/执行包${v}/连续性与参考校核${v}.json`)});}
  for(const {id,data}of ledgers)for(const s of data.segments){const key=id+'-'+String(s.n).padStart(2,'0'),p=s.prompt||s.promptFile,txt=fs.readFileSync(path.join(root,p),'utf8');
   for(const c of candidates)if(s.refs.some(r=>r.source===c.path)||txt.includes(path.basename(c.path)))errors.push(key+'误用候选 '+c.id);
-  for(const r of m.entries){const found=s.refs.filter(x=>x.source===r.path);if(found.length!==Number(r.targets.includes(key)))errors.push(key+'限定采用范围/重复错误 '+r.id);
+  for(const original of m.entries){const r=require('./解析当前场景参考V1.cjs')(original),found=s.refs.filter(x=>x.source===r.path);if(found.length!==Number(r.targets.includes(key)))errors.push(key+'限定采用范围/重复错误 '+r.id);
    if(found.length){const b=fs.readFileSync(path.join(root,path.dirname(p),found[0].file));if(hash(b)!==r.sha256||found[0].sha256!==r.sha256||!txt.includes(found[0].file)||!txt.includes(r.purpose))errors.push(key+'副本/正文用途错误 '+r.id);copies++;targets.add(key);}
   }
  }
