@@ -78,5 +78,25 @@
     "bytes": 2610369,
     "sha256": "a2bf6b78088b2e97175916677bead5b73ede896ce878dd9e25caa2cfbab3543d",
     "upscaled": false
+  },
+  {
+    "id": "EP02-GATE-A-STEP-V1",
+    "path": "场景资产/第一季/早期接触/KEY02-04_周辰独进半步苏晚留线后V1.png",
+    "purpose": "采用有限单人测试静态：A一前靴向门、后靴留线并转头看门，B原脚位/托布结保持；A左符、右半唯一细轨/闭门未推进。只单人先进姿态，步长/镜头几何与往返回线过程需动态核验。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2558037,
+    "sha256": "ab6022561fc53f08287929e7f69bd80deb02f2674ba2be7c87ec0ec11e33f659",
+    "upscaled": false
+  },
+  {
+    "id": "EP02-GATE-B-STEP-V1",
+    "path": "场景资产/第一季/早期接触/KEY02-04_苏晚独进半步周辰留线后V1.png",
+    "purpose": "采用有限单人测试静态：B一前足向门/后足留线，A原靴位/左托符保持；B右布结、右腰短刃及唯一细外轨右半圈/闭门保持。只单人先进目标，衣裙遮挡部分脚形、转身/回线与固定机位连续性仍需动态检查。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2582028,
+    "sha256": "baacb176c54468eee2acc362de55a1af0d400c94ea501c96c939814a1c8d70e1",
+    "upscaled": false
   }
 ]

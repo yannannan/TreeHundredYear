@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-19",
+  "newStaticOriginals": 10,
+  "copiedPlacements": 12,
+  "updatedSegments": [
+    "02-02",
+    "02-03",
+    "02-04",
+    "02-05"
+  ],
+  "oldReferenceImagesDeleted": 0,
+  "formalCharacterCostumeMastersEdited": 0,
+  "actualVideoGenerated": false,
+  "placements": [
+    {
+      "segment": "02-02",
+      "id": "EP02-CLIMB-KNEE-V3",
+      "source": "场景资产/第一季/早期接触/KEY02-02_左膝上沿右掌扶石攀回V3.png",
+      "file": "KEY02-02_左膝上沿右掌扶石攀回V3.png"
+    },
+    {
+      "segment": "02-02",
+      "id": "EP02-RECOVER-STAND-V2",
+      "source": "场景资产/第一季/早期接触/KEY02-02_稳定石阶双人归刀背剑尾态V2.png",
+      "file": "KEY02-02_稳定石阶双人归刀背剑尾态V2.png"
+    },
+    {
+      "segment": "02-02",
+      "id": "EP02-A-HAND-OPEN-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-02_周辰右手虎口背侧擦伤未合V1.png",
+      "file": "KEY02-02_周辰右手虎口背侧擦伤未合V1.png"
+    },
+    {
+      "segment": "02-02",
+      "id": "EP02-A-HAND-CLOSED-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-02_周辰右手虎口背侧收口留血V1.png",
+      "file": "KEY02-02_周辰右手虎口背侧收口留血V1.png"
+    },
+    {
+      "segment": "02-02",
+      "id": "EP02-B-HAND-OPEN-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-02_苏晚左指腹擦伤未合V1.png",
+      "file": "KEY02-02_苏晚左指腹擦伤未合V1.png"
+    },
+    {
+      "segment": "02-02",
+      "id": "EP02-B-HAND-CLOSED-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-02_苏晚左指腹收口留血V1.png",
+      "file": "KEY02-02_苏晚左指腹收口留血V1.png"
+    },
+    {
+      "segment": "02-03",
+      "id": "EP02-GATE-FAR-V3",
+      "source": "场景资产/第一季/早期接触/KEY02-03_闭门左古符右布结相隔一臂V3.png",
+      "file": "KEY02-03_闭门左古符右布结相隔一臂V3.png"
+    },
+    {
+      "segment": "02-04",
+      "id": "EP02-GATE-FAR-V3",
+      "source": "场景资产/第一季/早期接触/KEY02-03_闭门左古符右布结相隔一臂V3.png",
+      "file": "KEY02-03_闭门左古符右布结相隔一臂V3.png"
+    },
+    {
+      "segment": "02-04",
+      "id": "EP02-GATE-CLOSE-V2",
+      "source": "场景资产/第一季/早期接触/KEY02-04_双物一掌未触右半外圈亮V2.png",
+      "file": "KEY02-04_双物一掌未触右半外圈亮V2.png"
+    },
+    {
+      "segment": "02-04",
+      "id": "EP02-GATE-A-STEP-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-04_周辰独进半步苏晚留线后V1.png",
+      "file": "KEY02-04_周辰独进半步苏晚留线后V1.png"
+    },
+    {
+      "segment": "02-04",
+      "id": "EP02-GATE-B-STEP-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-04_苏晚独进半步周辰留线后V1.png",
+      "file": "KEY02-04_苏晚独进半步周辰留线后V1.png"
+    },
+    {
+      "segment": "02-05",
+      "id": "EP02-GATE-CLOSE-V2",
+      "source": "场景资产/第一季/早期接触/KEY02-04_双物一掌未触右半外圈亮V2.png",
+      "file": "KEY02-04_双物一掌未触右半外圈亮V2.png"
+    }
+  ]
+}

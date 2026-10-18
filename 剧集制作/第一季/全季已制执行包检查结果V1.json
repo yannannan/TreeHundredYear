@@ -13,7 +13,7 @@
       "episode": "02",
       "segments": 8,
       "seconds": 120,
-      "referenceCopies": 63
+      "referenceCopies": 75
     },
     {
       "episode": "03",
@@ -197,7 +197,7 @@
     }
   ],
   "completedTextSegments": 313,
-  "referenceCopies": 4260,
+  "referenceCopies": 4272,
   "errors": [],
   "warnings": [
     "各段专用接触/状态/光态图缺项仍按清单补齐，复制件不算新生成原图；没有实际H3音视频及动态验收。"

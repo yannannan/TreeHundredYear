@@ -22,7 +22,7 @@ for(let i=0;i<data.length;i++){
  if(n>=3&&n<=7){d.refs.push(...({3:['GATE-CLOSED'],4:['GATE-HALF'],5:['GATE-HALF','GATE-NARROW'],6:['GATE-NARROW','GATE-OPEN'],7:['GATE-OPEN']}[n]));d.scene+=' 采用SC-OUT05母图：门前有短阶，人物测试时已在短阶上方的平台；门槛前脚位使用近门既有细裂纹作参照，不与母图远处前景裂纹混淆。星盘外圈是唯一发光轨道，其余同心刻饰保持暗。';d.missing=d.missing.replace('塔门前缓坡与星纹门专用高清场景母图、','').replace('塔外总图只能说明建筑风格，不替代门部精确几何。','闭门主机位已有，仅锁几何/材质；开门状态不能套用闭门图作首帧。').replace('星纹门半亮状态母图和','半亮静态目标已补，仍缺').replace('星纹门窄缝、','窄开精确光态及');}
  if(n===1&&catalog.some(r=>r.id==='RESCUE-HANDS'))d.refs.push('RESCUE-HANDS');
  if(n===1&&catalog.some(r=>r.id==='RESCUE-GRIP')){d.refs.push('RESCUE-GRIP');d.missing='已补递鞘构图目标，但该图按其生成检查记录使用；完整攀回过程和动态手脚承重仍需验证。';}
- const refs=[...new Set([...base,...d.refs])].map(id=>id==='L01'?{id,path:'场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1.png',purpose:'第一层建立图：尺度/材质，不是本段精确机位'}:catalog.find(r=>r.id===id));
+ const refs=[...new Set([...base,...d.refs])].map(id=>id==='L01'?{id,path:'场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1.png',purpose:'第一层建立图：尺度/材质，不是本段精确机位'}:catalog.find(r=>r.id===id)).map(resolveScene);
  const copied=refs.map(r=>{if(!r)throw Error('未知参考');const b=fs.readFileSync(path.join(root,r.path)),file=path.basename(r.path),sha256=crypto.createHash('sha256').update(b).digest('hex');fs.writeFileSync(path.join(seg,file),b);return {...r,file,sha256};});
  const talk=d.lines.length?d.lines.map(l=>`${l[2]}—${l[3]}秒，${l[0]}=${l[1]}：“${l[4]}”；表演：${l[5]}；只有该人开口，另一人自然听，不重叠。`).join('\n'):'0—15秒无对白、无旁白，不生成空口型。';
  const subs=d.lines.length?d.lines.map(l=>`${l[2]}—${l[3]}秒：${l[4]}`).join('\n'):'无对白/旁白字幕。';
@@ -34,6 +34,8 @@ for(let i=0;i<data.length;i++){
  for(const r of copied)if(crypto.createHash('sha256').update(fs.readFileSync(path.join(seg,r.file))).digest('hex')!==r.sha256)errors.push(n+'副本hash错误');
  records.push({n,name:d.name,seconds:15,start:d.start,end:d.end,lines:d.lines,prompt:path.relative(root,file).replaceAll('\\','/'),missing:d.missing,refs:copied.map(r=>({file:r.file,source:r.path,sha256:r.sha256}))});
 }
-fs.writeFileSync(path.join(out,'第二集执行清单V1.md'),'# 第二集｜8段×15秒=120秒执行包V1\n\n第一集使用10段V2，本集从其断阶尾帧继续。此包仅完成执行文本与已有基础参考，未生成视频；闭门与半亮主图已有，窄开/全开与精确双人接触近景仍待补，不能视为全部资产齐备。\n\n| 段 | 集内时码 | 任务 |\n|---|---|---|\n'+data.map((d,i)=>`| ${i+1} | ${i*15}—${(i+1)*15}秒 | [${d.name}](第${String(i+1).padStart(2,'0')}段_${d.name}/视频提示词.md) |`).join('\n')+'\n\n执行调整：场次预算改为断阶0—30秒、门前缓坡30—60秒、星纹门60—105秒、入口105—120秒。为避免道具凭空出现，入口撒砂改用石台边现成细砂，取消未交代来源的沙囊；探路绳随断桩遗落。首次出场卡按本集第01段显示。每段依首尾状态及对白逐项试片；尤其第02段攀回加对白、第08段入口动作需动态验证，若无法自然完成则扩段并同步排程，不加速压缩。\n');
+fs.writeFileSync(path.join(out,'第二集执行清单V1.md'),'# 第二集｜8段×15秒=120秒执行包V1\n\n第一集使用10段V2，本集从其断阶尾帧继续。此包已有执行文本及75份就近参考，未生成视频；新增10张攀回/微伤/持物与半亮静态图接4段12引用。闭门/半亮/窄开/全开环境图已有，窄开精确四分之三唯一外轨、挑石接触、双人同步开门与过门专用图仍待补，不能视为全部资产齐备。\n\n| 段 | 集内时码 | 任务 |\n|---|---|---|\n'+data.map((d,i)=>`| ${i+1} | ${i*15}—${(i+1)*15}秒 | [${d.name}](第${String(i+1).padStart(2,'0')}段_${d.name}/视频提示词.md) |`).join('\n')+'\n\n执行调整：场次预算改为断阶0—30秒、门前缓坡30—60秒、星纹门60—105秒、入口105—120秒。为避免道具凭空出现，入口撒砂改用石台边现成细砂，取消未交代来源的沙囊；探路绳随断桩遗落。首次出场卡按本集第01段显示。每段依首尾状态及对白逐项试片；尤其第02段攀回加对白、第08段入口动作需动态验证，若无法自然完成则扩段并同步排程，不加速压缩。\n');
 fs.writeFileSync(path.join(out,'连续性与参考校核V1.json'),JSON.stringify({date:'2026-10-18',seconds:120,segments:records,errors,actualVideoGenerated:false},null,2));
 if(errors.length)throw Error(errors.join(';'));console.log(JSON.stringify({segments:8,seconds:120,referenceCopies:records.reduce((n,r)=>n+r.refs.length,0),errors,missingReferenceGroups:8,actualVideoGenerated:false}));
+// Reapply current specialized static references after rebuilding base episode files.
+if(fs.existsSync(path.join(dir,'第二集早期接触静态采用V14.json')))require('./采用第二集早期接触V14.cjs');

@@ -4,13 +4,13 @@
   "textSegments": 313,
   "establishingDomains": 10,
   "refinedExistingOriginals": 94,
-  "newContactOriginals": 5,
-  "newSceneOriginals": 99,
+  "newContactOriginals": 15,
+  "newSceneOriginals": 109,
   "reviewedUnchangedOriginals": 6,
-  "reviewedFilmReferences": 105,
-  "newReferencePlacements": 768,
-  "currentSceneOriginals": 111,
-  "currentFilmReferences": 105,
+  "reviewedFilmReferences": 115,
+  "newReferencePlacements": 780,
+  "currentSceneOriginals": 121,
+  "currentFilmReferences": 115,
   "technicalLayouts": 6,
   "currentFilmReferenceArtReviewCompleted": true,
   "additionalShotReferencesComplete": false,
@@ -1673,6 +1673,88 @@
       "status": "原图视检合规，未重绘/非新生成",
       "targets": [
         "32-12"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-02_苏晚左指腹擦伤未合V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-02"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-02_苏晚左指腹收口留血V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-02"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-02_稳定石阶双人归刀背剑尾态V2.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-02"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-02_周辰右手虎口背侧擦伤未合V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-02"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-02_周辰右手虎口背侧收口留血V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-02"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-02_左膝上沿右掌扶石攀回V3.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-02"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-03_闭门左古符右布结相隔一臂V3.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-03",
+        "02-04"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-04_双物一掌未触右半外圈亮V2.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-04",
+        "02-05"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-04_苏晚独进半步周辰留线后V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-04"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-04_周辰独进半步苏晚留线后V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-04"
       ]
     },
     {

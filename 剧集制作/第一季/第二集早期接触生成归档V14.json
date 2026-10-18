@@ -100,5 +100,29 @@
     "date": "2026-10-19",
     "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-81acc850-47f7-422e-b726-3ab22e8aeea2.png",
     "qa": "采用：双物一掌未触、A左符/B右布结、双脚原线后，门全闭；唯一最外细轨右半180度亮，左半/内圈装饰暗，人体遮挡不透光。只04回线后尾/05首静态，不是完整进退认证动态。"
+  },
+  {
+    "key": "EP02-GATE-A-STEP-V1",
+    "name": "第二集周辰单独半步门光不续",
+    "path": "场景资产/第一季/早期接触/KEY02-04_周辰独进半步苏晚留线后V1.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-81acc850-47f7-422e-b726-3ab22e8aeea2.png"
+    ],
+    "prompt": "Precise later pose variant of Image1 for EP02-04 SINGLE-PERSON TEST. Same locked 35mm camera, closed door with ONLY ONE thin OUTERMOST RIGHT SEMICIRCLE lit12clockwise to6, left half and all inner decoration dark; no further lighting or opening. Keep adult faces/hair/costumes, same props/handedness, A LEFT/B RIGHT, A LEFT palm bronze token/B RIGHT palm silver knot, outer hands empty, sword A-back/short knife B-right-waist, retained tiny blood. Change ONLY A Zhou Chen advances half a step TOWARD THE DOOR, AWAY FROM CAMERA (upward in frame), NOT toward woman or camera. His leading black boot crosses just over original subtle near-door crack, rear boot remains at line, slight torso turn toward door and head observes light. B Su Wan remains EXACTLY on both original foot positions behind crack, body/holding arm does not advance. Both objects move naturally with their owners; do not make them touch. Original world position marker/floor crack remains fixed, no extra glowing floor line or writing. Faces stay identifiable three-quarter/profile, feet genuinely planted, cloth drapes naturally, no new limb/hand/person/object/rope or weapons. Same complete grey-stone platform/door/dawn, highest-native 9:16 live-action movie still. This depicts ONLY the single-person advanced pose, not return motion or both simultaneously advancing.",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-6fc192f4-63db-426a-a8ff-55bf9f5bfd42.png",
+    "qa": "采用有限单人测试静态：A一前靴向门、后靴留线并转头看门，B原脚位/托布结保持；A左符、右半唯一细轨/闭门未推进。只单人先进姿态，步长/镜头几何与往返回线过程需动态核验。"
+  },
+  {
+    "key": "EP02-GATE-B-STEP-V1",
+    "name": "第二集苏晚单独半步门光不续",
+    "path": "场景资产/第一季/早期接触/KEY02-04_苏晚独进半步周辰留线后V1.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-81acc850-47f7-422e-b726-3ab22e8aeea2.png"
+    ],
+    "prompt": "Precise later pose variant of Image1 for EP02-04 SINGLE-PERSON TEST. Same locked 35mm camera, closed door with ONLY ONE thin OUTERMOST RIGHT SEMICIRCLE lit12clockwise to6, left half and all inner decoration dark; no further lighting or opening. Keep adult faces/hair/costumes, same props/handedness, A LEFT/B RIGHT, A LEFT palm bronze token/B RIGHT palm silver knot, outer hands empty, sword A-back/short knife B-right-waist, retained tiny blood. Change ONLY B Su Wan advances half a step TOWARD THE DOOR, AWAY FROM CAMERA (upward in frame), NOT toward man or camera. Her leading bare foot crosses just over original subtle near-door crack with real toe contact, rear bare foot remains at line, her torso turns slightly toward door and eyes observe light. A Zhou Chen remains EXACTLY on original boot positions behind crack, his body/holding arm does not advance. Both objects move naturally with their owners; do not make them touch. Original world position marker/floor crack remains fixed, no extra glowing floor line or writing. Faces stay identifiable three-quarter/profile, feet genuinely planted, cloth drapes naturally, no new limb/hand/person/object/rope or weapons. Same complete grey-stone platform/door/dawn, highest-native 9:16 live-action movie still. This depicts ONLY the single-person advanced pose, not return motion or both simultaneously advancing.",
+    "date": "2026-10-19",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-25630275-76aa-4537-ac09-e92e273d15d8.png",
+    "qa": "采用有限单人测试静态：B一前足向门/后足留线，A原靴位/左托符保持；B右布结、右腰短刃及唯一细外轨右半圈/闭门保持。只单人先进目标，衣裙遮挡部分脚形、转身/回线与固定机位连续性仍需动态检查。"
   }
 ]
