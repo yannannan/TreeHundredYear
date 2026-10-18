@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-18",
+  "scope": "实际PNG原字节/尺寸/SHA/生成记录、全季排除候选与限定段副本、登记物理顺序静态检查；不证明表演或机械工程实测",
+  "rawOriginals": 20,
+  "adoptedStatic": 11,
+  "archivedCandidates": 9,
+  "targetSegments": 3,
+  "specificCopies": 11,
+  "contextCopies": 9,
+  "placements": [
+    {
+      "segment": "32-05",
+      "id": "SLOW-05-R2"
+    },
+    {
+      "segment": "32-05",
+      "id": "SLOW-06-R2"
+    },
+    {
+      "segment": "32-05",
+      "id": "SLOW-07-R2"
+    },
+    {
+      "segment": "32-05",
+      "id": "SLOW-08-R3"
+    },
+    {
+      "segment": "32-06",
+      "id": "SLOW-09-R2"
+    },
+    {
+      "segment": "32-06",
+      "id": "SLOW-10-R2"
+    },
+    {
+      "segment": "32-06",
+      "id": "SLOW-11-R2"
+    },
+    {
+      "segment": "32-06",
+      "id": "SLOW-12-PAUSE"
+    },
+    {
+      "segment": "32-06",
+      "id": "SLOW-AXLE-STOP"
+    },
+    {
+      "segment": "32-07",
+      "id": "SLOW-12-R2"
+    },
+    {
+      "segment": "32-07",
+      "id": "SLOW-AXLE-FIX"
+    }
+  ],
+  "errors": [],
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "formalCharacterCostumeImagesEdited": false
+}

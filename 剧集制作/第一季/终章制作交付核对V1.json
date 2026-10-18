@@ -30,11 +30,11 @@
       "episode": 32,
       "segments": 12,
       "seconds": 180,
-      "referenceCopies": 222
+      "referenceCopies": 242
     }
   ],
   "segments": 59,
-  "referenceCopies": 893,
+  "referenceCopies": 913,
   "errors": [],
   "actualVideoGenerated": false,
   "actualAudioGenerated": false,
