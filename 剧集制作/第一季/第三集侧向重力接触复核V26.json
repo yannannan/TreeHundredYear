@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-19",
+  "baselineCommit": "5fb998c",
+  "checkedSegments": 313,
+  "seconds": 4695,
+  "referenceCopies": 4306,
+  "episodeReferenceCopies": {
+    "02": 98,
+    "03": 83
+  },
+  "newNativeOriginals": 3,
+  "archivedCandidates": 2,
+  "actualGeneratedOutputs": 5,
+  "newSceneReferenceCopies": 6,
+  "updatedSegments": [
+    "03-02",
+    "03-03",
+    "03-04",
+    "03-05"
+  ],
+  "dialogueFirstLastTimingAndOtherFieldsExceptReferencesAndPendingUnchanged": true,
+  "formalCharacterCostumeAndPropMastersUnchanged": true,
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "errors": []
+}

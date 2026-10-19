@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-19",
+  "newNativeOriginals": 3,
+  "archivedCandidates": 2,
+  "actualGeneratedOutputs": 5,
+  "newReferenceCopies": 6,
+  "updatedSegments": [
+    "03-02",
+    "03-03",
+    "03-04",
+    "03-05"
+  ],
+  "episodeReferenceCopies": 83,
+  "totalReferenceCopies": 4306,
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "placements": [
+    {
+      "segment": "03-02",
+      "id": "EP03-RIGHT-GRAVITY-END-V3",
+      "file": "KEY03-02_右向重力停法双人支点尾态V3.png",
+      "phase": "03-02末/03-03首，重力已向建筑右侧，未擦肩/未抓人/古符仍腰侧"
+    },
+    {
+      "segment": "03-03",
+      "id": "EP03-RIGHT-GRAVITY-END-V3",
+      "file": "KEY03-02_右向重力停法双人支点尾态V3.png",
+      "phase": "03-02末/03-03首，重力已向建筑右侧，未擦肩/未抓人/古符仍腰侧"
+    },
+    {
+      "segment": "03-03",
+      "id": "EP03-TOKEN-BLOCKS-GRIP-V1",
+      "file": "KEY03-03_右掌古符挡住完整握梁近景V1.png",
+      "phase": "03-03末/03-04首，仅A右肘抵梁/右掌古符妨碍握梁局部，古符尚未放开"
+    },
+    {
+      "segment": "03-04",
+      "id": "EP03-TOKEN-BLOCKS-GRIP-V1",
+      "file": "KEY03-03_右掌古符挡住完整握梁近景V1.png",
+      "phase": "03-03末/03-04首，仅A右肘抵梁/右掌古符妨碍握梁局部，古符尚未放开"
+    },
+    {
+      "segment": "03-04",
+      "id": "EP03-TOKEN-GONE-FIRM-GRIP-V1",
+      "file": "KEY03-04_古符已失空右掌完整握梁近景V1.png",
+      "phase": "03-04末/03-05首，古符已永久离手且不在画内，空右手完整握住同梁角局部"
+    },
+    {
+      "segment": "03-05",
+      "id": "EP03-TOKEN-GONE-FIRM-GRIP-V1",
+      "file": "KEY03-04_古符已失空右掌完整握梁近景V1.png",
+      "phase": "03-04末/03-05首，古符已永久离手且不在画内，空右手完整握住同梁角局部"
+    }
+  ]
+}

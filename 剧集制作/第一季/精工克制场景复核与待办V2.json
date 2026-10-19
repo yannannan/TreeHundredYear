@@ -4,13 +4,13 @@
   "textSegments": 313,
   "establishingDomains": 10,
   "refinedExistingOriginals": 94,
-  "newContactOriginals": 38,
-  "newSceneOriginals": 132,
+  "newContactOriginals": 41,
+  "newSceneOriginals": 135,
   "reviewedUnchangedOriginals": 6,
-  "reviewedFilmReferences": 138,
-  "newReferencePlacements": 807,
-  "currentSceneOriginals": 144,
-  "currentFilmReferences": 138,
+  "reviewedFilmReferences": 141,
+  "newReferencePlacements": 813,
+  "currentSceneOriginals": 147,
+  "currentFilmReferences": 141,
   "technicalLayouts": 6,
   "currentFilmReferenceArtReviewCompleted": true,
   "additionalShotReferencesComplete": false,
@@ -1945,6 +1945,33 @@
       "status": "已完成精工克制静态视检",
       "targets": [
         "03-01"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY03-02_右向重力停法双人支点尾态V3.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "03-02",
+        "03-03"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY03-03_右掌古符挡住完整握梁近景V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "03-03",
+        "03-04"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY03-04_古符已失空右掌完整握梁近景V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "03-04",
+        "03-05"
       ]
     },
     {

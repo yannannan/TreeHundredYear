@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "status": "in-progress",
+  "status": "adopted-static-current-batch",
   "baselineCommit": "4155d6a",
   "jobs": [
     {
@@ -18,7 +18,12 @@
       "prompt": "Use case identity-preserve, ONE cinematic live-action 9:16 24mm FIXED SIDE establishing contact-state frame of TreeHundredYear first bridge AFTER local gravity has turned toward ARCHITECTURAL RIGHT. Image1 only exact existing A/B adult identities, blackgold/silverblue costume/hair/crowns, single old sheathed sword on A's back and hall family. Image2 only existing complete transverse bronze/stone beam, adjacent old railing root, ONE installed maintenance rope anchored around COMPLETE beam (not railing), opposite separate ledge/gap. Choose an UPRIGHT fixed side camera with original architectural vertical columns upright: NEVER rotate/cant the camera/world to fake gravity. In this fixed view architectural right projects to SCREEN RIGHT. A stays LEFT near complete beam/railing root, body shoved sideways against it, anatomicalLEFT hand braces solid railing root; anatomicalRIGHT hand no longer casts and presses/protects bronze token STILL AT HIS WAIST. Single sword FULLY sheathed along secured back strap, no weapon in either hand. B is to A's RIGHT on SAME near bridge surface, not on opposite ledge: prone/low sideways strained body, BOTH hands gripping two existing floor-stone seams nearer A, her torso and legs extend toward screenRIGHT abyss edge. Her feet are beginning to slip to screenRIGHT, NOT conventional head-up/down hanging. No A/B holding each other yet. B right shoulder/clothes intact at this point, no blood, no ankle wrap, original compact shortknife remains rightwaist; old probe rope not at waist. Her SAME silverblue train/sleeves/long hair now pulled SIDEWAYS RIGHT, not down. Existing maintenance rope FREE end and tiny loose dust grains bow/trail to SCREENRIGHT from anchored beam under new local gravity, nobody has grabbed it, no rope tied around B yet. At least one original upright column and horizontal beam clearly visible as unrolled world axes. Huge inclined ring/bluegrey abyss and distant waterfall family behind, no active ring spin effect. Only the local near bridge gravity changed; no new bridge across gap, no flying people, no new creature or magic explosion. Keep exact faces and original outfits, believable anatomy/contact with separate hands, no third arm. Maintained slate/graphite/quiet bronze broad surfaces, fine seams, local plot fracture only, no blanket ruined masonry. Deep enough focus reads hands/feet/rope anchor. No text/numbers/arrows/subtitle/logo/watermark. Finite END state reference only, cannot prove continuous gravity turning, real load or actual 3D reach.",
       "actualOutputGenerated": true,
       "actualPath": "场景资产/第一季/早期接触/KEY03-02_右向重力停法双人支点尾态V3.png",
-      "status": "reviewed-await-adoption"
+      "status": "adopted-static",
+      "adopted": true,
+      "adoptedTargets": [
+        "03-02",
+        "03-03"
+      ]
     },
     {
       "key": "EP03-TOKEN-BLOCKS-GRIP-V1",
@@ -36,7 +41,12 @@
       "sourceCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-4275b59c-bf61-4562-97e8-1b1e3b8d15bc.png",
       "qa": "采用有限右掌阻握近景：原黑金袖右手夹原形暗铜古符于掌/梁角之间，符缘/纹路可辨，手指未完整包握，未放符/无发光或第二符。只取右手/符/完整梁角的局部占位关系，肘与左臂救援/肩伤均未入画，不据此证明全身支点、握距、实际负重或动作成立。",
       "actualOutputGenerated": true,
-      "status": "reviewed-await-adoption"
+      "status": "adopted-static",
+      "adopted": true,
+      "adoptedTargets": [
+        "03-03",
+        "03-04"
+      ]
     },
     {
       "key": "EP03-TOKEN-GONE-FIRM-GRIP-V1",
@@ -53,10 +63,17 @@
       "sourceCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-9102d51c-eeee-4bfa-a4c1-0dcc4a833a22.png",
       "qa": "采用有限放符后握梁近景：原黑金袖右手掌直接贴同一完整梁角，古符已不在掌中或画内，手指自然包住梁缘，无第二符/新手臂。只取释放后的右手与梁面接触状态，左臂救援、右肘支点、苏晚肩伤与落符轨迹均未入画，不据此证明全身支点、握距、实际负重或连续动作成立。",
       "actualOutputGenerated": true,
-      "status": "reviewed-await-adoption"
+      "status": "adopted-static",
+      "adopted": true,
+      "adoptedTargets": [
+        "03-04",
+        "03-05"
+      ]
     }
   ],
   "actualGeneratedOutputs": 5,
   "actualVideoGenerated": false,
-  "reviewedUsableOriginals": 3
+  "reviewedUsableOriginals": 3,
+  "adoptedOriginals": 3,
+  "remaining": "完整重力转换/连续动作、左臂救援/右肘负重、肩伤破衣、落符轨迹和脚绳抓取等仍需补制与真实试片"
 }
