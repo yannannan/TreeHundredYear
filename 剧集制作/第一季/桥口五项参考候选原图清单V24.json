@@ -1,0 +1,13 @@
+[
+  {
+    "id": "EP02-SHEATH-TAP-CANDIDATE-V1",
+    "path": "场景资产/第一季/早期接触/KEY02-08_周辰左手带鞘敲石握柄候选V1.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3147887,
+    "sha256": "0ada190a5bdc06ce9cae4a3fc5a75336026f848388351d015abc69f2c6910c7d",
+    "upscaled": false,
+    "purpose": "候选未采用：同向背侧、A左持/右空和背上无第二鞘保持，但左手握点在柄/鞘口附近，未清楚落到鞘口下方木鞘身，不能用于精确整鞘承托接触目标；需要下移握点，不能降低本段要求。",
+    "status": "candidate-not-adopted"
+  }
+]

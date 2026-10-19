@@ -2,7 +2,7 @@
   "date": "2026-10-19",
   "status": "in-progress-generation",
   "goalStatus": "active",
-  "actualGeneratedFromThisPlan": 1,
+  "actualGeneratedFromThisPlan": 2,
   "workflow": "按实际输出/QA/采用登记；原V18失败调用是历史记录，不将当前任务JSON当作仍运行的生成句柄。",
   "jobs": [
     {
@@ -60,16 +60,20 @@
         "02-08"
       ],
       "phase": "02-08第8—12秒鞘敲接触，剑始终在鞘",
-      "status": "planned-not-generated",
-      "attempted": false,
-      "actualOutputGenerated": false,
+      "status": "candidate-needs-correction",
+      "attempted": true,
+      "actualOutputGenerated": true,
       "prompt": "Use case: identity-preserve. ONE premium portrait9:16 live-action cinematic medium-close contact still. Image1 same near first-layer bridge/entry actors/geometry, image2 exact old iron sword FULLY IN original worn brown sheath, images3/4 original adult faces. A blackgold man on LEFT safe near platform, B silverblue barefoot woman to RIGHT slightly behind, original costumes/hair/crowns and no new wounds. A has taken the WHOLE sheathed sword off his back with anatomicalLEFT hand: his LEFT fist grips sheath upper-third BELOW throat, leather/metal tube weight supported naturally, blade FULLY INSIDE and single original hilt visible at top. Rounded sheath lower ferrule gently touches the original near-side horizontal bridge stone in front of him, contact/shadow clearly readable. No blade ever exposed, no right-hand grip, no sword/slash/levitation. A back now has only original strap, NO second sheath/hilt or sword there. A RIGHT hand empty relaxed before raising later. Token still at A waist, B knife sheathed rightwaist, knot inside chest, B right fingertips a little grey sand residue/left empty. Both remain on safe unflipped near segment, gap/far ledge unchanged. Mid depth reads left fingers/sheath/stone contact and feet margin, giant ring and inverse falls soft background. Maintained grey/graphite/dark bronze low saturation, local broken edge only/no new rubble/rust. No other people, magic, moving brick, gravity shift, blood at near feet, text/subtitle/logo/watermark. Static tap contact only, not proof of impact timing/sound or full sword-transfer motion.",
       "referenceSources": [
         "场景资产/第一季/早期接触/KEY02-08_背侧双人桥口巨环逆瀑建立V1.png",
         "道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png",
         "人物资产/周辰/ZC-F01_独立正面头肩V1.png",
         "人物资产/苏晚/SW-F01_独立正面头肩V1.png"
-      ]
+      ],
+      "latestOutputCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-17742336-c9c2-4360-92dc-221422a64d23.png",
+      "latestOutputPath": "场景资产/第一季/早期接触/KEY02-08_周辰左手带鞘敲石握柄候选V1.png",
+      "latestQA": "候选未采用：同向背侧、A左持/右空和背上无第二鞘保持，但左手握点在柄/鞘口附近，未清楚落到鞘口下方木鞘身，不能用于精确整鞘承托接触目标；需要下移握点，不能降低本段要求。",
+      "reviewedUsableOutput": false
     },
     {
       "key": "EP02-FAR-BLOOD-PLANNED-V1",
