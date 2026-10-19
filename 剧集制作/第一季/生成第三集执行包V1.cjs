@@ -21,7 +21,7 @@ for(let i=0;i<data.length;i++){
  const refs=['ZC-FULL','ZC-HEAD','SW-FULL','SW-HEAD','PROP02','PROP03'].map(id=>catalog.find(r=>r.id===id));
  refs.push({path:'场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1.png',purpose:'仅锁第一层巨构材质与规模，不是侧向重力机位'}, {path:'场景资产/第一季/九层星渊塔/SC-L01-LAYOUT01_行动布局4K_V1.png',purpose:'仅作路径与因果示意，图中文字与箭头不可印入视频'});
  refs.push(...JSON.parse(fs.readFileSync(path.join(dir,'当前制作新增场景参考V1.json'),'utf8')).filter(r=>r.id==='L01-ACTION'));
- const copied=refs.map(r=>{const b=fs.readFileSync(path.join(root,r.path)),file=path.basename(r.path),sha256=crypto.createHash('sha256').update(b).digest('hex');fs.writeFileSync(path.join(seg,file),b);return {...r,file,sha256};});
+ const copied=refs.map(resolveScene).map(r=>{const b=fs.readFileSync(path.join(root,r.path)),file=path.basename(r.path),sha256=crypto.createHash('sha256').update(b).digest('hex');fs.writeFileSync(path.join(seg,file),b);return {...r,file,sha256};});
  const talk=d.lines.length?d.lines.map(l=>`${l[2]}—${l[3]}秒，${l[0]}=${l[1]}：“${l[4]}”；${l[5]}；该时段仅此人动嘴，其他人不跟读。`).join('\n'):'0—15秒无对白/旁白，只有自然呼吸，不补句或空口型。';
  const subs=d.lines.length?d.lines.map(l=>`${l[2]}—${l[3]}秒：${l[4]}`).join('\n'):'无对白/旁白字幕。';
  const intro=n===1?'0.5—3.5秒：“周辰｜长生剑修”“历世三百载｜不死不灭”“神秘之力｜尚未可知”；5—8秒：“苏晚｜修行者”“符法御敌｜伤体再生”。两卡依次显示，无介绍旁白，不因说明能力暂停施法。':'本集已介绍A/B，本段不再显示出场卡，也不以受伤为由重复介绍。';
@@ -30,8 +30,10 @@ for(let i=0;i<data.length;i++){
  let end=0;for(const t of d.t){const m=t.match(/^(\d+)—(\d+)秒/);if(!m||+m[1]!==end)errors.push(n+'时间轴断档');end=+m[2];}if(end!==15)errors.push(n+'未到15秒');
  let last=0;for(const l of d.lines){if(l[2]<last||l[3]>15||({A:'周辰',B:'苏晚'})[l[0]]!==l[1])errors.push(n+'台词时码/身份错误');last=l[3];if(l[4].replace(/[，。！、]/g,'').length/(l[3]-l[2])>6)warnings.push(n+'台词语速待试录');}
  for(const r of copied)if(crypto.createHash('sha256').update(fs.readFileSync(path.join(seg,r.file))).digest('hex')!==r.sha256)errors.push(n+'参考hash错误');
- records.push({n,name:d.name,seconds:15,start:d.start,end:d.end,lines:d.lines,prompt:path.relative(root,file).replaceAll('\\','/'),refs:copied.map(r=>({file:r.file,source:r.path,sha256:r.sha256}))});
+ records.push({n,name:d.name,seconds:15,start:d.start,end:d.end,lines:d.lines,prompt:path.relative(root,file).replaceAll('\\','/'),refs:copied.map(r=>({file:r.file,source:r.path,sha256:r.sha256,...(r.purpose?{purpose:r.purpose}:{})}))});
 }
-fs.writeFileSync(path.join(out,'第三集执行清单V1.md'),'# 第三集｜8段×15秒=120秒\n\n8份独立完整提示词及64份原图就近副本；未生成音视频。专用重力反转、侧墙机位和手/绳/梁接触图尚缺，不能只凭总景宣称齐备。\n\n|段|集内时码|执行文件|\n|---|---|---|\n'+data.map((d,i)=>`|${i+1}|${i*15}—${(i+1)*15}秒|[${d.name}](第${String(i+1).padStart(2,'0')}段_${d.name}/视频提示词.md)|`).join('\n')+'\n\n连续性修订：古符开篇在腰侧，撞栏后才挤到右掌；第04段主动放手永久丢失。桥侧检修绳在第01段先入镜，第05段取用，不是塔外已遗失的探路绳。细砂取自石缝，不恢复沙囊。第06段对白适度缩短，保留补砖拆桥及先活着投诉的因果幽默。第08段九钟加一次回鸣，不显示隐藏入口。单手绳环与重力反转必须实测，过密则增段而不是加速。\n');
+fs.writeFileSync(path.join(out,'第三集执行清单V1.md'),'# 第三集｜8段×15秒=120秒\n\n8份独立完整提示词及'+records.reduce((sum,s)=>sum+s.refs.length,0)+'份原图就近副本；未生成音视频。专用重力反转、侧墙机位和手/绳/梁接触图尚缺，不能只凭总景宣称齐备。\n\n|段|集内时码|执行文件|\n|---|---|---|\n'+data.map((d,i)=>`|${i+1}|${i*15}—${(i+1)*15}秒|[${d.name}](第${String(i+1).padStart(2,'0')}段_${d.name}/视频提示词.md)|`).join('\n')+'\n\n连续性修订：古符开篇在腰侧，撞栏后才挤到右掌；第04段主动放手永久丢失。桥侧检修绳在第01段先入镜，第05段取用，不是塔外已遗失的探路绳。细砂取自石缝，不恢复沙囊。混合道具图仅取短刃/刀套造型，拔刀与握手依当前段，不复制展板默认持刀或塔外绳袋。第06段对白适度缩短，保留补砖拆桥及先活着投诉的因果幽默。第08段九钟加一次回鸣，不显示隐藏入口。单手绳环与重力反转必须实测，过密则增段而不是加速。\n');
 const indexFile=path.join(out,'第三集执行清单V1.md');fs.writeFileSync(indexFile,fs.readFileSync(indexFile,'utf8').replace('64份原图',records.reduce((n,r)=>n+r.refs.length,0)+'份原图'));
 const result={date:'2026-10-18',seconds:120,segments:records,errors,warnings,actualVideoGenerated:false};fs.writeFileSync(path.join(out,'连续性与参考校核V1.json'),JSON.stringify(result,null,2));console.log(JSON.stringify({segments:8,seconds:120,copiedRefs:records.reduce((n,r)=>n+r.refs.length,0),errors,warnings}));if(errors.length)process.exit(1);
+
+if(fs.existsSync(path.join(dir,'第二集桥口线索静态采用V18.json')))require('./采用第二集桥口线索V18.cjs');

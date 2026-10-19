@@ -34,7 +34,7 @@ for(let i=0;i<data.length;i++){
  for(const r of copied)if(crypto.createHash('sha256').update(fs.readFileSync(path.join(seg,r.file))).digest('hex')!==r.sha256)errors.push(n+'副本hash错误');
  records.push({n,name:d.name,seconds:15,start:d.start,end:d.end,lines:d.lines,prompt:path.relative(root,file).replaceAll('\\','/'),missing:d.missing,refs:copied.map(r=>({file:r.file,source:r.path,sha256:r.sha256}))});
 }
-fs.writeFileSync(path.join(out,'第二集执行清单V1.md'),'# 第二集｜8段×15秒=120秒执行包V1\n\n第一集使用10段V2，本集从其断阶尾帧继续。此包已有执行文本及90份就近参考，未生成视频；V14十张早期接触、V15四张窄门探石、V16四张双人开门、V17四张收纳/先后跨门/内侧清摆目标已分阶段采用。07门外同向背侧过门、08合门后轴向切到门内背侧的导演规格已修订；完全合门过程、门内桥口/细砂/鞘敲石/血符专用图与所有动作、配音字幕动态仍待补或试片，不能视为全部资产齐备。\n\n| 段 | 集内时码 | 任务 |\n|---|---|---|\n'+data.map((d,i)=>`| ${i+1} | ${i*15}—${(i+1)*15}秒 | [${d.name}](第${String(i+1).padStart(2,'0')}段_${d.name}/视频提示词.md) |`).join('\n')+'\n\n执行调整：场次预算改为断阶0—30秒、门前缓坡30—60秒、星纹门60—105秒、入口105—120秒。为避免道具凭空出现，入口撒砂改用石台边现成细砂，取消未交代来源的沙囊；探路绳随断桩遗落。首次出场卡按本集第01段显示。每段依首尾状态及对白逐项试片；尤其第02段攀回加对白、第08段入口动作需动态验证，若无法自然完成则扩段并同步排程，不加速压缩。\n');
+fs.writeFileSync(path.join(out,'第二集执行清单V1.md'),'# 第二集｜8段×15秒=120秒执行包V1\n\n第一集使用10段V2，本集从其断阶尾帧继续。此包已有执行文本及93份就近参考，未生成视频；V14—V17早期接触/门口状态及V18内侧巨构、右手捻砂图已分阶段采用，另补原短刃/刀套参考。07/08同向机位规格保持。细砂撒落、带剑鞘左敲、远岸血符、抬手未施法尾态和外侧完全合门5图任务仍待生成；撒砂修正版一次429无产图，动作/配音字幕动态未验，不能视为全部资产齐备。\n\n| 段 | 集内时码 | 任务 |\n|---|---|---|\n'+data.map((d,i)=>`| ${i+1} | ${i*15}—${(i+1)*15}秒 | [${d.name}](第${String(i+1).padStart(2,'0')}段_${d.name}/视频提示词.md) |`).join('\n')+'\n\n执行调整：场次预算改为断阶0—30秒、门前缓坡30—60秒、星纹门60—105秒、入口105—120秒。为避免道具凭空出现，入口撒砂改用石台边现成细砂，取消未交代来源的沙囊；探路绳随断桩遗落。首次出场卡按本集第01段显示。每段依首尾状态及对白逐项试片；尤其第02段攀回加对白、第08段入口动作需动态验证，若无法自然完成则扩段并同步排程，不加速压缩。\n');
 fs.writeFileSync(path.join(out,'连续性与参考校核V1.json'),JSON.stringify({date:'2026-10-18',seconds:120,segments:records,errors,actualVideoGenerated:false},null,2));
 if(errors.length)throw Error(errors.join(';'));console.log(JSON.stringify({segments:8,seconds:120,referenceCopies:records.reduce((n,r)=>n+r.refs.length,0),errors,missingReferenceGroups:8,actualVideoGenerated:false}));
 // Reapply current specialized static references after rebuilding base episode files.
@@ -45,3 +45,5 @@ if(fs.existsSync(path.join(dir,'第二集窄门探石静态采用V15.json')))req
 if(fs.existsSync(path.join(dir,'第二集双人开门静态采用V16.json')))require('./采用第二集双人开门V16.cjs');
 
 if(fs.existsSync(path.join(dir,'第二集同向过门静态采用V17.json')))require('./采用第二集同向过门V17.cjs');
+
+if(fs.existsSync(path.join(dir,'第二集桥口线索静态采用V18.json')))require('./采用第二集桥口线索V18.cjs');

@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-19",
+  "baseline": "d15e244",
+  "command": [
+    "node",
+    "剧集制作/第一季/生成第三集执行包V1.cjs"
+  ],
+  "rebuildActuallyExecuted": true,
+  "observedExitCode": 0,
+  "observedReportedSegments": 8,
+  "observedReportedSeconds": 120,
+  "observedReportedReferenceCopies": 72,
+  "currentRecordedSegments": 8,
+  "currentRecordedReferenceCopies": 72,
+  "capturedAt": "V18本轮实际重建并完成校核后，历史快照，非未来版本冻结",
+  "sourcesResolvedToCurrentSceneVersions": true,
+  "promptHashes": [
+    {
+      "n": 1,
+      "path": "剧集制作/第一季/第03集/执行包V1/第01段_一缕剑气/视频提示词.md",
+      "sha256": "a1efbac9db19efa6add084640314bbdda730548fa1063534ba6c1399b500a452"
+    },
+    {
+      "n": 2,
+      "path": "剧集制作/第一季/第03集/执行包V1/第02段_天地向右坠/视频提示词.md",
+      "sha256": "6fa183484e067bab44a085d1b627126b0cb2aad3ef2d388ba4910a406db9e4bc"
+    },
+    {
+      "n": 3,
+      "path": "剧集制作/第一季/第03集/执行包V1/第03段_先抓住人/视频提示词.md",
+      "sha256": "8a39c8304e5ca79aa8888ba1cd79e1ee30fe980d9a915742e5829c385123b5ab"
+    },
+    {
+      "n": 4,
+      "path": "剧集制作/第一季/第03集/执行包V1/第04段_舍符不舍人/视频提示词.md",
+      "sha256": "4a21e98f8ed0a70c14a89e8f3a15e0cf079af40a0a8d7f58ec9043318c3dcae1"
+    },
+    {
+      "n": 5,
+      "path": "剧集制作/第一季/第03集/执行包V1/第05段_另一条绳/视频提示词.md",
+      "sha256": "70aaaf8eb5c77ed0fe648abcfbeea5956feda8ef97c8a8bcc9c1480652f27809"
+    },
+    {
+      "n": 6,
+      "path": "剧集制作/第一季/第03集/执行包V1/第06段_先活着投诉/视频提示词.md",
+      "sha256": "21adbdec7d624e64f161eb9ab5bdfe4eaf35da297c4a63a7807430e84c997077"
+    },
+    {
+      "n": 7,
+      "path": "剧集制作/第一季/第03集/执行包V1/第07段_旧栏断去/视频提示词.md",
+      "sha256": "c155a5f3f3b731b50b55049faa143767cf7d285d2c166b0e272aceb4fdb29af1"
+    },
+    {
+      "n": 8,
+      "path": "剧集制作/第一季/第03集/执行包V1/第08段_第十声回鸣/视频提示词.md",
+      "sha256": "5d1ec53eaca7b445d61876e886e29a90906c07d9f35eecb7b83943ca07d5ca29"
+    }
+  ],
+  "verificationFiles": [
+    "第二集桥口线索复核V18.json",
+    "第二三集执行包文件校验V1.json",
+    "全季已制执行包检查结果V1.json",
+    "精工克制场景复核与待办V2.json"
+  ],
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "limits": "文件/引用重建校核，不证明视频动态/口型/声音。"
+}
