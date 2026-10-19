@@ -1,9 +1,9 @@
 {
   "date": "2026-10-19",
   "commonVersion": "V2.0",
-  "segments": 315,
+  "segments": 319,
   "modes": {
-    "A": 57,
+    "A": 61,
     "B": 258,
     "C": 0
   },
@@ -344,16 +344,16 @@
     },
     {
       "key": "05-02",
-      "prompt": "剧集制作/第一季/第05集/执行包V1/第02段_把命系在真锚上/视频提示词.md",
-      "mode": "B",
-      "spokenLines": 1,
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第02段_跪稳再看真锚/视频提示词.md",
+      "mode": "A",
+      "spokenLines": 0,
       "postInnerLines": 0,
       "subtitleRendering": "same-segment-post",
       "actualAudioGenerated": false
     },
     {
       "key": "05-03",
-      "prompt": "剧集制作/第一季/第05集/执行包V1/第03段_借差势过界/视频提示词.md",
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第03段_把命系在真锚上/视频提示词.md",
       "mode": "B",
       "spokenLines": 1,
       "postInnerLines": 0,
@@ -362,7 +362,7 @@
     },
     {
       "key": "05-04",
-      "prompt": "剧集制作/第一季/第05集/执行包V1/第04段_断掉的是来路/视频提示词.md",
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第04段_先接住自己的重量/视频提示词.md",
       "mode": "A",
       "spokenLines": 0,
       "postInnerLines": 0,
@@ -371,25 +371,7 @@
     },
     {
       "key": "05-05",
-      "prompt": "剧集制作/第一季/第05集/执行包V1/第05段_疼也会跟来/视频提示词.md",
-      "mode": "B",
-      "spokenLines": 3,
-      "postInnerLines": 0,
-      "subtitleRendering": "same-segment-post",
-      "actualAudioGenerated": false
-    },
-    {
-      "key": "05-06",
-      "prompt": "剧集制作/第一季/第05集/执行包V1/第06段_先看脚下/视频提示词.md",
-      "mode": "B",
-      "spokenLines": 4,
-      "postInnerLines": 0,
-      "subtitleRendering": "same-segment-post",
-      "actualAudioGenerated": false
-    },
-    {
-      "key": "05-07",
-      "prompt": "剧集制作/第一季/第05集/执行包V1/第07段_一只没走远的木鞋/视频提示词.md",
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第05段_借差势过界/视频提示词.md",
       "mode": "B",
       "spokenLines": 1,
       "postInnerLines": 0,
@@ -397,8 +379,62 @@
       "actualAudioGenerated": false
     },
     {
+      "key": "05-06",
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第06段_断掉的是来路/视频提示词.md",
+      "mode": "A",
+      "spokenLines": 0,
+      "postInnerLines": 0,
+      "subtitleRendering": "same-segment-post",
+      "actualAudioGenerated": false
+    },
+    {
+      "key": "05-07",
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第07段_站稳后才取短绳/视频提示词.md",
+      "mode": "A",
+      "spokenLines": 0,
+      "postInnerLines": 0,
+      "subtitleRendering": "same-segment-post",
+      "actualAudioGenerated": false
+    },
+    {
       "key": "05-08",
-      "prompt": "剧集制作/第一季/第05集/执行包V1/第08段_影子比人先走/视频提示词.md",
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第08段_把旧石锤留在身后/视频提示词.md",
+      "mode": "A",
+      "spokenLines": 0,
+      "postInnerLines": 0,
+      "subtitleRendering": "same-segment-post",
+      "actualAudioGenerated": false
+    },
+    {
+      "key": "05-09",
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第09段_疼也会跟来/视频提示词.md",
+      "mode": "B",
+      "spokenLines": 3,
+      "postInnerLines": 0,
+      "subtitleRendering": "same-segment-post",
+      "actualAudioGenerated": false
+    },
+    {
+      "key": "05-10",
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第10段_先看脚下/视频提示词.md",
+      "mode": "B",
+      "spokenLines": 6,
+      "postInnerLines": 0,
+      "subtitleRendering": "same-segment-post",
+      "actualAudioGenerated": false
+    },
+    {
+      "key": "05-11",
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第11段_一只没走远的木鞋/视频提示词.md",
+      "mode": "B",
+      "spokenLines": 1,
+      "postInnerLines": 0,
+      "subtitleRendering": "same-segment-post",
+      "actualAudioGenerated": false
+    },
+    {
+      "key": "05-12",
+      "prompt": "剧集制作/第一季/第05集/执行包V1/第12段_影子比人先走/视频提示词.md",
       "mode": "B",
       "spokenLines": 3,
       "postInnerLines": 0,

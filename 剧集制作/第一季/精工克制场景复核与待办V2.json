@@ -1,14 +1,14 @@
 {
   "date": "2026-10-19",
   "commonVersion": "V2.0",
-  "textSegments": 315,
+  "textSegments": 319,
   "establishingDomains": 10,
   "refinedExistingOriginals": 94,
   "newContactOriginals": 41,
   "newSceneOriginals": 135,
   "reviewedUnchangedOriginals": 6,
   "reviewedFilmReferences": 141,
-  "newReferencePlacements": 816,
+  "newReferencePlacements": 824,
   "currentSceneOriginals": 147,
   "currentFilmReferences": 141,
   "technicalLayouts": 6,
@@ -253,7 +253,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "05-02"
+        "05-03"
       ]
     },
     {
@@ -299,7 +299,11 @@
         "05-03",
         "05-04",
         "05-05",
-        "05-06"
+        "05-06",
+        "05-07",
+        "05-08",
+        "05-09",
+        "05-10"
       ]
     },
     {
@@ -330,7 +334,11 @@
         "05-03",
         "05-04",
         "05-05",
-        "05-06"
+        "05-06",
+        "05-07",
+        "05-08",
+        "05-09",
+        "05-10"
       ]
     },
     {
@@ -360,7 +368,11 @@
         "05-03",
         "05-04",
         "05-05",
-        "05-06"
+        "05-06",
+        "05-07",
+        "05-08",
+        "05-09",
+        "05-10"
       ]
     },
     {
@@ -398,8 +410,8 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "05-07",
-        "05-08",
+        "05-11",
+        "05-12",
         "06-01",
         "06-02",
         "06-03",

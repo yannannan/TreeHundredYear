@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
-  "plannedSeconds": 4725,
-  "targetSegments": 315,
+  "plannedSeconds": 4785,
+  "targetSegments": 319,
   "episodes": [
     {
       "episode": "01",
@@ -29,9 +29,9 @@
     },
     {
       "episode": "05",
-      "segments": 8,
-      "seconds": 120,
-      "referenceCopies": 71
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 107
     },
     {
       "episode": "06",
@@ -196,8 +196,8 @@
       "referenceCopies": 247
     }
   ],
-  "completedTextSegments": 315,
-  "referenceCopies": 4322,
+  "completedTextSegments": 319,
+  "referenceCopies": 4358,
   "errors": [],
   "warnings": [
     "各段专用接触/状态/光态图缺项仍按清单补齐，复制件不算新生成原图；没有实际H3音视频及动态验收。"

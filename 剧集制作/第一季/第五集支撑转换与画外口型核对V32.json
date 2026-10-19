@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-19",
+  "baselineCommit": "ee1fd41b39d03534faf584c533f90eca9254af41",
+  "episodes": 32,
+  "segments": 319,
+  "seconds": 4785,
+  "referenceCopies": 4358,
+  "episode05": {
+    "segments": 12,
+    "seconds": 180,
+    "referenceCopies": 107
+  },
+  "unchangedOtherEpisodeLedgers": 29,
+  "metadataOnlyEpisodeLedgers": [
+    "07",
+    "13"
+  ],
+  "purposeRows": 18,
+  "sourceHistoryReferencesAdded": 35,
+  "dialogueTimeChanges": 4,
+  "dialogueOriginalsRestored": 1,
+  "explicitFeedbackReportAdded": 1,
+  "offscreenSegments": 14,
+  "offscreenLinesChecked": 20,
+  "modes": {
+    "A": 61,
+    "B": 258,
+    "C": 0
+  },
+  "newImageOriginals": 0,
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "dynamicsValidated": false,
+  "errors": []
+}
