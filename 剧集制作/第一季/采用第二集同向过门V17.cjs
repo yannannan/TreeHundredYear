@@ -1,3 +1,4 @@
+// 历史旧段号采用脚本；V31当前第二集由生成第二集执行包V1.cjs和第二集执行数据V31.cjs重建，不再调用本脚本。
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const dir=__dirname,root=path.resolve(dir,'../..'),read=n=>JSON.parse(fs.readFileSync(path.join(dir,n),'utf8')),hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 const plan=read('第二集同向过门静态采用V17.json'),ledgerPath=path.join(dir,'第02集/执行包V1/连续性与参考校核V1.json'),ledger=JSON.parse(fs.readFileSync(ledgerPath,'utf8')),writes=[],placements=[];

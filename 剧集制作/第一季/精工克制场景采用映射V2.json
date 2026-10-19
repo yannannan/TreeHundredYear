@@ -239,11 +239,11 @@
     "sourceJobs": "完整材质二次修订生成归档V23.json",
     "expectedTargets": [
       "01-07",
-      "02-03",
       "02-04",
       "02-05",
       "02-06",
-      "02-07"
+      "02-07",
+      "02-08"
     ],
     "previousAdoptedPath": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png",
     "latestRevisionId": "SC-TOWER-MATERIAL-V19",
@@ -265,7 +265,7 @@
     "sourceCatalog": "塔体与各层主景精工修订原图清单V4.json",
     "sourceJobs": "塔体与各层主景精工修订生成归档V4.json",
     "expectedTargets": [
-      "02-08",
+      "02-09",
       "03-01",
       "03-02",
       "03-03",
@@ -2133,7 +2133,7 @@
     "sourceCatalog": "塔外开篇精工修订原图清单V13.json",
     "sourceJobs": "塔外开篇精工修订生成归档V13.json",
     "expectedTargets": [
-      "02-03"
+      "02-04"
     ]
   },
   {
@@ -2151,8 +2151,8 @@
     "sourceCatalog": "塔外开篇精工修订原图清单V13.json",
     "sourceJobs": "塔外开篇精工修订生成归档V13.json",
     "expectedTargets": [
-      "02-04",
-      "02-05"
+      "02-05",
+      "02-06"
     ]
   },
   {
@@ -2170,8 +2170,8 @@
     "sourceCatalog": "塔外开篇精工修订原图清单V13.json",
     "sourceJobs": "塔外开篇精工修订生成归档V13.json",
     "expectedTargets": [
-      "02-05",
-      "02-06"
+      "02-06",
+      "02-07"
     ]
   },
   {
@@ -2189,8 +2189,8 @@
     "sourceCatalog": "塔外开篇精工修订原图清单V13.json",
     "sourceJobs": "塔外开篇精工修订生成归档V13.json",
     "expectedTargets": [
-      "02-06",
-      "02-07"
+      "02-07",
+      "02-08"
     ]
   },
   {
@@ -2324,7 +2324,8 @@
       "01-09",
       "01-10",
       "02-01",
-      "02-02"
+      "02-02",
+      "02-03"
     ]
   },
   {

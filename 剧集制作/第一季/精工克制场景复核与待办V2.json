@@ -1,14 +1,14 @@
 {
   "date": "2026-10-19",
   "commonVersion": "V2.0",
-  "textSegments": 314,
+  "textSegments": 315,
   "establishingDomains": 10,
   "refinedExistingOriginals": 94,
   "newContactOriginals": 41,
   "newSceneOriginals": 135,
   "reviewedUnchangedOriginals": 6,
   "reviewedFilmReferences": 141,
-  "newReferencePlacements": 815,
+  "newReferencePlacements": 816,
   "currentSceneOriginals": 147,
   "currentFilmReferences": 141,
   "technicalLayouts": 6,
@@ -307,7 +307,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-08",
+        "02-09",
         "03-01",
         "03-02",
         "03-03",
@@ -1378,11 +1378,11 @@
       "status": "已完成精工克制静态视检",
       "targets": [
         "01-07",
-        "02-03",
         "02-04",
         "02-05",
         "02-06",
-        "02-07"
+        "02-07",
+        "02-08"
       ]
     },
     {
@@ -1594,7 +1594,8 @@
         "01-09",
         "01-10",
         "02-01",
-        "02-02"
+        "02-02",
+        "02-03"
       ]
     },
     {
@@ -1602,8 +1603,8 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-04",
-        "02-05"
+        "02-05",
+        "02-06"
       ]
     },
     {
@@ -1611,7 +1612,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-03"
+        "02-04"
       ]
     },
     {
@@ -1619,8 +1620,8 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-06",
-        "02-07"
+        "02-07",
+        "02-08"
       ]
     },
     {
@@ -1628,8 +1629,8 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-05",
-        "02-06"
+        "02-06",
+        "02-07"
       ]
     },
     {
@@ -1685,7 +1686,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-02"
+        "02-03"
       ]
     },
     {
@@ -1693,7 +1694,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-02"
+        "02-03"
       ]
     },
     {
@@ -1701,7 +1702,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-02"
+        "02-03"
       ]
     },
     {
@@ -1709,7 +1710,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-02"
+        "02-03"
       ]
     },
     {
@@ -1717,7 +1718,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-02"
+        "02-03"
       ]
     },
     {
@@ -1733,61 +1734,12 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-03",
-        "02-04"
-      ]
-    },
-    {
-      "source": "场景资产/第一季/早期接触/KEY02-04_双物一掌未触右半外圈亮V2.png",
-      "role": "film-reference",
-      "status": "已完成精工克制静态视检",
-      "targets": [
         "02-04",
         "02-05"
       ]
     },
     {
-      "source": "场景资产/第一季/早期接触/KEY02-04_苏晚独进半步周辰留线后V1.png",
-      "role": "film-reference",
-      "status": "已完成精工克制静态视检",
-      "targets": [
-        "02-04"
-      ]
-    },
-    {
-      "source": "场景资产/第一季/早期接触/KEY02-04_周辰独进半步苏晚留线后V1.png",
-      "role": "film-reference",
-      "status": "已完成精工克制静态视检",
-      "targets": [
-        "02-04"
-      ]
-    },
-    {
-      "source": "场景资产/第一季/早期接触/KEY02-05_单石已落门内剑尖留门外V1.png",
-      "role": "film-reference",
-      "status": "已完成精工克制静态视检",
-      "targets": [
-        "02-05"
-      ]
-    },
-    {
-      "source": "场景资产/第一季/早期接触/KEY02-05_双物一掌窄开四分之三外轨V1.png",
-      "role": "film-reference",
-      "status": "已完成精工克制静态视检",
-      "targets": [
-        "02-05"
-      ]
-    },
-    {
-      "source": "场景资产/第一季/早期接触/KEY02-05_右手旧剑尖托石门外接触V3.png",
-      "role": "film-reference",
-      "status": "已完成精工克制静态视检",
-      "targets": [
-        "02-05"
-      ]
-    },
-    {
-      "source": "场景资产/第一季/早期接触/KEY02-05_窄门落石后苏晚收手双人尾态V2.png",
+      "source": "场景资产/第一季/早期接触/KEY02-04_双物一掌未触右半外圈亮V2.png",
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
@@ -1796,7 +1748,47 @@
       ]
     },
     {
-      "source": "场景资产/第一季/早期接触/KEY02-06_双人归剑持物门全开未跨门V1.png",
+      "source": "场景资产/第一季/早期接触/KEY02-04_苏晚独进半步周辰留线后V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-05"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-04_周辰独进半步苏晚留线后V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-05"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-05_单石已落门内剑尖留门外V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-06"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-05_双物一掌窄开四分之三外轨V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-06"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-05_右手旧剑尖托石门外接触V3.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-06"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-05_窄门落石后苏晚收手双人尾态V2.png",
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
@@ -1805,39 +1797,7 @@
       ]
     },
     {
-      "source": "场景资产/第一季/早期接触/KEY02-06_右手引旧剑尖入空背鞘局部V1.png",
-      "role": "film-reference",
-      "status": "已完成精工克制静态视检",
-      "targets": [
-        "02-06"
-      ]
-    },
-    {
-      "source": "场景资产/第一季/早期接触/KEY02-06_周辰归剑独退苏晚留位V1.png",
-      "role": "film-reference",
-      "status": "已完成精工克制静态视检",
-      "targets": [
-        "02-06"
-      ]
-    },
-    {
-      "source": "场景资产/第一季/早期接触/KEY02-06_周辰回线苏晚持物独退V3.png",
-      "role": "film-reference",
-      "status": "已完成精工克制静态视检",
-      "targets": [
-        "02-06"
-      ]
-    },
-    {
-      "source": "场景资产/第一季/早期接触/KEY02-07_古符归腰布结入襟双手空门外V2.png",
-      "role": "film-reference",
-      "status": "已完成精工克制静态视检",
-      "targets": [
-        "02-07"
-      ]
-    },
-    {
-      "source": "场景资产/第一季/早期接触/KEY02-07_双人已入门裙摆清除门初合尾态V1.png",
+      "source": "场景资产/第一季/早期接触/KEY02-06_双人归剑持物门全开未跨门V1.png",
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
@@ -1846,11 +1806,52 @@
       ]
     },
     {
-      "source": "场景资产/第一季/早期接触/KEY02-07_苏晚左足先越槛周辰仍门外背侧V3.png",
+      "source": "场景资产/第一季/早期接触/KEY02-06_右手引旧剑尖入空背鞘局部V1.png",
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
         "02-07"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-06_周辰归剑独退苏晚留位V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-07"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-06_周辰回线苏晚持物独退V3.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-07"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-07_古符归腰布结入襟双手空门外V2.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-08"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-07_双人已入门裙摆清除门初合尾态V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-08",
+        "02-09"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-07_苏晚左足先越槛周辰仍门外背侧V3.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-08"
       ]
     },
     {
@@ -1858,7 +1859,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-07"
+        "02-08"
       ]
     },
     {
@@ -1866,7 +1867,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-08"
+        "02-09"
       ]
     },
     {
@@ -1874,7 +1875,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-08"
+        "02-09"
       ]
     },
     {
@@ -1882,7 +1883,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-08"
+        "02-09"
       ]
     },
     {
@@ -1890,7 +1891,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-08"
+        "02-09"
       ]
     },
     {
@@ -1898,7 +1899,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-08"
+        "02-09"
       ]
     },
     {
@@ -1906,7 +1907,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-08",
+        "02-09",
         "03-01"
       ]
     },
@@ -1915,7 +1916,7 @@
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [
-        "02-08"
+        "02-09"
       ]
     },
     {

@@ -1,3 +1,4 @@
+// 历史旧段号采用脚本；V31当前第二集由生成第二集执行包V1.cjs和第二集执行数据V31.cjs重建，不再调用本脚本。
 const fs=require('fs'),path=require('path');const dir=__dirname,root=path.resolve(dir,'../..');
 const changes=[
 {file:'第02集/执行包V1/第07段_先说真话/视频提示词.md',pairs:[

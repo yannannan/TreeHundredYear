@@ -6,7 +6,7 @@
   "existingPropPurposeUpdates": 8,
   "newTotalReferenceCopies": 3,
   "updatedSegments": [
-    "02-08",
+    "02-09",
     "03-01",
     "03-02",
     "03-03",
@@ -22,13 +22,13 @@
   "actualAudioGenerated": false,
   "placements": [
     {
-      "segment": "02-08",
+      "segment": "02-09",
       "id": "EP02-BRIDGE-ENTRY-V1",
       "source": "场景资产/第一季/早期接触/KEY02-08_背侧双人桥口巨环逆瀑建立V1.png",
       "file": "KEY02-08_背侧双人桥口巨环逆瀑建立V1.png"
     },
     {
-      "segment": "02-08",
+      "segment": "02-09",
       "id": "EP02-SAND-PINCH-V2",
       "source": "场景资产/第一季/早期接触/KEY02-08_苏晚右指原石缝捻少量细砂V2.png",
       "file": "KEY02-08_苏晚右指原石缝捻少量细砂V2.png"

@@ -1,9 +1,9 @@
 {
   "date": "2026-10-19",
   "commonVersion": "V2.0",
-  "segments": 314,
+  "segments": 315,
   "modes": {
-    "A": 56,
+    "A": 57,
     "B": 258,
     "C": 0
   },
@@ -110,7 +110,16 @@
     },
     {
       "key": "02-02",
-      "prompt": "剧集制作/第一季/第02集/执行包V1/第02段_你也会再生/视频提示词.md",
+      "prompt": "剧集制作/第一季/第02集/执行包V1/第02段_先回到石阶上/视频提示词.md",
+      "mode": "A",
+      "spokenLines": 0,
+      "postInnerLines": 0,
+      "subtitleRendering": "same-segment-post",
+      "actualAudioGenerated": false
+    },
+    {
+      "key": "02-03",
+      "prompt": "剧集制作/第一季/第02集/执行包V1/第03段_你也会再生/视频提示词.md",
       "mode": "B",
       "spokenLines": 3,
       "postInnerLines": 0,
@@ -118,8 +127,8 @@
       "actualAudioGenerated": false
     },
     {
-      "key": "02-03",
-      "prompt": "剧集制作/第一季/第02集/执行包V1/第03段_长生也有不知道/视频提示词.md",
+      "key": "02-04",
+      "prompt": "剧集制作/第一季/第02集/执行包V1/第04段_长生也有不知道/视频提示词.md",
       "mode": "B",
       "spokenLines": 4,
       "postInnerLines": 0,
@@ -127,17 +136,8 @@
       "actualAudioGenerated": false
     },
     {
-      "key": "02-04",
-      "prompt": "剧集制作/第一季/第02集/执行包V1/第04段_半圈门光/视频提示词.md",
-      "mode": "B",
-      "spokenLines": 1,
-      "postInnerLines": 0,
-      "subtitleRendering": "same-segment-post",
-      "actualAudioGenerated": false
-    },
-    {
       "key": "02-05",
-      "prompt": "剧集制作/第一季/第02集/执行包V1/第05段_石落声迟/视频提示词.md",
+      "prompt": "剧集制作/第一季/第02集/执行包V1/第05段_半圈门光/视频提示词.md",
       "mode": "B",
       "spokenLines": 1,
       "postInnerLines": 0,
@@ -146,7 +146,7 @@
     },
     {
       "key": "02-06",
-      "prompt": "剧集制作/第一季/第02集/执行包V1/第06段_两个人的门/视频提示词.md",
+      "prompt": "剧集制作/第一季/第02集/执行包V1/第06段_石落声迟/视频提示词.md",
       "mode": "B",
       "spokenLines": 1,
       "postInnerLines": 0,
@@ -155,7 +155,16 @@
     },
     {
       "key": "02-07",
-      "prompt": "剧集制作/第一季/第02集/执行包V1/第07段_先说真话/视频提示词.md",
+      "prompt": "剧集制作/第一季/第02集/执行包V1/第07段_两个人的门/视频提示词.md",
+      "mode": "B",
+      "spokenLines": 1,
+      "postInnerLines": 0,
+      "subtitleRendering": "same-segment-post",
+      "actualAudioGenerated": false
+    },
+    {
+      "key": "02-08",
+      "prompt": "剧集制作/第一季/第02集/执行包V1/第08段_先说真话/视频提示词.md",
       "mode": "B",
       "spokenLines": 4,
       "postInnerLines": 0,
@@ -163,8 +172,8 @@
       "actualAudioGenerated": false
     },
     {
-      "key": "02-08",
-      "prompt": "剧集制作/第一季/第02集/执行包V1/第08段_桥上新血/视频提示词.md",
+      "key": "02-09",
+      "prompt": "剧集制作/第一季/第02集/执行包V1/第09段_桥上新血/视频提示词.md",
       "mode": "A",
       "spokenLines": 0,
       "postInnerLines": 0,
