@@ -82,5 +82,24 @@
     "width": 941,
     "height": 1672,
     "sha256": "bdbc2687c420f986f849b5be0813da0eb1842a407f94d78167f23a07756e509e"
+  },
+  {
+    "key": "EP02-GATE-CLOSED-V4",
+    "path": "场景资产/第一季/早期接触/KEY02-08_外侧全闭门二人已在内V4.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-06a87085-ad35-439f-84f7-3808408bdfcd.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/早期接触/KEY02-08_外侧闭门中央光轨未跨缝候选V3.png"
+    ],
+    "prompt": "MICRO LOCAL EDIT: change ONLY TWO tiny lighting connectors on this exact closed-door still. Preserve the existing fully visible smaller amber circle, size/position and all scene pixels elsewhere. The vertical central metal molding currently hides the circle at TOP crossing around(x470,y448) and BOTTOM crossing around(x470,y818). Add one SHORT thin AMBER connector ON THE FRONT of that molding at EACH crossing, from x455 to x485, same 3-4pixel thickness/color as the circle. These two short nearly horizontal curved light segments MUST visibly JOIN left and right ring ends into ONE uninterrupted circle, passing ACROSS the metal molding, NOT hidden behind it. It is an embedded matching light-track bridge at the solid seam; keep door solid/closed with no interior. No vertical seam glow; just these TWO horizontal tiny connectors as portions of the same circle. Central star/spokes stay DARK. No new ring/arc, no moving/sizing circle, no changes to door relief/frame/floor/camera/lighting, no people/fabric/shadow/text/arrows/labels/logo/watermark.",
+    "qa": "采用有限全闭门静态：原近景外侧机位、门扇全闭无内景蓝缝/人物/夹衣，唯一细琥珀圈完整位于门扇内，上/下中央短接光轨可见，侧凹槽与中央星芒/辐条不发光。只用于02-08第0.8秒外侧闭合终态后明确切内景，不证明实际关门时长/机构净空或摄像机穿门。",
+    "phase": "02-08第0.8秒外侧完全合门后才轴向切内景",
+    "targets": [
+      "02-08"
+    ],
+    "candidate": false,
+    "actualOutputGenerated": true,
+    "width": 941,
+    "height": 1672,
+    "sha256": "0b11c805aafb7fb0d66e5ccdcbd226d46e1dd2fe4da59c80dc2555f331df0b79"
   }
 ]
