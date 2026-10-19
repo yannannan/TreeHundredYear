@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-19",
+  "beforeFiles": 6477,
+  "retainedExistingFiles": 5233,
+  "removedFiles": 1244,
+  "removedBytes": 853306750,
+  "removedAudioFiles": 8,
+  "trackedFilesRemoved": 1225,
+  "untrackedDraftFilesRemoved": 19,
+  "parallelLegacyArchiveCreated": false,
+  "gitHistoryRewritten": false,
+  "standaloneAudioProductionStopped": true,
+  "preservedPromptCount": 319,
+  "preservedReferenceCopyCount": 4358,
+  "preservedReferencedSourceCount": 197,
+  "currentSource": "当前各段完整提示词与连续性账本",
+  "contentIntegrityCheck": "见当前交付检查.json"
+}

@@ -1,0 +1,2472 @@
+{
+  "date": "2026-10-19",
+  "scope": "交付范围：完整剧本、高清人物/服饰/道具/场景资产和每段完整提示词；不制作独立音频文件，不将配音录制或成片生成列为本次交付任务。对白、音效、配乐方向、口型及简中字幕原文/时码继续写入提示词。",
+  "episodes": [
+    {
+      "episode": "01",
+      "script": "完整剧本/第一季/第一季·塔外序章（第01集）.md",
+      "entry": "剧集制作/第一季/第01集/执行包V2/第一集执行清单V2.md",
+      "ledger": "剧集制作/第一季/第01集/执行包V2/连续性与参考校核V2.json",
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 53
+    },
+    {
+      "episode": "02",
+      "script": "完整剧本/第一季/第一季·塔外序章（第02集）.md",
+      "entry": "剧集制作/第一季/第02集/执行包V1/第二集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第02集/执行包V1/连续性与参考校核V1.json",
+      "segments": 9,
+      "seconds": 135,
+      "referenceCopies": 105
+    },
+    {
+      "episode": "03",
+      "script": "完整剧本/第一季/第一季·逆重天阶（第03集）.md",
+      "entry": "剧集制作/第一季/第03集/执行包V1/第三集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第03集/执行包V1/连续性与参考校核V1.json",
+      "segments": 8,
+      "seconds": 120,
+      "referenceCopies": 83
+    },
+    {
+      "episode": "04",
+      "script": "完整剧本/第一季/第一季·逆重天阶（第04集）.md",
+      "entry": "剧集制作/第一季/第04集/执行包V1/第四集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第04集/执行包V1/连续性与参考校核V1.json",
+      "segments": 9,
+      "seconds": 135,
+      "referenceCopies": 81
+    },
+    {
+      "episode": "05",
+      "script": "完整剧本/第一季/第一季·逆重天阶（第05集）.md",
+      "entry": "剧集制作/第一季/第05集/执行包V1/第五集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第05集/执行包V1/连续性与参考校核V1.json",
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 107
+    },
+    {
+      "episode": "06",
+      "script": "完整剧本/第一季/第一季·双影浮城（第06集）.md",
+      "entry": "剧集制作/第一季/第06集/执行包V1/第六集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第06集/执行包V1/连续性与参考校核V1.json",
+      "segments": 8,
+      "seconds": 120,
+      "referenceCopies": 72
+    },
+    {
+      "episode": "07",
+      "script": "完整剧本/第一季/第一季·双影浮城（第07集）.md",
+      "entry": "剧集制作/第一季/第07集/执行包V1/第七集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第07集/执行包V1/连续性与参考校核V1.json",
+      "segments": 8,
+      "seconds": 120,
+      "referenceCopies": 73
+    },
+    {
+      "episode": "08",
+      "script": "完整剧本/第一季/第一季·双影浮城（第08集）.md",
+      "entry": "剧集制作/第一季/第08集/执行包V1/第八集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第08集/执行包V1/连续性与参考校核V1.json",
+      "segments": 8,
+      "seconds": 120,
+      "referenceCopies": 71
+    },
+    {
+      "episode": "09",
+      "script": "完整剧本/第一季/第一季·星蚀沙海（第09集）.md",
+      "entry": "剧集制作/第一季/第09集/执行包V1/第九集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第09集/执行包V1/连续性与参考校核V1.json",
+      "segments": 8,
+      "seconds": 120,
+      "referenceCopies": 101
+    },
+    {
+      "episode": "10",
+      "script": "完整剧本/第一季/第一季·星蚀沙海（第10集）.md",
+      "entry": "剧集制作/第一季/第10集/执行包V1/第十集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第10集/执行包V1/连续性与参考校核V1.json",
+      "segments": 9,
+      "seconds": 135,
+      "referenceCopies": 107
+    },
+    {
+      "episode": "11",
+      "script": "完整剧本/第一季/第一季·星蚀沙海（第11集）.md",
+      "entry": "剧集制作/第一季/第11集/执行包V1/第十一集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第11集/执行包V1/连续性与参考校核V1.json",
+      "segments": 8,
+      "seconds": 120,
+      "referenceCopies": 81
+    },
+    {
+      "episode": "12",
+      "script": "完整剧本/第一季/第一季·无声律庭（第12集）.md",
+      "entry": "剧集制作/第一季/第12集/执行包V1/第十二集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第12集/执行包V1/连续性与参考校核V1.json",
+      "segments": 9,
+      "seconds": 135,
+      "referenceCopies": 99
+    },
+    {
+      "episode": "13",
+      "script": "完整剧本/第一季/第一季·无声律庭（第13集）.md",
+      "entry": "剧集制作/第一季/第13集/执行包V1/第十三集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第13集/执行包V1/连续性与参考校核V1.json",
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 102
+    },
+    {
+      "episode": "14",
+      "script": "完整剧本/第一季/第一季·残舰灵墟（第14集）.md",
+      "entry": "剧集制作/第一季/第14集/执行包V1/第十四集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第14集/执行包V1/连续性与参考校核V1.json",
+      "segments": 9,
+      "seconds": 135,
+      "referenceCopies": 128
+    },
+    {
+      "episode": "15",
+      "script": "完整剧本/第一季/第一季·残舰灵墟（第15集）.md",
+      "entry": "剧集制作/第一季/第15集/执行包V1/第十五集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第15集/执行包V1/连续性与参考校核V1.json",
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 151
+    },
+    {
+      "episode": "16",
+      "script": "完整剧本/第一季/第一季·残舰灵墟（第16集）.md",
+      "entry": "剧集制作/第一季/第16集/执行包V1/第十六集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第16集/执行包V1/连续性与参考校核V1.json",
+      "segments": 8,
+      "seconds": 120,
+      "referenceCopies": 114
+    },
+    {
+      "episode": "17",
+      "script": "完整剧本/第一季/第一季·残舰灵墟（第17集）.md",
+      "entry": "剧集制作/第一季/第17集/执行包V1/第十七集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第17集/执行包V1/连续性与参考校核V1.json",
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 152
+    },
+    {
+      "episode": "18",
+      "script": "完整剧本/第一季/第一季·轮回梦市（第18集）.md",
+      "entry": "剧集制作/第一季/第18集/执行包V1/第十八集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第18集/执行包V1/连续性与参考校核V1.json",
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 166
+    },
+    {
+      "episode": "19",
+      "script": "完整剧本/第一季/第一季·轮回梦市（第19集）.md",
+      "entry": "剧集制作/第一季/第19集/执行包V1/第十九集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第19集/执行包V1/连续性与参考校核V1.json",
+      "segments": 11,
+      "seconds": 165,
+      "referenceCopies": 180
+    },
+    {
+      "episode": "20",
+      "script": "完整剧本/第一季/第一季·轮回梦市（第20集）.md",
+      "entry": "剧集制作/第一季/第20集/执行包V1/第二十集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第20集/执行包V1/连续性与参考校核V1.json",
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 193
+    },
+    {
+      "episode": "21",
+      "script": "完整剧本/第一季/第一季·轮回梦市（第21集）.md",
+      "entry": "剧集制作/第一季/第21集/执行包V1/第二十一集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第21集/执行包V1/连续性与参考校核V1.json",
+      "segments": 11,
+      "seconds": 165,
+      "referenceCopies": 212
+    },
+    {
+      "episode": "22",
+      "script": "完整剧本/第一季/第一季·天机命盘（第22集）.md",
+      "entry": "剧集制作/第一季/第22集/执行包V1/第二十二集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第22集/执行包V1/连续性与参考校核V1.json",
+      "segments": 11,
+      "seconds": 165,
+      "referenceCopies": 179
+    },
+    {
+      "episode": "23",
+      "script": "完整剧本/第一季/第一季·天机命盘（第23集）.md",
+      "entry": "剧集制作/第一季/第23集/执行包V1/第二十三集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第23集/执行包V1/连续性与参考校核V1.json",
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 167
+    },
+    {
+      "episode": "24",
+      "script": "完整剧本/第一季/第一季·天机命盘（第24集）.md",
+      "entry": "剧集制作/第一季/第24集/执行包V1/第二十四集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第24集/执行包V1/连续性与参考校核V1.json",
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 168
+    },
+    {
+      "episode": "25",
+      "script": "完整剧本/第一季/第一季·众生悬桥（第25集）.md",
+      "entry": "剧集制作/第一季/第25集/执行包V1/第二十五集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第25集/执行包V1/连续性与参考校核V1.json",
+      "segments": 11,
+      "seconds": 165,
+      "referenceCopies": 148
+    },
+    {
+      "episode": "26",
+      "script": "完整剧本/第一季/第一季·众生悬桥（第26集）.md",
+      "entry": "剧集制作/第一季/第26集/执行包V1/第二十六集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第26集/执行包V1/连续性与参考校核V1.json",
+      "segments": 11,
+      "seconds": 165,
+      "referenceCopies": 153
+    },
+    {
+      "episode": "27",
+      "script": "完整剧本/第一季/第一季·众生悬桥（第27集）.md",
+      "entry": "剧集制作/第一季/第27集/执行包V1/第二十七集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第27集/执行包V1/连续性与参考校核V1.json",
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 180
+    },
+    {
+      "episode": "28",
+      "script": "完整剧本/第一季/第一季·终焉授印（第28集）.md",
+      "entry": "剧集制作/第一季/第28集/执行包V1/第二十八集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第28集/执行包V1/连续性与参考校核V1.json",
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 180
+    },
+    {
+      "episode": "29",
+      "script": "完整剧本/第一季/第一季·终焉授印（第29集）.md",
+      "entry": "剧集制作/第一季/第29集/执行包V1/第二十九集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第29集/执行包V1/连续性与参考校核V1.json",
+      "segments": 11,
+      "seconds": 165,
+      "referenceCopies": 158
+    },
+    {
+      "episode": "30",
+      "script": "完整剧本/第一季/第一季·隐藏第十层·时空枢纽（第30集）.md",
+      "entry": "剧集制作/第一季/第30集/执行包V1/第三十集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第30集/执行包V1/连续性与参考校核V1.json",
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 168
+    },
+    {
+      "episode": "31",
+      "script": "完整剧本/第一季/第一季·隐藏第十层·时空枢纽（第31集）.md",
+      "entry": "剧集制作/第一季/第31集/执行包V1/第三十一集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第31集/执行包V1/连续性与参考校核V1.json",
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 179
+    },
+    {
+      "episode": "32",
+      "script": "完整剧本/第一季/第一季·隐藏第十层·时空枢纽（第32集）.md",
+      "entry": "剧集制作/第一季/第32集/执行包V1/第三十二集执行清单V1.md",
+      "ledger": "剧集制作/第一季/第32集/执行包V1/连续性与参考校核V1.json",
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 247
+    }
+  ],
+  "segments": 319,
+  "seconds": 4785,
+  "referenceCopies": 4358,
+  "distinctReferencedSources": 197,
+  "sceneSourcesReferenced": 147,
+  "filmSceneSourcesReferenced": 141,
+  "technicalLayoutsReferenced": 6,
+  "deepEventReviewCompletedSegments": 48,
+  "deepEventReviewPendingSegments": 271,
+  "allRequiredShotAssetsComplete": false,
+  "independentAudioProductionRequired": false,
+  "videoProductionRequired": false,
+  "currentPromptsAreEditableSource": true,
+  "sceneSpecs": [
+    "场景资产/第一季/九层星渊塔/SC-L01_逆重天阶_场景与15秒建立提示词V2.md",
+    "场景资产/第一季/九层星渊塔/SC-L02_双影浮城_场景与15秒建立提示词V2.md",
+    "场景资产/第一季/九层星渊塔/SC-L03_星蚀沙海_场景与15秒建立提示词V2.md",
+    "场景资产/第一季/九层星渊塔/SC-L04_无声律庭_场景与15秒建立提示词V2.md",
+    "场景资产/第一季/九层星渊塔/SC-L05_残舰灵墟_场景与15秒建立提示词V2.md",
+    "场景资产/第一季/九层星渊塔/SC-L06_轮回梦市_场景与15秒建立提示词V2.md",
+    "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_场景与15秒建立提示词V2.md",
+    "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_场景与15秒建立提示词V2.md",
+    "场景资产/第一季/九层星渊塔/SC-L09_终焉授印_场景与15秒建立提示词V2.md",
+    "场景资产/第一季/九层星渊塔/SC-L10_隐藏时空枢纽_场景与15秒建立提示词V2.md"
+  ],
+  "assets": [
+    {
+      "path": "场景资产/第一季/关键接触/KEY28-06_单右手横剑纯石肩承重V3_精工克制R2.png",
+      "bytes": 2780745,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3dcfcb149566a096f8f6b44afbd0e96618452ccbaf5572eee972964e84a195c3",
+      "segmentReferences": 3,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY28-07_短刃划第一封接触V1_精工克制R2.png",
+      "bytes": 2801715,
+      "width": 941,
+      "height": 1672,
+      "sha256": "5726bbb91d6a10d24d1b5e37936d09f6564f7aa052d1382263fb2c9975c95b62",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY31-11_暂稳锚旁右苏左周握手V1_精工克制R2.png",
+      "bytes": 3022171,
+      "width": 941,
+      "height": 1672,
+      "sha256": "c3e8b7666eada3e7860e60dff17a8f662e65fae77c2b70b1d30cdda203f9aee9",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY31-12_全封右腕无误包左外袖布尾V2_精工克制R2.png",
+      "bytes": 3155404,
+      "width": 941,
+      "height": 1672,
+      "sha256": "f04738c6ea45b63a8c671cc1e7d6bea0ac173679456effd1c62a109ad2b8ca0c",
+      "segmentReferences": 11,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-01_三急危者无新增袋包回程V2_精工克制R2.png",
+      "bytes": 2740451,
+      "width": 941,
+      "height": 1672,
+      "sha256": "f304ecf84f5d1a73365b2bca41b7c6173ff6710197272c056d67dae65e3c274a",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-02_父女原山阶各自落脚V1.png",
+      "bytes": 2979556,
+      "width": 941,
+      "height": 1672,
+      "sha256": "e7cade252e43a9673aa90af5f882fe67edfe717d27f2e5c36c9afbe9baa76c90",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-04_厚钝刀背朝下垫片接触V4_精工克制R2.png",
+      "bytes": 2510424,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d3cf015e9e23ae3c9d5dc2c0aeef20d01da86153f8ce83c2c25367c24f94d03c",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-05_缓慢舱05号独立回程V2_精工克制R2.png",
+      "bytes": 2597711,
+      "width": 941,
+      "height": 1672,
+      "sha256": "4eb02bf494509a9918a192ace523ed4909510aadc6246f3869dc4261da441c61",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-05_缓慢舱06号独立回程V2_精工克制R2.png",
+      "bytes": 2665877,
+      "width": 940,
+      "height": 1672,
+      "sha256": "eded346a39c2efa57507955670a76839474770f9cb07fd7a6ab5c2fc6f5a1598",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-05_缓慢舱07号独立回程V2_精工克制R2.png",
+      "bytes": 2552759,
+      "width": 941,
+      "height": 1672,
+      "sha256": "d9ebbda2f85670f85b87e83acd390414b9641a46f490dd1f26752190df438881",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-05_缓慢舱08号独立回程V3_精工克制R2.png",
+      "bytes": 2892868,
+      "width": 941,
+      "height": 1672,
+      "sha256": "263d60ed17a3f6eb41b027312664e64202511dfb03300acb58be69334e1255e7",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-06_缓慢舱09号独立回程V2_精工克制R2.png",
+      "bytes": 2592211,
+      "width": 941,
+      "height": 1672,
+      "sha256": "b6e379c048706cc995d9deb81e723dccc053599b4450e1f86a4cea61ff29337c",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-06_缓慢舱10号独立回程V2_精工克制R2.png",
+      "bytes": 2485689,
+      "width": 940,
+      "height": 1672,
+      "sha256": "c3c35d931c6104c5a9034bcaa03c6ea4d75978e5fdb57b7c3ebfed847b07f7a3",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-06_缓慢舱11号独立回程V2_精工克制R2.png",
+      "bytes": 2583366,
+      "width": 941,
+      "height": 1672,
+      "sha256": "7fcd0e07ceeb2fa718058d808a04a9f03a5ae624e4496984cbcf244976fc05f4",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-06_末舱12号半开安全暂停V1_精工克制R2.png",
+      "bytes": 2264204,
+      "width": 941,
+      "height": 1672,
+      "sha256": "40e22b2a2a494b954d52ac25959ce804a42b08e36b64c40f348474902af7ad81",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-07_缓慢舱12号独立回程V2_精工克制R2.png",
+      "bytes": 2778802,
+      "width": 941,
+      "height": 1672,
+      "sha256": "2df05024a7a6b1c98327dbf93d0f82d82fd341c9e7c9f193c6e239de7b9f4e79",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-10_苏醒右腕无误包触左颊V2_精工克制R2.png",
+      "bytes": 2978009,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3ee9875ae6ac3875ae7056a916062113d0f703d9d35682ee67cee23d0f3e53e1",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-11_同窄布断开两人各半V3_精工克制R3.png",
+      "bytes": 2499916,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b94f416c85b2843842435a651cca1505dfa40db15588f5dbbd719cc5187e0668",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-11_左周外袖窄布右苏握尾V2_精工克制R2.png",
+      "bytes": 2494970,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "fe68ca3a388207776e59e12a5d5efe6f62fe46c93ee030198c56e137a64b5295",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/关键接触/KEY32-12_核心左掌半带右掌残冰V1_精工克制R2.png",
+      "bytes": 2761476,
+      "width": 940,
+      "height": 1673,
+      "sha256": "3f4d88a80dc0c92e7c245b4163a7669c5bdb1877f5b5b8469b1a1ccf3bc2d061",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/机关接触/KEY05-02_小真锚穿孔回扣无手背误伤V2.png",
+      "bytes": 2738411,
+      "width": 941,
+      "height": 1672,
+      "sha256": "01f8153288ab09e8f01e75fbb762b537f1ca97c7cb27d1db8f53ad2b932edfaa",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/机关接触/KEY07-02_苏晚退墙短刃在右地槽实刃V1.png",
+      "bytes": 2865258,
+      "width": 941,
+      "height": 1672,
+      "sha256": "4d4caba711a0c54205edb3c91a738059b5587fccb6dec18674f9fdc2830f6989",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/机关接触/KEY13-05_左掌拇指下扣空鞘楔撑V4.png",
+      "bytes": 2463718,
+      "width": 941,
+      "height": 1672,
+      "sha256": "44933aef9db1730326b74487dc0d5a5eeae0661daadfcffc4fe15d8817c42ae5",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L01_梁链真锚动作母图V2_精工克制R2.png",
+      "bytes": 2987682,
+      "width": 941,
+      "height": 1672,
+      "sha256": "f90f88b1e5395f555ff78541388e64f2ac42e23b351bc299ae9cf4ee263fa673",
+      "segmentReferences": 27,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1_精工克制R2.png",
+      "bytes": 3127005,
+      "width": 941,
+      "height": 1672,
+      "sha256": "c6a72575ddbab956fbf4e041546f42810d4c30a5f9b0495479aa33fcf27deb3d",
+      "segmentReferences": 28,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L01-LAYOUT01_行动布局4K_V1.png",
+      "bytes": 1162256,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "3158583d3f2e7cf6d1f42025b261c10c9e427a9a995b21b963083d4f881571fc",
+      "segmentReferences": 27,
+      "kind": "technical-layout"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L02_分岔实墙近端母图V1_精工克制R2.png",
+      "bytes": 3192060,
+      "width": 941,
+      "height": 1672,
+      "sha256": "db2ff73d662bde68184d7790bb4cf8f42845d66d1567d6a76bafbeb400d52855",
+      "segmentReferences": 23,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L02_双影浮城_独立建立镜头V2_精工克制R2.png",
+      "bytes": 2929984,
+      "width": 941,
+      "height": 1672,
+      "sha256": "25faa387c5506cdbe9b0f146a8ecd2531d95e8b0036a2ffb98014482bca8867f",
+      "segmentReferences": 25,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L02-LAYOUT02_行动布局V2_4K.png",
+      "bytes": 557334,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "165b6e2f463bc68c9c10f19220a27f18c6318006578b418e8ad2c705187d61db",
+      "segmentReferences": 23,
+      "kind": "technical-layout"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L03_避难舱水气与舱窗V1_精工克制R2.png",
+      "bytes": 2655208,
+      "width": 941,
+      "height": 1672,
+      "sha256": "13493d96eae7e7d7a03d563e6283689891cd7ef372299179b8bade11d187feae",
+      "segmentReferences": 8,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L03_舰肋弯板取材近端V1_精工克制R2.png",
+      "bytes": 3033852,
+      "width": 941,
+      "height": 1672,
+      "sha256": "83fa1f834241fb38f5241aa46cbebf89e624dbc5580164cd9957555286be1251",
+      "segmentReferences": 18,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L03_星蚀沙海_独立建立镜头V2_精工克制R2.png",
+      "bytes": 2932114,
+      "width": 941,
+      "height": 1672,
+      "sha256": "eb5b8683f73dafd70502c845f9087c751b6d81be405b91869880aad4ed055429",
+      "segmentReferences": 19,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L03-LAYOUT02_行动布局V2_4K.png",
+      "bytes": 642581,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "090a42865f951d59e6489397b077cd590d3e592943a2f66d430fa6426180a2f4",
+      "segmentReferences": 8,
+      "kind": "technical-layout"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L04_释约石席与窄廊近端V1_精工克制R2.png",
+      "bytes": 3004883,
+      "width": 941,
+      "height": 1672,
+      "sha256": "fb4d8ee1cc4eb0d16ade213e2ddf3b5e8fad5cccb45082e0a65d434231d14ab1",
+      "segmentReferences": 20,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L04_无声律庭_独立建立镜头V2_精工克制R2.png",
+      "bytes": 2825825,
+      "width": 941,
+      "height": 1672,
+      "sha256": "344c56d84aaee5bb3ec0d17a3aa673f5a229f89dde2d612157ed397f3642e88e",
+      "segmentReferences": 20,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L04-LAYOUT02_行动布局V2_4K.png",
+      "bytes": 609597,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "f0143a91e15aad21c5d0cd3ed575e1cfc0ada93e9704971c6e5396f72914c409",
+      "segmentReferences": 11,
+      "kind": "technical-layout"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L05_残舰灵墟_独立建立镜头V2_精工克制R2.png",
+      "bytes": 3195760,
+      "width": 941,
+      "height": 1672,
+      "sha256": "77c8c74c899b408a8f455245ebefb0a7fd5e6010fc76e045f458deb4b2606fe0",
+      "segmentReferences": 38,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L05_双接触柱与回弹盖板近端V1_精工克制R2.png",
+      "bytes": 3173622,
+      "width": 941,
+      "height": 1672,
+      "sha256": "d111a459faea882e7f97fb89ff90a0338e36803f58638c3baa9a705d0b7a9d9f",
+      "segmentReferences": 19,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L05_维护循环廊水藻粮柜近端V1_精工克制R2.png",
+      "bytes": 2794123,
+      "width": 941,
+      "height": 1672,
+      "sha256": "a9ad7ad494c3cbcefa8a66705510b052d3f22b797d2e7980c80bfe89cda309af",
+      "segmentReferences": 10,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L05_相位观测窗十二舱总览V1_精工克制R2.png",
+      "bytes": 2981677,
+      "width": 941,
+      "height": 1672,
+      "sha256": "6c569784ef2052fbf9f0c2c321ec019f152c6d2b19e608a35a87ee47631b2c75",
+      "segmentReferences": 8,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L05_右掌位松盖板与铰链近景V1_精工克制R2.png",
+      "bytes": 2893555,
+      "width": 941,
+      "height": 1672,
+      "sha256": "6113c4eb6ecad54145140fb4453014b567ef55d9719d10e066f03c0d186e43f4",
+      "segmentReferences": 19,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L05-LAYOUT02_行动布局V2_4K.png",
+      "bytes": 624757,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "3b268d4ab446131adf27601c7058bf13d8f74e5109f3372144ef05163a6beda7",
+      "segmentReferences": 0,
+      "kind": "technical-layout"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L06_独行正门开启与真实上行阶V2_精工克制R2.png",
+      "bytes": 2703582,
+      "width": 941,
+      "height": 1670,
+      "sha256": "2013123800a1f60229e61914ad03da21e76fd472baf87fec5c3507422f3a6647",
+      "segmentReferences": 3,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L06_独行正门与三阶锁闭合V1_精工克制R4.png",
+      "bytes": 2646216,
+      "width": 941,
+      "height": 1672,
+      "sha256": "27d6a30c92a23bbfd0fedfb8db24b71891ec0821c12426bb02c02cfc26243f4e",
+      "segmentReferences": 4,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L06_交易茶铺与记忆灯近端V2_精工克制R2.png",
+      "bytes": 2462028,
+      "width": 941,
+      "height": 1672,
+      "sha256": "6ce3721ebc4655159042406b052c8ef66f96c4a2d510e5ef6bd9e4270c6f1e93",
+      "segmentReferences": 21,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L06_轮回梦市_独立建立镜头V2_精工克制R2.png",
+      "bytes": 3001832,
+      "width": 941,
+      "height": 1671,
+      "sha256": "a176ab4304079522a3bf69f7f04a1badc9aa7a83578c8d500c20302c7f3644c9",
+      "segmentReferences": 44,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L06_桥腹私锁闭门与铜带联锁V2_精工克制R2.png",
+      "bytes": 3090326,
+      "width": 941,
+      "height": 1672,
+      "sha256": "016ab82fe0bafe821b00c72160514ba88c10aaeef601daf79a8c42766441599e",
+      "segmentReferences": 20,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L06-LAYOUT02_行动布局V2_4K.png",
+      "bytes": 563401,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "038882d04802ce9036dc7d04141cbb9cb5518196a3415ddcde6ee36146f2ab70",
+      "segmentReferences": 42,
+      "kind": "technical-layout"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L07_轨道分闸与薄压板近端V1_精工克制R2.png",
+      "bytes": 2871463,
+      "width": 941,
+      "height": 1672,
+      "sha256": "e3b5cf933bb708614c94eb917bb9f62914e368e57ead17c94ff5cb37d2416671",
+      "segmentReferences": 11,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L07_空薄板剑脊支点受力参考V2_精工克制R2.png",
+      "bytes": 3025289,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "88eb314b34fbc074cbd1ab4c655e5765cef2adbb1ed12c2f646e6779d457d994",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L07_双路调度与移桥悬臂近端V1_精工克制R2.png",
+      "bytes": 2910003,
+      "width": 941,
+      "height": 1672,
+      "sha256": "68d0ddfb8dbba1c1c132eb751483e7ab516fb413c50e7c3c794194071ffb6369",
+      "segmentReferences": 11,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L07_双钟空席与三环固化槽近端V1_精工克制R2.png",
+      "bytes": 2823503,
+      "width": 941,
+      "height": 1672,
+      "sha256": "517c509bdd3d4f51591800927f9e83d54ff30934ea5ad4da314868a7a70792f4",
+      "segmentReferences": 9,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L07_四口救援槽与定置绳接口近端V2_精工克制R2.png",
+      "bytes": 2794239,
+      "width": 941,
+      "height": 1672,
+      "sha256": "f2022c5ba72e22dd59d0b959b922ab02a91f4f160c8df4b78827c023c2ea5d11",
+      "segmentReferences": 6,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "bytes": 2835695,
+      "width": 941,
+      "height": 1672,
+      "sha256": "f209c22e8f0a6ff6b839b74c74ab40f6da7a05e5b32df39f2f7c909da3636eb5",
+      "segmentReferences": 32,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L07-LAYOUT02_行动布局V2_4K.png",
+      "bytes": 599554,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "ac8bc68623f8628a4373d664b45c50f5977a102505bdcf139d4bf3c204cabbad",
+      "segmentReferences": 31,
+      "kind": "technical-layout"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L08_沈砚支路升板与屋侧接点V1_精工克制R2.png",
+      "bytes": 2631704,
+      "width": 941,
+      "height": 1672,
+      "sha256": "fbaa186426d37e48efb5354ce13d5660a34a5ef7d6c29a0b9d2eee96df41b538",
+      "segmentReferences": 4,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L08_双掌位脚托与两杆近端V2_精工克制R2.png",
+      "bytes": 2873154,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "ad6d310670a3582f8c86c1b1331302be285c1893d4f08fab53857d68d3357d35",
+      "segmentReferences": 29,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L08_四急舱接驳与接缝近端V1_精工克制R2.png",
+      "bytes": 2791755,
+      "width": 941,
+      "height": 1672,
+      "sha256": "e8760cd931a44482168ffd77b573948616a7e906539000cf3986e6ff607aa3e7",
+      "segmentReferences": 6,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L08_中转屋独立储备内景方向修订V2_精工克制R2.png",
+      "bytes": 2582374,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "487f443da35467e2deb84696b88a08ce699a95730da757b3d3380c54ece8d823",
+      "segmentReferences": 17,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L08_中转屋主门回程原点接点V1_精工克制R2.png",
+      "bytes": 2854412,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "88a5cfe86f4fe4fb47d01f625fd63fc0331b967fd1a688bf5baa01018d6f0c3f",
+      "segmentReferences": 5,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L08_众生悬桥_独立建立镜头V4_精工克制R2.png",
+      "bytes": 3016393,
+      "width": 941,
+      "height": 1672,
+      "sha256": "8729dd6aa58a6c8cafa253c34670ae9052d7fa4dd6acb3d7ca12eb0c23c8be8d",
+      "segmentReferences": 39,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L08-LAYOUT02_行动布局V2_4K.png",
+      "bytes": 596843,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "00f3884ccf4a47ea2b1575382aa8afeff88493f569e7dd75e18bb810b443454e",
+      "segmentReferences": 0,
+      "kind": "technical-layout"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L09_单卫双封护翼与地槽近端V1_精工克制R2.png",
+      "bytes": 2990875,
+      "width": 941,
+      "height": 1672,
+      "sha256": "f06b458f7f24dd617086380b084aafe9fe03baffcaae50c3c054ddd09c406a5c",
+      "segmentReferences": 12,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L09_双奖励台与真实归途V1_精工克制R2.png",
+      "bytes": 2551931,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "660ef88685995af2132075f67d32bd99ddffb9ba814a625ef82f0b040fd3cc96",
+      "segmentReferences": 12,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L09_终焉授印_独立建立镜头V5_精工克制R2.png",
+      "bytes": 3061758,
+      "width": 941,
+      "height": 1672,
+      "sha256": "c04027c66aa477ac9fde451790e8e305177139438d041bcc41ba9895c4037463",
+      "segmentReferences": 24,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L09-LAYOUT02_行动布局V2_4K.png",
+      "bytes": 667533,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "ba9ae3f21debac898f8de08c999db346e2d7c93490a8827e9dcf2c6e463739cc",
+      "segmentReferences": 0,
+      "kind": "technical-layout"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L10_控温暂稳止销插槽近端V2_精工克制R2.png",
+      "bytes": 2252381,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b64076625978c843a27448b14fc6a2769232b2231fad3a8e40beffe193fd6292",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L10_维护屋循环与坐式检修近端V1_精工克制R2.png",
+      "bytes": 2939853,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3bc337ddfac9a9ceec588e8720143811b30953fff8190a3a66206001ac887efd",
+      "segmentReferences": 37,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L10_隐藏时空枢纽_独立建立镜头V3_精工克制R2.png",
+      "bytes": 2900282,
+      "width": 941,
+      "height": 1672,
+      "sha256": "4bb0dd2b67f9ea9f3c11482d9464a7f81867b306aaff1a4a2eb3cda2a28864f9",
+      "segmentReferences": 38,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L10-LAYOUT02_行动布局V2_4K.png",
+      "bytes": 616471,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "bafa0a15be8339716ca8df79202f4dc4c5a353b8f7c17d1913f5972a2c580f9a",
+      "segmentReferences": 0,
+      "kind": "technical-layout"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png",
+      "bytes": 2963316,
+      "width": 941,
+      "height": 1672,
+      "sha256": "6cc89b37d47f3217a64c0365be2479cb0ac6e28cf2d3fc513a40dd9da2deb034",
+      "segmentReferences": 6,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/沙海追猎/KEY09-01_偏挡后右肩背撞同舰肋V1_精工克制R2.png",
+      "bytes": 3105292,
+      "width": 941,
+      "height": 1672,
+      "sha256": "3414c39ed0399d112aedd12c522ebf2b2b8a2894b2b36c59a4d4b0dbdda57f80",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/沙海追猎/KEY09-01_偏挡翼骨左旧包空鞘口V2_精工克制R2.png",
+      "bytes": 3155104,
+      "width": 941,
+      "height": 1672,
+      "sha256": "a9a4d3581a53651a51f786e793f073314bc19d8f99ecaacf0e1dad3bf118814d",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/沙海追猎/KEY09-01_沙鳐跃砂腹孔吸残光V1_精工克制R2.png",
+      "bytes": 3064049,
+      "width": 941,
+      "height": 1672,
+      "sha256": "dd7655f24135b67174314e767ddb0b61dc947983cbca56af67efea12e6fdfcc6",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/沙海追猎/KEY10-05_两片低拱曲边短绳地钉V1_精工克制R2.png",
+      "bytes": 2962917,
+      "width": 941,
+      "height": 1672,
+      "sha256": "98cf09618fa96b794547bd57c507aff0e944a39f86b98f13c100bc948c193173",
+      "segmentReferences": 3,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/沙海追猎/KEY10-06_远松板单次诱饵兽撞砂脊V1_精工克制R2.png",
+      "bytes": 3106499,
+      "width": 941,
+      "height": 1672,
+      "sha256": "9083c12fa5057925030ea6c8c59e0769d021850a11419559f167bb85d95b8295",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/沙海追猎/KEY10-07_三人顺序同拱早伤纠正V2_精工克制R2.png",
+      "bytes": 2657857,
+      "width": 941,
+      "height": 1672,
+      "sha256": "3eab6de5ac03f15bbc0b59e95d08d862f5f0a154122815fbc27ffaf964b3a781",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/沙海追猎/KEY10-09_回扑撞塌原低拱留短绳原钉V1_精工克制R2.png",
+      "bytes": 3161169,
+      "width": 941,
+      "height": 1672,
+      "sha256": "81a2aadffb20dd8f2c2e3f5d6fc6e20dc8cbb55fda17dfacefcae4beaf15ccdd",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/生活维护/KEY32-03_首年糊饭坐式熄火V1_精工克制R2.png",
+      "bytes": 2667034,
+      "width": 941,
+      "height": 1672,
+      "sha256": "4ee2599454a845973d88d8ce4cc48d531ac5fc2ee0068a63ecc6427f7d81517a",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/生活维护/KEY32-03_首年同碗冰前旧伤一致V2_精工克制R2.png",
+      "bytes": 2979693,
+      "width": 941,
+      "height": 1672,
+      "sha256": "600d9d6f9d3d62ea9ea273359e4a78147a0839e60b26e63dd69dd9348a3295d9",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/生活维护/KEY32-08_百年种叶两杯木样V1_精工克制R2.png",
+      "bytes": 2751383,
+      "width": 941,
+      "height": 1672,
+      "sha256": "0f4cf2a8e65cebd2431d7666a2d62ee48bfa3846d0c5d895e3897b9e416e3361",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/生活维护/KEY32-08_二百九十九年停阀失败回收V1_精工克制R2.png",
+      "bytes": 2693872,
+      "width": 941,
+      "height": 1672,
+      "sha256": "1333517b5ef702d2100c5364da266ebe96d952c1bf300cd985add6c7ab88b052",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/生活维护/KEY32-08_二百零六年旧册记录V1_精工克制R2.png",
+      "bytes": 2583280,
+      "width": 941,
+      "height": 1672,
+      "sha256": "d11e8ecfbc6bf83333fd2ba26e2b5c61a96baff3788841b84625a568688197bb",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/生活维护/KEY32-09_二百九十九年回稳后补眠V1_精工克制R2.png",
+      "bytes": 2324981,
+      "width": 941,
+      "height": 1672,
+      "sha256": "cce2877aa0ae9b906e2308e27d9845c8abe1ef5db7ac72b3f6429ad2a5081761",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/生活维护/KEY32-09_二百九十九年原环平磨重做V1_精工克制R2.png",
+      "bytes": 2382729,
+      "width": 941,
+      "height": 1672,
+      "sha256": "0566d79aea114302438f56a5f364ebff68b7167b1d39f04b38f13f7e4ede6003",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/生活维护/KEY32-09_同旧阀复装旁路回稳V1_精工克制R2.png",
+      "bytes": 2351902,
+      "width": 941,
+      "height": 1672,
+      "sha256": "066e25daea0a652687085c19b07b0f15a19bb477ad953c3f53bc1e7623761dc1",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/KEY-CLIFF_首集断阶自救尾帧V1_精工克制R2.png",
+      "bytes": 3095442,
+      "width": 941,
+      "height": 1672,
+      "sha256": "0ef8592e93e53ad744a98a14184479c2162b67b0f3e013e20047e8378283006a",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/KEY-MOUNTAIN_首集山路周辰起始帧V1_精工克制R3.png",
+      "bytes": 3018941,
+      "width": 940,
+      "height": 1672,
+      "sha256": "1495a7134784d1b2d60a802637b08c3df442cd003ffa60611cc0d5fe84f3d831",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/KEY-RESCUE_空鞘双手握点近景V1_古旧提质R1.png",
+      "bytes": 2194326,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "2b9a7c2437dedc8057dc97fdf3b01bb4e603ae125ed16de94b1123206ec62fe3",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/KEY-RESCUE_双人递鞘构图V1_精工克制R2.png",
+      "bytes": 3017165,
+      "width": 941,
+      "height": 1672,
+      "sha256": "cac7c09177f6f97c7cbe0d405836e7277f322826d71d8a096f91737dec54d9d0",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/KEY-SHOP_首集木匠铺人物起始帧V2_精工克制R2.png",
+      "bytes": 2507963,
+      "width": 941,
+      "height": 1672,
+      "sha256": "8a4dcb9ec4ba475381ded5c06479bf1a55dcf7c54966a400202ee7665319aecd",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/KEY-STREET_首集街口人物场景起始帧V2_精工克制R2.png",
+      "bytes": 2811613,
+      "width": 941,
+      "height": 1672,
+      "sha256": "0cc31926f1205ed5d4dbc6daaf3c50bcd71a10bc0771cd5dd9930066e74f9651",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/SC-OUT01_街口木车主机位V1_精工克制R2.png",
+      "bytes": 2830073,
+      "width": 941,
+      "height": 1672,
+      "sha256": "4183d6cd80d610375bc001a34389e223a0f0440a0d79ab9df2de29e552f55bc0",
+      "segmentReferences": 3,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/SC-OUT02_木匠铺主机位V1_精工克制R2.png",
+      "bytes": 2632360,
+      "width": 941,
+      "height": 1671,
+      "sha256": "c415d2f61ad1cbc609f0d774be16b620c540516ddd40c7f7bda70f40624f15bc",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/SC-OUT03_山路裂口主机位V1_精工克制R2.png",
+      "bytes": 3128677,
+      "width": 940,
+      "height": 1672,
+      "sha256": "7e9c3777d77c7828208bdcfeac5e0e72b52803b445e370a59802af7bad98192d",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/SC-OUT04_断阶石桩窄沿V1_精工克制R2.png",
+      "bytes": 3172194,
+      "width": 941,
+      "height": 1672,
+      "sha256": "e51fbefd7a3b16a03eab5f3c3949bcdcc51556122453b37d921996c87bb02724",
+      "segmentReferences": 6,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/SC-OUT05_星纹门半亮状态V1_精工克制R3.png",
+      "bytes": 2667148,
+      "width": 941,
+      "height": 1672,
+      "sha256": "ecda4daf459555f7a00777e8af36a002b2a93aa9ce228545bd3952ea29053e4f",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1_精工克制R2.png",
+      "bytes": 2950838,
+      "width": 941,
+      "height": 1672,
+      "sha256": "07960aac6f2e3d896cb9d2ca8848fb14821906b89aa85a57d5e13039e01a4bb3",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/SC-OUT05_星纹门全开状态V1_精工克制R2.png",
+      "bytes": 2715827,
+      "width": 941,
+      "height": 1671,
+      "sha256": "d24a0c2334379b7f151c698a3e7a35568e1c8dedbd875b773eed070280159fcf",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/塔外/SC-OUT05_星纹门窄开构图V1_精工克制R2.png",
+      "bytes": 2780260,
+      "width": 941,
+      "height": 1672,
+      "sha256": "97da18c1cdbad5bd41320676f5e92ad54f1274ee3123fc19806cf190e81d0a76",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/铁卫接触/KEY14-05_苏晚右短刃楔已松轨卡点_精工克制V2.png",
+      "bytes": 2287919,
+      "width": 940,
+      "height": 1672,
+      "sha256": "34839ec477ef3490934b7a08f0de8b1c14171c2137be4186eb78fc40e4573c60",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/铁卫接触/KEY14-05_完整旧剑尖挑松受损挂连接_精工克制V2.png",
+      "bytes": 2322241,
+      "width": 941,
+      "height": 1672,
+      "sha256": "9d6e9a3fe629d7005ae38bfddff5d1ee8715dce87732077db94940b0dbc4dce2",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/现代/KEY32-12_避车后右握半带左掌承重V2.png",
+      "bytes": 2715192,
+      "width": 941,
+      "height": 1672,
+      "sha256": "81b6e2d668f5691822929564ca0e49dffd026f766331af7f594723fe951f3657",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/现代/KEY32-12_路缘落地无徽右握半带V2.png",
+      "bytes": 2717795,
+      "width": 941,
+      "height": 1671,
+      "sha256": "c340cd8ff76d50d1b63973b7a1b6f1adb6ca86bf73c6c89535718fcb1155116b",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/现代/KEY32-12_同车闭窗苏晚局部倒影V1.png",
+      "bytes": 2927694,
+      "width": 941,
+      "height": 1672,
+      "sha256": "258ff73eed180237b758fbc340d5383e42de36ddce4cce8cf54f834289105b2d",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/现代/SC-MOD01_现代雨夜单车车窗近端V2.png",
+      "bytes": 2619798,
+      "width": 941,
+      "height": 1672,
+      "sha256": "89a894101ff226167f8a20ffcae031bc3e8036a37cb878a07a5b5d2b36bae0cd",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-02_苏晚左指腹擦伤未合V1.png",
+      "bytes": 2079272,
+      "width": 941,
+      "height": 1672,
+      "sha256": "c6e28ac84b92bbeeab84ff7de9dd36c23d3320ff0f32b39d762d5ccb5e887c3a",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-02_苏晚左指腹收口留血V1.png",
+      "bytes": 2030426,
+      "width": 941,
+      "height": 1672,
+      "sha256": "b32a5a3c77801b63cf08e1942f4b85410cf672bdd984e84227b44a63d87ddd19",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-02_稳定石阶双人归刀背剑尾态V2.png",
+      "bytes": 2816969,
+      "width": 941,
+      "height": 1672,
+      "sha256": "54c30e6a15aa4bff944b094b5ca26d1a076c153271de39b83d28a6a175432299",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-02_周辰右手虎口背侧擦伤未合V1.png",
+      "bytes": 2086054,
+      "width": 941,
+      "height": 1672,
+      "sha256": "52a660ca4bdba44ca249012caff9d0ec923e9748767b24b81dfb43b57de9f9ea",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-02_周辰右手虎口背侧收口留血V1.png",
+      "bytes": 2035529,
+      "width": 941,
+      "height": 1672,
+      "sha256": "b79afa6d54a3c964f3cda7364bacdac14f736873b852945c08c0b04ea5878829",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-02_左膝上沿右掌扶石攀回V3.png",
+      "bytes": 3050078,
+      "width": 941,
+      "height": 1672,
+      "sha256": "e4e295b258f5bdd11e2cc0fa629d32fca33efe153cf62bef99edc527e5bdfca2",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-03_闭门左古符右布结相隔一臂V3.png",
+      "bytes": 2682810,
+      "width": 941,
+      "height": 1672,
+      "sha256": "9af5f02c355acf44710bc92e072c5fb974ed4e4a472ea3b7961fbb14f40dbd64",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-04_双物一掌未触右半外圈亮V2.png",
+      "bytes": 2610369,
+      "width": 941,
+      "height": 1672,
+      "sha256": "a2bf6b78088b2e97175916677bead5b73ede896ce878dd9e25caa2cfbab3543d",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-04_苏晚独进半步周辰留线后V1.png",
+      "bytes": 2582028,
+      "width": 941,
+      "height": 1672,
+      "sha256": "baacb176c54468eee2acc362de55a1af0d400c94ea501c96c939814a1c8d70e1",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-04_周辰独进半步苏晚留线后V1.png",
+      "bytes": 2558037,
+      "width": 941,
+      "height": 1672,
+      "sha256": "ab6022561fc53f08287929e7f69bd80deb02f2674ba2be7c87ec0ec11e33f659",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-05_单石已落门内剑尖留门外V1.png",
+      "bytes": 2370137,
+      "width": 941,
+      "height": 1672,
+      "sha256": "66481f59b7701be90968c25b5542aee6fad4a34f5f7dc30599acb5aace55a3b2",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-05_双物一掌窄开四分之三外轨V1.png",
+      "bytes": 2731722,
+      "width": 941,
+      "height": 1672,
+      "sha256": "ae23274e54c7a598d85fb61c1cb2894e449956ffacc59e1dc4bba84b59b48d2a",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-05_右手旧剑尖托石门外接触V3.png",
+      "bytes": 2359205,
+      "width": 941,
+      "height": 1672,
+      "sha256": "68c144d170b681b75cca8bfd1558e2142eb96414454e20a2c9678410f829d700",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-05_窄门落石后苏晚收手双人尾态V2.png",
+      "bytes": 2450662,
+      "width": 941,
+      "height": 1672,
+      "sha256": "79f8961ff46e39a825ac24f3c266fb3dcc53894f2edd6a5939b25072614254b5",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-06_双人归剑持物门全开未跨门V1.png",
+      "bytes": 2747484,
+      "width": 941,
+      "height": 1672,
+      "sha256": "a798eabf5e40fe83b7e73991b69c20c807ae8e26972b00e3ed9feaedf496a24b",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-06_右手引旧剑尖入空背鞘局部V1.png",
+      "bytes": 2677865,
+      "width": 941,
+      "height": 1672,
+      "sha256": "ce059265f3d6fa9d1eeabb56fcbbf2ae93a0397358b3b63e3591fe819e889d32",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-06_周辰归剑独退苏晚留位V1.png",
+      "bytes": 2471629,
+      "width": 941,
+      "height": 1672,
+      "sha256": "aeeeda0c69f48f8c00470cc0dd467adc7dec8d75a5d7a942a76af7c87c00d70e",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-06_周辰回线苏晚持物独退V3.png",
+      "bytes": 2481409,
+      "width": 941,
+      "height": 1672,
+      "sha256": "9afb6824b6d409a6d085de3162640cc5a800bdc9491ebd800675fba20804ee1e",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-07_古符归腰布结入襟双手空门外V2.png",
+      "bytes": 2486498,
+      "width": 941,
+      "height": 1672,
+      "sha256": "6f9e71fb4b159a05a61fb39f9078a7fea571e56726784941959957657de20b18",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-07_双人已入门裙摆清除门初合尾态V1.png",
+      "bytes": 2450680,
+      "width": 941,
+      "height": 1672,
+      "sha256": "4d35a929c998fdc95ff89a075c1eaaee0b62f889be85fce30f48bbca6642a583",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-07_苏晚左足先越槛周辰仍门外背侧V3.png",
+      "bytes": 2596518,
+      "width": 941,
+      "height": 1672,
+      "sha256": "9d9eb03b53516fc3c6d05c3940718d53d6aa196f963d67a460d5fa841b299efe",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-07_周辰右靴随后越槛苏晚已在内侧V2.png",
+      "bytes": 2507502,
+      "width": 941,
+      "height": 1672,
+      "sha256": "13ca996014985e5367b82097a25885e71353433b6bae07d79b1832b90a77152f",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-08_背侧双人桥口巨环逆瀑建立V1.png",
+      "bytes": 3200188,
+      "width": 941,
+      "height": 1672,
+      "sha256": "e987f11f7899c7530a9e0d8ecd616701ccb4988bc57769410d52b7acf42550c0",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-08_隔缺口远岸少量新血碎符V1.png",
+      "bytes": 2644829,
+      "width": 941,
+      "height": 1672,
+      "sha256": "1711baecd0036267e4597256c0f9ef31a33a039154562fafb09e4aba3c1f5401",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-08_苏晚右指撒砂原下方落向深渊V2.png",
+      "bytes": 2347186,
+      "width": 941,
+      "height": 1672,
+      "sha256": "58252c0bdfa6a6ceef954afab8df459db72adfe815450c1489aa435a2a65d215",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-08_苏晚右指原石缝捻少量细砂V2.png",
+      "bytes": 2515950,
+      "width": 941,
+      "height": 1672,
+      "sha256": "8d188c98e9e52fc27f9f8379e437fabd24e9d6e85e59fbc4150fadc758ee3e8f",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-08_外侧全闭门二人已在内V4.png",
+      "bytes": 2398535,
+      "width": 941,
+      "height": 1672,
+      "sha256": "0b11c805aafb7fb0d66e5ccdcbd226d46e1dd2fe4da59c80dc2555f331df0b79",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-08_周辰右手初抬未施法苏晚左掌示停尾态V1.png",
+      "bytes": 3102196,
+      "width": 941,
+      "height": 1672,
+      "sha256": "bdbc2687c420f986f849b5be0813da0eb1842a407f94d78167f23a07756e509e",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY02-08_周辰左手完整带剑鞘轻敲桥面V2.png",
+      "bytes": 2986936,
+      "width": 941,
+      "height": 1672,
+      "sha256": "470201802b217a96c08c6d3f382aadb713d222cef96b478a6ded3a21de49d620",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY03-01_青铜环四齿全入槽近景V1.png",
+      "bytes": 2527878,
+      "width": 941,
+      "height": 1672,
+      "sha256": "ba424c65fd4b5570a59b561cd47d119c5808cae0071659e55838083b423cef27",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY03-01_青铜环四齿未咬合近景V2.png",
+      "bytes": 2668483,
+      "width": 941,
+      "height": 1672,
+      "sha256": "84c1d929711a088e317615a6b4c175b81dcf38e9e5dae23645003d39f080abd9",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY03-01_右指短促托起近缺口松砖V1.png",
+      "bytes": 3042803,
+      "width": 941,
+      "height": 1672,
+      "sha256": "04f58b7054e01364d70aaf0333e498e091f6177a6adc3e1e333855c550c65013",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY03-01_周辰右指小石投出前V1.png",
+      "bytes": 3038194,
+      "width": 941,
+      "height": 1672,
+      "sha256": "d00c3fef7ff65016c8c1119c65e5efb5c3462e896437fd8cd281f6b98a0098d8",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY03-02_右向重力停法双人支点尾态V3.png",
+      "bytes": 2909133,
+      "width": 941,
+      "height": 1672,
+      "sha256": "9b5e216f3e78b92d57fc451fcab455148d4e5a2aee3780a59eada048d1b87fba",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY03-03_右掌古符挡住完整握梁近景V1.png",
+      "bytes": 2383836,
+      "width": 941,
+      "height": 1672,
+      "sha256": "2c8a1821d5f2502e8bee58adb07fd09ab55bd95a610fc7f52d4c2aa5a751ac31",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/早期接触/KEY03-04_古符已失空右掌完整握梁近景V1.png",
+      "bytes": 2353230,
+      "width": 941,
+      "height": 1672,
+      "sha256": "506696f6a5bbe2a54410ff11d249a41ca38a82be3b3c4600fe169a3e8165394c",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/战斗关键帧/KEY28-02_镜胸折返右腿承重左手无包V2_精工克制R2.png",
+      "bytes": 3031859,
+      "width": 941,
+      "height": 1672,
+      "sha256": "1e99364cc36733a288204990aec88e138521386e44c85f1d34e84ce23ab7a990",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/战斗关键帧/KEY28-06_楔剑石肩承重周辰双足显位V2_精工克制R2.png",
+      "bytes": 2884830,
+      "width": 941,
+      "height": 1672,
+      "sha256": "b1908726e5215a3ce7a58e1a46f9be55bce35d6d1033c9548e845e5a818f523f",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/战斗关键帧/KEY28-08_断后双足尖段卫足旁单封破V2_精工克制R2.png",
+      "bytes": 2817356,
+      "width": 941,
+      "height": 1671,
+      "sha256": "0cd9c0b491bf7499a013cb9945ec6dd79b2f10da69a97489c8ef0a9e82b7c00d",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/战斗关键帧/KEY28-09_绕柱链右腕无包同半截刃V2_精工克制R2.png",
+      "bytes": 2910748,
+      "width": 941,
+      "height": 1671,
+      "sha256": "b133cf7fc8b9d3cc73b2df3304415214e4774023c649b603186be4e952b10c62",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/战斗关键帧/KEY28-10_独立第二封侧背卡刃V2_精工克制R3.png",
+      "bytes": 2798599,
+      "width": 941,
+      "height": 1672,
+      "sha256": "b0ae06039c933cf40f08cf3514561725da447f3fe74c89f959822efda38a02f8",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/战斗关键帧/KEY28-11_第二封薄线贯通断口特写V2_精工克制R2.png",
+      "bytes": 2723981,
+      "width": 941,
+      "height": 1672,
+      "sha256": "788adc4d5af1c687b1e8490475d0639800f9dd5105e918ba2c1c4f8f6f10989c",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/战斗关键帧/KEY28-11_伏低避扫前右足无包后左踝包V3_精工克制R2.png",
+      "bytes": 2692011,
+      "width": 941,
+      "height": 1672,
+      "sha256": "9be4d8d6f5126b8c52efb8159d81bae256e7e28cf6ad0c807da152ec6a326c0b",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/战斗关键帧/KEY28-11_同链卸出断刃右持空隙V1_精工克制R2.png",
+      "bytes": 2861153,
+      "width": 941,
+      "height": 1671,
+      "sha256": "24768096e3205e0165428ad1e0a2463ae1396a5fd8cc953502ba9586c26f6304",
+      "segmentReferences": 1,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/战斗关键帧/KEY28-11_原宽巨刃单卫跪座九环V2_精工克制R2.png",
+      "bytes": 2964516,
+      "width": 941,
+      "height": 1672,
+      "sha256": "68878344ac73081b468a920b04efd468e41982fcb267c661335f26e10dceb68d",
+      "segmentReferences": 2,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP01_鞋楦旧钟布结纸条V1.png",
+      "bytes": 2755117,
+      "width": 941,
+      "height": 1672,
+      "sha256": "f18004ec8dc86f28a12de74b5a9778e9d64c12f48935b64e88280386771c81ed",
+      "segmentReferences": 17,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP02_修物短刃探路绳V1.png",
+      "bytes": 3027937,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "57318cee22d1af9d1ab2c27698ef7ea90153c8ee73e14959957564f91a99b25f",
+      "segmentReferences": 311,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png",
+      "bytes": 3228288,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4489ebb294038c278019a4a6045c6ca1313e61b1e39949b341856c0df9ff6033",
+      "segmentReferences": 310,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP03_原剑柄两截断态V3.png",
+      "bytes": 3296200,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "15be0f41abbfd016a57b9eca3ca9bb62a0be22f42f35cc01b46b8a8551623f07",
+      "segmentReferences": 52,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP04_星髓晶匣双杆基准V1.png",
+      "bytes": 3063873,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "dc6e3e9a75f78d941bf8afcf09dde0db30e7c57a9cd125e382417ade0d28f060",
+      "segmentReferences": 22,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP05_坐标刻片与玄冰片V1.png",
+      "bytes": 2788024,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3e52ff16ab42e397575405d6bc6495902e426101519f95be2ec2be66afd81a93",
+      "segmentReferences": 230,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP06_末认证碎印与独立样本槽V4.png",
+      "bytes": 2620332,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "89263ebb3ed001f11f1be4c2bea1797ac9e773256a533d291fe44c4d53ebbfbd",
+      "segmentReferences": 17,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP06_授权印裂纹扩大连续态V3.png",
+      "bytes": 2430040,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "78ee36875d9c3a5984701e571a1e74369232fedd81882b8592ba69ec14c5cc79",
+      "segmentReferences": 96,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP06_双源实体授权印裂损V2.png",
+      "bytes": 2485802,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e68c39b989b1c6f2bb4be4196605ae27a49c5e5269297f3d9830f0a9c5c9778e",
+      "segmentReferences": 80,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP06_双源实体授权印V1.png",
+      "bytes": 2609713,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7a4303d0b9ec44b0a424ad9a9a8cf52f96b5c1b371a5a1754740eae6ae1258bc",
+      "segmentReferences": 28,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP07_梦市单人通行钥匙完好V1.png",
+      "bytes": 2991898,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0d5c58cca3752291eb909237a496094f2e98f3d4a21ad5d7d82f4a9048069369",
+      "segmentReferences": 28,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP07_梦市通行钥匙弯曲V2.png",
+      "bytes": 2831688,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "be4c9e9bddd8a456e50f0f5e9c6b49f49bf4ad5eb9e2e76019e90b995fef1429",
+      "segmentReferences": 8,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP07_梦市弯匙折断连续态V4.png",
+      "bytes": 2792955,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9ba6e3e443dbfe8588792801175e581b07ba4e7065c57a2a544b764de9c9001f",
+      "segmentReferences": 7,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP08_八层接地铜匣安装态V2.png",
+      "bytes": 3018061,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e04dbd92491283335dc5b16c8efa770a355a0fd02de35837c60ec705993270a5",
+      "segmentReferences": 2,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP08_空接线铜匣与断铜带V1.png",
+      "bytes": 2746717,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "616973610acae2f4eca3f8cfd43732f18678aeed3aef9eaab8904462273c0f20",
+      "segmentReferences": 40,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP09_十二舱薄册与循环夹页V1.png",
+      "bytes": 3361916,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "99e874e22bc84b650283ee360c93afef9b834507d6be3e3b11c57836d9d45b9d",
+      "segmentReferences": 93,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP10_回执仅三人已返态V2.png",
+      "bytes": 2826990,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d6c84f48548591e5809e3bac3ca7732f83b61d812ec46fffd29ad15ce4160f85",
+      "segmentReferences": 1,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP10_回执九人已返态V4.png",
+      "bytes": 2773790,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f259a8bd9a96dd6a488d3eb53eb644e847805930bac8b619c6428aac9859490a",
+      "segmentReferences": 2,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP10_回执十二人已返末舱待窗V5.png",
+      "bytes": 2821439,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "bcc1acdfed220f424202c0d328fafce6f7d8848a150e4a8dd09bbd2275f59727",
+      "segmentReferences": 2,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP10_回执首批五人已返态V3.png",
+      "bytes": 2791983,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9e05bbfa9637da05ed6eb8c3c6cf40f017eb4b7ca6b64b818ff918af6d8b302f",
+      "segmentReferences": 4,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP10_十三人五加八独立回执终态V1.png",
+      "bytes": 2980858,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "bf3ca05a61160734a19d9faff8579ad5b2f12de88ab26946afff01d8a29d55fa",
+      "segmentReferences": 6,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP11_十二号开舱分配轴更换回收态V1.png",
+      "bytes": 2440503,
+      "width": 941,
+      "height": 1672,
+      "sha256": "6a8b46e77948d9e540998a3d7155a9a8b010e72c66738fde229d7f458c0f022e",
+      "segmentReferences": 1,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP11_十二号开舱分配轴停机磨损态V1.png",
+      "bytes": 2495657,
+      "width": 941,
+      "height": 1672,
+      "sha256": "3b3ff799dc4a1647d65fe77bfb2db4a0cecd9a495f09ade61f1cf2ba65b44d13",
+      "segmentReferences": 1,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST01_街口摊主全身与面容V1.png",
+      "bytes": 2139145,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "390022784328d15781dd003204845cef65d808c49de146fe28063732612008dc",
+      "segmentReferences": 3,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST02_持碗老人全身与面容V1.png",
+      "bytes": 2240559,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d13feb730a8951f070514168302bc10ce5425e4e564e494b3cfe2afe9813d9a0",
+      "segmentReferences": 3,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST03_沈砚负伤全身基准V1.png",
+      "bytes": 2485981,
+      "width": 941,
+      "height": 1672,
+      "sha256": "689311a04d6f9d187fa87d25ded8871a1eecf402e8c29273731e40bd4dac14d0",
+      "segmentReferences": 32,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST04_小满抱灯与右手背细节V1.png",
+      "bytes": 2276931,
+      "width": 941,
+      "height": 1672,
+      "sha256": "82d29d507f6cd817ef7153903f874b84f57bef490f1091b3379f2476d7a84c08",
+      "segmentReferences": 18,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST04_小满全身身份基准V1.png",
+      "bytes": 2148186,
+      "width": 941,
+      "height": 1672,
+      "sha256": "5aa2f20b78a9617c4db7e13d2b3d9ab6abab36c055bfbad8e0b3f937d4f01503",
+      "segmentReferences": 4,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST04_小满右手背旧痕特写V2.png",
+      "bytes": 2083336,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d2c29e88f2783c7090bc1b5ed45bdf8e46a72c7f4b1cb2b8e2bb5af72bf96908",
+      "segmentReferences": 3,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST05_梦市摊主全身身份基准V1.png",
+      "bytes": 2433922,
+      "width": 941,
+      "height": 1672,
+      "sha256": "9d52342a6731be6bb9b9256aae45a40daff839c6ff35a6e766e2102ea0ffae14",
+      "segmentReferences": 3,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST06_执市人全身身份基准V1.png",
+      "bytes": 2242238,
+      "width": 941,
+      "height": 1672,
+      "sha256": "ee78ff6b55cce16d0e8319da90f484af9a831c4154e64840ee8b8cb564aafa49",
+      "segmentReferences": 41,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST07_护市人甲身份基准V1.png",
+      "bytes": 2106608,
+      "width": 941,
+      "height": 1672,
+      "sha256": "a6698999401107c693522fc70b97e3248c80365ef18364be907a23d85affd79d",
+      "segmentReferences": 20,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST08_护市人乙身份基准V1.png",
+      "bytes": 2026737,
+      "width": 941,
+      "height": 1672,
+      "sha256": "cdaee724ea50f6ec8bbdcc034630e2eb36993d36fd76c091477a87396417f29d",
+      "segmentReferences": 20,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST09_缺面具客身份基准V1.png",
+      "bytes": 2041759,
+      "width": 941,
+      "height": 1672,
+      "sha256": "a98c76f62dd4298abc29f7519ee1de7fedba10557c390e4f6a01aed9f3498067",
+      "segmentReferences": 3,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/配角/CAST10_搬水人身份基准V1.png",
+      "bytes": 2586649,
+      "width": 941,
+      "height": 1672,
+      "sha256": "1aec538d4dc6684fa89c6c50f7778d2d6ee1ae6a2d5d4fbd6e72b434eeb7c4e3",
+      "segmentReferences": 20,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/苏晚_16格全角度人物资产总板V2.png",
+      "bytes": 60297423,
+      "width": 4256,
+      "height": 6800,
+      "sha256": "36c851fbc5fc39a72a8e323ab0b6b522cc20b261c04f997e9b1ed2637006af75",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/苏晚_C03_正式形象基准.png",
+      "bytes": 2682358,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0d4e53764949cddeaf380a6ceebd5799239f2d4c6da6a5eb1b2bdfcc3b0bb64f",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-COST01_独立服装陈列V1.png",
+      "bytes": 2442219,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "64105eeecb3d94a3827efaddcdcfedbd824547cef920e1f1cba5a0a12434190a",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-D13_精确战损全身V2.png",
+      "bytes": 2319655,
+      "width": 941,
+      "height": 1672,
+      "sha256": "dbf2bf5afcc4ffb7e79febcc03716db148bd3b2600ebf5a36f4d17aad204ecdf",
+      "segmentReferences": 80,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-D21_右掌窄包与后腰药布全身V1.png",
+      "bytes": 2302956,
+      "width": 941,
+      "height": 1672,
+      "sha256": "71d700155c18c7d5daa56b538c9972c5a9605d694d34d5d937da0a03da0d8903",
+      "segmentReferences": 6,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-D22_左踝包扎战损全身V1.png",
+      "bytes": 2310642,
+      "width": 941,
+      "height": 1672,
+      "sha256": "3b9d7473d349b9fcae366c991be49b6e3a683a4258504a0e5e51fbb554d564d6",
+      "segmentReferences": 110,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-D22_左脚卸重坐姿全身V2.png",
+      "bytes": 2404562,
+      "width": 941,
+      "height": 1671,
+      "sha256": "1f01827ad4326acd3d07a81410b4f92f7711b997f137d0babf0c1af2635a2d03",
+      "segmentReferences": 5,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立半身表演V1.png",
+      "bytes": 2844062,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "54b3961f4ffc4017f3e85991443cb214ec9a7c03777e43e30ccd5a25a90ae451",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立背面服装V2.png",
+      "bytes": 2381281,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "601ae15de6446f0ddd00f51ca80a87a4de03759601f0620e57545a54546baa5c",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立背面全身V2.png",
+      "bytes": 2176133,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "2107424076480e6d4ff8cba3ecdd30ecf5d5706a224d9b1858c103a5ce5c6cf6",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立含笑表情V2.png",
+      "bytes": 2699602,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "3543a2b3cae56c8549a84892bc19ab098fc3401cfd9eb3c58155cb4b7c4b6e29",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立坚定表情V2.png",
+      "bytes": 2832622,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1bc85668b030db640f15ff27333c92b8b6e2501a83e7cf334cd94838e0e2a5f8",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立右45度全身V2.png",
+      "bytes": 2334804,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ec6142d1548610cad02249326225683f9c17aa800e565cd51c6444bb26f75c93",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立右侧全身V2.png",
+      "bytes": 2199825,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "2417006b1a843e128236a653cbda48824ca7b7d542d6ddd3804ea9f1060fccb2",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立右后45度全身V2.png",
+      "bytes": 2335991,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "05c0ac0f8466c6ae2dbff873496b6d9ea6a24df56046bf1838f5ae5c537dab10",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立正面全身V1.png",
+      "bytes": 2378259,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "3d2d1115f00ed5b4eaa025950de7dc39e8944cd6e11d09a5d784083cdad08bbb",
+      "segmentReferences": 317,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立正面头肩V1.png",
+      "bytes": 2735584,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "e70bf1a5a165cd7c2d2879b2a3a10621668c6cfc12072408726874274f89175c",
+      "segmentReferences": 317,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立左45度全身修正V2.png",
+      "bytes": 2121557,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "4f5fee3893d375de89097c5c493b6bc3e9c3c7fbb69b4952a739ffc55b977c84",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立左45度头肩V1.png",
+      "bytes": 2892860,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "065f3b25cc65d33ca1d07462d3097b102d7273fa312471457957be1f680c8850",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立左侧全身V1.png",
+      "bytes": 2127011,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "f37259532f31e98339ff44559d1807e5f7c27c85e193e84eaa235418f5926daa",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立左侧头肩V1.png",
+      "bytes": 2787970,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "3c5abef2eecf5c1d4d8c607d0db8045587b3c219cd8f41c620de58cf79481576",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/苏晚/SW-F01_独立左后45度全身修正V2.png",
+      "bytes": 2167887,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "81e1bc1ef1f5841dcba95dec9c1a7769c7b9e78b077d8a46037fb77fac3eccba",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/异兽/CREATURE01_吞灵沙鳐翼骨与腹孔V1.png",
+      "bytes": 3082855,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9a89d463d3a0b31ba897bc7845acbd41c587c00bfedd596061cc9d4b2cb00a23",
+      "segmentReferences": 11,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/异兽/CREATURE02_律使全身正面V1.png",
+      "bytes": 2714447,
+      "width": 941,
+      "height": 1671,
+      "sha256": "50d3da1a71cea2ce4f6388388076bfd8ed28563f4afdaf9ae0d63ed8cccbd2c0",
+      "segmentReferences": 20,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/异兽/CREATURE03_铁卫双臂全身V1.png",
+      "bytes": 2619369,
+      "width": 941,
+      "height": 1672,
+      "sha256": "8923a497f94b70f81931d6be293966292e07a27679a0729d286989078c1dfded",
+      "segmentReferences": 29,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/用户提供参考_人物资产大图排版.jpg",
+      "bytes": 405165,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "f69fb1ebf43471ba61c677fbc9d2724832bddc91df519030e9a61822d08d029b",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/用户提供参考_周辰人物资产板.jpg",
+      "bytes": 377824,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "b63d89e31f1a1d2a6b1f599a50c3289585d8295aec97508a4051d7867dadd1b8",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/周辰_16格全角度人物资产总板V2.png",
+      "bytes": 55140524,
+      "width": 4256,
+      "height": 6800,
+      "sha256": "1e1e6327d028e3be5c86a27a18567200cb2151c1dd4853033b2bf3de9184cf5f",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/周辰_C04_正式形象基准.png",
+      "bytes": 2747151,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9ff95811f72bd6f35db3d8466f972434bf3e4048b195b6d9dba7c34c27ff409f",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-COST01_独立正面衣饰细节V1.png",
+      "bytes": 3044269,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "e2b6040804e760e729cea79a1a907fcb69fb76f8ebfcb8af2923f06354517c40",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-D13_裸剑布束背视近景V1.png",
+      "bytes": 2438388,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c0510a48cfe30c3822eea507acc45229b1e58fed37a2641ad784cee636c362a5",
+      "segmentReferences": 111,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-D13_弃鞘后战损全身V1.png",
+      "bytes": 2561268,
+      "width": 941,
+      "height": 1672,
+      "sha256": "d04db4189ab97c52386f1ed4d2201ac1d61032a37550528836c5f968b26d639f",
+      "segmentReferences": 81,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-D22_精确焦边全身V2.png",
+      "bytes": 2441528,
+      "width": 941,
+      "height": 1671,
+      "sha256": "7b6c30c987531e7deb33b8c7457cf6e58bd8adc22d60a30bd5e71a377aff0ebd",
+      "segmentReferences": 123,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-D22_左后腰铜匣与后摆背视V2.png",
+      "bytes": 2444764,
+      "width": 942,
+      "height": 1670,
+      "sha256": "66d850117eda3f823ac3cdd28e172517bf2d27a88e6b230385be293ad8f3938e",
+      "segmentReferences": 32,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立半身表演V1.png",
+      "bytes": 2719054,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1f5abed4cb57af2211214c31a816b4512ad40cb2eda5b80b8e3d07a17cc469f1",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立背面服装V2.png",
+      "bytes": 2606774,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "b8f73caaf1385a9f9142bc253727a51a34f0f9f72a9aa04d50f0c136c26dc10a",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立背面全身V2.png",
+      "bytes": 2420911,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "dce914bea4ffc22621a5ae678b02bf8f2243cbd0a2f0df73f1ff7c7138fef96f",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立含笑表情V2.png",
+      "bytes": 2639019,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "3ec43b3558d984ef294ce66661345a5ad56d45878a287f0ea71aa0e3d03c5b79",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立坚定表情V2.png",
+      "bytes": 2590216,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "b9127a4dcfb55e3e2bc78606352a3a5cdb08b59bf4fea6edde77cca3a2117f8c",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立右45度全身V2.png",
+      "bytes": 2362677,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "55ef46220b38a14f2dca7fbceb32c06da9d6cda511263c993a5b71c95e2cf5e6",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立右侧全身V2.png",
+      "bytes": 2192475,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "5af91cc077ccd7f827ac814f16c520726de687391d02f448d7d58889db26c183",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立右后45度全身V2.png",
+      "bytes": 2318119,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1b68fea915d5269930bc853775b19c445a4397bff328f3cd9cb0ae9d30d9b27c",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立正面全身V1.png",
+      "bytes": 2390445,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "549d6245ea9f592bcf1dd80fd0edd7fc0feb69bcef19da350f33224af512d776",
+      "segmentReferences": 311,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立正面头肩V1.png",
+      "bytes": 2855472,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "23a85ede35929a48b932a28ef9092dc03f55fdc93773b191f3e3b5af1d84f342",
+      "segmentReferences": 311,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立左45度全身修正V2.png",
+      "bytes": 2189231,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "2598bd01a828d6283d0c2ce91194b7a048aa0ca1a837db1300009b0e743cdd89",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立左45度头肩V1.png",
+      "bytes": 2688847,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "f07a5d865f792bd064e3ff1d556f31e8f99c5f975341f889f3ef82de120fc456",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立左侧全身V1.png",
+      "bytes": 2097976,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "2a811928a6209899bcf64469a8891d74226aa351bf9d927535b731f9c2b3ad37",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立左侧头肩V1.png",
+      "bytes": 2789069,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "fc0871be16045c65cb13d13f83465d9d59e2b920aa0c5aaf7e363c14ce6ac051",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "人物资产/周辰/ZC-F01_独立左后45度全身修正V2.png",
+      "bytes": 2191952,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "9f046113ea93afd0c28318a34054a7ab422159ad2f7731c6a1eabe7fa683a1bc",
+      "segmentReferences": 0,
+      "kind": "character-reference"
+    },
+    {
+      "path": "视觉设计/封面海报/第一季封面构图参考.png",
+      "bytes": 3027425,
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b399f78e81722e0ec17cd21470a9b68386814ee322b3ef57a18ef4f458556748",
+      "segmentReferences": 0,
+      "kind": "production-reference"
+    },
+    {
+      "path": "文档/制作流程参考截图/01_按完整事件分段.png",
+      "bytes": 108671,
+      "width": 1282,
+      "height": 571,
+      "sha256": "f706a0609a2ef91444eb57a6a40adc3e5a8506a131889cc3849d1172097b1022",
+      "segmentReferences": 0,
+      "kind": "production-reference"
+    },
+    {
+      "path": "文档/制作流程参考截图/02_人工与工具分工.png",
+      "bytes": 72511,
+      "width": 1273,
+      "height": 530,
+      "sha256": "d8033a31da37392ed8f7b0bd93ebfb6f9a3ad21fa4afd63334b608e97bf5fa5d",
+      "segmentReferences": 0,
+      "kind": "production-reference"
+    },
+    {
+      "path": "文档/制作流程参考截图/03_剧本到提示词到视频.png",
+      "bytes": 52123,
+      "width": 1119,
+      "height": 336,
+      "sha256": "b1e1892ac689dff9912f52d5d1f0172785488169b1aed9c9d3455dc540f92b4f",
+      "segmentReferences": 0,
+      "kind": "production-reference"
+    }
+  ]
+}

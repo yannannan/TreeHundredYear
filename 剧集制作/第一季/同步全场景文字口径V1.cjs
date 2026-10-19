@@ -1,5 +1,0 @@
-const fs=require('fs'),path=require('path');const dir=__dirname,root=path.resolve(dir,'../..');
-const mother=fs.readFileSync(path.join(dir,'全剧通用提示词.md'),'utf8'),art=mother.match(/【仙侠科幻美术修订：2026-10-18优先执行】[\s\S]*?(?=【震撼场景的拍法】)/)[0].trim();
-const base=path.join(root,'场景资产/第一季'),changed=[];
-function walk(p){for(const e of fs.readdirSync(p,{withFileTypes:true})){const f=path.join(p,e.name);if(e.isDirectory())walk(f);else if(e.name.endsWith('.md')&&!/生成记录|生成提示词与检查|仙侠科幻美术修订标准|普查|回执/.test(e.name)){let s=fs.readFileSync(f,'utf8');if(s.includes('【全场景轻度提质口径：2026-10-18】'))continue;const note='> 【全场景轻度提质口径：2026-10-18】保留原古旧厚重结构和低饱和配色，只适度改善材质、光影、工艺可读性；不做华丽仙宫翻新。原有行动拓扑、伤势、道具数量和状态继续有效。实际新图与视检状态见《全场景美术普查与改进V1》，历史生成记录不改写。\n\n';s=note+s;s=s.replace(/\x60\x60\x60text\s*\n/g,'\x60\x60\x60text\n'+art+'\n\n');fs.writeFileSync(f,s);changed.push(path.relative(root,f).replaceAll('\\','/'));}}}walk(base);
-fs.writeFileSync(path.join(dir,'全场景文字美术同步V1.json'),JSON.stringify({date:'2026-10-18',changedFiles:changed.length,files:changed,actualVideoGenerated:false},null,2));console.log(JSON.stringify({changedSceneDocuments:changed.length}));

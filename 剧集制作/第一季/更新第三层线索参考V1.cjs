@@ -1,3 +1,0 @@
-const fs=require('fs'),path=require('path'),crypto=require('crypto'),sharp=require('C:/Users/Administrator/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');
-const root=path.resolve(__dirname,'../..');
-(async()=>{const p='道具资产/第一季/PROP05_坐标刻片与玄冰片V1.png',b=fs.readFileSync(path.join(root,p)),m=await sharp(b).metadata();const item={id:'PROP05',path:p,purpose:'B收铜定位片/A收小玄冰，刻点和材质基准，非精准数值坐标',width:m.width,height:m.height,bytes:b.length,sha256:crypto.createHash('sha256').update(b).digest('hex'),upscaled:false};fs.writeFileSync(path.join(__dirname,'第三层线索真实参考V1.json'),JSON.stringify([item],null,2));console.log(JSON.stringify(item));})();

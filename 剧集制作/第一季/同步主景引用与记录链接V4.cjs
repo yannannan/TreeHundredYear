@@ -1,9 +1,0 @@
-const fs=require('fs'),path=require('path'),dir=__dirname,root=path.resolve(dir,'../..');
-const maps=JSON.parse(fs.readFileSync(path.join(dir,'精工克制场景采用映射V2.json'),'utf8')),resolve=require('./解析当前场景参考V1.cjs');
-const ledgerFile=path.join(dir,'第32集/执行包V1/连续性与参考校核V1.json'),ledger=JSON.parse(fs.readFileSync(ledgerFile,'utf8'));let updatedReturnRefs=0;
-for(const s of ledger.segments){if(![5,6,7].includes(s.n))continue;const file=path.join(root,s.prompt);let body=fs.readFileSync(file,'utf8'),changed=false;
- for(const r of s.refs){const m=maps.find(m=>m.path===r.source&&m.id==='L08-WIDE-REFINED-R2');if(!m)continue;const originalPurpose=r.purpose.split('；精工克制R2当前采用：')[0],next=resolve({path:m.origin,purpose:originalPurpose}).purpose;if(next===r.purpose)continue;if(!body.includes(r.purpose))throw Error('返乡段缺原用途，停止：'+file);body=body.replaceAll(r.purpose,next);r.purpose=next;updatedReturnRefs++;changed=true;}
- if(changed)fs.writeFileSync(file,body);
-}if(updatedReturnRefs)fs.writeFileSync(ledgerFile,JSON.stringify(ledger,null,2)+'\n');
-let updatedSceneDocuments=0;function walk(folder){for(const e of fs.readdirSync(folder,{withFileTypes:true})){const file=path.join(folder,e.name);if(e.isDirectory()){walk(file);continue;}if(!e.name.endsWith('.md')||/生成记录|生成提示词与检查|普查|回执/.test(e.name))continue;let body=fs.readFileSync(file,'utf8'),before=body;for(const m of maps){const a=path.basename(m.origin,'.png')+'_生成记录.md',b=path.basename(m.path,'.png')+'_生成记录.md';body=body.replaceAll(a,b);}if(body!==before){fs.writeFileSync(file,body);updatedSceneDocuments++;}}}walk(path.join(root,'场景资产/第一季'));
-const result={date:'2026-10-18',updatedReturnRefs,updatedSceneDocuments,returnBridgeTargets:['32-05','32-06','32-07'],rule:'保留第32集回看第八层的真实路由；原初四急八缓源图只取几何材质，不恢复已返人物/灯态',actualVideoGenerated:false};fs.writeFileSync(path.join(dir,'主景引用与记录链接同步V4.json'),JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify(result));
