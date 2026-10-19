@@ -41,5 +41,5 @@ module.exports=function generate(ep){
  }
  const name=ep.cn+'集';fs.writeFileSync(path.join(out,`${name}执行清单V1.md`),`# 第${ep.id}集｜${ep.segments.length}段×15秒=${ep.segments.length*15}秒\n\n${ep.context}\n\n当前是执行文本及原图就近副本，缺图按各段列明，实际音视频未生成。\n\n|段|集内时码|执行文件|\n|---|---|---|\n`+ep.segments.map((d,i)=>`|${i+1}|${i*15}—${(i+1)*15}秒|[${d.name}](第${String(i+1).padStart(2,'0')}段_${d.name}/视频提示词.md)|`).join('\n')+`\n\n## 连续性与验收重点\n\n${ep.notes}\n`);
  const result={date:'2026-10-18',voiceNames:ep.voiceNames||{},seconds:ep.segments.length*15,segments:records,errors,warnings,actualVideoGenerated:false};fs.writeFileSync(path.join(out,'连续性与参考校核V1.json'),JSON.stringify(result,null,2));
- console.log(JSON.stringify({episode:ep.id,segments:records.length,seconds:result.seconds,copiedRefs:records.reduce((n,x)=>n+x.refs.length,0),errors,warnings}));if(errors.length)throw Error(errors.join(';'));return result;
+ console.log(JSON.stringify({episode:ep.id,segments:records.length,seconds:result.seconds,copiedRefs:records.reduce((n,x)=>n+x.refs.length,0),errors,warnings}));if(errors.length)throw Error(errors.join(';'));require('./应用普通话互斥音频V28.cjs')({episode:ep.id});return result;
 };

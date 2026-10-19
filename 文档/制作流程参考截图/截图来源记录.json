@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-19",
+  "purpose": "仅归档用户提供的制作流程参考截图，非角色/场景/视频成品，不计新生成素材或逐段参考副本",
+  "items": [
+    {
+      "source": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-59381c4e-d34d-4d3a-bc48-ea4e5ac32316.png",
+      "file": "文档/制作流程参考截图/01_按完整事件分段.png",
+      "width": 1282,
+      "height": 571,
+      "sha256": "f706a0609a2ef91444eb57a6a40adc3e5a8506a131889cc3849d1172097b1022",
+      "bytes": 108671,
+      "userProvided": true,
+      "generatedByAssistant": false,
+      "executionReference": false
+    },
+    {
+      "source": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-3e6e64fb-3394-45e3-894a-3e89fa4e2dcf.png",
+      "file": "文档/制作流程参考截图/02_人工与工具分工.png",
+      "width": 1273,
+      "height": 530,
+      "sha256": "d8033a31da37392ed8f7b0bd93ebfb6f9a3ad21fa4afd63334b608e97bf5fa5d",
+      "bytes": 72511,
+      "userProvided": true,
+      "generatedByAssistant": false,
+      "executionReference": false
+    },
+    {
+      "source": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-a34a22f2-2040-455b-b36b-df6b9057af3f.png",
+      "file": "文档/制作流程参考截图/03_剧本到提示词到视频.png",
+      "width": 1119,
+      "height": 336,
+      "sha256": "b1e1892ac689dff9912f52d5d1f0172785488169b1aed9c9d3455dc540f92b4f",
+      "bytes": 52123,
+      "userProvided": true,
+      "generatedByAssistant": false,
+      "executionReference": false
+    }
+  ]
+}

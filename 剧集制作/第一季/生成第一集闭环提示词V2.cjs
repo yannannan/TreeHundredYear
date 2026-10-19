@@ -39,3 +39,6 @@ ledger.push(entry);index+=`| ${num} | ${(d.n-1)*15}—${d.n*15}秒 | ${d.name} |
 }
 index+='\n## 正确使用与边界\n\n每次只取一个段文件夹：上传其实际参考、复制该段全部代码块、生成15秒、按尾帧和台词检查；同场下段保持同场景与角色来源。工具不能读取本地路径文字来自动取图。文字闭环与真实参考降低歧义，不保证零漂移；本轮没有视频/录音产物。所有修改依本目录10段V2，不混用旧8段V1。\n';
 fs.writeFileSync(path.join(ep,'第一集执行清单V2.md'),index);fs.writeFileSync(path.join(ep,'连续性与参考校核V2.json'),JSON.stringify({seconds:150,segments:ledger,actualVideoGenerated:false},null,2)+'\n');console.log(JSON.stringify({segments:ledger.length,seconds:150,copiedRefs:ledger.reduce((n,x)=>n+x.refs.length,0)}));
+
+// V28在逐段当前引用/阶段更新后，选择唯一声音模式。
+require('./应用普通话互斥音频V28.cjs')({episode:'01'});

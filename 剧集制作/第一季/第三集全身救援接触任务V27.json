@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "baselineCommit": "b2bcbd7",
-  "status": "in-progress",
+  "status": "in-progress-needs-contact-blocking-correction",
   "actualGeneratedOutputs": 4,
   "actualVideoGenerated": false,
   "actualAudioGenerated": false,
@@ -49,5 +49,8 @@
       "status": "planned"
     }
   ],
-  "reviewedUsableOriginals": 0
+  "reviewedUsableOriginals": 0,
+  "blockingGuide": "剧集制作/第一季/第三集救援左右握点阻挡设计V27.md",
+  "adoptedOriginals": 0,
+  "remaining": "3项正式全身救援状态仍待补；4实际候选均不采用，先按左右关节/原肘部支点关系修图，不以近景替代。"
 }
