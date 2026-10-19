@@ -2,7 +2,7 @@
   "date": "2026-10-19",
   "status": "in-progress-generation",
   "goalStatus": "active",
-  "actualGeneratedFromThisPlan": 5,
+  "actualGeneratedFromThisPlan": 6,
   "workflow": "按实际输出/QA/采用登记；原V18失败调用是历史记录，不将当前任务JSON当作仍运行的生成句柄。",
   "jobs": [
     {
@@ -174,14 +174,18 @@
         "02-08"
       ],
       "phase": "02-08第0.8秒外侧完全合门后才轴向切内景",
-      "status": "planned-not-generated",
-      "attempted": false,
-      "actualOutputGenerated": false,
+      "status": "candidate-needs-correction",
+      "attempted": true,
+      "actualOutputGenerated": true,
       "prompt": "Use case: precise-object-edit. One portrait9:16 live-action outside frontal view of SAME first-layer tower doorway. Input1 edit target actors safely already INSIDE with all fabric clear, input2 only original closed-door geometry/material. Slide original two leaves together until central seam FULLY CLOSED, no crack or visible blue hall. The two adults are behind solid door and NOT visible through it or standing outside, no ghost silhouette/faces/hands/fabric caught at seam. Their single pebble stays inside unseen, no exterior pebble. Sole fine outer circular amber track now physically joins at seam as closed leaves meet, inner decorations/spokes remain unlit, no new glyph/system/rainbow portal. Same jamb/lintel/upperplatform/grey graphite/darkbronze/low saturation dawn and precise maintained surfaces, no rubble/blanket corrosion/new stairs. This is the external final closure frame only, to CUT at0.8s to separate inside view in SAME forward direction, not a camera-through-door illusion or proof of safe mechanical time. No text/logo/watermark.",
       "referenceSources": [
         "场景资产/第一季/早期接触/KEY02-07_双人已入门裙摆清除门初合尾态V1.png",
         "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1_精工克制R2.png"
-      ]
+      ],
+      "latestOutputCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-c18f15ee-e49c-4128-82d8-8eacc1b36b42.png",
+      "latestOutputPath": "场景资产/第一季/早期接触/KEY02-08_外侧闭门双亮环候选V1.png",
+      "latestQA": "候选未采用：门已全闭、近景机位/无人物夹衣成立，但中间新门圈与两侧旧发光弧同时保留，出现重复亮环，且中心接缝处发光轨断开；不符合唯一外轨闭合，需删除外围残弧并接齐唯一门圈。",
+      "reviewedUsableOutput": false
     }
   ],
   "resumeCondition": "先读当前时间并核对服务报告重置时间；到时只允许再次尝试，不等于已恢复额度。本次429已终止且无输出，无活跃生成句柄，不凭本JSON当生成仍运行。",
