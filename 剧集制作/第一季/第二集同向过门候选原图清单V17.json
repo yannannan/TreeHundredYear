@@ -8,5 +8,35 @@
     "bytes": 2619855,
     "sha256": "b82cc904a5c8625657efd7b950a759085dd26274fd4a5449360a8b55807f8076",
     "upscaled": false
+  },
+  {
+    "id": "EP02-B-CROSS-FIRST-CANDIDATE-V1",
+    "path": "场景资产/第一季/早期接触/KEY02-07_苏晚左足先越槛周辰仍门外背侧候选V1.png",
+    "purpose": "候选拒用：背侧方向/原衣/剑鞘手别可用，但B双脚仍在门槛外，不能冒充左足已越槛的第一步。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2672241,
+    "sha256": "896db6660e8fe54767a8ab70c36e9bbdb7e6303634b0fccae47b198c5c10a2cb",
+    "upscaled": false
+  },
+  {
+    "id": "EP02-B-CROSS-FIRST-CANDIDATE-V2",
+    "path": "场景资产/第一季/早期接触/KEY02-07_苏晚左足先越槛周辰仍门外背侧候选V2.png",
+    "purpose": "候选拒用：B已靠近，但前脚仍未清楚越过真实门框底缘所在平面，出现额外近处横缝，无法排除仍在外侧；不冒称跨门完成。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2623247,
+    "sha256": "38eb2dc313054d9ee01e69cd3291ed9fc2a66c11af4481d452da1713ee42a543",
+    "upscaled": false
+  },
+  {
+    "id": "EP02-A-CROSS-FOLLOWS-CANDIDATE-V1",
+    "path": "场景资产/第一季/早期接触/KEY02-07_周辰右靴随后越槛苏晚已在内侧候选V1.png",
+    "purpose": "候选拒用：B双足已内侧，但A前靴仍在门外且原单石被移到外侧，未满足随后越槛与单石留内；不接执行包。",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2577128,
+    "sha256": "9ddf6db1d69324b66ae07d017ad78e271fe9e4f0a4b30326140e0e1cab13ad2c",
+    "upscaled": false
   }
 ]

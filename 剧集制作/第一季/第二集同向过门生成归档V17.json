@@ -13,5 +13,20 @@
     "prompt": "Use case: precise-object-edit. Edit EXACT supplied live-action vertical9:16 film still. Make ONE LOCAL correction at A man's waist: REMOVE the newly added hanging brown fabric pouch/bag entirely (at his front-left waist beneath the belt). There must be NO pouch/cloth bag/extra fabric flap hanging there. Restore original blackgold robe panels and belt beneath it, matching rest of garment. The small bronze token is stowed BETWEEN EXISTING belt/robe layers at anatomical LEFT waist, with at most a small thin top edge visible; do not add any new bag or decorative pendant. A left hand remains EMPTY just away from waist, right hand EMPTY at side. Do not put token back into hand. Preserve EVERYTHING ELSE exactly: original faces/hair/crowns/garments/boots and bare feet; B empty right hand just withdrawn near her chest, silvercloth knot fully concealed in original inner fold, left hand empty; A only old sword FULLY in back scabbard, B original right-waist short knife sheath; pair still OUTSIDE full-open gate, same small pebble inside, split physical leaf outer-ring amber arcs only, dark inner decorations, blue hall and continuous ground, dawn low saturation maintained grey stone/dark bronze. No new props/people/rope/lettering/subtitle/logo/watermark, no extra wounds. Single still, not video.",
     "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-667aaf4d-9dd4-436d-a70e-49b3e4d9cd89.png",
     "qa": "采用有限收纳后外侧状态：A左手已空/古符归原腰带层内，B右手已空近胸/布结在内襟，额外布袋已移除；剑入背鞘、短刃归腰、二人未过门，原单石留内。只锁收纳完成状态，不证明手指完整存入过程、内藏物形状或真实衣内位置；原脸衣保持。"
+  },
+  {
+    "key": "EP02-B-CROSS-FIRST-V3",
+    "name": "苏晚跨真实门框底缘脚位纠正",
+    "path": "场景资产/第一季/早期接触/KEY02-07_苏晚左足先越槛周辰仍门外背侧V3.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-f462a9e9-4a49-4afa-8d3d-cbae8a7bc37b.png"
+    ],
+    "targets": [
+      "02-07"
+    ],
+    "phase": "02-07约11—12秒：B先迈、A未跨，门外同向背侧机位",
+    "prompt": "Use case: precise-object-edit. One local POSITION correction in exact rear-view9:16 image. B woman still has not crossed the ACTUAL DOOR PLANE. The real plane is marked by bottoms of the LEFT/RIGHT DOOR JAMBS at about70% image height, not a foreground paving stripe. Move B WHOLE BODY coherently FORWARD again into the opening. Her anatomicalLEFT bare foot must now be on BLUE FLOOR clearly BEHIND/ABOVE both door-jamb bases, roughly65% image height, next to but not touching the small interior pebble. Her anatomicalRIGHT bare foot stays just OUTSIDE at roughly72% height. Pose STRADDLES the true doorway plane: left shin/foot inside, rear right shin/foot outside. Both natural knees, no giant stretched leg. Move her whole torso forward and slightly smaller with perspective (crown around32% image height), retain same physique/costume/hair/knife at right waist. Keep left hand gathering original left hem enough to see feet. Right empty, stored knot not visible. Do NOT move door jambs, door base/threshold, floor paving, pebble or add a new brass strip under the old feet. Woman fits RIGHT half of true doorway opening, no part intersects right leaf. A man entirely unchanged outside LEFT with both boots well in front of doorway and sole old sword in brown back scabbard, right-shoulder hilt, empty hands, token stowed at front waist. Camera stays outside looking in, no mirror, A left/B right, original full-open sliding leaf fine outer amber arcs, inner engravings dark. Same blue hall/dawn/low saturation intact refined stone. No text/logo/watermark or people. The INSIDE LEFT FOOT MUST BE VISIBLY BEYOND THE DOOR-JAMB BASES, not at another exterior floor stripe. Static target only.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-74d1aeff-1565-40df-a9fc-bfc6e67e164a.png",
+    "qa": "采用有限B先跨目标：B左裸足在门框底缘内侧冷蓝地面、右裸足留外，A双靴仍在外侧，A左路/B右路背侧同向；剑柄在A后视右肩、双物已收纳。B裙摆仍拖在门外，门须保持全开直到裙摆清除；不证明精确步距、跨槛受力或全部机位像素级几何一致。"
   }
 ]
