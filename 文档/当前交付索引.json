@@ -52,9 +52,9 @@
       "script": "完整剧本/第一季/第一季·双影浮城（第06集）.md",
       "entry": "剧集制作/第一季/第06集/执行包V1/第六集执行清单V1.md",
       "ledger": "剧集制作/第一季/第06集/执行包V1/连续性与参考校核V1.json",
-      "segments": 8,
-      "seconds": 120,
-      "referenceCopies": 72
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 92
     },
     {
       "episode": "07",
@@ -291,15 +291,15 @@
       "referenceCopies": 247
     }
   ],
-  "segments": 319,
-  "seconds": 4785,
-  "referenceCopies": 4358,
-  "distinctReferencedSources": 197,
-  "sceneSourcesReferenced": 147,
-  "filmSceneSourcesReferenced": 141,
+  "segments": 321,
+  "seconds": 4815,
+  "referenceCopies": 4378,
+  "distinctReferencedSources": 198,
+  "sceneSourcesReferenced": 148,
+  "filmSceneSourcesReferenced": 142,
   "technicalLayoutsReferenced": 6,
-  "deepEventReviewCompletedSegments": 48,
-  "deepEventReviewPendingSegments": 271,
+  "deepEventReviewCompletedSegments": 58,
+  "deepEventReviewPendingSegments": 263,
   "allRequiredShotAssetsComplete": false,
   "independentAudioProductionRequired": false,
   "videoProductionRequired": false,
@@ -557,7 +557,16 @@
       "width": 941,
       "height": 1672,
       "sha256": "db2ff73d662bde68184d7790bb4cf8f42845d66d1567d6a76bafbeb400d52855",
-      "segmentReferences": 23,
+      "segmentReferences": 25,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/九层星渊塔/SC-L02_木匾落地后状态.png",
+      "bytes": 3084462,
+      "width": 941,
+      "height": 1672,
+      "sha256": "6a5002dff84cb17ff9c273e8fdfde566a2412c16668a02acac0d7b6d830f6d82",
+      "segmentReferences": 2,
       "kind": "scene-reference"
     },
     {
@@ -566,7 +575,7 @@
       "width": 941,
       "height": 1672,
       "sha256": "25faa387c5506cdbe9b0f146a8ecd2531d95e8b0036a2ffb98014482bca8867f",
-      "segmentReferences": 25,
+      "segmentReferences": 27,
       "kind": "scene-reference"
     },
     {
@@ -575,7 +584,7 @@
       "width": 3840,
       "height": 2160,
       "sha256": "165b6e2f463bc68c9c10f19220a27f18c6318006578b418e8ad2c705187d61db",
-      "segmentReferences": 23,
+      "segmentReferences": 25,
       "kind": "technical-layout"
     },
     {
@@ -1691,7 +1700,7 @@
       "width": 1536,
       "height": 1024,
       "sha256": "57318cee22d1af9d1ab2c27698ef7ea90153c8ee73e14959957564f91a99b25f",
-      "segmentReferences": 311,
+      "segmentReferences": 313,
       "kind": "prop-reference"
     },
     {
@@ -1700,7 +1709,7 @@
       "width": 1536,
       "height": 1024,
       "sha256": "4489ebb294038c278019a4a6045c6ca1313e61b1e39949b341856c0df9ff6033",
-      "segmentReferences": 310,
+      "segmentReferences": 312,
       "kind": "prop-reference"
     },
     {
@@ -2132,7 +2141,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "3d2d1115f00ed5b4eaa025950de7dc39e8944cd6e11d09a5d784083cdad08bbb",
-      "segmentReferences": 317,
+      "segmentReferences": 319,
       "kind": "character-reference"
     },
     {
@@ -2141,7 +2150,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "e70bf1a5a165cd7c2d2879b2a3a10621668c6cfc12072408726874274f89175c",
-      "segmentReferences": 317,
+      "segmentReferences": 319,
       "kind": "character-reference"
     },
     {
@@ -2375,7 +2384,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "549d6245ea9f592bcf1dd80fd0edd7fc0feb69bcef19da350f33224af512d776",
-      "segmentReferences": 311,
+      "segmentReferences": 313,
       "kind": "character-reference"
     },
     {
@@ -2384,7 +2393,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "23a85ede35929a48b932a28ef9092dc03f55fdc93773b191f3e3b5af1d84f342",
-      "segmentReferences": 311,
+      "segmentReferences": 313,
       "kind": "character-reference"
     },
     {

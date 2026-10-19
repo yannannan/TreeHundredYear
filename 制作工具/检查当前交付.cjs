@@ -1,7 +1,7 @@
 // Inspect the current editable delivery only. No historical generators, audio or video production.
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const root=path.resolve(__dirname,'..');
-const read=p=>fs.readFileSync(path.join(root,p),'utf8').replace(/^\uFEFF/,'');
+const read=p=>fs.readFileSync(path.join(root,p),'utf8').replace(/^\uFEFF/,'').replace(/\r\n/g,'\n');
 const json=p=>JSON.parse(read(p));
 const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 const errors=[],warnings=[],seen=new Set(),sourceHashes=new Map();

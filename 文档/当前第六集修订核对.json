@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-19",
+  "episode": "06",
+  "currentSegments": 10,
+  "currentSeconds": 150,
+  "originalDialogueAndTimecodesPreserved": true,
+  "addedDialogueLines": 2,
+  "crossEpisodeStatesPreserved": true,
+  "otherEpisodeLedgersCompared": 31,
+  "otherEpisodeChangesAllowed": "仅07/08引用用途中文坠匾阶段标签去旧段号",
+  "sourceImagesUnmodified": true,
+  "newFilmSceneImages": 1,
+  "newImageNativePixels": [
+    941,
+    1672
+  ],
+  "initialCommonTextCheckFailedReason": "新段落采用LF，工作树母版含CRLF；统一读取换行后逐字检查，未放宽母版正文要求。",
+  "errors": []
+}
