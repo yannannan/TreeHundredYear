@@ -9,5 +9,16 @@
     "upscaled": false,
     "purpose": "采用有限撒砂静态：原右掌侧手形/原袖与近缘背景保留，大块碎石样颗粒已去，少量细灰砂由右指向原下方形成细线，指尖仅少量残留；不作向右重力已开启、不证明真实粒径或连续撒落动态。",
     "status": "reviewed-static-await-adoption"
+  },
+  {
+    "id": "EP02-SHEATH-TAP-V2",
+    "path": "场景资产/第一季/早期接触/KEY02-08_周辰左手完整带剑鞘轻敲桥面V2.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2986936,
+    "sha256": "470201802b217a96c08c6d3f382aadb713d222cef96b478a6ded3a21de49d620",
+    "upscaled": false,
+    "purpose": "采用有限鞘敲接触静态：左拳下移到鞘口/护手下方的木鞘身，剑柄与护手在拳上方，鞘端接原石面；无裸露剑刃，A右手空、背带无第二剑鞘，同向背侧与原衣貌保持。只取左手/整鞘/石面接触，B足端被裙遮、细小随身物不全可见，不证明转手/敲声/受力或完整足步。",
+    "status": "reviewed-static-await-adoption"
   }
 ]
