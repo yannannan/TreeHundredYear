@@ -59,5 +59,24 @@
     "width": 941,
     "height": 1672,
     "sha256": "31b2d03b0d329eedf429ac91e31398b4534be669ac359ea7e7550aa6534da1f8"
+  },
+  {
+    "key": "EP02-GATE-CLOSED-CANDIDATE-V3",
+    "path": "场景资产/第一季/早期接触/KEY02-08_外侧闭门中央光轨未跨缝候选V3.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-15c683e8-8bd0-4dfa-95ee-8fa74ac1ddd7.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/早期接触/KEY02-08_外侧闭门光圈侧边裁断候选V2.png"
+    ],
+    "prompt": "LOCAL lighting-track correction ONLY on this exact 941x1672 closed-door image. Keep camera, dark solid closed two leaves, fine center seam, door carving/STAR/column/floor/light all exactly. Current amber arcs are too large and clipped by side frames: ERASE EVERY existing amber arc on door. Replace with ONE SMALLER complete thin amber CIRCLE fully INSIDE the central leaves: centered on existing STAR at approximately pixel(470,635), radius about190 pixels, bounds x280..660 and y445..825. Entire circle MUST be visible, including FULL LEFT and RIGHT SIDES with clear 25pixel dark clearance from doorframes. It must be a single continuous circular engraved light track, with only a hairline joint at center leaf seam. No missing side arcs, no secondary bigger ring/arc left over; no circle extending onto outside panels. The circle encloses the existing star/spokes but STAR and ALL spokes/other glyphs stay completely DARK. Do not light the center seam vertically. Preserve all unlit stone/bronze carvings and original dark side recesses, no new doors, gates, structure, stairs, characters, silhouettes, fabric or interior gap. Do not print coordinates, labels, text, arrows, logo or watermark. Warm amber single thin line only, not a magical portal. Finite exterior final-closed state, no movement claimed.",
+    "qa": "候选未采用：唯一光圈已完整收进两门扇范围，左右侧不再被裁断，外侧无重复弧；但中央竖向门饰在上/下交点遮断光轨，尚未清楚连接过缝，继续只补两个短接点。",
+    "phase": "02-08第0.8秒外侧完全合门后才轴向切内景",
+    "targets": [
+      "02-08"
+    ],
+    "candidate": true,
+    "actualOutputGenerated": true,
+    "width": 941,
+    "height": 1672,
+    "sha256": "2c8734ae81312ef1cd4f7578d9b7f887e2d8ef3a4fa126d0a77305574f31772e"
   }
 ]

@@ -2,7 +2,7 @@
   "date": "2026-10-19",
   "status": "in-progress-generation",
   "goalStatus": "active",
-  "actualGeneratedFromThisPlan": 7,
+  "actualGeneratedFromThisPlan": 8,
   "workflow": "按实际输出/QA/采用登记；原V18失败调用是历史记录，不将当前任务JSON当作仍运行的生成句柄。",
   "jobs": [
     {
@@ -182,9 +182,9 @@
         "场景资产/第一季/早期接触/KEY02-07_双人已入门裙摆清除门初合尾态V1.png",
         "场景资产/第一季/塔外/SC-OUT05_星纹门闭合主机位V1_精工克制R2.png"
       ],
-      "latestOutputCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-96f1d210-3585-468b-84f8-164ba266f963.png",
-      "latestOutputPath": "场景资产/第一季/早期接触/KEY02-08_外侧闭门光圈侧边裁断候选V2.png",
-      "latestQA": "候选未采用：外侧重复亮弧和侧星纹已去，门全闭无人物；但中央发光圈过宽，左右侧被门框裁断，仍只剩上下弧，不符合唯一完整闭环。需把光轨收进门扇可见范围，再检查中央接缝。",
+      "latestOutputCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-15c683e8-8bd0-4dfa-95ee-8fa74ac1ddd7.png",
+      "latestOutputPath": "场景资产/第一季/早期接触/KEY02-08_外侧闭门中央光轨未跨缝候选V3.png",
+      "latestQA": "候选未采用：唯一光圈已完整收进两门扇范围，左右侧不再被裁断，外侧无重复弧；但中央竖向门饰在上/下交点遮断光轨，尚未清楚连接过缝，继续只补两个短接点。",
       "reviewedUsableOutput": false
     }
   ],

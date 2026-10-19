@@ -31,5 +31,16 @@
     "upscaled": false,
     "purpose": "候选未采用：外侧重复亮弧和侧星纹已去，门全闭无人物；但中央发光圈过宽，左右侧被门框裁断，仍只剩上下弧，不符合唯一完整闭环。需把光轨收进门扇可见范围，再检查中央接缝。",
     "status": "candidate-not-adopted"
+  },
+  {
+    "id": "EP02-GATE-CLOSED-CANDIDATE-V3",
+    "path": "场景资产/第一季/早期接触/KEY02-08_外侧闭门中央光轨未跨缝候选V3.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2555767,
+    "sha256": "2c8734ae81312ef1cd4f7578d9b7f887e2d8ef3a4fa126d0a77305574f31772e",
+    "upscaled": false,
+    "purpose": "候选未采用：唯一光圈已完整收进两门扇范围，左右侧不再被裁断，外侧无重复弧；但中央竖向门饰在上/下交点遮断光轨，尚未清楚连接过缝，继续只补两个短接点。",
+    "status": "candidate-not-adopted"
   }
 ]
