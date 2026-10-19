@@ -1,0 +1,17 @@
+[
+  {
+    "key": "EP02-PROPS-STOWED-V2",
+    "name": "双物收纳去掉新增布袋",
+    "path": "场景资产/第一季/早期接触/KEY02-07_古符归腰布结入襟双手空门外V2.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-64baaf9e-7b4a-4619-a6a2-1844b2ee9fe2.png"
+    ],
+    "targets": [
+      "02-07"
+    ],
+    "phase": "02-07收纳后转身前，非原持物首帧",
+    "prompt": "Use case: precise-object-edit. Edit EXACT supplied live-action vertical9:16 film still. Make ONE LOCAL correction at A man's waist: REMOVE the newly added hanging brown fabric pouch/bag entirely (at his front-left waist beneath the belt). There must be NO pouch/cloth bag/extra fabric flap hanging there. Restore original blackgold robe panels and belt beneath it, matching rest of garment. The small bronze token is stowed BETWEEN EXISTING belt/robe layers at anatomical LEFT waist, with at most a small thin top edge visible; do not add any new bag or decorative pendant. A left hand remains EMPTY just away from waist, right hand EMPTY at side. Do not put token back into hand. Preserve EVERYTHING ELSE exactly: original faces/hair/crowns/garments/boots and bare feet; B empty right hand just withdrawn near her chest, silvercloth knot fully concealed in original inner fold, left hand empty; A only old sword FULLY in back scabbard, B original right-waist short knife sheath; pair still OUTSIDE full-open gate, same small pebble inside, split physical leaf outer-ring amber arcs only, dark inner decorations, blue hall and continuous ground, dawn low saturation maintained grey stone/dark bronze. No new props/people/rope/lettering/subtitle/logo/watermark, no extra wounds. Single still, not video.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-667aaf4d-9dd4-436d-a70e-49b3e4d9cd89.png",
+    "qa": "采用有限收纳后外侧状态：A左手已空/古符归原腰带层内，B右手已空近胸/布结在内襟，额外布袋已移除；剑入背鞘、短刃归腰、二人未过门，原单石留内。只锁收纳完成状态，不证明手指完整存入过程、内藏物形状或真实衣内位置；原脸衣保持。"
+  }
+]
