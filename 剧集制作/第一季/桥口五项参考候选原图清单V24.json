@@ -20,5 +20,16 @@
     "upscaled": false,
     "purpose": "候选未采用：门已全闭、近景机位/无人物夹衣成立，但中间新门圈与两侧旧发光弧同时保留，出现重复亮环，且中心接缝处发光轨断开；不符合唯一外轨闭合，需删除外围残弧并接齐唯一门圈。",
     "status": "candidate-not-adopted"
+  },
+  {
+    "id": "EP02-GATE-CLOSED-CANDIDATE-V2",
+    "path": "场景资产/第一季/早期接触/KEY02-08_外侧闭门光圈侧边裁断候选V2.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2625604,
+    "sha256": "31b2d03b0d329eedf429ac91e31398b4534be669ac359ea7e7550aa6534da1f8",
+    "upscaled": false,
+    "purpose": "候选未采用：外侧重复亮弧和侧星纹已去，门全闭无人物；但中央发光圈过宽，左右侧被门框裁断，仍只剩上下弧，不符合唯一完整闭环。需把光轨收进门扇可见范围，再检查中央接缝。",
+    "status": "candidate-not-adopted"
   }
 ]
