@@ -1,5 +1,6 @@
 const fs=require('fs'),path=require('path'),crypto=require('crypto');const dir=__dirname,root=path.resolve(dir,'../..');
 const v21=require('./应用首集动作顺序V21.cjs')();
+const v29=require('./应用首集纸条阅读V29.cjs')();
 const materialMaps=JSON.parse(fs.readFileSync(path.join(dir,'精工克制场景采用映射V2.json'),'utf8')),legacyMaterialMaps=JSON.parse(fs.readFileSync(path.join(dir,'全场景提质采用映射V1.json'),'utf8'));
 function sourceHistory(r){const current=materialMaps.find(m=>m.path===r.path);if(current){const prior=legacyMaterialMaps.find(m=>m.path===current.origin);return{originalSource:prior?.origin||current.origin,previousSource:current.previousAdoptedPath||current.origin};}const prior=legacyMaterialMaps.find(m=>m.path===r.path);return prior?{originalSource:prior.origin}:{};}
 const data=JSON.parse(fs.readFileSync(path.join(dir,'第一集15秒执行数据V2.json'),'utf8').replace(/^\uFEFF/,''));
@@ -31,7 +32,7 @@ let p=`【唯一执行目标】\n生成第一季《我活了300年，勇闯九�
 const intro=d.n===1?'1—3秒：角色称谓“持碗老人”，下一行“古镇居民”；5—7秒：角色称谓“街口摊主”，下一行“古镇商贩”；10.5—13.5秒：姓名与身份“苏晚｜修行者”，下一行“符法御敌｜伤体再生”。老人、摊主尚无正式姓名，使用剧本称谓，不编造姓名。三张介绍卡依次显示，不同时堆叠。':d.n===6?'0.5—3.5秒：三行介绍依次为“周辰｜长生剑修”“历世三百载｜不死不灭”“神秘之力｜尚未可知”。不透露永生实验、本源关系或后续命运。':'本段不新增出场介绍卡；本集人物已在首次出场段介绍，不在每个15秒片段重复标注。';
 p=p.replace('只有指定字幕可以出现','只有指定对白字幕、下文人物出场介绍卡及明确要求的画内文字可以出现');
 p+='\n\n【视频画面人物出场介绍卡：必须呈现在成片中】\n'+intro+'\n介绍卡是画面可见的简体中文姓名/称谓、具文气的身份简述及已确认的年龄/寿命与能力；不写赤足等衣着外观标签，不写性格评价，不凭空增加门派、封号或境界。苏晚开篇实际年龄未定，不标300岁；不死再生不是无痛无损，禁止据此省略疼痛、本源消耗或提前展示尚未发生的技能动作，不是给模型看的外貌说明，也不是人物对白；无人朗读、不生成介绍旁白，不占用对白嘴型。每集首次出场介绍一次，后续同集不重复。按指定两行或三行排版，简洁白字、细暗描边、极淡半透明底，轻淡入淡出；优先置于画面横向8%—65%、高度18%—30%的空处，避开人脸、关键手脚/碎碗动作和底部对白字幕；按实际画面调整，禁止跟随镜头抖动或遮住主体。不得因介绍卡暂停动作或另加片头。若模型不能准确生成汉字，先生成干净画面，再依照本段原文、秒数与版式合成介绍卡，最终交付必须包含正确文字；不要为介绍另建字幕文件夹。';
-if(d.n===4)p+='\n\n【纸条画内文字：非对白字幕】\n4—12秒俯拍纸条时，准确简体原文：“小满先失踪。我去塔边找她。三日不归，请将银纹布结交给能入塔的人。沈砚”。纸条参考为空白用于准确同段字形合成，不朗读、不生成随机书法，不在纸外叠成旁白字幕。';
+if(d.n===4)p+='\n\n【纸条画内文字：非对白字幕】\n6—14秒俯拍纸条时，准确简体原文：“小满先失踪。我去塔边找她。三日不归，请将银纹布结交给能入塔的人。沈砚”。纸条参考为空白用于准确同段字形合成，不朗读、不生成随机书法，不在纸外叠成旁白字幕。';
 if(d.n===10)p+='\n\n【尾帧参考输入特别规则】\nKEY-CLIFF只用于对照15秒结束时的握点/持刃/落脚目标，不是本段0秒首帧。工作流若支持末帧控制，才放入末帧槽；若只支持单张起始图，不把它填到起始槽，起始姿态按上文与场景主图制作。不得从一开始就握刀卡缝，省掉本段主动自救。';
 fs.writeFileSync(path.join(seg,'视频提示词.md'),`# 第一集第${num}段｜${d.name}\n\n文本及同目录基础参考已配套；尚未实际生成15秒视频，动作/口型/字幕连续性待验证。复制下面单一代码块的全部内容，连同本段参考输入；不再拼其他文件。\n\n\`\`\`text\n${p}\n\`\`\`\n`);
 const entry={n:d.n,name:d.name,seconds:15,sceneId:d.sceneId,role:d.role,start:d.start,end:d.end,lines:d.lines,refs:refs.map(r=>({id:r.id,file:path.basename(r.path),sha256:r.sha256,source:r.path,purpose:r.purpose,...sourceHistory(r)})),promptFile:path.relative(root,path.join(seg,'视频提示词.md')).replaceAll('\\','/')};
