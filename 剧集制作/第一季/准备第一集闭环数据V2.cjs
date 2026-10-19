@@ -13,3 +13,4 @@ const j=clone(8);j.n=10;j.start=i.end;
 const all=[a,b,c,d,e,f,g,h,i,j];
 for(const x of all){x.sceneId=x.n<=3?'SC-OUT01':x.n<=5?'SC-OUT02':x.n<=7?'SC-OUT03':'SC-OUT04';x.missing='场景/配角/道具原图生成后，以实际来源清单为准；动作/口型/字幕仍需本地试片。';x.start=x.start.replace('A苏晚','B苏晚');x.lines=x.lines.map(l=>[l[1]==='苏晚'?'B':l[1]==='周辰'?'A':'C',...l.slice(1)]);}
 fs.writeFileSync(path.join(dir,'第一集15秒执行数据V2.json'),JSON.stringify(all,null,2));console.log('10 segments, 150 seconds');
+require('./应用首集动作顺序V21.cjs')();

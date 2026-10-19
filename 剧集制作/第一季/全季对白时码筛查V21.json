@@ -1,0 +1,3724 @@
+{
+  "date": "2026-10-19",
+  "scope": "对既有413条对白仅做文字时窗测算，未改台词或录音",
+  "actualAudioGenerated": false,
+  "lines": [
+    {
+      "segment": "01-03",
+      "speaker": "摊主",
+      "text": "见鬼了？",
+      "start": 0.8,
+      "end": 2.3,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 2
+    },
+    {
+      "segment": "01-03",
+      "speaker": "苏晚",
+      "text": "鬼若肯赔车，我也认。",
+      "start": 4.1,
+      "end": 7.4,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.424
+    },
+    {
+      "segment": "01-05",
+      "speaker": "苏晚",
+      "text": "工钱都没拿。你这当爹的，是真急了。",
+      "start": 0.8,
+      "end": 4.8,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.5
+    },
+    {
+      "segment": "01-06",
+      "speaker": "周辰",
+      "text": "三百年没动静，一来就催命。还挺会挑时候。",
+      "start": 5.2,
+      "end": 9.9,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 3.617
+    },
+    {
+      "segment": "02-02",
+      "speaker": "周辰",
+      "text": "你也……",
+      "start": 5.1,
+      "end": 6.2,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 1.818
+    },
+    {
+      "segment": "02-02",
+      "speaker": "苏晚",
+      "text": "先说清，刚才救人收费吗？",
+      "start": 6.6,
+      "end": 10,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.941
+    },
+    {
+      "segment": "02-02",
+      "speaker": "周辰",
+      "text": "照这恢复速度，赔本。",
+      "start": 10.5,
+      "end": 14,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.286
+    },
+    {
+      "segment": "02-03",
+      "speaker": "苏晚",
+      "text": "沈砚来找失踪的女儿。你见过他？",
+      "start": 0.4,
+      "end": 4.8,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 2.955
+    },
+    {
+      "segment": "02-03",
+      "speaker": "周辰",
+      "text": "没见过。我活了三百年，还在找自己的来历。",
+      "start": 5.1,
+      "end": 8.6,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 4.857
+    },
+    {
+      "segment": "02-03",
+      "speaker": "苏晚",
+      "text": "活得久，就知道得多？",
+      "start": 8.9,
+      "end": 10.9,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 4
+    },
+    {
+      "segment": "02-03",
+      "speaker": "周辰",
+      "text": "知道不知道的事，确实多点。",
+      "start": 11.2,
+      "end": 14.7,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.143
+    },
+    {
+      "segment": "02-04",
+      "speaker": "苏晚",
+      "text": "一人向前，门就不动。得一起试。",
+      "start": 11.6,
+      "end": 14.5,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 4.138
+    },
+    {
+      "segment": "02-05",
+      "speaker": "苏晚",
+      "text": "石先落，声后至。里面的时间不对。",
+      "start": 11.6,
+      "end": 14.4,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 4.643
+    },
+    {
+      "segment": "02-06",
+      "speaker": "周辰",
+      "text": "物件不够。我们两个，也得在。",
+      "start": 12.1,
+      "end": 14.8,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 4.074
+    },
+    {
+      "segment": "02-07",
+      "speaker": "周辰",
+      "text": "真出事，我不一定护得住你。",
+      "start": 0.3,
+      "end": 3.7,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.235
+    },
+    {
+      "segment": "02-07",
+      "speaker": "苏晚",
+      "text": "这句比三百年管用。",
+      "start": 4,
+      "end": 6.2,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.636
+    },
+    {
+      "segment": "02-07",
+      "speaker": "周辰",
+      "text": "周辰。",
+      "start": 6.5,
+      "end": 7.5,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 2
+    },
+    {
+      "segment": "02-07",
+      "speaker": "苏晚",
+      "text": "苏晚。能说实话，就别拿漂亮话顶。",
+      "start": 7.8,
+      "end": 10.8,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 4.333
+    },
+    {
+      "segment": "03-02",
+      "speaker": "苏晚",
+      "text": "收法！先别再动它！",
+      "start": 10.1,
+      "end": 12.5,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.917
+    },
+    {
+      "segment": "03-04",
+      "speaker": "苏晚",
+      "text": "你的东西！",
+      "start": 6.6,
+      "end": 8,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "03-04",
+      "speaker": "周辰",
+      "text": "人先给我抓住！",
+      "start": 9.1,
+      "end": 11.5,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 2.5
+    },
+    {
+      "segment": "03-05",
+      "speaker": "周辰",
+      "text": "快些，我这胳膊要交代了。",
+      "start": 11,
+      "end": 13.6,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.846
+    },
+    {
+      "segment": "03-06",
+      "speaker": "苏晚",
+      "text": "补一块砖，拆半座桥。好手艺。",
+      "start": 9.9,
+      "end": 13.1,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.438
+    },
+    {
+      "segment": "03-06",
+      "speaker": "周辰",
+      "text": "先活着投诉。",
+      "start": 13.3,
+      "end": 14.9,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 3.125
+    },
+    {
+      "segment": "03-07",
+      "speaker": "苏晚",
+      "text": "右手先换。别一起松！",
+      "start": 0.8,
+      "end": 3,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.636
+    },
+    {
+      "segment": "03-08",
+      "speaker": "苏晚",
+      "text": "我记住你的纹了。先出去再想。",
+      "start": 6.3,
+      "end": 9.5,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "04-01",
+      "speaker": "苏晚",
+      "text": "先抱稳。猜对了，也不代表摔不疼。",
+      "start": 10.3,
+      "end": 13.9,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.611
+    },
+    {
+      "segment": "04-02",
+      "speaker": "周辰",
+      "text": "看着挺明白，撞着还真疼。",
+      "start": 9.2,
+      "end": 11.7,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 4
+    },
+    {
+      "segment": "04-02",
+      "speaker": "苏晚",
+      "text": "学会了，脑袋替你签收。",
+      "start": 12,
+      "end": 14.8,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.214
+    },
+    {
+      "segment": "04-03",
+      "speaker": "苏晚",
+      "text": "不是没算明白，是只算了半座。",
+      "start": 10.2,
+      "end": 13.2,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 4
+    },
+    {
+      "segment": "04-03",
+      "speaker": "周辰",
+      "text": "另一半也算。",
+      "start": 13.4,
+      "end": 14.9,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "04-04",
+      "speaker": "苏晚",
+      "text": "够了，收。别拿胳膊量。",
+      "start": 6.5,
+      "end": 8.5,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 4
+    },
+    {
+      "segment": "04-06",
+      "speaker": "周辰",
+      "text": "断得好。没让人先试。",
+      "start": 10.3,
+      "end": 12.1,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 4.444
+    },
+    {
+      "segment": "04-07",
+      "speaker": "周辰",
+      "text": "听得出拍子？",
+      "start": 8.8,
+      "end": 10.1,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 3.846
+    },
+    {
+      "segment": "04-07",
+      "speaker": "苏晚",
+      "text": "修过钟。错一齿误点，这儿误命。",
+      "start": 10.4,
+      "end": 14.7,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 2.791
+    },
+    {
+      "segment": "04-08",
+      "speaker": "周辰",
+      "text": "哪一拍放？",
+      "start": 4.8,
+      "end": 6.6,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.222
+    },
+    {
+      "segment": "04-08",
+      "speaker": "苏晚",
+      "text": "第三响。现在。",
+      "start": 6.9,
+      "end": 8.1,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 4.167
+    },
+    {
+      "segment": "05-01",
+      "speaker": "苏晚",
+      "text": "别夸我，先拉绳！",
+      "start": 10.1,
+      "end": 12,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 3.158
+    },
+    {
+      "segment": "05-01",
+      "speaker": "周辰",
+      "text": "夸也等你站住再夸。",
+      "start": 12.3,
+      "end": 14.8,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.2
+    },
+    {
+      "segment": "05-02",
+      "speaker": "苏晚",
+      "text": "抓稳。先过来，再研究疼。",
+      "start": 11.2,
+      "end": 13.4,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 4.091
+    },
+    {
+      "segment": "05-03",
+      "speaker": "苏晚",
+      "text": "下一拍。放。",
+      "start": 5.1,
+      "end": 6.5,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "05-05",
+      "speaker": "苏晚",
+      "text": "再试一下，行吗？",
+      "start": 0.5,
+      "end": 2.2,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 3.529
+    },
+    {
+      "segment": "05-05",
+      "speaker": "周辰",
+      "text": "轻点。",
+      "start": 2.5,
+      "end": 3.2,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "05-05",
+      "speaker": "周辰",
+      "text": "小指。像被碰了一下。",
+      "start": 8,
+      "end": 10,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 4
+    },
+    {
+      "segment": "05-06",
+      "speaker": "周辰",
+      "text": "这次食指。",
+      "start": 1.9,
+      "end": 3.2,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 3.077
+    },
+    {
+      "segment": "05-06",
+      "speaker": "周辰",
+      "text": "共吃苦，连疼都省不了。",
+      "start": 7.8,
+      "end": 10,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 4.091
+    },
+    {
+      "segment": "05-06",
+      "speaker": "苏晚",
+      "text": "先看什么？",
+      "start": 10.4,
+      "end": 12.3,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.105
+    },
+    {
+      "segment": "05-06",
+      "speaker": "周辰",
+      "text": "脚下。",
+      "start": 12.6,
+      "end": 13.3,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "05-07",
+      "speaker": "苏晚",
+      "text": "沈砚的刨纹。小满来过这里。",
+      "start": 10.2,
+      "end": 13.5,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "05-08",
+      "speaker": "周辰",
+      "text": "先看什么？",
+      "start": 4.3,
+      "end": 5.7,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "05-08",
+      "speaker": "苏晚",
+      "text": "脚下。",
+      "start": 6,
+      "end": 6.8,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 2.5
+    },
+    {
+      "segment": "05-08",
+      "speaker": "苏晚",
+      "text": "这地方，耳朵比人勤快。",
+      "start": 9.1,
+      "end": 11.8,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "06-02",
+      "speaker": "周辰",
+      "text": "丢人的事记得比我清楚。",
+      "start": 10,
+      "end": 12.2,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 4.545
+    },
+    {
+      "segment": "06-02",
+      "speaker": "苏晚",
+      "text": "先别认它当祖师。",
+      "start": 12.5,
+      "end": 14.7,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.182
+    },
+    {
+      "segment": "06-03",
+      "speaker": "周辰",
+      "text": "像是……看见了出口。",
+      "start": 10.2,
+      "end": 12,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.889
+    },
+    {
+      "segment": "06-03",
+      "speaker": "苏晚",
+      "text": "我这边也有路。",
+      "start": 12.4,
+      "end": 14.2,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "06-04",
+      "speaker": "苏晚",
+      "text": "等一下——",
+      "start": 5.2,
+      "end": 6.3,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 2.727
+    },
+    {
+      "segment": "06-05",
+      "speaker": "周辰",
+      "text": "先看什么？",
+      "start": 3,
+      "end": 4.5,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.667
+    },
+    {
+      "segment": "06-05",
+      "speaker": "苏晚假影",
+      "text": "脚下。",
+      "start": 5,
+      "end": 5.8,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 2.5
+    },
+    {
+      "segment": "06-05",
+      "speaker": "苏晚假影",
+      "text": "快来，路在这边。",
+      "start": 7,
+      "end": 9,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 3
+    },
+    {
+      "segment": "06-06",
+      "speaker": "苏晚假影",
+      "text": "再往前一步，就能出去了。",
+      "start": 10.1,
+      "end": 12.6,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 4
+    },
+    {
+      "segment": "06-07",
+      "speaker": "周辰假影",
+      "text": "把布结给我，就能救那孩子。",
+      "start": 0.5,
+      "end": 3.5,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.667
+    },
+    {
+      "segment": "06-07",
+      "speaker": "苏晚",
+      "text": "先看什么？",
+      "start": 4,
+      "end": 5.4,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "06-07",
+      "speaker": "周辰假影",
+      "text": "脚下。",
+      "start": 5.7,
+      "end": 6.4,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "06-07",
+      "speaker": "苏晚",
+      "text": "答得这么利索，倒不像你了。",
+      "start": 10.2,
+      "end": 13.6,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.235
+    },
+    {
+      "segment": "06-08",
+      "speaker": "周辰假影",
+      "text": "别犹豫了，孩子等不起。",
+      "start": 5.2,
+      "end": 7.9,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "07-01",
+      "speaker": "周辰",
+      "text": "左无名指。",
+      "start": 2,
+      "end": 3.3,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 3.077
+    },
+    {
+      "segment": "07-01",
+      "speaker": "周辰假影",
+      "text": "左无名指。",
+      "start": 3.7,
+      "end": 4.6,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 4.444
+    },
+    {
+      "segment": "07-01",
+      "speaker": "周辰",
+      "text": "右拇指。",
+      "start": 7,
+      "end": 8,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 3
+    },
+    {
+      "segment": "07-01",
+      "speaker": "周辰假影",
+      "text": "右拇指。",
+      "start": 8.5,
+      "end": 9.3,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "07-02",
+      "speaker": "周辰",
+      "text": "这次是掌心。",
+      "start": 2,
+      "end": 3.3,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 3.846
+    },
+    {
+      "segment": "07-02",
+      "speaker": "周辰假影",
+      "text": "放下刀，跟我走。",
+      "start": 5.3,
+      "end": 7.3,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 3
+    },
+    {
+      "segment": "07-02",
+      "speaker": "苏晚",
+      "text": "旧话背得熟，新疼抄不及。",
+      "start": 10.2,
+      "end": 13.8,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.778
+    },
+    {
+      "segment": "07-03",
+      "speaker": "周辰",
+      "text": "假的省饭，真墙倒舍得下刀。",
+      "start": 12.1,
+      "end": 14.6,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 4.4
+    },
+    {
+      "segment": "07-04",
+      "speaker": "周辰",
+      "text": "三道斜痕的柱脚。隔墙就是我。",
+      "start": 0.5,
+      "end": 4,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.429
+    },
+    {
+      "segment": "07-04",
+      "speaker": "苏晚",
+      "text": "右小指，能感觉吗？",
+      "start": 5,
+      "end": 6.6,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 4.375
+    },
+    {
+      "segment": "07-04",
+      "speaker": "周辰",
+      "text": "能。很近。",
+      "start": 7,
+      "end": 8.3,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 2.308
+    },
+    {
+      "segment": "07-06",
+      "speaker": "周辰",
+      "text": "镜里，你把我留在冰室。我没敢说。",
+      "start": 0.3,
+      "end": 4.5,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.095
+    },
+    {
+      "segment": "07-06",
+      "speaker": "苏晚",
+      "text": "我也见你关门。怕就问，别先替我选路。",
+      "start": 4.8,
+      "end": 9.5,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 3.191
+    },
+    {
+      "segment": "07-06",
+      "speaker": "周辰",
+      "text": "是我错了。",
+      "start": 9.8,
+      "end": 11,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "07-06",
+      "speaker": "苏晚",
+      "text": "我也追着哭声乱走了。都有份。",
+      "start": 11.4,
+      "end": 14.6,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "07-07",
+      "speaker": "周辰",
+      "text": "一起。拉。",
+      "start": 0.5,
+      "end": 1.4,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "07-07",
+      "speaker": "苏晚",
+      "text": "是真的。先别松扣。",
+      "start": 11,
+      "end": 13.5,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.8
+    },
+    {
+      "segment": "07-08",
+      "speaker": "苏晚",
+      "text": "我这边风口上方有灯，门底压着影。",
+      "start": 0.4,
+      "end": 3.3,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 4.828
+    },
+    {
+      "segment": "07-08",
+      "speaker": "周辰",
+      "text": "这回不跟盗版走了。",
+      "start": 5,
+      "end": 7.6,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.077
+    },
+    {
+      "segment": "07-08",
+      "speaker": "苏晚",
+      "text": "先别高兴，正版也还困着。",
+      "start": 8,
+      "end": 10.6,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.846
+    },
+    {
+      "segment": "08-01",
+      "speaker": "苏晚",
+      "text": "亮的没落点，暗的倒有。",
+      "start": 10.3,
+      "end": 13.2,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.103
+    },
+    {
+      "segment": "08-02",
+      "speaker": "苏晚",
+      "text": "我先落脚，你再换。",
+      "start": 6,
+      "end": 7.8,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.889
+    },
+    {
+      "segment": "08-04",
+      "speaker": "苏晚",
+      "text": "要关门，先告诉我。",
+      "start": 10,
+      "end": 12.2,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.182
+    },
+    {
+      "segment": "08-04",
+      "speaker": "周辰",
+      "text": "你也一样。",
+      "start": 12.5,
+      "end": 13.7,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "08-05",
+      "speaker": "周辰",
+      "text": "肩边有碎石。我碰一下？",
+      "start": 0.4,
+      "end": 2.9,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.6
+    },
+    {
+      "segment": "08-05",
+      "speaker": "苏晚",
+      "text": "嗯，轻点。",
+      "start": 3.2,
+      "end": 4.1,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "08-06",
+      "speaker": "周辰",
+      "text": "见过多，不代表看透。",
+      "start": 5.1,
+      "end": 8,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.759
+    },
+    {
+      "segment": "08-06",
+      "speaker": "苏晚",
+      "text": "你这三百年学费，还能退么？",
+      "start": 8.3,
+      "end": 11.5,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.438
+    },
+    {
+      "segment": "08-07",
+      "speaker": "周辰",
+      "text": "这种城，我没见过。",
+      "start": 6,
+      "end": 8.4,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.917
+    },
+    {
+      "segment": "08-07",
+      "speaker": "苏晚",
+      "text": "先记着。别拿幻影当门。",
+      "start": 10.1,
+      "end": 12.7,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.462
+    },
+    {
+      "segment": "08-08",
+      "speaker": "远处男声",
+      "text": "收法！",
+      "start": 5.3,
+      "end": 6.3,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 2
+    },
+    {
+      "segment": "09-02",
+      "speaker": "沈砚",
+      "text": "不是亮就吃，是你们使的法！",
+      "start": 0.5,
+      "end": 4.4,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.821
+    },
+    {
+      "segment": "09-03",
+      "speaker": "苏晚",
+      "text": "这布结，是你留的？",
+      "start": 1.2,
+      "end": 3.5,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.043
+    },
+    {
+      "segment": "09-03",
+      "speaker": "苏晚",
+      "text": "小满手背有烫痕，鞋还没做完？",
+      "start": 5,
+      "end": 8.2,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "09-03",
+      "speaker": "沈砚",
+      "text": "对。她先被卷走，我来找她，伤了腿。",
+      "start": 8.5,
+      "end": 13,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 2.889
+    },
+    {
+      "segment": "09-04",
+      "speaker": "沈砚",
+      "text": "找她找成别人找我，够败家的。",
+      "start": 6,
+      "end": 9.7,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.243
+    },
+    {
+      "segment": "09-04",
+      "speaker": "苏晚",
+      "text": "先挡砂。你手边那个能用吗？",
+      "start": 11,
+      "end": 13.7,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 4.074
+    },
+    {
+      "segment": "09-05",
+      "speaker": "沈砚",
+      "text": "只会这俩杆。左边，挡砂。",
+      "start": 0.5,
+      "end": 3.8,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.727
+    },
+    {
+      "segment": "09-06",
+      "speaker": "苏晚",
+      "text": "有这东西，还困着？",
+      "start": 10,
+      "end": 12,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.5
+    },
+    {
+      "segment": "09-06",
+      "speaker": "沈砚",
+      "text": "能挡风，不能替我长腿。",
+      "start": 12.2,
+      "end": 14.9,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "09-07",
+      "speaker": "周辰",
+      "text": "我护你先走，再回来接他。",
+      "start": 0.6,
+      "end": 3.7,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.226
+    },
+    {
+      "segment": "09-07",
+      "speaker": "苏晚",
+      "text": "拿什么能量回来？",
+      "start": 4,
+      "end": 6,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.5
+    },
+    {
+      "segment": "09-07",
+      "speaker": "苏晚",
+      "text": "别急着挑谁留下，先看船上还能拿什么。",
+      "start": 10.1,
+      "end": 14.6,
+      "characters": 16,
+      "estimatedCharactersPerSecond": 3.556
+    },
+    {
+      "segment": "09-08",
+      "speaker": "沈砚",
+      "text": "肋能撑。薄皮别当梁。",
+      "start": 0.6,
+      "end": 3.7,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.581
+    },
+    {
+      "segment": "10-01",
+      "speaker": "苏晚",
+      "text": "你能长肉，不能长电。它还越吃越来劲。",
+      "start": 5.4,
+      "end": 10.3,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 3.061
+    },
+    {
+      "segment": "10-01",
+      "speaker": "周辰",
+      "text": "沈砚，哪块板能撑？",
+      "start": 11.3,
+      "end": 14,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.593
+    },
+    {
+      "segment": "10-02",
+      "speaker": "沈砚",
+      "text": "厚肋能撑，薄皮挡风。别当成一回事。",
+      "start": 0.8,
+      "end": 4.8,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.5
+    },
+    {
+      "segment": "10-03",
+      "speaker": "苏晚",
+      "text": "这破塔，连口干净风都欠着。",
+      "start": 6.1,
+      "end": 9.8,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.973
+    },
+    {
+      "segment": "10-05",
+      "speaker": "沈砚",
+      "text": "顺着风，压低。板边咬住。",
+      "start": 0.7,
+      "end": 3.8,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.903
+    },
+    {
+      "segment": "10-06",
+      "speaker": "周辰",
+      "text": "现在过。别等它回头。",
+      "start": 10.2,
+      "end": 12.6,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "10-07",
+      "speaker": "周辰",
+      "text": "这下真疼。",
+      "start": 11.2,
+      "end": 13,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.222
+    },
+    {
+      "segment": "10-08",
+      "speaker": "沈砚",
+      "text": "不是不想爬。是真站不住。",
+      "start": 7.2,
+      "end": 9.8,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.846
+    },
+    {
+      "segment": "10-09",
+      "speaker": "苏晚",
+      "text": "水气还在。不是靠这只匣。",
+      "start": 7.4,
+      "end": 10.2,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.571
+    },
+    {
+      "segment": "11-01",
+      "speaker": "苏晚",
+      "text": "我一定——",
+      "start": 0.6,
+      "end": 1.7,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 2.727
+    },
+    {
+      "segment": "11-01",
+      "speaker": "沈砚",
+      "text": "别为让我心安，说你做不到的话。",
+      "start": 2.1,
+      "end": 5.6,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.714
+    },
+    {
+      "segment": "11-01",
+      "speaker": "苏晚",
+      "text": "我去找。找到什么，都告诉你。",
+      "start": 6.2,
+      "end": 10,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.895
+    },
+    {
+      "segment": "11-02",
+      "speaker": "沈砚",
+      "text": "我还能等多久？",
+      "start": 4.4,
+      "end": 6,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "11-02",
+      "speaker": "苏晚",
+      "text": "水三格，气两格。红线前拉铃，别硬等。",
+      "start": 6.2,
+      "end": 11.6,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 2.593
+    },
+    {
+      "segment": "11-03",
+      "speaker": "沈砚",
+      "text": "旧回路弹出来的。常温也不化。",
+      "start": 0.6,
+      "end": 4.3,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.243
+    },
+    {
+      "segment": "11-03",
+      "speaker": "苏晚",
+      "text": "到了能回传的地方，我按短拍联系。",
+      "start": 10,
+      "end": 14,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.5
+    },
+    {
+      "segment": "11-04",
+      "speaker": "沈砚",
+      "text": "她怕黑……你们见到她，会点灯吧？",
+      "start": 1,
+      "end": 4,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 4
+    },
+    {
+      "segment": "11-04",
+      "speaker": "周辰",
+      "text": "见到她，我们先把灯点上。",
+      "start": 5,
+      "end": 8.4,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.941
+    },
+    {
+      "segment": "11-06",
+      "speaker": "苏晚",
+      "text": "我们死不了，怎么还得留一个活人等？",
+      "start": 0.5,
+      "end": 3.9,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 4.412
+    },
+    {
+      "segment": "11-06",
+      "speaker": "周辰",
+      "text": "不死，不是多给一条别人的命。别拿以后再来，糊弄这一次。",
+      "start": 4.4,
+      "end": 13.1,
+      "characters": 23,
+      "estimatedCharactersPerSecond": 2.644
+    },
+    {
+      "segment": "11-08",
+      "speaker": "周辰",
+      "text": "有我在，不让你受一点伤！",
+      "start": 5.1,
+      "end": 8.4,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.03
+    },
+    {
+      "segment": "11-08",
+      "speaker": "苏晚",
+      "text": "这话不对——",
+      "start": 10.2,
+      "end": 11.7,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.667
+    },
+    {
+      "segment": "12-01",
+      "speaker": "周辰",
+      "text": "他娘的，话还没凉，债就来收！",
+      "start": 6,
+      "end": 10,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.75
+    },
+    {
+      "segment": "12-02",
+      "speaker": "苏晚",
+      "text": "别硬顶。我一冒险，它就拽你。",
+      "start": 5.4,
+      "end": 8.8,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.235
+    },
+    {
+      "segment": "12-03",
+      "speaker": "周辰",
+      "text": "我想让你试，也不由我。",
+      "start": 5.1,
+      "end": 7.6,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.6
+    },
+    {
+      "segment": "12-03",
+      "speaker": "苏晚",
+      "text": "它不是护我，是替我们把路选死。",
+      "start": 10.1,
+      "end": 13.9,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.421
+    },
+    {
+      "segment": "12-04",
+      "speaker": "周辰",
+      "text": "我再保证——",
+      "start": 0.6,
+      "end": 1.8,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "12-04",
+      "speaker": "苏晚",
+      "text": "你不能把我愿意冒的险，也算成你犯的错。",
+      "start": 2.1,
+      "end": 7.5,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 3.148
+    },
+    {
+      "segment": "12-04",
+      "speaker": "周辰",
+      "text": "那就找能解的，不再许。",
+      "start": 9.4,
+      "end": 11.8,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "12-06",
+      "speaker": "苏晚",
+      "text": "得押施法权，到出口才还。",
+      "start": 10.1,
+      "end": 12.1,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 5
+    },
+    {
+      "segment": "12-06",
+      "speaker": "周辰",
+      "text": "不会法，怎么出这条廊？",
+      "start": 12.4,
+      "end": 14.8,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "12-07",
+      "speaker": "苏晚",
+      "text": "现在两个会法的，也没走出去。",
+      "start": 10.2,
+      "end": 13.4,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "12-08",
+      "speaker": "苏晚",
+      "text": "我释约，抢实栓。你引刀，不用替我选。",
+      "start": 0.5,
+      "end": 4.5,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.5
+    },
+    {
+      "segment": "12-08",
+      "speaker": "周辰",
+      "text": "你疼就喊，不许装没事。",
+      "start": 5,
+      "end": 8,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3
+    },
+    {
+      "segment": "12-08",
+      "speaker": "苏晚",
+      "text": "你也一样。少拿三百年压我。",
+      "start": 8.4,
+      "end": 11.8,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.235
+    },
+    {
+      "segment": "12-09",
+      "speaker": "苏晚",
+      "text": "还能动刀。接着来。",
+      "start": 10.2,
+      "end": 12.1,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.684
+    },
+    {
+      "segment": "13-01",
+      "speaker": "苏晚",
+      "text": "左手麻了，先别拉这边。",
+      "start": 10.1,
+      "end": 12.7,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.462
+    },
+    {
+      "segment": "13-01",
+      "speaker": "周辰",
+      "text": "听到了，我引下一刀。",
+      "start": 13,
+      "end": 14.7,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 4.706
+    },
+    {
+      "segment": "13-02",
+      "speaker": "周辰",
+      "text": "下一刀我引，第三步你走。",
+      "start": 5.3,
+      "end": 8.8,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "13-02",
+      "speaker": "苏晚",
+      "text": "左手我换，照拍来。",
+      "start": 9.2,
+      "end": 10.8,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 4.375
+    },
+    {
+      "segment": "13-03",
+      "speaker": "苏晚",
+      "text": "停！带子挂住了！",
+      "start": 6,
+      "end": 7.3,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 4.615
+    },
+    {
+      "segment": "13-04",
+      "speaker": "苏晚",
+      "text": "这条倒省了，回头不用买新带。",
+      "start": 5.6,
+      "end": 9.4,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.158
+    },
+    {
+      "segment": "13-04",
+      "speaker": "周辰",
+      "text": "先别省命。低处走。",
+      "start": 10.1,
+      "end": 12.1,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.5
+    },
+    {
+      "segment": "13-06",
+      "speaker": "周辰",
+      "text": "窗口快没了。到就说。",
+      "start": 10.2,
+      "end": 12.5,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.478
+    },
+    {
+      "segment": "13-07",
+      "speaker": "苏晚",
+      "text": "半门开了！我这边有落脚！",
+      "start": 10.5,
+      "end": 12.8,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 4.348
+    },
+    {
+      "segment": "13-09",
+      "speaker": "周辰",
+      "text": "下回少保证，多听你喊。",
+      "start": 10,
+      "end": 12.8,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.214
+    },
+    {
+      "segment": "13-09",
+      "speaker": "苏晚",
+      "text": "这句不收押金。",
+      "start": 13,
+      "end": 14.7,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 3.529
+    },
+    {
+      "segment": "13-10",
+      "speaker": "铁卫",
+      "text": "本源样本。",
+      "start": 10.2,
+      "end": 12.4,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 1.818
+    },
+    {
+      "segment": "14-01",
+      "speaker": "周辰",
+      "text": "探到栏根就回。不硬试。",
+      "start": 10.3,
+      "end": 13.5,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.813
+    },
+    {
+      "segment": "14-02",
+      "speaker": "苏晚",
+      "text": "先出来！想认祖宗，也别拿头去磕！",
+      "start": 10.4,
+      "end": 14.6,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.095
+    },
+    {
+      "segment": "14-04",
+      "speaker": "苏晚",
+      "text": "别再灌！先离开那根柱！",
+      "start": 10.2,
+      "end": 13,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.214
+    },
+    {
+      "segment": "14-05",
+      "speaker": "苏晚",
+      "text": "现在，松钩！走边肋！",
+      "start": 5.1,
+      "end": 7.6,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.8
+    },
+    {
+      "segment": "14-06",
+      "speaker": "周辰",
+      "text": "这两道，谁留的？",
+      "start": 0.6,
+      "end": 2.5,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 3.158
+    },
+    {
+      "segment": "14-06",
+      "speaker": "苏晚",
+      "text": "看你指印，还有刚烫的伤。",
+      "start": 3,
+      "end": 5.5,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 4
+    },
+    {
+      "segment": "14-06",
+      "speaker": "周辰",
+      "text": "是我刚才？",
+      "start": 7.7,
+      "end": 9.4,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.353
+    },
+    {
+      "segment": "14-06",
+      "speaker": "苏晚",
+      "text": "是你。你现在问，我就现在答。",
+      "start": 10,
+      "end": 14.2,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.619
+    },
+    {
+      "segment": "14-07",
+      "speaker": "周辰",
+      "text": "四层我记得。刚走的路，却像没走过。",
+      "start": 5.1,
+      "end": 8.8,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.784
+    },
+    {
+      "segment": "14-07",
+      "speaker": "苏晚",
+      "text": "那先记在外面。不是你的错觉。",
+      "start": 9.2,
+      "end": 12.6,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.529
+    },
+    {
+      "segment": "14-08",
+      "speaker": "苏晚",
+      "text": "死物不算，碰法就抬刀。先别再试。",
+      "start": 10.2,
+      "end": 13.7,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.714
+    },
+    {
+      "segment": "14-09",
+      "speaker": "周辰",
+      "text": "还能找回来吗？",
+      "start": 5.2,
+      "end": 7.3,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "14-09",
+      "speaker": "苏晚",
+      "text": "没有存档。",
+      "start": 7.7,
+      "end": 9,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 3.077
+    },
+    {
+      "segment": "14-09",
+      "speaker": "周辰",
+      "text": "你记，我来给你看路。",
+      "start": 10.4,
+      "end": 13.9,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.286
+    },
+    {
+      "segment": "15-01",
+      "speaker": "苏晚",
+      "text": "认得来路，不代表能替别人点头。",
+      "start": 10.2,
+      "end": 13.7,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.714
+    },
+    {
+      "segment": "15-02",
+      "speaker": "苏晚",
+      "text": "不是你没接上。板子把我弹回来了。",
+      "start": 10.1,
+      "end": 13.7,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.889
+    },
+    {
+      "segment": "15-03",
+      "speaker": "苏晚",
+      "text": "脚点稳了。别多灌。",
+      "start": 11,
+      "end": 13.5,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.8
+    },
+    {
+      "segment": "15-04",
+      "speaker": "周辰",
+      "text": "同意读取我的记录。",
+      "start": 0.7,
+      "end": 3.4,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.963
+    },
+    {
+      "segment": "15-04",
+      "speaker": "苏晚",
+      "text": "同意读取我的记录。",
+      "start": 5.4,
+      "end": 8.2,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "15-05",
+      "speaker": "周辰",
+      "text": "一刀没砍赢，倒把手续办齐了。",
+      "start": 9.8,
+      "end": 12.5,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 4.444
+    },
+    {
+      "segment": "15-05",
+      "speaker": "苏晚",
+      "text": "这回没替我签，算你长进。",
+      "start": 12.7,
+      "end": 14.9,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 4.545
+    },
+    {
+      "segment": "15-06",
+      "speaker": "档案录音",
+      "text": "先民研究长时航路，以互补生命本源维持时空接触。再生修复肉体，不修复记忆。",
+      "start": 1,
+      "end": 12.8,
+      "characters": 32,
+      "estimatedCharactersPerSecond": 2.712
+    },
+    {
+      "segment": "15-07",
+      "speaker": "档案录音",
+      "text": "不同激活批次，同类互补编码。关系记录：互补。",
+      "start": 5.3,
+      "end": 10.6,
+      "characters": 18,
+      "estimatedCharactersPerSecond": 3.396
+    },
+    {
+      "segment": "15-08",
+      "speaker": "苏晚",
+      "text": "是被做出来的命，就不算自己的？",
+      "start": 0.5,
+      "end": 4.2,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.514
+    },
+    {
+      "segment": "15-08",
+      "speaker": "周辰",
+      "text": "它只能叫出编号。刚才肯回来挡那一下的，是你。",
+      "start": 4.7,
+      "end": 10.7,
+      "characters": 19,
+      "estimatedCharactersPerSecond": 3.167
+    },
+    {
+      "segment": "15-08",
+      "speaker": "苏晚",
+      "text": "那以后一起不一起，也由我们。",
+      "start": 11.2,
+      "end": 14.6,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.529
+    },
+    {
+      "segment": "15-09",
+      "speaker": "苏晚",
+      "text": "粗活你来，细活先照实记。",
+      "start": 10.7,
+      "end": 13.7,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "15-10",
+      "speaker": "苏晚",
+      "text": "那边……有孩子的呼吸。",
+      "start": 7.1,
+      "end": 10.2,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.581
+    },
+    {
+      "segment": "16-01",
+      "speaker": "苏晚",
+      "text": "十二座。四黄，八蓝。先别漏一个。",
+      "start": 10.2,
+      "end": 13.6,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.529
+    },
+    {
+      "segment": "16-02",
+      "speaker": "苏晚",
+      "text": "是小满。那道旧痕在。",
+      "start": 5.2,
+      "end": 7.4,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.636
+    },
+    {
+      "segment": "16-03",
+      "speaker": "苏晚",
+      "text": "停，压差不对。先试铜片。",
+      "start": 0.7,
+      "end": 3.5,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.214
+    },
+    {
+      "segment": "16-04",
+      "speaker": "苏晚",
+      "text": "它把人从裂口救了，又把回家的门丢了。",
+      "start": 5.3,
+      "end": 10.7,
+      "characters": 16,
+      "estimatedCharactersPerSecond": 2.963
+    },
+    {
+      "segment": "16-04",
+      "speaker": "周辰",
+      "text": "那门，不在这块玻璃后面。",
+      "start": 11,
+      "end": 14.6,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.778
+    },
+    {
+      "segment": "16-06",
+      "speaker": "苏晚",
+      "text": "找到小满了。隔着相位，暂时还带不出。",
+      "start": 0.6,
+      "end": 4.7,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 3.659
+    },
+    {
+      "segment": "16-06",
+      "speaker": "沈砚",
+      "text": "她怕黑，给她一点亮就好。",
+      "start": 5.4,
+      "end": 10.1,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.128
+    },
+    {
+      "segment": "16-06",
+      "speaker": "苏晚",
+      "text": "已经亮了。",
+      "start": 11.2,
+      "end": 13.3,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 1.905
+    },
+    {
+      "segment": "16-07",
+      "speaker": "周辰",
+      "text": "十二舱，再加沈砚。十三个。",
+      "start": 10.3,
+      "end": 13.3,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "16-08",
+      "speaker": "苏晚",
+      "text": "公开九处。维护图，怎么多一处？",
+      "start": 1.2,
+      "end": 4.7,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.429
+    },
+    {
+      "segment": "17-01",
+      "speaker": "苏晚",
+      "text": "不是给过通行了吗？",
+      "start": 10.1,
+      "end": 12.1,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 4
+    },
+    {
+      "segment": "17-01",
+      "speaker": "周辰",
+      "text": "给的是路，没说给多久。",
+      "start": 12.3,
+      "end": 14.9,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.462
+    },
+    {
+      "segment": "17-02",
+      "speaker": "苏晚",
+      "text": "开不满。我先过，给你留门。",
+      "start": 10.2,
+      "end": 13.6,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.941
+    },
+    {
+      "segment": "17-04",
+      "speaker": "苏晚",
+      "text": "这里能活人。也得有人修。",
+      "start": 10.4,
+      "end": 13.4,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "17-05",
+      "speaker": "苏晚",
+      "text": "杯底我托着。抖就抖，水别赔了。",
+      "start": 5.3,
+      "end": 8.7,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.529
+    },
+    {
+      "segment": "17-05",
+      "speaker": "周辰",
+      "text": "大力气还在，细活真不听使唤。",
+      "start": 10.3,
+      "end": 13.2,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 4.138
+    },
+    {
+      "segment": "17-06",
+      "speaker": "苏晚",
+      "text": "记住这个。以后分活，照真本事来。",
+      "start": 7.2,
+      "end": 10.6,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.824
+    },
+    {
+      "segment": "17-07",
+      "speaker": "周辰",
+      "text": "知道有路，和轮得到咱们，是两回事。",
+      "start": 9.1,
+      "end": 12.9,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.684
+    },
+    {
+      "segment": "17-08",
+      "speaker": "周辰",
+      "text": "这回，我记得自己选了什么。",
+      "start": 10.3,
+      "end": 13.7,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.235
+    },
+    {
+      "segment": "17-10",
+      "speaker": "梦市摊主",
+      "text": "头碗清水，不收钱。进市的人都渴。",
+      "start": 0.6,
+      "end": 4.6,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.25
+    },
+    {
+      "segment": "17-10",
+      "speaker": "周辰",
+      "text": "水是真的。人也真饿。",
+      "start": 5.5,
+      "end": 8,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.2
+    },
+    {
+      "segment": "17-10",
+      "speaker": "苏晚",
+      "text": "先喝，价钱总会跟上来。",
+      "start": 9.2,
+      "end": 12.7,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.571
+    },
+    {
+      "segment": "18-01",
+      "speaker": "梦市摊主",
+      "text": "头一份迎客，第二份付账。",
+      "start": 10.2,
+      "end": 14,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.632
+    },
+    {
+      "segment": "18-02",
+      "speaker": "苏晚",
+      "text": "掌柜，你这买卖是饭后抢劫？",
+      "start": 5.1,
+      "end": 8.3,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.437
+    },
+    {
+      "segment": "18-02",
+      "speaker": "梦市摊主",
+      "text": "那我先报价，再盛汤。省得你骂我不讲究。",
+      "start": 8.6,
+      "end": 13.5,
+      "characters": 16,
+      "estimatedCharactersPerSecond": 3.265
+    },
+    {
+      "segment": "18-03",
+      "speaker": "执市人",
+      "text": "只收你选的一段亲历。经过能再讲，当时的自己，还不回来。",
+      "start": 0.8,
+      "end": 10.8,
+      "characters": 23,
+      "estimatedCharactersPerSecond": 2.3
+    },
+    {
+      "segment": "18-03",
+      "speaker": "执市人",
+      "text": "落手前，随时能停。",
+      "start": 11.1,
+      "end": 14.6,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2
+    },
+    {
+      "segment": "18-04",
+      "speaker": "苏晚",
+      "text": "独自喝苦茶那天下午。苦得能刮墙。只换药和绷带。",
+      "start": 0.6,
+      "end": 6.2,
+      "characters": 20,
+      "estimatedCharactersPerSecond": 3.571
+    },
+    {
+      "segment": "18-04",
+      "speaker": "执市人",
+      "text": "只取这一段，别的不碰。",
+      "start": 6.6,
+      "end": 9.6,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3
+    },
+    {
+      "segment": "18-04",
+      "speaker": "苏晚",
+      "text": "同意。就这一段。",
+      "start": 10.3,
+      "end": 12.2,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 3.158
+    },
+    {
+      "segment": "18-05",
+      "speaker": "苏晚",
+      "text": "我知道很苦。可那味儿，想不起了。",
+      "start": 10.5,
+      "end": 13.8,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.939
+    },
+    {
+      "segment": "18-06",
+      "speaker": "周辰",
+      "text": "你刚说，苦得能刮墙。",
+      "start": 0.6,
+      "end": 3.7,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.581
+    },
+    {
+      "segment": "18-06",
+      "speaker": "苏晚",
+      "text": "听着像别人的倒霉事。先不卖了。",
+      "start": 4.3,
+      "end": 8.3,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.25
+    },
+    {
+      "segment": "18-07",
+      "speaker": "苏晚",
+      "text": "手上又多一道。不是时间倒回去。",
+      "start": 1.1,
+      "end": 4.3,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 4.063
+    },
+    {
+      "segment": "18-08",
+      "speaker": "执市人",
+      "text": "钥匙是真钥匙，一把只送一人。想一起走，得付两份。",
+      "start": 4.1,
+      "end": 10,
+      "characters": 20,
+      "estimatedCharactersPerSecond": 3.39
+    },
+    {
+      "segment": "18-08",
+      "speaker": "苏晚",
+      "text": "不用说成便宜我们了。先看货路。",
+      "start": 10.4,
+      "end": 13.8,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.824
+    },
+    {
+      "segment": "18-09",
+      "speaker": "苏晚",
+      "text": "车能过，总有不是卖记忆的路。",
+      "start": 1,
+      "end": 4.2,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "18-10",
+      "speaker": "执市人",
+      "text": "初入塔那几段就够。不是命，也不是全忘了她。",
+      "start": 0.6,
+      "end": 7.1,
+      "characters": 18,
+      "estimatedCharactersPerSecond": 2.769
+    },
+    {
+      "segment": "18-10",
+      "speaker": "苏晚",
+      "text": "周辰，先别——",
+      "start": 11.1,
+      "end": 13.4,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 1.739
+    },
+    {
+      "segment": "19-01",
+      "speaker": "执市人",
+      "text": "初见、递鞘、借力，还有影城那回。就这些？",
+      "start": 0.6,
+      "end": 4.9,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 3.488
+    },
+    {
+      "segment": "19-01",
+      "speaker": "周辰",
+      "text": "只这些亲历。姓名、救人和后来的事，不卖。",
+      "start": 5.2,
+      "end": 10,
+      "characters": 16,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "19-01",
+      "speaker": "执市人",
+      "text": "没有回头价。",
+      "start": 10.3,
+      "end": 12.1,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 2.778
+    },
+    {
+      "segment": "19-01",
+      "speaker": "周辰",
+      "text": "我听懂了。",
+      "start": 12.6,
+      "end": 14.2,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.5
+    },
+    {
+      "segment": "19-02",
+      "speaker": "周辰",
+      "text": "苏晚……你来了。",
+      "start": 11,
+      "end": 13.3,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 2.174
+    },
+    {
+      "segment": "19-03",
+      "speaker": "苏晚",
+      "text": "第一回，你递给我什么？",
+      "start": 5.2,
+      "end": 8.3,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.903
+    },
+    {
+      "segment": "19-03",
+      "speaker": "周辰",
+      "text": "剑鞘？……我猜的。",
+      "start": 9,
+      "end": 12.8,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 1.316
+    },
+    {
+      "segment": "19-04",
+      "speaker": "周辰",
+      "text": "后来的事我都记得。沈砚、小满，也记得。",
+      "start": 0.6,
+      "end": 5,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 3.409
+    },
+    {
+      "segment": "19-04",
+      "speaker": "苏晚",
+      "text": "记得做过一件事，和记得为何敢把后背交给人，不是一回事。",
+      "start": 5.5,
+      "end": 12.9,
+      "characters": 24,
+      "estimatedCharactersPerSecond": 3.243
+    },
+    {
+      "segment": "19-05",
+      "speaker": "周辰",
+      "text": "不走了。换回来。",
+      "start": 4.2,
+      "end": 6.7,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 2.4
+    },
+    {
+      "segment": "19-05",
+      "speaker": "执市人",
+      "text": "已经进灯群，按规不能倒卖给原主。退钥匙，也退不回你。",
+      "start": 7,
+      "end": 14.2,
+      "characters": 22,
+      "estimatedCharactersPerSecond": 3.056
+    },
+    {
+      "segment": "19-06",
+      "speaker": "执市人",
+      "text": "新记忆能换搜索权。找不找得到，另说。",
+      "start": 0.6,
+      "end": 6,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 2.778
+    },
+    {
+      "segment": "19-06",
+      "speaker": "苏晚",
+      "text": "够了。你还想把后来的也押上？",
+      "start": 6.5,
+      "end": 11,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 2.667
+    },
+    {
+      "segment": "19-06",
+      "speaker": "周辰",
+      "text": "我没再换。",
+      "start": 11.5,
+      "end": 13.6,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 1.905
+    },
+    {
+      "segment": "19-07",
+      "speaker": "苏晚",
+      "text": "那是你现在该做的，不是我现在就该原谅的。",
+      "start": 0.6,
+      "end": 6.8,
+      "characters": 18,
+      "estimatedCharactersPerSecond": 2.903
+    },
+    {
+      "segment": "19-08",
+      "speaker": "苏晚",
+      "text": "你怕我不答应，所以干脆没问。",
+      "start": 5.2,
+      "end": 10,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 2.5
+    },
+    {
+      "segment": "19-08",
+      "speaker": "周辰",
+      "text": "是。",
+      "start": 11,
+      "end": 12.1,
+      "characters": 1,
+      "estimatedCharactersPerSecond": 0.909
+    },
+    {
+      "segment": "19-09",
+      "speaker": "苏晚",
+      "text": "你替我省的这份痛，最后还是我来疼。",
+      "start": 0.5,
+      "end": 5,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "19-09",
+      "speaker": "苏晚",
+      "text": "路是一人一把。今晚，别替我做决定。",
+      "start": 9.1,
+      "end": 13.8,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 2.979
+    },
+    {
+      "segment": "19-09",
+      "speaker": "周辰",
+      "text": "好。",
+      "start": 14,
+      "end": 14.9,
+      "characters": 1,
+      "estimatedCharactersPerSecond": 1.111
+    },
+    {
+      "segment": "19-10",
+      "speaker": "苏晚",
+      "text": "是真的。你拿着，可以走。",
+      "start": 10.3,
+      "end": 14.4,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.195
+    },
+    {
+      "segment": "20-01",
+      "speaker": "苏晚",
+      "text": "你不必证明给我看。",
+      "start": 5.1,
+      "end": 7.7,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.077
+    },
+    {
+      "segment": "20-01",
+      "speaker": "周辰",
+      "text": "我现在不想一个人走。这件事，我自己知道。",
+      "start": 8,
+      "end": 14,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 2.833
+    },
+    {
+      "segment": "20-02",
+      "speaker": "苏晚",
+      "text": "那先把欠别人的做完。",
+      "start": 5.2,
+      "end": 8.8,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.5
+    },
+    {
+      "segment": "20-03",
+      "speaker": "搬水人",
+      "text": "路原来通。后来，归灯主收钱了。",
+      "start": 10.2,
+      "end": 14.6,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 2.727
+    },
+    {
+      "segment": "20-04",
+      "speaker": "周辰",
+      "text": "钥匙能开吗？",
+      "start": 0.7,
+      "end": 3,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 2.174
+    },
+    {
+      "segment": "20-04",
+      "speaker": "苏晚",
+      "text": "不是一个锁。硬拧会坏。先让他把路说清。",
+      "start": 3.4,
+      "end": 8.1,
+      "characters": 16,
+      "estimatedCharactersPerSecond": 3.404
+    },
+    {
+      "segment": "20-05",
+      "speaker": "执市人",
+      "text": "水、药、修灯，哪样不是我供？任人来去，谁付账？",
+      "start": 0.6,
+      "end": 6.5,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 2.881
+    },
+    {
+      "segment": "20-05",
+      "speaker": "苏晚",
+      "text": "收你供的东西，我们认。别把本来就有的路，也算成你的命。",
+      "start": 7,
+      "end": 14.5,
+      "characters": 23,
+      "estimatedCharactersPerSecond": 3.067
+    },
+    {
+      "segment": "20-07",
+      "speaker": "周辰",
+      "text": "这买路钱，倒先替人挡了刀。",
+      "start": 10.7,
+      "end": 13.6,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.793
+    },
+    {
+      "segment": "20-08",
+      "speaker": "苏晚",
+      "text": "不能莽。它连着灯架，灯里是真记忆。",
+      "start": 8.9,
+      "end": 13.8,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "20-09",
+      "speaker": "周辰",
+      "text": "你要哪边？",
+      "start": 0.8,
+      "end": 3.2,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 1.667
+    },
+    {
+      "segment": "20-09",
+      "speaker": "苏晚",
+      "text": "你左侧。给我看看侧铰。",
+      "start": 3.7,
+      "end": 7.2,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.571
+    },
+    {
+      "segment": "20-10",
+      "speaker": "执市人",
+      "text": "我也是走不出去的人。别逼我把这里一起砸了。",
+      "start": 6.2,
+      "end": 14.4,
+      "characters": 19,
+      "estimatedCharactersPerSecond": 2.317
+    },
+    {
+      "segment": "21-02",
+      "speaker": "苏晚",
+      "text": "左边那根，新加的。我要断它，你别挡我刀口。",
+      "start": 5.1,
+      "end": 11.4,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 2.698
+    },
+    {
+      "segment": "21-03",
+      "speaker": "苏晚",
+      "text": "切错面了。换铆耳。",
+      "start": 11.1,
+      "end": 13.7,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.692
+    },
+    {
+      "segment": "21-07",
+      "speaker": "执市人",
+      "text": "我当年，也买不起第二把。同行的人走了。我接下摊子，后来……把路锁了。",
+      "start": 2.2,
+      "end": 12.8,
+      "characters": 27,
+      "estimatedCharactersPerSecond": 2.547
+    },
+    {
+      "segment": "21-08",
+      "speaker": "苏晚",
+      "text": "别人欠你的，不能向后面的人收。",
+      "start": 0.7,
+      "end": 5.4,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 2.766
+    },
+    {
+      "segment": "21-09",
+      "speaker": "执市人",
+      "text": "你们不会再来？",
+      "start": 5.2,
+      "end": 7.6,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 2.5
+    },
+    {
+      "segment": "21-09",
+      "speaker": "苏晚",
+      "text": "不替以后的人答。他们要不要走，该由他们。",
+      "start": 8,
+      "end": 14.2,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 2.742
+    },
+    {
+      "segment": "21-10",
+      "speaker": "周辰",
+      "text": "我欠你的那部分，还在。",
+      "start": 8.7,
+      "end": 11.1,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "21-10",
+      "speaker": "苏晚",
+      "text": "先别急着结清。往后怎么做，我看得见。",
+      "start": 11.3,
+      "end": 14.9,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 4.167
+    },
+    {
+      "segment": "22-01",
+      "speaker": "周辰",
+      "text": "这回总算遇上个说人话的。",
+      "start": 7.2,
+      "end": 10.8,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.056
+    },
+    {
+      "segment": "22-01",
+      "speaker": "苏晚",
+      "text": "它还没收账。先别认亲。",
+      "start": 11,
+      "end": 14.7,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.432
+    },
+    {
+      "segment": "22-03",
+      "speaker": "苏晚",
+      "text": "刚才救我们，这回就让我们别管人？",
+      "start": 10.4,
+      "end": 14.4,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.5
+    },
+    {
+      "segment": "22-04",
+      "speaker": "周辰",
+      "text": "它只登记了两个人。算得没错，题就这么出的。",
+      "start": 0.6,
+      "end": 6.3,
+      "characters": 18,
+      "estimatedCharactersPerSecond": 3.158
+    },
+    {
+      "segment": "22-04",
+      "speaker": "苏晚",
+      "text": "那先别断。我们去看真路。",
+      "start": 8.1,
+      "end": 11.3,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.125
+    },
+    {
+      "segment": "22-06",
+      "speaker": "周辰",
+      "text": "抬一点。你慢慢抽。",
+      "start": 1.1,
+      "end": 3.4,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.043
+    },
+    {
+      "segment": "22-07",
+      "speaker": "周辰",
+      "text": "我也信了。不是你一个人的错。",
+      "start": 4.9,
+      "end": 8.6,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.243
+    },
+    {
+      "segment": "22-07",
+      "speaker": "苏晚",
+      "text": "先看哪里算旧了。别忙着给自己判刑。",
+      "start": 9,
+      "end": 14.4,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 2.778
+    },
+    {
+      "segment": "22-08",
+      "speaker": "苏晚",
+      "text": "轨早断了，图还当它好好的。先改眼前这一段。",
+      "start": 7.6,
+      "end": 13.9,
+      "characters": 18,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "22-09",
+      "speaker": "周辰",
+      "text": "只改看得见的。远处的，先别瞎动。",
+      "start": 10.4,
+      "end": 13.5,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 4.194
+    },
+    {
+      "segment": "22-10",
+      "speaker": "苏晚",
+      "text": "四个急，八个还能等。能等，也不是不用救。",
+      "start": 10.2,
+      "end": 14.5,
+      "characters": 16,
+      "estimatedCharactersPerSecond": 3.721
+    },
+    {
+      "segment": "22-11",
+      "speaker": "苏晚",
+      "text": "近道给了他们，我们就得走那一圈。",
+      "start": 7.8,
+      "end": 11.6,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.684
+    },
+    {
+      "segment": "23-01",
+      "speaker": "苏晚",
+      "text": "走远路，有机会。让他们等，是拿别人的时间省我们的脚。",
+      "start": 7.8,
+      "end": 14.7,
+      "characters": 22,
+      "estimatedCharactersPerSecond": 3.188
+    },
+    {
+      "segment": "23-02",
+      "speaker": "苏晚",
+      "text": "先救这四个，不是只救这四个。",
+      "start": 8.7,
+      "end": 11.6,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 4.138
+    },
+    {
+      "segment": "23-02",
+      "speaker": "周辰",
+      "text": "后面八个还欠着。沈砚另算。",
+      "start": 11.8,
+      "end": 14.9,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.548
+    },
+    {
+      "segment": "23-03",
+      "speaker": "周辰",
+      "text": "同意移给急危舱。",
+      "start": 4.8,
+      "end": 7.1,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 3.043
+    },
+    {
+      "segment": "23-03",
+      "speaker": "苏晚",
+      "text": "我也同意。八舱的账，记着。",
+      "start": 7.5,
+      "end": 10.8,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.03
+    },
+    {
+      "segment": "23-04",
+      "speaker": "苏晚",
+      "text": "我坐稳引方向。你先松外扣。",
+      "start": 10.5,
+      "end": 13.8,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "23-06",
+      "speaker": "苏晚",
+      "text": "别硬抢。等它回到低点。",
+      "start": 10.7,
+      "end": 14,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.727
+    },
+    {
+      "segment": "23-07",
+      "speaker": "苏晚",
+      "text": "就是现在，顺着它推。",
+      "start": 0.7,
+      "end": 3.3,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.077
+    },
+    {
+      "segment": "23-08",
+      "speaker": "周辰",
+      "text": "近路让出去了。后面的账，真得用脚还。",
+      "start": 10.4,
+      "end": 13.8,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 4.412
+    },
+    {
+      "segment": "23-10",
+      "speaker": "周辰",
+      "text": "我记不起来最早那几天。",
+      "start": 5.1,
+      "end": 8.7,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.778
+    },
+    {
+      "segment": "23-10",
+      "speaker": "苏晚",
+      "text": "这几天，别再丢了。",
+      "start": 9.1,
+      "end": 12,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.414
+    },
+    {
+      "segment": "24-02",
+      "speaker": "周辰",
+      "text": "要是把伤放进去，出来是不是就不疼了？",
+      "start": 0.7,
+      "end": 6.1,
+      "characters": 16,
+      "estimatedCharactersPerSecond": 2.963
+    },
+    {
+      "segment": "24-02",
+      "speaker": "苏晚",
+      "text": "人也得跟着进去。谁给你白送日子？",
+      "start": 6.5,
+      "end": 12.6,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 2.295
+    },
+    {
+      "segment": "24-03",
+      "speaker": "苏晚",
+      "text": "两边谁按都能启。它分工，不分男女。",
+      "start": 11.2,
+      "end": 14.9,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.784
+    },
+    {
+      "segment": "24-04",
+      "speaker": "苏晚",
+      "text": "停的是里面这段路。外面，罩还在护着。",
+      "start": 10.1,
+      "end": 14.2,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 3.659
+    },
+    {
+      "segment": "24-05",
+      "speaker": "周辰",
+      "text": "看得见曲线，读不到年数。多灌，也未必能快。",
+      "start": 10.3,
+      "end": 14.1,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 4.474
+    },
+    {
+      "segment": "24-06",
+      "speaker": "苏晚",
+      "text": "不能人走了，把刚接好的路也拔了。先存进独立锁位。",
+      "start": 5.3,
+      "end": 10.8,
+      "characters": 21,
+      "estimatedCharactersPerSecond": 3.818
+    },
+    {
+      "segment": "24-07",
+      "speaker": "周辰",
+      "text": "先路由，再舱序，最后锁定。",
+      "start": 0.8,
+      "end": 3.7,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.448
+    },
+    {
+      "segment": "24-07",
+      "speaker": "苏晚",
+      "text": "锁销落了。四急八缓，都在。",
+      "start": 10.9,
+      "end": 13.8,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.448
+    },
+    {
+      "segment": "24-08",
+      "speaker": "周辰",
+      "text": "还能用。先护着，别再拿它硬撞门。",
+      "start": 10.5,
+      "end": 13.9,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.824
+    },
+    {
+      "segment": "24-09",
+      "speaker": "周辰",
+      "text": "人到这儿，才知道抬头也费力。",
+      "start": 10.2,
+      "end": 14,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.158
+    },
+    {
+      "segment": "24-10",
+      "speaker": "沈砚",
+      "text": "上头有人吗？我听见孩子了！",
+      "start": 10.3,
+      "end": 14.8,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.444
+    },
+    {
+      "segment": "25-01",
+      "speaker": "苏晚",
+      "text": "再多走两步，我真成来送她最后一程的了。",
+      "start": 9.6,
+      "end": 14.5,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 3.469
+    },
+    {
+      "segment": "25-02",
+      "speaker": "周辰",
+      "text": "再使劲，也是拿舱里的命给桥垫脚。",
+      "start": 9.6,
+      "end": 13.8,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "25-03",
+      "speaker": "周辰",
+      "text": "背了一路，总算不用拿它装体面。",
+      "start": 9.7,
+      "end": 13.7,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.25
+    },
+    {
+      "segment": "25-04",
+      "speaker": "苏晚",
+      "text": "能把漏的补住，已经够它争气了。",
+      "start": 9.8,
+      "end": 13.6,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.421
+    },
+    {
+      "segment": "25-05",
+      "speaker": "周辰",
+      "text": "先看灯。桥稳了，人没气了，算哪门子救？",
+      "start": 9.8,
+      "end": 13.4,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 4.167
+    },
+    {
+      "segment": "25-06",
+      "speaker": "苏晚",
+      "text": "停，别补力！",
+      "start": 9.8,
+      "end": 11.1,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 3.077
+    },
+    {
+      "segment": "25-07",
+      "speaker": "周辰",
+      "text": "不是力气不够。",
+      "start": 9.7,
+      "end": 11.3,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 3.75
+    },
+    {
+      "segment": "25-07",
+      "speaker": "苏晚",
+      "text": "各自拼命，桥都不知道该听谁的。",
+      "start": 11.5,
+      "end": 14.8,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.939
+    },
+    {
+      "segment": "25-08",
+      "speaker": "苏晚",
+      "text": "往外一点。垫脚，不是把疼压回去。",
+      "start": 4.5,
+      "end": 8.5,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.25
+    },
+    {
+      "segment": "25-09",
+      "speaker": "周辰",
+      "text": "先练停。能停住，才有资格往前顶。",
+      "start": 9.8,
+      "end": 13.9,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.171
+    },
+    {
+      "segment": "25-10",
+      "speaker": "苏晚",
+      "text": "它一绷，你就知道我在硬撑。比嘴硬好使。",
+      "start": 9.7,
+      "end": 13.7,
+      "characters": 16,
+      "estimatedCharactersPerSecond": 4
+    },
+    {
+      "segment": "25-11",
+      "speaker": "周辰",
+      "text": "你说停，我就停。不是客气。",
+      "start": 0.6,
+      "end": 4.3,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.703
+    },
+    {
+      "segment": "26-02",
+      "speaker": "周辰",
+      "text": "我以为我还能替你补。",
+      "start": 4.4,
+      "end": 8.2,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.368
+    },
+    {
+      "segment": "26-02",
+      "speaker": "苏晚",
+      "text": "我也忍着没告诉你。都改。",
+      "start": 8.6,
+      "end": 13.7,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 1.961
+    },
+    {
+      "segment": "26-03",
+      "speaker": "苏晚",
+      "text": "别猜我还能撑多久。问。",
+      "start": 9.6,
+      "end": 14,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.045
+    },
+    {
+      "segment": "26-04",
+      "speaker": "周辰",
+      "text": "现在呢？",
+      "start": 0.6,
+      "end": 2.5,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 1.579
+    },
+    {
+      "segment": "26-04",
+      "speaker": "苏晚",
+      "text": "三轮。第三轮结束，先换低档。",
+      "start": 3,
+      "end": 8.6,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 1.964
+    },
+    {
+      "segment": "26-05",
+      "speaker": "苏晚",
+      "text": "这次停得住。再试半载。",
+      "start": 9.7,
+      "end": 12.8,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.903
+    },
+    {
+      "segment": "26-06",
+      "speaker": "周辰",
+      "text": "看见它晃，也得先听你说。",
+      "start": 9.7,
+      "end": 13.4,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.703
+    },
+    {
+      "segment": "26-08",
+      "speaker": "苏晚",
+      "text": "第二轮。看路，别追着灯使劲。",
+      "start": 10.1,
+      "end": 13.9,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.895
+    },
+    {
+      "segment": "26-09",
+      "speaker": "周辰",
+      "text": "第三轮，降档。",
+      "start": 0.5,
+      "end": 2.7,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 2.273
+    },
+    {
+      "segment": "26-10",
+      "speaker": "苏晚",
+      "text": "扶着边，一步就好。我们等你。",
+      "start": 9.6,
+      "end": 13.6,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.75
+    },
+    {
+      "segment": "26-11",
+      "speaker": "苏晚",
+      "text": "沈砚，别催她。告诉她，你在哪儿。",
+      "start": 1.1,
+      "end": 5.4,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 2.791
+    },
+    {
+      "segment": "26-11",
+      "speaker": "沈砚",
+      "text": "小满，听爹说……爹就在这儿。",
+      "start": 6.1,
+      "end": 10.5,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.273
+    },
+    {
+      "segment": "27-01",
+      "speaker": "苏晚",
+      "text": "鞋不要了，先抓那根绳。看着门，慢点。",
+      "start": 2.1,
+      "end": 6.5,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.182
+    },
+    {
+      "segment": "27-03",
+      "speaker": "小满",
+      "text": "爹！我在门里！",
+      "start": 10.1,
+      "end": 12.2,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 2.381
+    },
+    {
+      "segment": "27-05",
+      "speaker": "苏晚",
+      "text": "小满，三位，还有沈砚。依次应一声。",
+      "start": 0.4,
+      "end": 4.1,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.514
+    },
+    {
+      "segment": "27-05",
+      "speaker": "小满",
+      "text": "我在。",
+      "start": 4.5,
+      "end": 5.5,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 2
+    },
+    {
+      "segment": "27-05",
+      "speaker": "急危者甲",
+      "text": "在。",
+      "start": 5.8,
+      "end": 6.5,
+      "characters": 1,
+      "estimatedCharactersPerSecond": 1.429
+    },
+    {
+      "segment": "27-05",
+      "speaker": "急危者乙",
+      "text": "在。",
+      "start": 6.8,
+      "end": 7.5,
+      "characters": 1,
+      "estimatedCharactersPerSecond": 1.429
+    },
+    {
+      "segment": "27-05",
+      "speaker": "急危者丙",
+      "text": "在。",
+      "start": 7.8,
+      "end": 8.5,
+      "characters": 1,
+      "estimatedCharactersPerSecond": 1.429
+    },
+    {
+      "segment": "27-05",
+      "speaker": "沈砚",
+      "text": "我们都在。",
+      "start": 8.9,
+      "end": 10.5,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.5
+    },
+    {
+      "segment": "27-06",
+      "speaker": "沈砚",
+      "text": "现在能回家了吗？",
+      "start": 0.7,
+      "end": 3.3,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.692
+    },
+    {
+      "segment": "27-06",
+      "speaker": "周辰",
+      "text": "还在塔里。水和气接稳了，别拆门边的锁。我们去开最后那条路。",
+      "start": 4.2,
+      "end": 12.8,
+      "characters": 25,
+      "estimatedCharactersPerSecond": 2.907
+    },
+    {
+      "segment": "27-07",
+      "speaker": "苏晚",
+      "text": "五个稳了。还有八个，不能落下。",
+      "start": 10,
+      "end": 13.6,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.333
+    },
+    {
+      "segment": "27-10",
+      "speaker": "周辰",
+      "text": "脚疼？",
+      "start": 1.1,
+      "end": 3.1,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 1
+    },
+    {
+      "segment": "27-10",
+      "speaker": "苏晚",
+      "text": "也疼。",
+      "start": 7,
+      "end": 9.1,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 0.952
+    },
+    {
+      "segment": "27-11",
+      "speaker": "苏晚",
+      "text": "这一段，我记着。你也记着。",
+      "start": 4.2,
+      "end": 8.8,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.174
+    },
+    {
+      "segment": "27-11",
+      "speaker": "周辰",
+      "text": "这次没卖。",
+      "start": 9.6,
+      "end": 12.5,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 1.379
+    },
+    {
+      "segment": "28-02",
+      "speaker": "苏晚",
+      "text": "这玩意儿，连骂回去都省了。",
+      "start": 10.5,
+      "end": 14.3,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.895
+    },
+    {
+      "segment": "28-03",
+      "speaker": "周辰",
+      "text": "能退吗？",
+      "start": 1.2,
+      "end": 3.1,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 1.579
+    },
+    {
+      "segment": "28-03",
+      "speaker": "苏晚",
+      "text": "半圈。想回上一层，它没给楼梯。",
+      "start": 4.1,
+      "end": 9,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 2.449
+    },
+    {
+      "segment": "28-04",
+      "speaker": "苏晚",
+      "text": "法术弹回来，铁倒不弹。它怕的有门道。",
+      "start": 9.8,
+      "end": 13.9,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 3.659
+    },
+    {
+      "segment": "28-05",
+      "speaker": "周辰",
+      "text": "我压住。你别早。",
+      "start": 7.8,
+      "end": 10.5,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 2.222
+    },
+    {
+      "segment": "28-05",
+      "speaker": "苏晚",
+      "text": "一息。不是拿命顶到我满意。",
+      "start": 10.8,
+      "end": 14.6,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.895
+    },
+    {
+      "segment": "28-07",
+      "speaker": "苏晚",
+      "text": "第一处。",
+      "start": 10.8,
+      "end": 12.3,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 2
+    },
+    {
+      "segment": "28-08",
+      "speaker": "周辰",
+      "text": "账先记着。剑算你欠我的。",
+      "start": 10.2,
+      "end": 13.5,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.03
+    },
+    {
+      "segment": "28-09",
+      "speaker": "周辰",
+      "text": "现在。别看我。",
+      "start": 10.8,
+      "end": 13.1,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 2.174
+    },
+    {
+      "segment": "28-10",
+      "speaker": "苏晚",
+      "text": "卡得真会挑时候。还得老娘上手。",
+      "start": 9.6,
+      "end": 13.8,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.095
+    },
+    {
+      "segment": "28-12",
+      "speaker": "周辰",
+      "text": "总算有个门，像给活人开的。",
+      "start": 10.6,
+      "end": 13.5,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.793
+    },
+    {
+      "segment": "29-01",
+      "speaker": "周辰",
+      "text": "这回，倒真像给人留的出路。",
+      "start": 10.2,
+      "end": 13.8,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.056
+    },
+    {
+      "segment": "29-02",
+      "speaker": "周辰",
+      "text": "我想知道自己从哪儿来。是真想。",
+      "start": 9.5,
+      "end": 14,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 2.889
+    },
+    {
+      "segment": "29-03",
+      "speaker": "苏晚",
+      "text": "我也真想，往后不用这么疼。",
+      "start": 10,
+      "end": 14.2,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.619
+    },
+    {
+      "segment": "29-04",
+      "speaker": "沈砚",
+      "text": "我们五个都稳着，水和气也没断。",
+      "start": 4,
+      "end": 8.3,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.023
+    },
+    {
+      "segment": "29-04",
+      "speaker": "周辰",
+      "text": "门能带走咱俩，带不走他们。",
+      "start": 10.4,
+      "end": 14,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.056
+    },
+    {
+      "segment": "29-05",
+      "speaker": "苏晚",
+      "text": "过了这么多门，总算能回去了。",
+      "start": 2,
+      "end": 5.7,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.243
+    },
+    {
+      "segment": "29-05",
+      "speaker": "周辰",
+      "text": "嗯。我也想。",
+      "start": 6.2,
+      "end": 9,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 1.429
+    },
+    {
+      "segment": "29-06",
+      "speaker": "苏晚",
+      "text": "不是你替我按一下，就能算两个人。",
+      "start": 10,
+      "end": 14,
+      "characters": 14,
+      "estimatedCharactersPerSecond": 3.5
+    },
+    {
+      "segment": "29-07",
+      "speaker": "苏晚",
+      "text": "拒了，还能撤回来吗？",
+      "start": 0.8,
+      "end": 3.6,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "29-07",
+      "speaker": "周辰",
+      "text": "奖真没了。可路，还得由咱们再选。",
+      "start": 10,
+      "end": 14,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.25
+    },
+    {
+      "segment": "29-08",
+      "speaker": "周辰",
+      "text": "拒绝领取。继续留塔。",
+      "start": 5,
+      "end": 9.3,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 1.86
+    },
+    {
+      "segment": "29-09",
+      "speaker": "苏晚",
+      "text": "拒绝领取。继续留塔。",
+      "start": 5,
+      "end": 9.4,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 1.818
+    },
+    {
+      "segment": "29-11",
+      "speaker": "苏晚",
+      "text": "这次，先把话听全。",
+      "start": 6.8,
+      "end": 9.9,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.258
+    },
+    {
+      "segment": "29-11",
+      "speaker": "周辰",
+      "text": "嗯。谁也别抢着签。",
+      "start": 10.3,
+      "end": 14,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 1.892
+    },
+    {
+      "segment": "30-01",
+      "speaker": "周辰",
+      "text": "外头不是闹鬼，是这里一直在漏。",
+      "start": 10,
+      "end": 14,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.25
+    },
+    {
+      "segment": "30-02",
+      "speaker": "苏晚",
+      "text": "原来，命是他们写的。",
+      "start": 8,
+      "end": 10.2,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 3.636
+    },
+    {
+      "segment": "30-02",
+      "speaker": "周辰",
+      "text": "疼是咱们自己受的。这个没替。",
+      "start": 10.8,
+      "end": 14.2,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.529
+    },
+    {
+      "segment": "30-03",
+      "speaker": "苏晚",
+      "text": "能活着封存，却再也找不到回家的路。",
+      "start": 9.7,
+      "end": 14,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 3.488
+    },
+    {
+      "segment": "30-04",
+      "speaker": "苏晚",
+      "text": "我想过，有张不会塌的床。",
+      "start": 2.5,
+      "end": 6.2,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.703
+    },
+    {
+      "segment": "30-04",
+      "speaker": "周辰",
+      "text": "我会做。做坏了，再做一张。",
+      "start": 7,
+      "end": 11.7,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.128
+    },
+    {
+      "segment": "30-05",
+      "speaker": "周辰",
+      "text": "加力，也不快？",
+      "start": 8.3,
+      "end": 10.5,
+      "characters": 5,
+      "estimatedCharactersPerSecond": 2.273
+    },
+    {
+      "segment": "30-05",
+      "speaker": "苏晚",
+      "text": "它要沉降，不是嫌咱俩干活慢。",
+      "start": 10.9,
+      "end": 14.4,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 3.429
+    },
+    {
+      "segment": "30-06",
+      "speaker": "苏晚",
+      "text": "长生又不是不用吃饭。饿三百年，想得美。",
+      "start": 10,
+      "end": 14.3,
+      "characters": 16,
+      "estimatedCharactersPerSecond": 3.721
+    },
+    {
+      "segment": "30-07",
+      "speaker": "苏晚",
+      "text": "先把退路听明白，再谈咱们有多勇敢。",
+      "start": 9,
+      "end": 13.6,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 3.261
+    },
+    {
+      "segment": "30-08",
+      "speaker": "苏晚",
+      "text": "三百年后，也可能不是团圆？",
+      "start": 8.4,
+      "end": 11.2,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.929
+    },
+    {
+      "segment": "30-08",
+      "speaker": "周辰",
+      "text": "不是保证。咱们都得听见。",
+      "start": 11.6,
+      "end": 14.8,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.125
+    },
+    {
+      "segment": "30-09",
+      "speaker": "周辰",
+      "text": "人都送走了，也不能拔门。",
+      "start": 8.5,
+      "end": 11.4,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.448
+    },
+    {
+      "segment": "30-09",
+      "speaker": "苏晚",
+      "text": "对。你的固定，还得等沉降。",
+      "start": 11.8,
+      "end": 14.6,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 3.571
+    },
+    {
+      "segment": "30-10",
+      "speaker": "苏晚",
+      "text": "如果我说走，你会不会以后怨我？",
+      "start": 6.2,
+      "end": 11.8,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 2.321
+    },
+    {
+      "segment": "30-11",
+      "speaker": "周辰",
+      "text": "我也想走。别让我装得比你好。",
+      "start": 1.2,
+      "end": 6.3,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 2.353
+    },
+    {
+      "segment": "30-11",
+      "speaker": "苏晚",
+      "text": "我真的怕。",
+      "start": 8,
+      "end": 10.1,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 1.905
+    },
+    {
+      "segment": "30-12",
+      "speaker": "苏晚",
+      "text": "先去试。合不合适，不能靠嘴硬。",
+      "start": 10.3,
+      "end": 14.5,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "31-01",
+      "speaker": "周辰",
+      "text": "转得动。可这两格，我压不准。",
+      "start": 10.4,
+      "end": 14,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 3.056
+    },
+    {
+      "segment": "31-02",
+      "speaker": "苏晚",
+      "text": "不是你比我能牺牲，是我现在更合适。",
+      "start": 9.5,
+      "end": 14.6,
+      "characters": 15,
+      "estimatedCharactersPerSecond": 2.941
+    },
+    {
+      "segment": "31-03",
+      "speaker": "苏晚",
+      "text": "不会就学。别第一天就把自己吹成祖师爷。",
+      "start": 9.7,
+      "end": 14.1,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 3.864
+    },
+    {
+      "segment": "31-04",
+      "speaker": "周辰",
+      "text": "八个人送回去之后呢？",
+      "start": 1.1,
+      "end": 4.3,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2.813
+    },
+    {
+      "segment": "31-04",
+      "speaker": "苏晚",
+      "text": "先开回程，旧锚还得沉降。不是人走完，就能拔门。",
+      "start": 5,
+      "end": 12.8,
+      "characters": 19,
+      "estimatedCharactersPerSecond": 2.436
+    },
+    {
+      "segment": "31-05",
+      "speaker": "周辰",
+      "text": "我选B，固定锚。知道会冰封、迟醒，也可能不能同路。",
+      "start": 3.5,
+      "end": 11.8,
+      "characters": 20,
+      "estimatedCharactersPerSecond": 2.41
+    },
+    {
+      "segment": "31-06",
+      "speaker": "苏晚",
+      "text": "选B，维护位。三百年我自己活，不是被留在这里。",
+      "start": 3.2,
+      "end": 10.8,
+      "characters": 19,
+      "estimatedCharactersPerSecond": 2.5
+    },
+    {
+      "segment": "31-06",
+      "speaker": "苏晚",
+      "text": "我怕。但我愿意。",
+      "start": 11.2,
+      "end": 14.5,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 1.818
+    },
+    {
+      "segment": "31-07",
+      "speaker": "周辰",
+      "text": "还改吗？",
+      "start": 0.8,
+      "end": 2.2,
+      "characters": 3,
+      "estimatedCharactersPerSecond": 2.143
+    },
+    {
+      "segment": "31-07",
+      "speaker": "苏晚",
+      "text": "不改。你呢？",
+      "start": 2.8,
+      "end": 5.1,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 1.739
+    },
+    {
+      "segment": "31-07",
+      "speaker": "周辰",
+      "text": "不改。",
+      "start": 5.7,
+      "end": 7.1,
+      "characters": 2,
+      "estimatedCharactersPerSecond": 1.429
+    },
+    {
+      "segment": "31-08",
+      "speaker": "苏晚",
+      "text": "总算不是白捡的麻烦。它把原点对上了。",
+      "start": 9.8,
+      "end": 14.1,
+      "characters": 16,
+      "estimatedCharactersPerSecond": 3.721
+    },
+    {
+      "segment": "31-09",
+      "speaker": "苏晚",
+      "text": "挪多了。我还得伸手呢。",
+      "start": 7.3,
+      "end": 10.1,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 3.214
+    },
+    {
+      "segment": "31-09",
+      "speaker": "周辰",
+      "text": "这半寸，倒比打塔难。",
+      "start": 10.6,
+      "end": 13.4,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.857
+    },
+    {
+      "segment": "31-10",
+      "speaker": "苏晚",
+      "text": "别睡醒，连我名字都忘了。",
+      "start": 4.5,
+      "end": 8.1,
+      "characters": 10,
+      "estimatedCharactersPerSecond": 2.778
+    },
+    {
+      "segment": "31-10",
+      "speaker": "周辰",
+      "text": "这个，没卖。",
+      "start": 8.8,
+      "end": 11.6,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 1.429
+    },
+    {
+      "segment": "31-11",
+      "speaker": "苏晚",
+      "text": "听得见，就看我一眼。",
+      "start": 5,
+      "end": 8.1,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.581
+    },
+    {
+      "segment": "31-11",
+      "speaker": "周辰",
+      "text": "在。",
+      "start": 8.8,
+      "end": 10.4,
+      "characters": 1,
+      "estimatedCharactersPerSecond": 0.625
+    },
+    {
+      "segment": "31-12",
+      "speaker": "苏晚",
+      "text": "我先去，把他们送回家。",
+      "start": 10,
+      "end": 14.5,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 2
+    },
+    {
+      "segment": "32-02",
+      "speaker": "小满",
+      "text": "姐姐，你不回吗？",
+      "start": 0.8,
+      "end": 3.5,
+      "characters": 6,
+      "estimatedCharactersPerSecond": 2.222
+    },
+    {
+      "segment": "32-02",
+      "speaker": "苏晚",
+      "text": "我这儿，还欠一点活。",
+      "start": 4.6,
+      "end": 8.3,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.162
+    },
+    {
+      "segment": "32-03",
+      "speaker": "苏晚",
+      "text": "今天这手艺，你睡着算有福。难吃的都归我。",
+      "start": 6,
+      "end": 11.4,
+      "characters": 17,
+      "estimatedCharactersPerSecond": 3.148
+    },
+    {
+      "segment": "32-04",
+      "speaker": "苏晚",
+      "text": "错了就停。可别把嘴硬留三百年。",
+      "start": 10.2,
+      "end": 13.8,
+      "characters": 13,
+      "estimatedCharactersPerSecond": 3.611
+    },
+    {
+      "segment": "32-07",
+      "speaker": "苏晚",
+      "text": "都回了。小满和她爹，也回了。",
+      "start": 8.4,
+      "end": 12.7,
+      "characters": 11,
+      "estimatedCharactersPerSecond": 2.558
+    },
+    {
+      "segment": "32-10",
+      "speaker": "周辰",
+      "text": "这个女人，真的守了我三百年。",
+      "start": 0.8,
+      "end": 5.4,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 2.609
+    },
+    {
+      "segment": "32-10",
+      "speaker": "周辰",
+      "text": "你手怎么这么凉？",
+      "start": 6.3,
+      "end": 9.4,
+      "characters": 7,
+      "estimatedCharactersPerSecond": 2.258
+    },
+    {
+      "segment": "32-10",
+      "speaker": "苏晚",
+      "text": "你摸了三百年的冰，还怪我凉？",
+      "start": 9.9,
+      "end": 14.8,
+      "characters": 12,
+      "estimatedCharactersPerSecond": 2.449
+    },
+    {
+      "segment": "32-11",
+      "speaker": "苏晚",
+      "text": "周辰——这次，轮到你找我。",
+      "start": 4.5,
+      "end": 10.2,
+      "characters": 9,
+      "estimatedCharactersPerSecond": 1.579
+    },
+    {
+      "segment": "32-11",
+      "speaker": "周辰",
+      "text": "我听见了！",
+      "start": 10.7,
+      "end": 12.6,
+      "characters": 4,
+      "estimatedCharactersPerSecond": 2.105
+    },
+    {
+      "segment": "32-12",
+      "speaker": "苏晚",
+      "text": "这回，真不认识路了。",
+      "start": 11.1,
+      "end": 13.8,
+      "characters": 8,
+      "estimatedCharactersPerSecond": 2.963
+    }
+  ]
+}

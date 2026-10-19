@@ -12,9 +12,10 @@
   "currentSceneOriginals": 135,
   "currentFilmReferences": 129,
   "technicalLayouts": 6,
-  "currentFilmReferenceArtReviewCompleted": true,
+  "currentFilmReferenceArtReviewCompleted": false,
   "additionalShotReferencesComplete": false,
-  "pendingArtReviewOrRevision": 0,
+  "pendingArtReviewOrRevision": 2,
+  "latestMaterialRevisionTasksPending": 2,
   "technicalEvidence": [
     {
       "source": "场景资产/第一季/九层星渊塔/SC-L01-LAYOUT01_行动布局4K_V1.png",
@@ -984,7 +985,7 @@
     {
       "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_精工克制R5.png",
       "role": "film-reference",
-      "status": "已完成精工克制静态视检",
+      "status": "已有有限视检；V19追加非剧情破损修订待生成，不计最新审美通过",
       "targets": [
         "21-11",
         "22-01",
@@ -1370,7 +1371,7 @@
     {
       "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png",
       "role": "film-reference",
-      "status": "已完成精工克制静态视检",
+      "status": "已有有限视检；V19追加非剧情破损修订待生成，不计最新审美通过",
       "targets": [
         "01-07",
         "02-03",
