@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-19",
+  "baselineCommit": "6cd9394",
+  "sourceImagesActuallyViewedThisTurn": 2,
+  "jobs": [
+    {
+      "key": "SC-TOWER-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "a40d42b48d9adb7337345af9bc5ef74b679ebfa8422dbc0174c19be8d05c2656",
+      "currentMapId": "TOWER-REFINED-R2",
+      "expectedTargets": [
+        "01-07",
+        "02-03",
+        "02-04",
+        "02-05",
+        "02-06",
+        "02-07"
+      ],
+      "expectedOutput": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png"
+    },
+    {
+      "key": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_精工克制R5.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "fe3114b6259ddf623a39b921444f71fda52d0970959c193ebe2a24f7e40244fb",
+      "currentMapId": "L07-WIDE-REFINED-R5",
+      "expectedTargets": [
+        "21-11",
+        "22-01",
+        "22-02",
+        "22-03",
+        "22-04",
+        "22-05",
+        "22-06",
+        "22-07",
+        "22-08",
+        "22-09",
+        "22-10",
+        "22-11",
+        "23-01",
+        "23-02",
+        "23-03",
+        "23-04",
+        "23-05",
+        "23-06",
+        "23-07",
+        "23-08",
+        "23-09",
+        "23-10",
+        "24-01",
+        "24-02",
+        "24-03",
+        "24-04",
+        "24-05",
+        "24-06",
+        "24-07",
+        "24-08",
+        "24-09",
+        "24-10"
+      ],
+      "expectedOutput": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png"
+    }
+  ],
+  "actualOutputsGenerated": 0,
+  "scope": "源图、当前采用及目标范围核验，非生图结果"
+}

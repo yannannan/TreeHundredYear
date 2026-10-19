@@ -1,9 +1,9 @@
 {
   "date": "2026-10-19",
-  "status": "pending-image-service-quota",
+  "status": "partially-generated-await-adoption",
   "basis": "用户要求场景不要显得破旧，不模仿《逃离世界》；本轮视检两张当前采用源图后追加明确材质修正。",
   "sourceImagesActuallyViewed": 2,
-  "actualOutputsGenerated": 0,
+  "actualOutputsGenerated": 1,
   "adopted": 0,
   "existingImagesChanged": 0,
   "quota": {
@@ -11,7 +11,8 @@
     "lastKnownResetShanghai": "2026-10-19 10:45:41",
     "checkedUTC": "2026-10-19T02:12:14Z",
     "newCallThisTurn": false,
-    "note": "承接V18已有429事实；本轮未再次调用，不推定额度恢复，不存在运行中的生成任务。"
+    "note": "承接V18已有429事实；本轮未再次调用，不推定额度恢复，不存在运行中的生成任务。",
+    "lastSuccessfulOutputUTC": "2026-10-19T02:47:49.758Z"
   },
   "workflow": "恢复可用后逐张重新查看源图，用内置image_gen编辑；原生文件归档、视检剧情故障和空间不变后再接入。不得把本计划当成已生成图片或自动覆盖旧图。",
   "jobs": [
@@ -24,10 +25,14 @@
       "referenced_image_paths": [
         "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_精工克制R2.png"
       ],
-      "status": "not-generated",
-      "outputExists": false,
+      "status": "generated-reviewed-await-adoption",
+      "outputExists": true,
       "sourceOfDesign": "仅本项目所列源图与自身剧本",
-      "formalCharacterCostumeChange": false
+      "formalCharacterCostumeChange": false,
+      "actualOutputGenerated": true,
+      "sourceCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-f9617123-12c9-49bd-8aa3-2d63a65531a5.png",
+      "sha256": "6cc89b37d47f3217a64c0365be2479cb0ac6e28cf2d3fc513a40dd9da2deb034",
+      "qa": "采用有限塔体材质静态：前景正常铺石、台阶和栏杆明显减少非剧情崩缺，完整板面与规整接缝可读；原中央层叠塔体、斜星环、云瀑/浮山和桥路视觉关系保持，天然岩壁仍自然。只作材质/尺度参考，不声称像素级多机位几何、实际运动或最新审美全季验收。"
     },
     {
       "key": "SC-L07-MATERIAL-V19",
