@@ -1,9 +1,9 @@
 {
   "date": "2026-10-19",
-  "status": "partially-generated-await-adoption",
+  "status": "generated-reviewed-await-adoption",
   "basis": "用户要求场景不要显得破旧，不模仿《逃离世界》；本轮视检两张当前采用源图后追加明确材质修正。",
   "sourceImagesActuallyViewed": 2,
-  "actualOutputsGenerated": 1,
+  "actualOutputsGenerated": 2,
   "adopted": 0,
   "existingImagesChanged": 0,
   "quota": {
@@ -12,7 +12,7 @@
     "checkedUTC": "2026-10-19T02:12:14Z",
     "newCallThisTurn": false,
     "note": "承接V18已有429事实；本轮未再次调用，不推定额度恢复，不存在运行中的生成任务。",
-    "lastSuccessfulOutputUTC": "2026-10-19T02:47:49.758Z"
+    "lastSuccessfulOutputUTC": "2026-10-19T02:49:25.547Z"
   },
   "workflow": "恢复可用后逐张重新查看源图，用内置image_gen编辑；原生文件归档、视检剧情故障和空间不变后再接入。不得把本计划当成已生成图片或自动覆盖旧图。",
   "jobs": [
@@ -43,10 +43,14 @@
       "referenced_image_paths": [
         "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/九层星渊塔/SC-L07_天机命盘_精工克制R5.png"
       ],
-      "status": "not-generated",
-      "outputExists": false,
+      "status": "generated-reviewed-await-adoption",
+      "outputExists": true,
       "sourceOfDesign": "仅本项目所列源图与自身剧本",
-      "formalCharacterCostumeChange": false
+      "formalCharacterCostumeChange": false,
+      "actualOutputGenerated": true,
+      "sourceCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-de734345-bfdf-4a48-b72b-c4d9b8934e10.png",
+      "sha256": "f209c22e8f0a6ff6b839b74c74ab40f6da7a05e5b32df39f2f7c909da3636eb5",
+      "qa": "采用有限第七层材质静态：前景工作平台、通行阶和栏杆的无关崩边/深裂明显减少，完整板面与细接缝可读；原双仪座、桥口、远门、斜向巨构、桥路与灯色视觉关系保持，天然岩体仍粗粝，不新增宫殿或彩光。只作建立尺度与材质参考，不证明精确机关数细部、接触承力、路线三维测绘或动态。"
     }
   ]
 }
