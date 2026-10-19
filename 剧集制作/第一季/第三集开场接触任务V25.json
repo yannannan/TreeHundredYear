@@ -33,9 +33,24 @@
       "qa": "采用有限低托砖静态：A右手空指向近缺口一块灰砖，砖与原近台之间小幅离地、不是补成桥；左手仍握完整鞘、背无第二武器，B左示停/刀归腰、衣摆仍下垂，无早期肩踝伤。仅取右手/单砖与近台关系；法力痕很弱不可据图定强度，砖源/准确高度与三维位置、升降轨迹/受力及四齿动作仍待试片。",
       "actualOutputGenerated": true,
       "status": "reviewed-await-adoption"
+    },
+    {
+      "key": "EP03-FOUR-DOGS-OPEN-V1",
+      "path": "场景资产/第一季/早期接触/KEY03-01_青铜环四齿未咬合近景V1.png",
+      "targets": [
+        "03-01"
+      ],
+      "phase": "03-01第10秒第一声咬合之前，原青铜环四齿局部未入槽状态",
+      "inputs": [
+        "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/早期接触/KEY02-08_周辰右手初抬未施法苏晚左掌示停尾态V1.png"
+      ],
+      "prompt": "Use case world-detail reference. ONE 9:16 cinematic LIVE-ACTION 50mm mechanical closeup of the existing ancient bronze-ring drive groove of this TreeHundredYear hall. Supplied image sets graphite/dark bronze material and hall/ring/vertical waterfalls, not camera crop. Show a plausible uncovered local drive contact in fixed near-side support housing, not a new freestanding control panel or second giant ring. RIGHT half is a narrow portion of SAME curved heavy graphite-metal ring rim running vertically through the frame, with EXACTLY FOUR recessed mating notches along its left edge. LEFT half is one compact fixed bronze support yoke bolted into intact near-platform stone, with EXACTLY FOUR thick blunt rectangular mechanical locking dogs arranged VERTICALLY, one opposite each notch. Each dog is ONE rigid slider with a visible guide seat; NO extra fifth dog, no gearwheel full of teeth, no saw or spikes. This is BEFORE engagement: ALL FOUR blunt dog tips STOP short of their matching recesses with a clear small dark AIR GAP; no dog entered yet. Recess count and tip count both exactly FOUR, correspondence clearly readable in mid/deep focus; notches are square contact pockets, not glowing symbols. Subtle real machining/wear tracks in groove, crisp intact edges, restrained seam patina, finely worked heavy stone and bronze, no blanket corrosion/rubble or ornate gold-plated palace. Far background softly recognizable existing blue-grey hall/ring/waterfalls/old warm lamps; no redesign of large architecture. No people/hands/cloth/weapon, no token or extra prop, no magic beam/glowing control, sparks/smoke/debris or gravity cue. Original gravity still down, camera upright. No text/labels/numbers/arrows/subtitles/logo/watermark. Functional static DETAIL design ONLY: not proof of exact world-scale camera location, four audible sequential clicks, moving load or gravity rotation.",
+      "actualOutputGenerated": true,
+      "actualPath": "场景资产/第一季/早期接触/KEY03-01_四齿未咬合密集划痕候选V1.png",
+      "status": "candidate-needs-correction"
     }
   ],
-  "actualGeneratedOutputs": 2,
+  "actualGeneratedOutputs": 3,
   "actualVideoGenerated": false,
   "reviewedUsableOriginals": 2
 }
