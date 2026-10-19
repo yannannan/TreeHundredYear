@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-19",
+  "newNativeOriginals": 5,
+  "archivedCandidates": 4,
+  "sceneReferenceCopiesAdded": 6,
+  "updatedSegments": [
+    "02-08",
+    "03-01"
+  ],
+  "episodeReferenceCopies": {
+    "02": 98,
+    "03": 73
+  },
+  "totalReferenceCopies": 4296,
+  "formalCharacterCostumeMastersEdited": 0,
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "placements": [
+    {
+      "segment": "02-08",
+      "id": "EP02-SAND-RELEASE-V2",
+      "source": "场景资产/第一季/早期接触/KEY02-08_苏晚右指撒砂原下方落向深渊V2.png",
+      "file": "KEY02-08_苏晚右指撒砂原下方落向深渊V2.png"
+    },
+    {
+      "segment": "02-08",
+      "id": "EP02-SHEATH-TAP-V2",
+      "source": "场景资产/第一季/早期接触/KEY02-08_周辰左手完整带剑鞘轻敲桥面V2.png",
+      "file": "KEY02-08_周辰左手完整带剑鞘轻敲桥面V2.png"
+    },
+    {
+      "segment": "02-08",
+      "id": "EP02-FAR-BLOOD-PLANNED-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-08_隔缺口远岸少量新血碎符V1.png",
+      "file": "KEY02-08_隔缺口远岸少量新血碎符V1.png"
+    },
+    {
+      "segment": "02-08",
+      "id": "EP02-BRIDGE-TAIL-PLANNED-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-08_周辰右手初抬未施法苏晚左掌示停尾态V1.png",
+      "file": "KEY02-08_周辰右手初抬未施法苏晚左掌示停尾态V1.png"
+    },
+    {
+      "segment": "02-08",
+      "id": "EP02-GATE-CLOSED-V4",
+      "source": "场景资产/第一季/早期接触/KEY02-08_外侧全闭门二人已在内V4.png",
+      "file": "KEY02-08_外侧全闭门二人已在内V4.png"
+    },
+    {
+      "segment": "03-01",
+      "id": "EP02-BRIDGE-TAIL-PLANNED-V1",
+      "source": "场景资产/第一季/早期接触/KEY02-08_周辰右手初抬未施法苏晚左掌示停尾态V1.png",
+      "file": "KEY02-08_周辰右手初抬未施法苏晚左掌示停尾态V1.png"
+    }
+  ]
+}

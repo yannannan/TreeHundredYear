@@ -4,13 +4,13 @@
   "textSegments": 313,
   "establishingDomains": 10,
   "refinedExistingOriginals": 94,
-  "newContactOriginals": 29,
-  "newSceneOriginals": 123,
+  "newContactOriginals": 34,
+  "newSceneOriginals": 128,
   "reviewedUnchangedOriginals": 6,
-  "reviewedFilmReferences": 129,
-  "newReferencePlacements": 797,
-  "currentSceneOriginals": 135,
-  "currentFilmReferences": 129,
+  "reviewedFilmReferences": 134,
+  "newReferencePlacements": 803,
+  "currentSceneOriginals": 140,
+  "currentFilmReferences": 134,
   "technicalLayouts": 6,
   "currentFilmReferenceArtReviewCompleted": true,
   "additionalShotReferencesComplete": false,
@@ -1867,7 +1867,48 @@
       ]
     },
     {
+      "source": "场景资产/第一季/早期接触/KEY02-08_隔缺口远岸少量新血碎符V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-08"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-08_苏晚右指撒砂原下方落向深渊V2.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-08"
+      ]
+    },
+    {
       "source": "场景资产/第一季/早期接触/KEY02-08_苏晚右指原石缝捻少量细砂V2.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-08"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-08_外侧全闭门二人已在内V4.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-08"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-08_周辰右手初抬未施法苏晚左掌示停尾态V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-08",
+        "03-01"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-08_周辰左手完整带剑鞘轻敲桥面V2.png",
       "role": "film-reference",
       "status": "已完成精工克制静态视检",
       "targets": [

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-19",
+  "baselineCommit": "2fa100c",
+  "checkedSegments": 313,
+  "referenceCopies": 4296,
+  "newNativeOriginals": 5,
+  "archivedCandidates": 4,
+  "actualGeneratedOutputs": 9,
+  "newSceneReferenceCopies": 6,
+  "updatedSegments": [
+    "02-08",
+    "03-01"
+  ],
+  "pendingOriginalFiveTasks": 0,
+  "originalUsageLimitCallGeneratedNothing": true,
+  "subsequentSuccessfulOutputs": 9,
+  "dialogueFirstLastTimingAndAllOtherFieldsExceptReferencesAndPendingUnchanged": true,
+  "formalCharacterCostumeAndPropMastersUnchanged": true,
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "errors": []
+}
