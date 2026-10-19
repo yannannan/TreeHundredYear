@@ -9,5 +9,16 @@
     "upscaled": false,
     "purpose": "候选不采用：A右掌持符但右臂高抬、右肘未抵完整梁，左肘未可靠套栏根；上方横绳和下方绕梁绳重复，B身体仍偏普通下挂而非明确右向受力，肩擦伤的解剖侧别也不足以确认。画面美术/衣貌部分保持，不能据此认定救援握点/真实负重或单绳成立。",
     "status": "candidate-not-adopted"
+  },
+  {
+    "id": "EP03-RESCUE-TOKEN-HELD-CANDIDATE-V2",
+    "path": "场景资产/第一季/早期接触/KEY03-03_单绳救援右肘仍悬空候选V2.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2990124,
+    "sha256": "f73e0bf742c3f55762a4a6fbb7bf095844b1fb65c61668152aea8aa0edb0fd17",
+    "upscaled": false,
+    "purpose": "候选不采用：上下重复绳已收敛为一条从原梁绕下的绳，B身体更向右伸，但A右肘仍高于梁面悬空、右掌古符未可靠夹在梁角间，左肘套原栏根也不充分；B肩擦伤解剖侧别/部分足端仍不足确认。保留真实局部改进记录，不认定完整救援接触或动态负重合格。",
+    "status": "candidate-not-adopted"
   }
 ]
