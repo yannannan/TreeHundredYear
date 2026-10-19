@@ -1,0 +1,13 @@
+[
+  {
+    "id": "EP03-RIGHT-GRAVITY-END-CANDIDATE-V1",
+    "path": "场景资产/第一季/早期接触/KEY03-02_右向重力尾态双绳错鞋候选V1.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3073190,
+    "sha256": "b5c9a3d323bd555b18d73f07f320270320e4fe93910e25a557845e31552c1eab",
+    "upscaled": false,
+    "purpose": "候选未采用：建筑竖向参照和B侧向低伏/双手抓缝可读，但检修绳重复成上下两条且高绳锚错，B误生鞋，A护符手位不符且背鞘不清楚；必须修正，不能作为完整03-02尾态。",
+    "status": "candidate-not-adopted"
+  }
+]
