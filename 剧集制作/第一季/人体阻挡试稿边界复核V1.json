@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-19",
+  "actualInternalOutputs": 2,
+  "checkedSegments": 313,
+  "nativeSizes": [
+    {
+      "key": "EP03-RESCUE-ARM-BLOCKING-GUIDE-V1",
+      "width": 940,
+      "height": 1672
+    },
+    {
+      "key": "EP03-RESCUE-ARM-BLOCKING-GUIDE-V2",
+      "width": 940,
+      "height": 1672
+    }
+  ],
+  "newFilmOriginals": 0,
+  "newReferenceCopies": 0,
+  "internalDraftsExcludedFromAllExecution": true,
+  "threeDReachOrLoadValidated": false,
+  "actualVideoGenerated": false,
+  "errors": []
+}
