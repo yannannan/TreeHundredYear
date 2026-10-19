@@ -1,0 +1,36 @@
+[
+  {
+    "key": "EP02-BRIDGE-ENTRY-V1",
+    "name": "入塔后背侧双人逆重天阶巨构",
+    "path": "场景资产/第一季/早期接触/KEY02-08_背侧双人桥口巨环逆瀑建立V1.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/九层星渊塔/SC-L01_逆重天阶建立镜头V1_精工克制R2.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/周辰/ZC-F01_独立背面全身V2.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/苏晚/SW-F01_独立背面全身V2.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/道具资产/第一季/PROP03_旧铁剑剑鞘古符V1.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/九层星渊塔/SC-L01_梁链真锚动作母图V2_精工克制R2.png"
+    ],
+    "targets": [
+      "02-08"
+    ],
+    "phase": "02-08第0.8—4秒内侧同向背侧建立，重力未转/剑仍背鞘",
+    "prompt": "Use case: identity-preserve. Single high-end live-action cinematic reference still, portrait9:16, maximum native detail, not collage/poster. Image1 is authoritative first-layer inverse-gravity architecture and giant diagonal ring/well/waterfalls, near-left stable entry segment and gap to far-right ledge. Images2/3 fix ORIGINAL adult A blackgold man and B silverblue barefoot woman back garments/hair/headpieces only. Image4 authoritative old straight iron sword/plain worn brown scabbard, NOT the ornate black weapon in image2. Image5 only supports nearby intact beam/old service rope and distinct chain/anchor geometry if glimpsed, NOT a different orientation or new shortcut.\nCamera is INSIDE tower behind both people looking DEEPER IN, same forward direction as previous gate crossing; closed entrance door is BEHIND CAMERA OFFSCREEN, no visible second door/new portal. Native24mm wide cinema lens, distinct foreground-midground-background. Put exactly TWO adults small enough in bottom third to show a cathedral-scale immense engineered ring and deep well dominating upper image: A on LEFT just ahead, B to his RIGHT half-step behind, both looking toward gap and distant ledge. Both boots/bare feet firmly on SAME broad stable near entry floor with clear stone margin before broken edge, neither already on opposite ledge or over void. Normal downward gravity still holds their cloth/hair, bridge not flipped. Keep A/B original costumes, no redesign. Both hands EMPTY relaxed at this EARLY moment; bronze token stored at A front-left waist, silvercloth knot inside B inner fold, B compact plain brown shortknife sheath on RIGHT waist. A ONLY sword FULLY in original brown backscabbard: hilt at anatomicalRIGHT shoulder, screenRIGHT in this back view, sheath diagonally down towardleft hip; NOT copy image2 left-shoulder mounting. No extra sword or drawn blade. No rope on their waist (outside probe rope was lost). No injuries/left-ankle bandage, no new bag, no visible other people.\nPreserve main huge tilted graphite/darkbronze ring, tall interlocking engraved towers, distant bridges, white-blue inverse-waterfalls and cloudwell. Keep near broken gap and far-right narrow ledge real, DO NOT fill gap with a complete stone bridge or magic beam. Artificial stone faces/metal large surfaces maintained finely machined with mild seam age; local plot-broken edges retained, not every slab crumbling/rusted/mossy. Clear readable scale/physical depth and coldblue daylight with restrained small warm lamps, low-saturation grey/bronze/silver, not multicolour palace or generic ruined factory. No active gravity rotation, magic effects or explosions now. Blood/paper clue belongs on far-side shot later, don't put giant blood near their feet. No text/arrows/labels/subtitle/logo/watermark. Limited static environment/actor stance reference, cannot prove water direction or gravity dynamics.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-9b34d306-3753-4bce-b903-af8511d3571d.png",
+    "qa": "采用有限内侧建立：A左前/B右后背侧站在近端稳定石台，旧剑仍背鞘、双物已收纳，原巨斜环/深井瀑布/远右窄沿与缺口保持，未补成通桥。B双足受裙遮、近端梁绳未全入画，只锁尺度/衣装/站位，不证明水流方向、重力动态或全部跨机位三维几何。"
+  },
+  {
+    "key": "EP02-SAND-PINCH-V2",
+    "name": "苏晚右掌侧捻砂手别纠正",
+    "path": "场景资产/第一季/早期接触/KEY02-08_苏晚右指原石缝捻少量细砂V2.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-b7315bfe-a080-44fc-86db-b8d6b34b1043.png"
+    ],
+    "targets": [
+      "02-08"
+    ],
+    "phase": "02-08第4—8秒捻砂起始接触局部，非撒砂尾态",
+    "prompt": "Use case: precise-object-edit. Correct ONLY the hand orientation in exact cinematic portrait9:16 supplied closeup. It must be adult B woman's ANATOMICAL RIGHT HAND collecting a few grains from the SAME existing stone joint. Rotate forearm to a CLEAR PALMAR THREE-QUARTER view facing camera: visible natural PALM CREASES and thenar pad, thumb on SCREEN RIGHT, little-finger side on SCREEN LEFT. Thumb and index gently pinch same tiny grey sand from floor, other THREE fingers naturally curled and separately legible (TOTAL5 digits). No mirror ambiguity: right PALM faces camera, not smooth dorsal left-hand-looking back. Silverblue sleeve still enters from upper right, same skin/garment/floor/grains/background architecture/light. Wrist reaches naturally downward from woman's crouched body offscreen, hand doesn't twist impossibly. Keep floor-joint contact and tiny grains at original location, no large sand pile, no levitation/golden particles/spells/extra hands or sandbag. Natural realistic skin folds and joints, not diagram/red arrows. Do not alter gown opacity/design, no nude body or ankle injury. Coldblue restrained grey stone/darkbronze and small warm reflection, maintained surfaces, no added rubble/rust. No text/subtitle/logo/watermark. Local right-fingertip/stone-joint contact reference only.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-4adba50c-f69a-4faf-82c4-14b612ce9d5f.png",
+    "qa": "采用有限右手捻砂局部：掌侧纹理/拇指朝画面右侧的右手姿态较清楚，拇指食指从原石缝捻少量灰砂、另三指自然收拢，原银蓝袖保持，无沙囊/术法。只取手指/砂/缝接触，不证明完整蹲起、全身左右位或连续取砂运动。"
+  }
+]

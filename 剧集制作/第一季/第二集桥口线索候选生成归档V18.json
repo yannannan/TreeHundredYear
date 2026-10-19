@@ -1,0 +1,18 @@
+[
+  {
+    "key": "EP02-SAND-PINCH-CANDIDATE-V1",
+    "name": "苏晚右指从原石缝捻细砂",
+    "path": "场景资产/第一季/早期接触/KEY02-08_苏晚右指原石缝捻少量细砂候选V1.png",
+    "inputs": [
+      "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-9b34d306-3753-4bce-b903-af8511d3571d.png",
+      "D:/UniverseStarWorkSpace/TreeHundredYear/人物资产/苏晚/SW-F01_独立正面全身V1.png"
+    ],
+    "targets": [
+      "02-08"
+    ],
+    "phase": "02-08第4—8秒捻砂起始接触局部，非撒砂尾态",
+    "prompt": "Use case: precise-object-edit. Single vertical9:16 premium cinematic closeup, not collage. Image1 exact near entry platform floor/material and adult B silverblue woman's existing costume; image2 ONLY B sleeve/hand and original dress details. Focus on ONE adult woman's anatomicalRIGHT hand gently pinching a FEW fine grey sand grains already lodged in ONE small joint between intact grey stone slabs at safe side of platform. Original translucent silverblue sleeve enters from UPPER RIGHT, realistic skin and five natural fingers: thumb and index lightly pinching grains, other three fingers naturally curled. Back of RIGHT hand visible, not left hand/mirrored/extra thumb. Hand is just above/carefully touching ORIGINAL stone joint, not through solid stone. Tiny grey grains and a little residue on tips legible, no large sand pile.\nCamera stays inside tower on same near-entry side with normal downward gravity, close50-85mm with enough depth to read fingertips/joint. She crouches only enough to reach floor, may show original silverblue skirt hem at upper edge, no face/body needed, no nudity/new slit/injury. Do not put hem or body out over abyss. No left ankle scars/bandage. B shortknife remains sheathed rightwaist OFFFRAME, knot concealed innerchest, no bag or sand pouch at any time. No other hands. This instant is collecting from floor, NOT already streaming grains into abyss. No magical golden dust, glowing runes, spell light, levitation or sideways gravity. A actions are outside crop, don't add man hand/new sword here. A hint of coldblue void/old bronze architecture in distant soft background only if needed; original structural joint/path intact, tiny local joint sediment is not a ruined rubble floor. Fine maintained grey stone/darkbronze, low saturation coldblue bounce and small warm reflection; realistic fabric/skin/material/cinema grain. No letters/arrows/subtitle/logo/watermark. Limited fingertip-to-existing-sand contact still, not proof of pinching dynamics.",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-b7315bfe-a080-44fc-86db-b8d6b34b1043.png",
+    "qa": "候选拒用：石缝少量捻砂/衣料接触可读，但裁切手的背掌与拇指朝向不够明确，不能可靠锁苏晚右手；不接执行包。"
+  }
+]
