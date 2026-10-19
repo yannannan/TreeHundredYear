@@ -1,0 +1,21 @@
+[
+  {
+    "key": "EP02-SAND-RELEASE-V2",
+    "path": "场景资产/第一季/早期接触/KEY02-08_苏晚右指撒砂原下方落向深渊V2.png",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-eda89505-e869-4979-ae10-5b9cd29db246.png",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/早期接触/KEY02-08_苏晚右指撒砂原下方落向深渊候选V1.png"
+    ],
+    "prompt": "Use case: precise-object-edit. LOCAL correction ONLY to sand particles in exact9:16 live-action supplied still. Preserve original anatomicalRIGHT palmar hand, all5 fingers/sleeve/wrist/body crop, floor lip, cliff/hall/ring/falls and lighting. The released material must be FINE GREY SAND, not gravel or pebbles. Remove ALL large chunks/rocky blobs along the falling trail and on fingertip. Reduce every visible grain to about ONE-THIRTIETH of fingertip width: fine submillimetre sand represented as tiny1-2pixel motes, sparse thin short downward-right trail beneath thumb/index. A tiny dust residue remains on fingertips, NOT crusted lumps. Most grains too small to resolve individually, but thin discontinuous grey fall is still gently visible against darkblue depth. No golden sparkling dust/magic glow, no thick smoke/sand waterfall, no added rocks. Keep hand pinch/release pose and fingertips natural, no new fingers or mirror. Gravity remains original DOWN with light sidewind, not upward or sideways reversal. Only sand size/detail corrected, nothing else. No labels/text/subtitle/logo/watermark. Finite static release target, not actual particle trajectory proof.",
+    "qa": "采用有限撒砂静态：原右掌侧手形/原袖与近缘背景保留，大块碎石样颗粒已去，少量细灰砂由右指向原下方形成细线，指尖仅少量残留；不作向右重力已开启、不证明真实粒径或连续撒落动态。",
+    "phase": "02-08第4—8秒取砂后右手撒砂，重力仍向原下方",
+    "targets": [
+      "02-08"
+    ],
+    "candidate": false,
+    "actualOutputGenerated": true,
+    "width": 941,
+    "height": 1672,
+    "sha256": "58252c0bdfa6a6ceef954afab8df459db72adfe815450c1489aa435a2a65d215"
+  }
+]

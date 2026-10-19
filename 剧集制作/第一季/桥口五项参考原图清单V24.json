@@ -1,0 +1,13 @@
+[
+  {
+    "id": "EP02-SAND-RELEASE-V2",
+    "path": "场景资产/第一季/早期接触/KEY02-08_苏晚右指撒砂原下方落向深渊V2.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2347186,
+    "sha256": "58252c0bdfa6a6ceef954afab8df459db72adfe815450c1489aa435a2a65d215",
+    "upscaled": false,
+    "purpose": "采用有限撒砂静态：原右掌侧手形/原袖与近缘背景保留，大块碎石样颗粒已去，少量细灰砂由右指向原下方形成细线，指尖仅少量残留；不作向右重力已开启、不证明真实粒径或连续撒落动态。",
+    "status": "reviewed-static-await-adoption"
+  }
+]
