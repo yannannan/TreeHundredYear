@@ -1,9 +1,9 @@
 {
   "date": "2026-10-19",
   "commonVersion": "V2.0",
-  "segments": 313,
+  "segments": 314,
   "modes": {
-    "A": 55,
+    "A": 56,
     "B": 258,
     "C": 0
   },
@@ -281,7 +281,7 @@
     },
     {
       "key": "04-05",
-      "prompt": "剧集制作/第一季/第04集/执行包V1/第05段_第一钩落空/视频提示词.md",
+      "prompt": "剧集制作/第一季/第04集/执行包V1/第05段_把铁销做成钩/视频提示词.md",
       "mode": "A",
       "spokenLines": 0,
       "postInnerLines": 0,
@@ -290,7 +290,16 @@
     },
     {
       "key": "04-06",
-      "prompt": "剧集制作/第一季/第04集/执行包V1/第06段_锈环先断/视频提示词.md",
+      "prompt": "剧集制作/第一季/第04集/执行包V1/第06段_第一钩落空/视频提示词.md",
+      "mode": "A",
+      "spokenLines": 0,
+      "postInnerLines": 0,
+      "subtitleRendering": "same-segment-post",
+      "actualAudioGenerated": false
+    },
+    {
+      "key": "04-07",
+      "prompt": "剧集制作/第一季/第04集/执行包V1/第07段_锈环先断/视频提示词.md",
       "mode": "B",
       "spokenLines": 1,
       "postInnerLines": 0,
@@ -298,8 +307,8 @@
       "actualAudioGenerated": false
     },
     {
-      "key": "04-07",
-      "prompt": "剧集制作/第一季/第04集/执行包V1/第07段_把节拍交给她/视频提示词.md",
+      "key": "04-08",
+      "prompt": "剧集制作/第一季/第04集/执行包V1/第08段_把节拍交给她/视频提示词.md",
       "mode": "B",
       "spokenLines": 2,
       "postInnerLines": 0,
@@ -307,8 +316,8 @@
       "actualAudioGenerated": false
     },
     {
-      "key": "04-08",
-      "prompt": "剧集制作/第一季/第04集/执行包V1/第08段_差半步的落点/视频提示词.md",
+      "key": "04-09",
+      "prompt": "剧集制作/第一季/第04集/执行包V1/第09段_差半步的落点/视频提示词.md",
       "mode": "B",
       "spokenLines": 2,
       "postInnerLines": 0,

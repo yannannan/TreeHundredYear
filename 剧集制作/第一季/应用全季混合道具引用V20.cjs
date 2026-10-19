@@ -2,7 +2,7 @@ const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const dir=__dirname,root=path.resolve(dir,'../..'),hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 function apply(){
  const plan=JSON.parse(fs.readFileSync(path.join(dir,'全季混合道具引用修订计划V20.json'),'utf8')),ledgers=new Map(),prompts=new Map();
- if(plan.entries.length!==88||new Set(plan.entries.map(e=>e.segment)).size!==47)throw Error('V20范围不符');
+ if(plan.entries.length!==plan.rows||new Set(plan.entries.map(e=>e.segment)).size!==plan.segments)throw Error('混合道具当前范围不符');
  for(const e of plan.entries){
   if(!ledgers.has(e.ledger))ledgers.set(e.ledger,JSON.parse(fs.readFileSync(path.join(root,e.ledger),'utf8')));
   const s=ledgers.get(e.ledger).segments.find(s=>e.segment.endsWith('-'+String(s.n).padStart(2,'0'))),refs=s.refs.filter(r=>r.source===e.source&&r.file===e.file);
@@ -22,7 +22,7 @@ function apply(){
  for(const [file,body]of prompts)fs.writeFileSync(path.join(root,file),body);
  for(const [file,value]of ledgers)fs.writeFileSync(path.join(root,file),JSON.stringify(value,null,2)+'\n');
  for(const h of hooks)fs.writeFileSync(h.file,h.body);
- const result={date:'2026-10-19',purposeRowsApplied:88,promptSegments:47,episodeLedgers:7,generatorHooks:7,newImageFiles:0,imageBytesChanged:false,newReferenceCopies:0,actualVideoGenerated:false,actualAudioGenerated:false};
+ const result={date:'2026-10-19',purposeRowsApplied:plan.rows,promptSegments:plan.segments,episodeLedgers:ledgers.size,generatorHooks:hooks.length,newImageFiles:0,imageBytesChanged:false,newReferenceCopies:0,actualVideoGenerated:false,actualAudioGenerated:false};
  fs.writeFileSync(path.join(dir,'全季混合道具引用采用检查V20.json'),JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify(result));
  return result;
 }

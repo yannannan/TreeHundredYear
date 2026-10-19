@@ -36,6 +36,9 @@ const overrides={
 const block=(body,re)=>{const m=body.match(re);if(!m)throw Error('段落缺块 '+re);return m[0];};
 module.exports=function apply(options={}){
 const plan=read('全季普通话声音互斥修订V28.json'),common=fs.readFileSync(path.join(d,'全剧通用提示词.md'),'utf8').match(/```text\s*([\s\S]*?)```/)[1].trim(),counts={A:0,B:0,C:0},rows=[];
+// 音效随当前事件走；历史段号只用于建立原文到静音修订的对照，不能在增段后取错事件。
+const sourceOverrides=new Map();
+for(const e of plan.entries){if(!overrides[e.key])continue;const source=e.sound.content.split(/\r?\n/)[0],value=overrides[e.key];if(sourceOverrides.has(source)&&sourceOverrides.get(source)!==value)throw Error('历史静音修订原文冲突 '+e.key);sourceOverrides.set(source,value);}
 for(let n=1;n<=32;n++){const ep=String(n).padStart(2,'0');if(options.episode&&ep!==String(options.episode).padStart(2,'0'))continue;const v=n===1?'V2':'V1',ledger=read('第'+ep+'集/执行包'+v+'/连续性与参考校核'+v+'.json');
 for(const s of ledger.segments){const key=ep+'-'+String(s.n).padStart(2,'0'),pf=s.prompt||s.promptFile,file=path.join(root,pf);let body=fs.readFileSync(file,'utf8');if(body.includes(plan.oldCommon))body=body.replace(plan.oldCommon,common);else if(!body.includes(common))throw Error('母版缺/版本不明 '+key);
 const lines=s.lines||[],inner=lines.filter(l=>l[6]==='inner'),spoken=lines.filter(l=>l[6]!=='inner'),mode=!lines.length?'A':spoken.length?'B':'C';counts[mode]++;
@@ -46,7 +49,7 @@ else {voice+='Spoken language: Standard Mandarin Chinese (Putonghua, Mainland Ch
 if(inner.length&&mode==='B')voice+='\n【同段后期内心音轨规格：不交给H3生成人声】\n本段H3仍只执行模式B，0—'+spoken[0][2]+'秒没有H3人物语音；以下指定内心句按原时码独立普通话配音并后期混入，同段画面A/B均不为其动嘴。不是启用模式C，不得删句、改字、换为B代读或移动时码。\n'+inner.map(l=>'后期内心者：'+l[0]+'='+l[1]+'；时码：'+l[2]+'—'+l[3]+'秒；逐字原文：「'+l[4]+'」；表演：'+l[5]+'。').join('\n');}
 body=body.replace(block(body,voiceRe),voice.trimEnd());
 const soundRe=/【(?:声音与配乐入点|环境\/动作声\/配乐及入点|环境、动作声与音乐)】[\s\S]*?(?=\n\n【)/,oldSound=block(body,soundRe);
-if(mode==='A'){const orig=plan.entries.find(e=>e.key===key);if(!orig)throw Error('未登记静音段 '+key);const first=overrides[key]||orig.sound.content.split(/\r?\n/)[0];if(/(?<!无)(?:用力闷哼|人声可闻|真实哭气|两人呼吸|急喘|短喘|痛吸|短吸气)/.test(first))throw Error('静音场景仍要求人声 '+key);body=body.replace(oldSound,oldSound.slice(0,oldSound.indexOf('】')+1)+'\n'+first+'\n只保留明确物件/环境音和低音量无歌词无吟唱配乐；接触声须对应实际动作，不伪造钟数。所有人物发声关闭，按模式A执行。');}
+if(mode==='A'){const current=oldSound.slice(oldSound.indexOf('】')+1).trim().split(/\r?\n/)[0],first=sourceOverrides.get(current)||current;if(!first||/(?<!无)(?:用力闷哼|人声可闻|真实哭气|两人呼吸|急喘|短喘|痛吸|短吸气)/.test(first))throw Error('静音场景仍要求人声 '+key);body=body.replace(oldSound,oldSound.slice(0,oldSound.indexOf('】')+1)+'\n'+first+'\n只保留明确物件/环境音和低音量无歌词无吟唱配乐；接触声须对应实际动作，不伪造钟数。所有人物发声关闭，按模式A执行。');}
 const subRe=/【(?:字幕：同一段完整规格|简体中文字幕原文与时码|简体中文字幕)】[\s\S]*?(?=\n\n【)/,oldSub=block(body,subRe),subNote='H3原始画面不自由生成文字；上述已指定对白/旁白字幕与介绍卡/画内文字，按本段原文和时码在同段后期准确合成。不另建字幕文件夹，未实际渲染逐字核对前不称字幕已完成。';
 if(mode==='A')body=body.replace(oldSub,'【'+oldSub.match(/^【([^】]+)】/)[1]+'】\n0—15秒无对白/旁白字幕。H3输出干净画面，不生成字幕或任何文字。已指定的人物介绍卡/纸条等另按原文、时码、版式在同段后期合成，不朗读，不擅自取消原介绍；没有指定文字时全段无文字。');else if(!oldSub.includes(subNote))body=body.replace(oldSub,oldSub+'\n'+subNote);
 fs.writeFileSync(file,body);rows.push({key,prompt:pf,mode,spokenLines:spoken.length,postInnerLines:inner.length,subtitleRendering:'same-segment-post',actualAudioGenerated:false});}}
