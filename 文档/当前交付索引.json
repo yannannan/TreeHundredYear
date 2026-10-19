@@ -70,9 +70,9 @@
       "script": "完整剧本/第一季/第一季·双影浮城（第08集）.md",
       "entry": "剧集制作/第一季/第08集/执行包V1/第八集执行清单V1.md",
       "ledger": "剧集制作/第一季/第08集/执行包V1/连续性与参考校核V1.json",
-      "segments": 8,
-      "seconds": 120,
-      "referenceCopies": 71
+      "segments": 12,
+      "seconds": 180,
+      "referenceCopies": 107
     },
     {
       "episode": "09",
@@ -291,15 +291,15 @@
       "referenceCopies": 247
     }
   ],
-  "segments": 323,
-  "seconds": 4845,
-  "referenceCopies": 4397,
+  "segments": 327,
+  "seconds": 4905,
+  "referenceCopies": 4433,
   "distinctReferencedSources": 199,
   "sceneSourcesReferenced": 149,
   "filmSceneSourcesReferenced": 143,
   "technicalLayoutsReferenced": 6,
-  "deepEventReviewCompletedSegments": 68,
-  "deepEventReviewPendingSegments": 255,
+  "deepEventReviewCompletedSegments": 80,
+  "deepEventReviewPendingSegments": 247,
   "allRequiredShotAssetsComplete": false,
   "independentAudioProductionRequired": false,
   "videoProductionRequired": false,
@@ -566,7 +566,7 @@
       "width": 941,
       "height": 1672,
       "sha256": "db2ff73d662bde68184d7790bb4cf8f42845d66d1567d6a76bafbeb400d52855",
-      "segmentReferences": 27,
+      "segmentReferences": 31,
       "kind": "scene-reference"
     },
     {
@@ -584,7 +584,7 @@
       "width": 941,
       "height": 1672,
       "sha256": "25faa387c5506cdbe9b0f146a8ecd2531d95e8b0036a2ffb98014482bca8867f",
-      "segmentReferences": 29,
+      "segmentReferences": 33,
       "kind": "scene-reference"
     },
     {
@@ -593,7 +593,7 @@
       "width": 3840,
       "height": 2160,
       "sha256": "165b6e2f463bc68c9c10f19220a27f18c6318006578b418e8ad2c705187d61db",
-      "segmentReferences": 27,
+      "segmentReferences": 31,
       "kind": "technical-layout"
     },
     {
@@ -1709,7 +1709,7 @@
       "width": 1536,
       "height": 1024,
       "sha256": "57318cee22d1af9d1ab2c27698ef7ea90153c8ee73e14959957564f91a99b25f",
-      "segmentReferences": 315,
+      "segmentReferences": 319,
       "kind": "prop-reference"
     },
     {
@@ -1718,7 +1718,7 @@
       "width": 1536,
       "height": 1024,
       "sha256": "4489ebb294038c278019a4a6045c6ca1313e61b1e39949b341856c0df9ff6033",
-      "segmentReferences": 314,
+      "segmentReferences": 318,
       "kind": "prop-reference"
     },
     {
@@ -2150,7 +2150,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "3d2d1115f00ed5b4eaa025950de7dc39e8944cd6e11d09a5d784083cdad08bbb",
-      "segmentReferences": 321,
+      "segmentReferences": 325,
       "kind": "character-reference"
     },
     {
@@ -2159,7 +2159,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "e70bf1a5a165cd7c2d2879b2a3a10621668c6cfc12072408726874274f89175c",
-      "segmentReferences": 321,
+      "segmentReferences": 325,
       "kind": "character-reference"
     },
     {
@@ -2393,7 +2393,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "549d6245ea9f592bcf1dd80fd0edd7fc0feb69bcef19da350f33224af512d776",
-      "segmentReferences": 315,
+      "segmentReferences": 319,
       "kind": "character-reference"
     },
     {
@@ -2402,7 +2402,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "23a85ede35929a48b932a28ef9092dc03f55fdc93773b191f3e3b5af1d84f342",
-      "segmentReferences": 315,
+      "segmentReferences": 319,
       "kind": "character-reference"
     },
     {
