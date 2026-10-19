@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "status": "in-progress",
+  "baselineCommit": "a7aa5fc",
+  "jobs": [
+    {
+      "key": "EP03-PEBBLE-PRETHROW-V1",
+      "path": "场景资产/第一季/早期接触/KEY03-01_周辰右指小石投出前V1.png",
+      "targets": [
+        "03-01"
+      ],
+      "phase": "03-01第0—4秒内拈取小石后的投出前状态，不替代0秒空手首帧",
+      "inputs": [
+        "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/早期接触/KEY02-08_周辰右手初抬未施法苏晚左掌示停尾态V1.png"
+      ],
+      "prompt": "Use case identity-preserve. Edit the supplied TreeHundredYear 9:16 rear-threequarter near-bridge still into the PRE-THROW contact state only. Preserve the same adult man A left foreground and adult woman B right rear, original exact faces, blackgold and silverblue costumes/hair/crowns, stable near-side feet, hall/ring/falls/gap/camera axis. A anatomicalRIGHT thumb/index naturally pinch ONE small irregular matte grey pebble, about a fingertip wide, at chest-height in the same previously raised empty right hand; rotate forearm minimally so the pebble and fingers are readable against the hall. This is just after picking an existing loose pebble from the NEAR stone ledge, BEFORE release; do not add an airborne second pebble, force trail, light or energy. A anatomicalLEFT hand still grips the BROWN WOOD SCABBARD below guard, sword FULLY INSIDE, sheath lower end touches near stone; no exposed blade, no back sword, no extra arm. Bronze token remains waist. B anatomicalLEFT open stop palm and RIGHT low hand remain, compact shortknife stays at rightwaist, no wounds yet. Both look along original gap toward opposite ledge, no stepping across or reverse frontal camera. One tiny pebble cannot fill bridge gap. Maintain finely worked slate/graphite stone and restrained bronze; remove no plot fracture, add no widespread decay/rubble or saturated magic. No text, labels, glyph overlays, subtitle/logo/watermark. Static right-finger/pebble handoff reference only, not proof of pickup, throw trajectory, landing sound, distance or later spell.",
+      "actualOutputGenerated": true,
+      "actualPath": "场景资产/第一季/早期接触/KEY03-01_周辰右指小石投出前V1.png",
+      "status": "reviewed-await-adoption"
+    }
+  ],
+  "actualGeneratedOutputs": 1,
+  "actualVideoGenerated": false,
+  "reviewedUsableOriginals": 1
+}

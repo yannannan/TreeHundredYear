@@ -1,0 +1,13 @@
+[
+  {
+    "id": "EP03-PEBBLE-PRETHROW-V1",
+    "path": "场景资产/第一季/早期接触/KEY03-01_周辰右指小石投出前V1.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 3038194,
+    "sha256": "d00c3fef7ff65016c8c1119c65e5efb5c3462e896437fd8cd281f6b98a0098d8",
+    "upscaled": false,
+    "purpose": "采用有限投出前握石静态：原A右拇指/食指夹一枚小灰石，左手持完整带剑鞘/背带空，符仍在腰、B左掌示停/刀归腰，无施法光或飞石；原衣貌与同向近台保持。只锁0—4秒投出前持物，不能代替0秒空手首帧、取石来源、投掷/落点/声音或准确距离，B部分足端受裙遮。",
+    "status": "reviewed-static-await-adoption"
+  }
+]

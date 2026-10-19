@@ -1,0 +1,21 @@
+[
+  {
+    "key": "EP03-PEBBLE-PRETHROW-V1",
+    "path": "场景资产/第一季/早期接触/KEY03-01_周辰右指小石投出前V1.png",
+    "targets": [
+      "03-01"
+    ],
+    "phase": "03-01第0—4秒内拈取小石后的投出前状态，不替代0秒空手首帧",
+    "inputs": [
+      "D:/UniverseStarWorkSpace/TreeHundredYear/场景资产/第一季/早期接触/KEY02-08_周辰右手初抬未施法苏晚左掌示停尾态V1.png"
+    ],
+    "prompt": "Use case identity-preserve. Edit the supplied TreeHundredYear 9:16 rear-threequarter near-bridge still into the PRE-THROW contact state only. Preserve the same adult man A left foreground and adult woman B right rear, original exact faces, blackgold and silverblue costumes/hair/crowns, stable near-side feet, hall/ring/falls/gap/camera axis. A anatomicalRIGHT thumb/index naturally pinch ONE small irregular matte grey pebble, about a fingertip wide, at chest-height in the same previously raised empty right hand; rotate forearm minimally so the pebble and fingers are readable against the hall. This is just after picking an existing loose pebble from the NEAR stone ledge, BEFORE release; do not add an airborne second pebble, force trail, light or energy. A anatomicalLEFT hand still grips the BROWN WOOD SCABBARD below guard, sword FULLY INSIDE, sheath lower end touches near stone; no exposed blade, no back sword, no extra arm. Bronze token remains waist. B anatomicalLEFT open stop palm and RIGHT low hand remain, compact shortknife stays at rightwaist, no wounds yet. Both look along original gap toward opposite ledge, no stepping across or reverse frontal camera. One tiny pebble cannot fill bridge gap. Maintain finely worked slate/graphite stone and restrained bronze; remove no plot fracture, add no widespread decay/rubble or saturated magic. No text, labels, glyph overlays, subtitle/logo/watermark. Static right-finger/pebble handoff reference only, not proof of pickup, throw trajectory, landing sound, distance or later spell.",
+    "sourceCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-dafe93a0-b3b6-43fa-9593-0e03630cd0ef.png",
+    "qa": "采用有限投出前握石静态：原A右拇指/食指夹一枚小灰石，左手持完整带剑鞘/背带空，符仍在腰、B左掌示停/刀归腰，无施法光或飞石；原衣貌与同向近台保持。只锁0—4秒投出前持物，不能代替0秒空手首帧、取石来源、投掷/落点/声音或准确距离，B部分足端受裙遮。",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-dafe93a0-b3b6-43fa-9593-0e03630cd0ef.png",
+    "width": 941,
+    "height": 1672,
+    "sha256": "d00c3fef7ff65016c8c1119c65e5efb5c3462e896437fd8cd281f6b98a0098d8",
+    "actualOutputGenerated": true
+  }
+]
