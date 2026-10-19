@@ -7,6 +7,8 @@ const origins={
  'KEY10-05-REFINED-R2':'场景资产/第一季/沙海追猎/KEY10-05_两片低拱曲边短绳地钉V1.png'
 };
 const maps=batches.flatMap(([sourceCatalog,sourceJobs])=>{const catalog=read(sourceCatalog),jobs=read(sourceJobs);return catalog.map(c=>{const j=jobs.find(j=>j.key===c.id),b=fs.readFileSync(path.join(root,c.path)),origin=j?.origin||origins[c.id];if(!origin||!j?.qa.startsWith('采用')||hash(b)!==c.sha256)throw Error('未核源图 '+c.id);return{origin,...c,review:j.qa,originalSha256:hash(fs.readFileSync(path.join(root,origin))),sourceCatalog,sourceJobs};});});
+// 保留已采用的二次材质修订，重建映射不退回历史R2/R5原图。
+if(fs.existsSync(path.join(dir,'完整材质二次修订采用V23.json')))for(const e of read('完整材质二次修订采用V23.json').entries){if(e.status!=='adopted-static-material')continue;const i=maps.findIndex(m=>m.id===e.currentMap.id);if(i<0||hash(fs.readFileSync(path.join(root,e.currentMap.path)))!==e.currentMap.sha256)throw Error('二次修订源图失效');maps[i]={...maps[i],...e.currentMap};}
 const ledgers=[];for(let n=1;n<=32;n++){const id=String(n).padStart(2,'0'),v=n===1?'V2':'V1',file=path.join(dir,`第${id}集/执行包${v}/连续性与参考校核${v}.json`);ledgers.push({id,file,data:JSON.parse(fs.readFileSync(file,'utf8'))});}
 for(const m of maps){const old=previous.find(p=>p.path===m.path);m.expectedTargets=old?.expectedTargets||ledgers.flatMap(({id,data})=>data.segments.filter(s=>s.refs.some(r=>[m.origin,m.path].includes(r.source||r.path))).map(s=>id+'-'+String(s.n).padStart(2,'0')));if(!m.expectedTargets.length)throw Error('未登记采用范围 '+m.id);}
 fs.writeFileSync(path.join(dir,'精工克制场景采用映射V2.json'),JSON.stringify(maps,null,2)+'\n');

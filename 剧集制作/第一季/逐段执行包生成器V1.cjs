@@ -3,7 +3,7 @@ const dir=__dirname,root=path.resolve(dir,'../..');
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8').replace(/^\uFEFF/,''));
 // 重建保留当前场景的原图与上一版本来源，不只留下最终文件名。
 const materialMaps=read(path.join(dir,'精工克制场景采用映射V2.json')),legacyMaterialMaps=read(path.join(dir,'全场景提质采用映射V1.json'));
-function sourceHistory(r){const current=materialMaps.find(m=>m.path===r.path);if(current){const prior=legacyMaterialMaps.find(m=>m.path===current.origin);return{originalSource:prior?.origin||current.origin,previousSource:current.origin};}const prior=legacyMaterialMaps.find(m=>m.path===r.path);return prior?{originalSource:prior.origin}:{};}
+function sourceHistory(r){const current=materialMaps.find(m=>m.path===r.path);if(current){const prior=legacyMaterialMaps.find(m=>m.path===current.origin);return{originalSource:prior?.origin||current.origin,previousSource:current.previousAdoptedPath||current.origin};}const prior=legacyMaterialMaps.find(m=>m.path===r.path);return prior?{originalSource:prior.origin}:{};}
 module.exports=function generate(ep){
  ep=require('./采用终章接触状态参考V1.cjs')(ep);
  ep=require('./采用回程维护状态参考V1.cjs')(ep);

@@ -1,7 +1,7 @@
 const fs=require('fs'),path=require('path'),crypto=require('crypto');const dir=__dirname,root=path.resolve(dir,'../..');
 const v21=require('./应用首集动作顺序V21.cjs')();
 const materialMaps=JSON.parse(fs.readFileSync(path.join(dir,'精工克制场景采用映射V2.json'),'utf8')),legacyMaterialMaps=JSON.parse(fs.readFileSync(path.join(dir,'全场景提质采用映射V1.json'),'utf8'));
-function sourceHistory(r){const current=materialMaps.find(m=>m.path===r.path);if(current){const prior=legacyMaterialMaps.find(m=>m.path===current.origin);return{originalSource:prior?.origin||current.origin,previousSource:current.origin};}const prior=legacyMaterialMaps.find(m=>m.path===r.path);return prior?{originalSource:prior.origin}:{};}
+function sourceHistory(r){const current=materialMaps.find(m=>m.path===r.path);if(current){const prior=legacyMaterialMaps.find(m=>m.path===current.origin);return{originalSource:prior?.origin||current.origin,previousSource:current.previousAdoptedPath||current.origin};}const prior=legacyMaterialMaps.find(m=>m.path===r.path);return prior?{originalSource:prior.origin}:{};}
 const data=JSON.parse(fs.readFileSync(path.join(dir,'第一集15秒执行数据V2.json'),'utf8').replace(/^\uFEFF/,''));
 const common=fs.readFileSync(path.join(dir,'全剧通用提示词.md'),'utf8').match(/```text\s*([\s\S]*?)```/)[1].trim();
 const catalog=JSON.parse(fs.readFileSync(path.join(dir,'第一集真实参考来源V2.json'),'utf8').replace(/^\uFEFF/,''));
@@ -38,4 +38,4 @@ const entry={n:d.n,name:d.name,seconds:15,sceneId:d.sceneId,role:d.role,start:d.
 ledger.push(entry);index+=`| ${num} | ${(d.n-1)*15}—${d.n*15}秒 | ${d.name} | [完整提示词](第${num}段_${d.name}/视频提示词.md) |\n`;
 }
 index+='\n## 正确使用与边界\n\n每次只取一个段文件夹：上传其实际参考、复制该段全部代码块、生成15秒、按尾帧和台词检查；同场下段保持同场景与角色来源。工具不能读取本地路径文字来自动取图。文字闭环与真实参考降低歧义，不保证零漂移；本轮没有视频/录音产物。所有修改依本目录10段V2，不混用旧8段V1。\n';
-fs.writeFileSync(path.join(ep,'第一集执行清单V2.md'),index);fs.writeFileSync(path.join(ep,'连续性与参考校核V2.json'),JSON.stringify({seconds:150,segments:ledger,actualVideoGenerated:false},null,2));console.log(JSON.stringify({segments:ledger.length,seconds:150,copiedRefs:ledger.reduce((n,x)=>n+x.refs.length,0)}));
+fs.writeFileSync(path.join(ep,'第一集执行清单V2.md'),index);fs.writeFileSync(path.join(ep,'连续性与参考校核V2.json'),JSON.stringify({seconds:150,segments:ledger,actualVideoGenerated:false},null,2)+'\n');console.log(JSON.stringify({segments:ledger.length,seconds:150,copiedRefs:ledger.reduce((n,x)=>n+x.refs.length,0)}));

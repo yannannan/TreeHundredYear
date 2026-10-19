@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-19",
+  "newNativeOriginals": 2,
+  "adoptedReplacements": 2,
+  "sceneReferencePlacements": 38,
+  "totalReferenceCopies": 4290,
+  "formalCharacterCostumeMastersEdited": 0,
+  "oldSourceOriginalsDeleted": 0,
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "placements": [
+    {
+      "segment": "01-07",
+      "id": "SC-TOWER-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png",
+      "file": "SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png"
+    },
+    {
+      "segment": "02-03",
+      "id": "SC-TOWER-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png",
+      "file": "SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png"
+    },
+    {
+      "segment": "02-04",
+      "id": "SC-TOWER-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png",
+      "file": "SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png"
+    },
+    {
+      "segment": "02-05",
+      "id": "SC-TOWER-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png",
+      "file": "SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png"
+    },
+    {
+      "segment": "02-06",
+      "id": "SC-TOWER-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png",
+      "file": "SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png"
+    },
+    {
+      "segment": "02-07",
+      "id": "SC-TOWER-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png",
+      "file": "SC-TOWER01_星渊塔外观主视觉V1_完整材质R3.png"
+    },
+    {
+      "segment": "21-11",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-01",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-02",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-03",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-04",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-05",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-06",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-07",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-08",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-09",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-10",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "22-11",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "23-01",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "23-02",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "23-03",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "23-04",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "23-05",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "23-06",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "23-07",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "23-08",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "23-09",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "23-10",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "24-01",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "24-02",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "24-03",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "24-04",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "24-05",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "24-06",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "24-07",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "24-08",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "24-09",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    },
+    {
+      "segment": "24-10",
+      "id": "SC-L07-MATERIAL-V19",
+      "source": "场景资产/第一季/九层星渊塔/SC-L07_天机命盘_完整材质R6.png",
+      "file": "SC-L07_天机命盘_完整材质R6.png"
+    }
+  ]
+}

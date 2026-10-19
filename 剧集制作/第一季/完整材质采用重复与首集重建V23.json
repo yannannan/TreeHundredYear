@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-19",
+  "commands": [
+    {
+      "command": "node 剧集制作/第一季/生成第一集闭环提示词V2.cjs",
+      "exitCode": 0
+    },
+    {
+      "command": "node 剧集制作/第一季/采用完整材质二次修订V23.cjs",
+      "exitCode": 0
+    },
+    {
+      "command": "node 剧集制作/第一季/采用精工克制场景V2.cjs",
+      "exitCode": 0
+    }
+  ],
+  "initialByteCheck": {
+    "changedFiles": 1,
+    "detail": "首集生成器省略末尾换行，统一采用器写入末尾换行；JSON数据字段和图片/提示词未变，现已统一生成器输出末尾换行。"
+  },
+  "actualRebuiltEpisode": "01",
+  "segments": 10,
+  "seconds": 150,
+  "referenceCopies": 53,
+  "comparedFiles": 701,
+  "changedFiles": [],
+  "byteStable": true,
+  "scope": "实际首集重建、重复采用与全局场景映射重建保留当前两图；第七层未整集实跑，只验证8输入解析路径",
+  "actualVideoGenerated": false
+}
