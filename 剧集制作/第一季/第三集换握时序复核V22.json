@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-19",
+  "baselineCommit": "87fa7f15e5dc210215469d9921c57b262382135a",
+  "checkedSegments": 313,
+  "referenceCopies": 4290,
+  "changedSegments": 2,
+  "changedTimelineRows": 3,
+  "dialogueFirstLastTimingReferencesAndAllOtherPromptTextUnchanged": true,
+  "actualThirdEpisodeRebuilt": {
+    "segments": 8,
+    "seconds": 120,
+    "referenceCopies": 72
+  },
+  "newImagesGenerated": 0,
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "errors": []
+}
