@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "status": "in-progress",
+  "status": "adopted-static-current-batch",
   "baselineCommit": "a7aa5fc",
   "jobs": [
     {
@@ -16,7 +16,8 @@
       "prompt": "Use case identity-preserve. Edit the supplied TreeHundredYear 9:16 rear-threequarter near-bridge still into the PRE-THROW contact state only. Preserve the same adult man A left foreground and adult woman B right rear, original exact faces, blackgold and silverblue costumes/hair/crowns, stable near-side feet, hall/ring/falls/gap/camera axis. A anatomicalRIGHT thumb/index naturally pinch ONE small irregular matte grey pebble, about a fingertip wide, at chest-height in the same previously raised empty right hand; rotate forearm minimally so the pebble and fingers are readable against the hall. This is just after picking an existing loose pebble from the NEAR stone ledge, BEFORE release; do not add an airborne second pebble, force trail, light or energy. A anatomicalLEFT hand still grips the BROWN WOOD SCABBARD below guard, sword FULLY INSIDE, sheath lower end touches near stone; no exposed blade, no back sword, no extra arm. Bronze token remains waist. B anatomicalLEFT open stop palm and RIGHT low hand remain, compact shortknife stays at rightwaist, no wounds yet. Both look along original gap toward opposite ledge, no stepping across or reverse frontal camera. One tiny pebble cannot fill bridge gap. Maintain finely worked slate/graphite stone and restrained bronze; remove no plot fracture, add no widespread decay/rubble or saturated magic. No text, labels, glyph overlays, subtitle/logo/watermark. Static right-finger/pebble handoff reference only, not proof of pickup, throw trajectory, landing sound, distance or later spell.",
       "actualOutputGenerated": true,
       "actualPath": "场景资产/第一季/早期接触/KEY03-01_周辰右指小石投出前V1.png",
-      "status": "reviewed-await-adoption"
+      "status": "adopted-static",
+      "adopted": true
     },
     {
       "key": "EP03-LIFT-BRICK-V1",
@@ -32,7 +33,8 @@
       "sourceCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-a928b3de-bd9e-4a66-a576-92185f971c47.png",
       "qa": "采用有限低托砖静态：A右手空指向近缺口一块灰砖，砖与原近台之间小幅离地、不是补成桥；左手仍握完整鞘、背无第二武器，B左示停/刀归腰、衣摆仍下垂，无早期肩踝伤。仅取右手/单砖与近台关系；法力痕很弱不可据图定强度，砖源/准确高度与三维位置、升降轨迹/受力及四齿动作仍待试片。",
       "actualOutputGenerated": true,
-      "status": "reviewed-await-adoption"
+      "status": "adopted-static",
+      "adopted": true
     },
     {
       "key": "EP03-FOUR-DOGS-OPEN-V1",
@@ -47,7 +49,8 @@
       "prompt": "Use case world-detail reference. ONE 9:16 cinematic LIVE-ACTION 50mm mechanical closeup of the existing ancient bronze-ring drive groove of this TreeHundredYear hall. Supplied image sets graphite/dark bronze material and hall/ring/vertical waterfalls, not camera crop. Show a plausible uncovered local drive contact in fixed near-side support housing, not a new freestanding control panel or second giant ring. RIGHT half is a narrow portion of SAME curved heavy graphite-metal ring rim running vertically through the frame, with EXACTLY FOUR recessed mating notches along its left edge. LEFT half is one compact fixed bronze support yoke bolted into intact near-platform stone, with EXACTLY FOUR thick blunt rectangular mechanical locking dogs arranged VERTICALLY, one opposite each notch. Each dog is ONE rigid slider with a visible guide seat; NO extra fifth dog, no gearwheel full of teeth, no saw or spikes. This is BEFORE engagement: ALL FOUR blunt dog tips STOP short of their matching recesses with a clear small dark AIR GAP; no dog entered yet. Recess count and tip count both exactly FOUR, correspondence clearly readable in mid/deep focus; notches are square contact pockets, not glowing symbols. Subtle real machining/wear tracks in groove, crisp intact edges, restrained seam patina, finely worked heavy stone and bronze, no blanket corrosion/rubble or ornate gold-plated palace. Far background softly recognizable existing blue-grey hall/ring/waterfalls/old warm lamps; no redesign of large architecture. No people/hands/cloth/weapon, no token or extra prop, no magic beam/glowing control, sparks/smoke/debris or gravity cue. Original gravity still down, camera upright. No text/labels/numbers/arrows/subtitles/logo/watermark. Functional static DETAIL design ONLY: not proof of exact world-scale camera location, four audible sequential clicks, moving load or gravity rotation.",
       "actualOutputGenerated": true,
       "actualPath": "场景资产/第一季/早期接触/KEY03-01_青铜环四齿未咬合近景V2.png",
-      "status": "reviewed-await-adoption"
+      "status": "adopted-static",
+      "adopted": true
     },
     {
       "key": "EP03-FOUR-DOGS-CLOSED-V1",
@@ -63,10 +66,13 @@
       "sourceCache": "C:/Users/Administrator/.codex/generated_images/01a13342-be9b-76d3-98f3-ecb9288dd49f/exec-30252e5a-cb5d-4557-a40e-53a67a735d68.png",
       "qa": "采用有限四齿全入槽局部：同一机座/四滑齿/四槽与精工材质延续，四齿端进入对应槽口、开态白色间隙已收合；无第五齿、无新光效或重力提示。仅作四声之后最终局部接触目标，不证明四次依次滑动、真实三维净空/载荷、环体传动或重力转向。",
       "actualOutputGenerated": true,
-      "status": "reviewed-await-adoption"
+      "status": "adopted-static",
+      "adopted": true
     }
   ],
   "actualGeneratedOutputs": 5,
   "actualVideoGenerated": false,
-  "reviewedUsableOriginals": 4
+  "reviewedUsableOriginals": 4,
+  "adoptedOriginals": 4,
+  "remaining": "实际取石/投掷/落声、托砖轨迹/同机位空间和四齿依次运动/下一段重力仍待验收"
 }

@@ -4,13 +4,13 @@
   "textSegments": 313,
   "establishingDomains": 10,
   "refinedExistingOriginals": 94,
-  "newContactOriginals": 34,
-  "newSceneOriginals": 128,
+  "newContactOriginals": 38,
+  "newSceneOriginals": 132,
   "reviewedUnchangedOriginals": 6,
-  "reviewedFilmReferences": 134,
-  "newReferencePlacements": 803,
-  "currentSceneOriginals": 140,
-  "currentFilmReferences": 134,
+  "reviewedFilmReferences": 138,
+  "newReferencePlacements": 807,
+  "currentSceneOriginals": 144,
+  "currentFilmReferences": 138,
   "technicalLayouts": 6,
   "currentFilmReferenceArtReviewCompleted": true,
   "additionalShotReferencesComplete": false,
@@ -1913,6 +1913,38 @@
       "status": "已完成精工克制静态视检",
       "targets": [
         "02-08"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY03-01_青铜环四齿全入槽近景V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "03-01"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY03-01_青铜环四齿未咬合近景V2.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "03-01"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY03-01_右指短促托起近缺口松砖V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "03-01"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY03-01_周辰右指小石投出前V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "03-01"
       ]
     },
     {
