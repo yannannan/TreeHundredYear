@@ -47,3 +47,6 @@ if(fs.existsSync(path.join(dir,'第二集双人开门静态采用V16.json')))req
 if(fs.existsSync(path.join(dir,'第二集同向过门静态采用V17.json')))require('./采用第二集同向过门V17.cjs');
 
 if(fs.existsSync(path.join(dir,'第二集桥口线索静态采用V18.json')))require('./采用第二集桥口线索V18.cjs');
+
+// 既有混合道具图只取当前剧情允许的部分，后置于原图采用钩子。
+require('./应用全季混合道具引用V20.cjs')();

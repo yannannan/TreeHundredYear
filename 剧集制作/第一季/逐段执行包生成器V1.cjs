@@ -1,6 +1,9 @@
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const dir=__dirname,root=path.resolve(dir,'../..');
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8').replace(/^\uFEFF/,''));
+// 重建保留当前场景的原图与上一版本来源，不只留下最终文件名。
+const materialMaps=read(path.join(dir,'精工克制场景采用映射V2.json')),legacyMaterialMaps=read(path.join(dir,'全场景提质采用映射V1.json'));
+function sourceHistory(r){const current=materialMaps.find(m=>m.path===r.path);if(current){const prior=legacyMaterialMaps.find(m=>m.path===current.origin);return{originalSource:prior?.origin||current.origin,previousSource:current.origin};}const prior=legacyMaterialMaps.find(m=>m.path===r.path);return prior?{originalSource:prior.origin}:{};}
 module.exports=function generate(ep){
  ep=require('./采用终章接触状态参考V1.cjs')(ep);
  ep=require('./采用回程维护状态参考V1.cjs')(ep);
@@ -22,7 +25,7 @@ module.exports=function generate(ep){
   if(!Array.isArray(d.t)||!d.t.length)throw Error(ep.id+'-'+n+'缺动作时轴');
   if(d.start!==lastEnd&&!d.sceneCut)errors.push(n+'首尾不等且未声明换场');
   const refs=[...fixed,...d.refs.map(r=>typeof r==='string'?get(r):r)].map(r=>{if(!r||+ep.id<14)return r;if(r.path===get('PROP03').path)return {...r,purpose:'只取旧铁剑刃/柄实体形。古符第3集已失、硬木剑鞘第13集毁弃，禁止把图中古符/完整鞘带回当下；当前旧剑用原软布束，伤损按本段状态'};if(r.path===get('PROP02').path)return {...r,purpose:'只取修物短刃/刀套形；塔外探路长绳和沙囊第2集已失，图中整套绳包不重生。腰侧剩短检修绳按当前首尾状态，不凭此图加新绳'};return r;}).map(require('./解析当前场景参考V1.cjs'));if(refs.some(r=>!r))throw Error(ep.id+'未知参考');
-  const copies=[...new Map(refs.map(r=>[r.path,r])).values()].map(r=>{const bytes=fs.readFileSync(path.join(root,r.path)),file=path.basename(r.path),sha256=crypto.createHash('sha256').update(bytes).digest('hex');fs.writeFileSync(path.join(folder,file),bytes);return {file,source:r.path,purpose:r.purpose||r.id,sha256};});
+  const copies=[...new Map(refs.map(r=>[r.path,r])).values()].map(r=>{const bytes=fs.readFileSync(path.join(root,r.path)),file=path.basename(r.path),sha256=crypto.createHash('sha256').update(bytes).digest('hex');fs.writeFileSync(path.join(folder,file),bytes);return {file,source:r.path,purpose:r.purpose||r.id,sha256,...sourceHistory(r)};});
   const lines=d.lines||[];
   const talk=lines.length?lines.map(l=>`${l[2]}—${l[3]}秒，${l[0]}=${l[1]}：“${l[4]}”；${l[5]}。${l[6]==='inner'?'此句是指定内心音轨，A/B都不为此句动嘴，不在同一句中突然改有声口型':(/仅门内/.test(l[5])||l[6]==='offscreen')?'此声来自已标明的画外/隔墙或回放方向，画中可见人物不替它动嘴；不新增配音者肉身':'该时段只有此人开口，听者自然反应，不跟读、不换声'}。`).join('\n'):'0—15秒没有对白或旁白，不生成空口型，喘息/用力闷哼不变成新增句子。';
   const subtitles=lines.length?lines.map(l=>`${l[2]}—${l[3]}秒：${l[4]}`).join('\n'):'0—15秒无对白/旁白字幕；指定人物出场介绍卡不受此限制。';

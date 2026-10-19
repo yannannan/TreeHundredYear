@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-19",
+  "baselineCommit": "c72e8b3c10e182093ae5f06d161ce80244c898ff",
+  "checkedSegments": 313,
+  "referenceCopies": 4290,
+  "updatedSegments": 47,
+  "checkedPurposeRows": 88,
+  "defaultKnifePoseRowsRemaining": 0,
+  "unrestrictedLostTokenRowsRemaining": 0,
+  "narrativeDialogueFirstLastTimingAndOtherLedgerFieldsUnchanged": true,
+  "changedPromptsOnlyAlterReferencePurposesAndFourthEpisodeGenericKnifeDescription": true,
+  "fourthEpisodeNormalizedScenePurposeRows": 16,
+  "fourthEpisodeGenericKnifeDescriptionSyncSegments": 8,
+  "checkedSourceAndCopyFiles": 90,
+  "imageFilesChanged": 0,
+  "actualVideoGenerated": false,
+  "actualAudioGenerated": false,
+  "limitations": "只核查指定混合图用途冲突和文件一致性，不证明全部画面、动作、持物或成片已验收。",
+  "errors": []
+}

@@ -37,3 +37,6 @@ const indexFile=path.join(out,'第三集执行清单V1.md');fs.writeFileSync(ind
 const result={date:'2026-10-18',seconds:120,segments:records,errors,warnings,actualVideoGenerated:false};fs.writeFileSync(path.join(out,'连续性与参考校核V1.json'),JSON.stringify(result,null,2));console.log(JSON.stringify({segments:8,seconds:120,copiedRefs:records.reduce((n,r)=>n+r.refs.length,0),errors,warnings}));if(errors.length)process.exit(1);
 
 if(fs.existsSync(path.join(dir,'第二集桥口线索静态采用V18.json')))require('./采用第二集桥口线索V18.cjs');
+
+// 既有混合道具图只取当前剧情允许的部分，后置于原图采用钩子。
+require('./应用全季混合道具引用V20.cjs')();
