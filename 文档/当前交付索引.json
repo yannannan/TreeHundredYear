@@ -79,9 +79,9 @@
       "script": "完整剧本/第一季/第一季·星蚀沙海（第09集）.md",
       "entry": "剧集制作/第一季/第09集/执行包V1/第九集执行清单V1.md",
       "ledger": "剧集制作/第一季/第09集/执行包V1/连续性与参考校核V1.json",
-      "segments": 8,
-      "seconds": 120,
-      "referenceCopies": 101
+      "segments": 10,
+      "seconds": 150,
+      "referenceCopies": 129
     },
     {
       "episode": "10",
@@ -291,15 +291,15 @@
       "referenceCopies": 247
     }
   ],
-  "segments": 327,
-  "seconds": 4905,
-  "referenceCopies": 4433,
-  "distinctReferencedSources": 199,
-  "sceneSourcesReferenced": 149,
-  "filmSceneSourcesReferenced": 143,
+  "segments": 329,
+  "seconds": 4935,
+  "referenceCopies": 4461,
+  "distinctReferencedSources": 201,
+  "sceneSourcesReferenced": 150,
+  "filmSceneSourcesReferenced": 144,
   "technicalLayoutsReferenced": 6,
-  "deepEventReviewCompletedSegments": 80,
-  "deepEventReviewPendingSegments": 247,
+  "deepEventReviewCompletedSegments": 90,
+  "deepEventReviewPendingSegments": 239,
   "allRequiredShotAssetsComplete": false,
   "independentAudioProductionRequired": false,
   "videoProductionRequired": false,
@@ -611,7 +611,7 @@
       "width": 941,
       "height": 1672,
       "sha256": "83fa1f834241fb38f5241aa46cbebf89e624dbc5580164cd9957555286be1251",
-      "segmentReferences": 18,
+      "segmentReferences": 20,
       "kind": "scene-reference"
     },
     {
@@ -620,7 +620,7 @@
       "width": 941,
       "height": 1672,
       "sha256": "eb5b8683f73dafd70502c845f9087c751b6d81be405b91869880aad4ed055429",
-      "segmentReferences": 19,
+      "segmentReferences": 21,
       "kind": "scene-reference"
     },
     {
@@ -629,7 +629,7 @@
       "width": 3840,
       "height": 2160,
       "sha256": "090a42865f951d59e6489397b077cd590d3e592943a2f66d430fa6426180a2f4",
-      "segmentReferences": 8,
+      "segmentReferences": 10,
       "kind": "technical-layout"
     },
     {
@@ -972,6 +972,15 @@
       "height": 1672,
       "sha256": "6cc89b37d47f3217a64c0365be2479cb0ac6e28cf2d3fc513a40dd9da2deb034",
       "segmentReferences": 6,
+      "kind": "scene-reference"
+    },
+    {
+      "path": "场景资产/第一季/沙海追猎/KEY09_三人斜板遮挡_剑未出鞘.png",
+      "bytes": 2561645,
+      "width": 941,
+      "height": 1672,
+      "sha256": "c18e2b86d6d971719accea5f8046b510e78d08a8b96464776c22dd8e4b7ff510",
+      "segmentReferences": 1,
       "kind": "scene-reference"
     },
     {
@@ -1700,7 +1709,7 @@
       "width": 941,
       "height": 1672,
       "sha256": "f18004ec8dc86f28a12de74b5a9778e9d64c12f48935b64e88280386771c81ed",
-      "segmentReferences": 17,
+      "segmentReferences": 19,
       "kind": "prop-reference"
     },
     {
@@ -1709,7 +1718,7 @@
       "width": 1536,
       "height": 1024,
       "sha256": "57318cee22d1af9d1ab2c27698ef7ea90153c8ee73e14959957564f91a99b25f",
-      "segmentReferences": 319,
+      "segmentReferences": 321,
       "kind": "prop-reference"
     },
     {
@@ -1718,7 +1727,7 @@
       "width": 1536,
       "height": 1024,
       "sha256": "4489ebb294038c278019a4a6045c6ca1313e61b1e39949b341856c0df9ff6033",
-      "segmentReferences": 318,
+      "segmentReferences": 320,
       "kind": "prop-reference"
     },
     {
@@ -1736,7 +1745,16 @@
       "width": 1536,
       "height": 1024,
       "sha256": "dc6e3e9a75f78d941bf8afcf09dde0db30e7c57a9cd125e382417ade0d28f060",
-      "segmentReferences": 22,
+      "segmentReferences": 24,
+      "kind": "prop-reference"
+    },
+    {
+      "path": "道具资产/第一季/PROP04_左膜开右导航关_三格余量.png",
+      "bytes": 2516830,
+      "width": 941,
+      "height": 1672,
+      "sha256": "14d79d5f817ce0658dffa7d3cb9785eecf602fda8f03f070a482a08e7576bde7",
+      "segmentReferences": 1,
       "kind": "prop-reference"
     },
     {
@@ -1925,7 +1943,7 @@
       "width": 941,
       "height": 1672,
       "sha256": "689311a04d6f9d187fa87d25ded8871a1eecf402e8c29273731e40bd4dac14d0",
-      "segmentReferences": 32,
+      "segmentReferences": 34,
       "kind": "character-reference"
     },
     {
@@ -2150,7 +2168,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "3d2d1115f00ed5b4eaa025950de7dc39e8944cd6e11d09a5d784083cdad08bbb",
-      "segmentReferences": 325,
+      "segmentReferences": 327,
       "kind": "character-reference"
     },
     {
@@ -2159,7 +2177,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "e70bf1a5a165cd7c2d2879b2a3a10621668c6cfc12072408726874274f89175c",
-      "segmentReferences": 325,
+      "segmentReferences": 327,
       "kind": "character-reference"
     },
     {
@@ -2213,7 +2231,7 @@
       "width": 1536,
       "height": 1024,
       "sha256": "9a89d463d3a0b31ba897bc7845acbd41c587c00bfedd596061cc9d4b2cb00a23",
-      "segmentReferences": 11,
+      "segmentReferences": 13,
       "kind": "character-reference"
     },
     {
@@ -2393,7 +2411,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "549d6245ea9f592bcf1dd80fd0edd7fc0feb69bcef19da350f33224af512d776",
-      "segmentReferences": 319,
+      "segmentReferences": 321,
       "kind": "character-reference"
     },
     {
@@ -2402,7 +2420,7 @@
       "width": 1024,
       "height": 1536,
       "sha256": "23a85ede35929a48b932a28ef9092dc03f55fdc93773b191f3e3b5af1d84f342",
-      "segmentReferences": 319,
+      "segmentReferences": 321,
       "kind": "character-reference"
     },
     {

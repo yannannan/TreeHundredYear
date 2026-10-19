@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-19",
+  "episode": "09",
+  "segments": 10,
+  "seconds": 150,
+  "allOriginalDialogueAndTimecodesPreserved": true,
+  "crossEpisodeStatesPreserved": true,
+  "sceneStagesSeparate": [
+    "01三人斜板定位及取带剑鞘",
+    "02同兽跃砂落回",
+    "03抽剑偏挡与肩撞肋"
+  ],
+  "referenceCopies": 129,
+  "newImages": [
+    {
+      "file": "KEY09_三人斜板遮挡_剑未出鞘.png",
+      "native": [
+        941,
+        1672
+      ],
+      "scope": "09-01约6—10秒，原剑仍背挂"
+    },
+    {
+      "file": "PROP04_左膜开右导航关_三格余量.png",
+      "native": [
+        941,
+        1672
+      ],
+      "scope": "09-07的5—15秒左开右关三格附近，仅物件状态"
+    }
+  ],
+  "retiredImagesKeptInProject": false,
+  "independentAudioGenerated": false,
+  "errors": []
+}
