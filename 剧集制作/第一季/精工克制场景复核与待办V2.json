@@ -4,13 +4,13 @@
   "textSegments": 313,
   "establishingDomains": 10,
   "refinedExistingOriginals": 94,
-  "newContactOriginals": 23,
-  "newSceneOriginals": 117,
+  "newContactOriginals": 27,
+  "newSceneOriginals": 121,
   "reviewedUnchangedOriginals": 6,
-  "reviewedFilmReferences": 123,
-  "newReferencePlacements": 790,
-  "currentSceneOriginals": 129,
-  "currentFilmReferences": 123,
+  "reviewedFilmReferences": 127,
+  "newReferencePlacements": 795,
+  "currentSceneOriginals": 133,
+  "currentFilmReferences": 127,
   "technicalLayouts": 6,
   "currentFilmReferenceArtReviewCompleted": true,
   "additionalShotReferencesComplete": false,
@@ -1821,6 +1821,39 @@
       "status": "已完成精工克制静态视检",
       "targets": [
         "02-06"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-07_古符归腰布结入襟双手空门外V2.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-07"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-07_双人已入门裙摆清除门初合尾态V1.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-07",
+        "02-08"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-07_苏晚左足先越槛周辰仍门外背侧V3.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-07"
+      ]
+    },
+    {
+      "source": "场景资产/第一季/早期接触/KEY02-07_周辰右靴随后越槛苏晚已在内侧V2.png",
+      "role": "film-reference",
+      "status": "已完成精工克制静态视检",
+      "targets": [
+        "02-07"
       ]
     },
     {
