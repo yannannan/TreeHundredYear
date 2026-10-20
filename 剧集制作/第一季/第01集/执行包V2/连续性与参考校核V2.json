@@ -559,5 +559,65 @@
       "promptFile": "剧集制作/第一季/第01集/执行包V2/第10段_石桩正在断裂/视频提示词.md"
     }
   ],
-  "actualVideoGenerated": false
+  "actualVideoGenerated": false,
+  "deliveryScope": {
+    "script": true,
+    "tenStandaloneVideoPrompts": true,
+    "characterScenePropReferenceImages": true,
+    "actualVideoGeneration": false,
+    "standaloneAudioGeneration": false
+  },
+  "v34Audit": {
+    "version": "V34",
+    "checkedAt": "2026-10-20",
+    "segments": 10,
+    "totalSeconds": 150,
+    "sceneOrder": [
+      "SC-OUT01",
+      "SC-OUT02",
+      "SC-OUT03",
+      "SC-OUT04"
+    ],
+    "spokenSegments": [
+      3,
+      5,
+      6
+    ],
+    "silentSegments": [
+      1,
+      2,
+      4,
+      7,
+      8,
+      9,
+      10
+    ],
+    "allTenPromptsV34": true,
+    "referenceImagePixelReviewComplete": false,
+    "missingDedicatedFrames": [
+      {
+        "id": "KF01",
+        "segment": 1,
+        "status": "specification_only"
+      },
+      {
+        "id": "KF03",
+        "segment": 3,
+        "status": "specification_only"
+      },
+      {
+        "id": "KF07",
+        "segment": 7,
+        "status": "specification_only"
+      }
+    ],
+    "continuityLocks": [
+      "老人仅一只复原碗，茶水仍留地",
+      "苏晚短刃先归刀再拾楔，救人后才有脚印",
+      "银纹布结只在第05段收入衣襟",
+      "周辰第06段伤口缓愈仍疼，第07段塔形制固定R3",
+      "苏晚第08段试载，第09段下移，第10段才实裂",
+      "第10段周辰未出现，石桩未完全毁坏"
+    ]
+  }
 }
