@@ -9,7 +9,7 @@
       "ledger": "剧集制作/第一季/第01集/执行包V2/连续性与参考校核V2.json",
       "segments": 10,
       "seconds": 150,
-      "referenceCopies": 53
+      "referenceCopies": 56
     },
     {
       "episode": "02",
@@ -293,7 +293,7 @@
   ],
   "segments": 336,
   "seconds": 5040,
-  "referenceCopies": 4544,
+  "referenceCopies": 4547,
   "distinctReferencedSources": 205,
   "sceneSourcesReferenced": 152,
   "filmSceneSourcesReferenced": 146,
