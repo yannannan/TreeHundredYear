@@ -8,6 +8,13 @@ if (Test-Path -LiteralPath $Temp) { Remove-Item -LiteralPath $Temp -Recurse -For
 New-Item -ItemType Directory -Path $Temp -Force | Out-Null
 Expand-Archive -LiteralPath $Zip -DestinationPath $Temp -Force
 
+# 兼容资产包中TA-01轻量参考图的内部文件名，统一成本集提示词使用的正式引用名
+$Ta01Packed = Join-Path $Temp "TA-01_九层星渊塔_首次亮相_正式参考_H3.jpg"
+$Ta01Canonical = Join-Path $Temp "TA-01_九层星渊塔_首次亮相_正式参考.jpg"
+if ((Test-Path -LiteralPath $Ta01Packed) -and !(Test-Path -LiteralPath $Ta01Canonical)) {
+    Copy-Item -LiteralPath $Ta01Packed -Destination $Ta01Canonical -Force
+}
+
 $Map = [ordered]@{
 "01_整塔首次亮相" = @("TA-01_九层星渊塔_首次亮相_正式参考.jpg")
 "01A_九重生死关" = @("TA-01_九层星渊塔_首次亮相_正式参考.jpg","TA-02_塔顶星环近景.jpg")
