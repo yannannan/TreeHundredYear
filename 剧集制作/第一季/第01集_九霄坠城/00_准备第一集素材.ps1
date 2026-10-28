@@ -1,5 +1,46 @@
 $ErrorActionPreference = "Stop"
 $Root = Split-Path -Parent $MyInvocation.MyCommand.Path
+# 优先使用用户下载的完整版35段参考图片包，若找不到则回落到仓库内置轻量代理图片。
+# 本包用到的JPG属于构图参考，不能当作原生4K或真正PBR通道。
+$PremiumName = "TreeHundredYear-EP01-H3-参考图片按段归位包-V1.0.zip"
+$PremiumZip = Join-Path $Root $PremiumName
+if (!(Test-Path -LiteralPath $PremiumZip)) {
+    $DownloadZip = Join-Path (Join-Path $HOME "Downloads") $PremiumName
+    if (Test-Path -LiteralPath $DownloadZip) { $PremiumZip = $DownloadZip }
+}
+if (Test-Path -LiteralPath $PremiumZip) {
+    $TempPremium = Join-Path $env:TEMP "TreeHundredYear_EP01_FullRefs"
+    if (Test-Path -LiteralPath $TempPremium) { Remove-Item -LiteralPath $TempPremium -Recurse -Force }
+    New-Item -ItemType Directory -Force -Path $TempPremium | Out-Null
+    Expand-Archive -LiteralPath $PremiumZip -DestinationPath $TempPremium -Force
+    $SrcRoot = Get-ChildItem -LiteralPath $TempPremium -Directory -Filter "参考图_自动归位素材" -Recurse | Select-Object -First 1
+    if (!$SrcRoot) { throw "完整参考包内找不到'参考图_自动归位素材'目录" }
+    $ShotDirs = @(Get-ChildItem -LiteralPath $SrcRoot.FullName -Directory)
+    if ($ShotDirs.Count -ne 35) { throw "完整参考包应包含35个分段素材目录，实际为$($ShotDirs.Count)" }
+    # 先全部校验，避免复制一半才发现缺文件。
+    foreach ($Shot in $ShotDirs) {
+        $Dest = Join-Path $Root $Shot.Name
+        if (!(Test-Path -LiteralPath (Join-Path $Dest "提示词.txt"))) { throw "分段提示词缺失: $($Shot.Name)" }
+        $Refs = @(Get-ChildItem -LiteralPath $Shot.FullName -File -Filter "*.jpg")
+        if ($Refs.Count -eq 0) { throw "场景图片缺失: $($Shot.Name)" }
+    }
+    $Copied = 0
+    foreach ($Shot in $ShotDirs) {
+        $Dest = Join-Path $Root $Shot.Name
+        Get-ChildItem -LiteralPath $Dest -File -Filter "场景参考_*.jpg" -ErrorAction SilentlyContinue | Remove-Item -Force
+        foreach ($Asset in @(Get-ChildItem -LiteralPath $Shot.FullName -File -Filter "*.jpg")) {
+            $Target = Join-Path $Dest ("场景参考_" + $Asset.Name)
+            Copy-Item -LiteralPath $Asset.FullName -Destination $Target -Force
+            $Copied++
+        }
+    }
+    if ($Copied -ne 58) { throw "完整参考包期望归位58份场景引用，实际为$Copied" }
+    Write-Host "第01集参考素材包归位成功：35段，58份JPG引用"
+    Write-Host "提示词及人物PNG来自已克隆仓库。开始H3生成前请参看80子片段时长表。"
+    Write-Host "重要：本批JPG仍然不是原生4K、16bit PBR贴图或8K EXR HDRI。"
+    return
+}
+
 $Zip = Join-Path $Root "00_参考资产包_H3.zip"
 $Temp = Join-Path $env:TEMP "TreeHundredYear_EP01_H3_REFS"
 
